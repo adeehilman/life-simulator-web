@@ -1,0 +1,230 @@
+[init] binary 93898144 bytes; 236419 methods in script.json
+[init] normalized method_by_address.json -> 236419 address->name entries
+
+==============================================================================
+Q1 — bound semantics of GameReference/DataHub GetRandomNumber wrappers
+==============================================================================
+
+  DataHub.GetRandomNumber @ 0x015C4E50  bounds=[0x015C4E50, 0x015C4FB0)  size=0x160
+    direct calls (BL/BLX only, branches excluded): 13
+      0x015C4E7C  BL 0x0100F410  [unnamed]
+      0x015C4EAC  BL 0x0100F530  [unnamed]
+      0x015C4EDC  BL 0x0483E0F4 [veneer]  System.Threading.Monitor$$Enter
+      0x015C4EF0  BL 0x0100F530  [unnamed]
+      0x015C4F08  BL 0x0100F66C  [unnamed]
+      0x015C4F24  BLX r4   <-- INDIRECT (vtable) call
+      0x015C4F48  BL 0x048416B8 [veneer]  System.Threading.Monitor$$Exit
+      0x015C4F58  BL 0x0100F668  [unnamed]
+      0x015C4F78  BL 0x0555BE30 [veneer]  [unnamed]
+      0x015C4F84  BL 0x0555BE40 [veneer]  [unnamed]
+      0x015C4F98  BL 0x00D89CC4  [unnamed]
+      0x015C4F9C  BL 0x0555BE50 [veneer]  [unnamed]
+      0x015C4FA0  BL 0x00D87F84  [unnamed]
+
+    --- FULL body: argument setup before BLX r4 @ 0x015C4F24 ---
+      0x015C4E50  push {41F0}
+      0x015C4E54  .word 0xE24DD018
+      0x015C4E58  ldr r4, [pc, #0x144]  ; [0x015C4FA4] = 0x04331ED0
+      0x015C4E5C  mov r5, r0
+      0x015C4E60  mov r8, r1
+      0x015C4E64  add r4, pc, r4
+      0x015C4E68  ldr r0, [r4, #0x0]
+      0x015C4E6C  cmp r0, #0x0
+      0x015C4E70  bne 0x015C4E88
+      0x015C4E74  ldr r0, [pc, #0x12C]  ; [0x015C4FA8] = 0x040D279C
+      0x015C4E78  ldr r0, [pc, #0x0]
+      0x015C4E7C  bl 0x0100F410  ; [unnamed]
+      0x015C4E80  .word 0xE3A00001
+      0x015C4E84  str r0, [r4, #0x0]
+      0x015C4E88  ldr r7, [pc, #0x11C]  ; [0x015C4FAC] = 0x040D2784
+      0x015C4E8C  .word 0xE3A04000
+      0x015C4E90  ldr r7, [pc, #0x7]
+      0x015C4E94  str r4, [r13, #0x14]
+      0x015C4E98  str r4, [r13, #0x13]
+      0x015C4E9C  ldr r0, [r7, #0x0]
+      0x015C4EA0  ldr r1, [r0, #0x74]
+      0x015C4EA4  cmp r1, #0x0
+      0x015C4EA8  bne 0x015C4EB4
+      0x015C4EAC  bl 0x0100F530  ; [unnamed]
+      0x015C4EB0  ldr r0, [r7, #0x0]
+      0x015C4EB4  ldr r0, [r0, #0x5C]
+      0x015C4EB8  .word 0xE28D1014
+      0x015C4EBC  .word 0xE28D6013
+      0x015C4EC0  str r4, [r13, #0x13]
+      0x015C4EC4  str r1, [r13, #0xC]
+      0x015C4EC8  ldr r0, [r0, #0xA74]
+      0x015C4ECC  str r0, [r13, #0x14]
+      0x015C4ED0  .word 0xE98D0050
+      0x015C4ED4  mov r1, r6
+      0x015C4ED8  .word 0xE3A02000
+      0x015C4EDC  bl 0x011009EC  ; veneer -> 0x0483E0F4 System.Threading.Monitor$$Enter
+      0x015C4EE0  ldr r0, [r7, #0x0]
+      0x015C4EE4  ldr r1, [r0, #0x74]
+      0x015C4EE8  cmp r1, #0x0
+      0x015C4EEC  bne 0x015C4EF8
+      0x015C4EF0  bl 0x0100F530  ; [unnamed]
+      0x015C4EF4  ldr r0, [r7, #0x0]
+      0x015C4EF8  ldr r0, [r0, #0x5C]
+      0x015C4EFC  ldr r7, [r0, #0xA74]
+      0x015C4F00  cmp r7, #0x0
+      0x015C4F04  bne 0x015C4F0C
+      0x015C4F08  bl 0x0100F66C  ; [unnamed]
+      0x015C4F0C  ldr r0, [r7, #0x0]
+      0x015C4F10  ldr r4, [r0, #0xF0]
+      0x015C4F14  ldr r3, [r0, #0xF4]
+      0x015C4F18  mov r0, r7
+      0x015C4F1C  mov r1, r5
+      0x015C4F20  mov r2, r8
+      0x015C4F24  blx r4
+
+  GameReference.GetRandomNumber @ 0x01F6E348  bounds=[0x01F6E348, 0x01F6E4B0)  size=0x168
+    direct calls (BL/BLX only, branches excluded): 13
+      0x01F6E374  BL 0x0100F410  [unnamed]
+      0x01F6E3AC  BL 0x0100F530  [unnamed]
+      0x01F6E3DC  BL 0x0483E0F4 [veneer]  System.Threading.Monitor$$Enter
+      0x01F6E3F0  BL 0x0100F530  [unnamed]
+      0x01F6E408  BL 0x0100F66C  [unnamed]
+      0x01F6E424  BLX r10   <-- INDIRECT (vtable) call
+      0x01F6E448  BL 0x048416B8 [veneer]  System.Threading.Monitor$$Exit
+      0x01F6E458  BL 0x0100F668  [unnamed]
+      0x01F6E478  BL 0x0555BE30 [veneer]  [unnamed]
+      0x01F6E484  BL 0x0555BE40 [veneer]  [unnamed]
+      0x01F6E498  BL 0x00D89CC4  [unnamed]
+      0x01F6E49C  BL 0x0555BE50 [veneer]  [unnamed]
+      0x01F6E4A0  BL 0x00D87F84  [unnamed]
+
+    --- FULL body: argument setup before BLX r10 @ 0x01F6E424 ---
+      0x01F6E348  push {4DF0}
+      0x01F6E34C  .word 0xE24DD018
+      0x01F6E350  ldr r5, [pc, #0x14C]  ; [0x01F6E4A4] = 0x0398AC41
+      0x01F6E354  mov r8, r0
+      0x01F6E358  mov r4, r1
+      0x01F6E35C  add r5, pc, r5
+      0x01F6E360  ldr r0, [r5, #0x0]
+      0x01F6E364  cmp r0, #0x0
+      0x01F6E368  bne 0x01F6E380
+      0x01F6E36C  ldr r0, [pc, #0x134]  ; [0x01F6E4A8] = 0x03729290
+      0x01F6E370  ldr r0, [pc, #0x0]
+      0x01F6E374  bl 0x0100F410  ; [unnamed]
+      0x01F6E378  .word 0xE3A00001
+      0x01F6E37C  str r0, [r5, #0x0]
+      0x01F6E380  ldr r7, [pc, #0x124]  ; [0x01F6E4AC] = 0x03729270
+      0x01F6E384  cmp r4, #0x1
+      0x01F6E388  .word 0xE3A05000
+      0x01F6E38C  .word 0xD3A04001
+      0x01F6E390  ldr r7, [pc, #0x7]
+      0x01F6E394  str r5, [r13, #0x14]
+      0x01F6E398  str r5, [r13, #0x13]
+      0x01F6E39C  ldr r0, [r7, #0x0]
+      0x01F6E3A0  ldr r1, [r0, #0x74]
+      0x01F6E3A4  cmp r1, #0x0
+      0x01F6E3A8  bne 0x01F6E3B4
+      0x01F6E3AC  bl 0x0100F530  ; [unnamed]
+      0x01F6E3B0  ldr r0, [r7, #0x0]
+      0x01F6E3B4  ldr r0, [r0, #0x5C]
+      0x01F6E3B8  .word 0xE28D1014
+      0x01F6E3BC  .word 0xE28D6013
+      0x01F6E3C0  str r5, [r13, #0x13]
+      0x01F6E3C4  str r1, [r13, #0xC]
+      0x01F6E3C8  ldr r0, [r0, #0xC]
+      0x01F6E3CC  str r0, [r13, #0x14]
+      0x01F6E3D0  .word 0xE98D0060
+      0x01F6E3D4  mov r1, r6
+      0x01F6E3D8  .word 0xE3A02000
+      0x01F6E3DC  bl 0x011009EC  ; veneer -> 0x0483E0F4 System.Threading.Monitor$$Enter
+      0x01F6E3E0  ldr r0, [r7, #0x0]
+      0x01F6E3E4  ldr r1, [r0, #0x74]
+      0x01F6E3E8  cmp r1, #0x0
+      0x01F6E3EC  bne 0x01F6E3F8
+      0x01F6E3F0  bl 0x0100F530  ; [unnamed]
+      0x01F6E3F4  ldr r0, [r7, #0x0]
+      0x01F6E3F8  ldr r0, [r0, #0x5C]
+      0x01F6E3FC  ldr r7, [r0, #0xC]
+      0x01F6E400  cmp r7, #0x0
+      0x01F6E404  bne 0x01F6E40C
+      0x01F6E408  bl 0x0100F66C  ; [unnamed]
+      0x01F6E40C  ldr r0, [r7, #0x0]
+      0x01F6E410  .word 0xE1C0AFD0
+      0x01F6E414  mov r0, r7
+      0x01F6E418  mov r1, r8
+      0x01F6E41C  mov r2, r4
+      0x01F6E420  mov r3, r11
+      0x01F6E424  blx r10
+
+==============================================================================
+Q2 — how getrandom is seeded (.cctor analysis)
+==============================================================================
+
+  DataHub..cctor @ 0x018B0B30  bounds=[0x018B0B30, 0x018B1174)  size=0x644
+    direct calls: 65; ctor calls: 3
+      0x018B0CD0 -> 0x047E0BA4  System.Random$$.ctor [veneer]
+      0x018B0D10 -> 0x04D74904  System.Text.RegularExpressions.Regex$$.ctor [veneer]
+      0x018B0D40 -> 0x04D74904  System.Text.RegularExpressions.Regex$$.ctor [veneer]
+
+    --- window around Random ctor call @ 0x018B0CD0 ---
+      0x018B0C90  ldr r0, [pc, #0x0]
+      0x018B0C94  bl 0x0100F410  ; [unnamed]
+      0x018B0C98  ldr r0, [pc, #0x424]  ; [0x018B10C4] = 0x03DFCF9C
+      0x018B0C9C  ldr r0, [pc, #0x0]
+      0x018B0CA0  bl 0x0100F410  ; [unnamed]
+      0x018B0CA4  ldr r0, [pc, #0x41C]  ; [0x018B10C8] = 0x03DFCF94
+      0x018B0CA8  ldr r0, [pc, #0x0]
+      0x018B0CAC  bl 0x0100F410  ; [unnamed]
+      0x018B0CB0  .word 0xE3A00001
+      0x018B0CB4  str r0, [r4, #0x0]
+      0x018B0CB8  ldr r0, [pc, #0x40C]  ; [0x018B10CC] = 0x03DE5D24
+      0x018B0CBC  ldr r0, [pc, #0x0]
+      0x018B0CC0  ldr r0, [r0, #0x0]
+      0x018B0CC4  bl 0x0100F660  ; [unnamed]
+      0x018B0CC8  .word 0xE3A01000
+      0x018B0CCC  mov r4, r0
+      0x018B0CD0  bl 0x020B89A4  ; veneer -> 0x047E0BA4 System.Random$$.ctor
+
+  GameReference..cctor @ 0x01F7F5D8  bounds=[0x01F7F5D8, 0x01F7F964)  size=0x38C
+    direct calls: 20; ctor calls: 4
+      0x01F7F6A4 -> 0x04189548  System.Collections.Generic.List<object>$$.ctor [veneer]
+      0x01F7F7B4 -> 0x047E0BA4  System.Random$$.ctor [veneer]
+      0x01F7F7F0 -> 0x03944574  System.ValueTuple<int, int>$$.ctor
+      0x01F7F824 -> 0x03944574  System.ValueTuple<int, int>$$.ctor
+
+    --- window around Random ctor call @ 0x01F7F7B4 ---
+      0x01F7F774  ldr r0, [r9, #0x10]
+      0x01F7F778  mov r1, r4
+      0x01F7F77C  ldr r0, [r0, #0x60]
+      0x01F7F780  ldr r2, [r0, #0x38]
+      0x01F7F784  mov r0, r6
+      0x01F7F788  bl 0x010D85E8  ; veneer -> 0x04189D54 System.Collections.Generic.List<object>$$AddWithResize
+      0x01F7F78C  ldr r0, [r8, #0x0]
+      0x01F7F790  .word 0xE3A07000
+      0x01F7F794  ldr r1, [r0, #0x5C]
+      0x01F7F798  ldr r0, [pc, #0x1B8]  ; [0x01F7F958] = 0x03717244
+      0x01F7F79C  ldr r0, [pc, #0x0]
+      0x01F7F7A0  .word 0xE1C160F4
+      0x01F7F7A4  ldr r0, [r0, #0x0]
+      0x01F7F7A8  bl 0x0100F660  ; [unnamed]
+      0x01F7F7AC  .word 0xE3A01000
+      0x01F7F7B0  mov r4, r0
+      0x01F7F7B4  bl 0x020B89A4  ; veneer -> 0x047E0BA4 System.Random$$.ctor
+
+==============================================================================
+Q3 — UnityEngine reachability inside Sim*$$IncrementAge
+==============================================================================
+  Sim*$$IncrementAge methods found: 141
+  bodies scanned: 141; one-hop helper bodies scanned: 511
+  UnityEngine hits: 14
+    [B-one-hop] SimHero$$CurrentlyInPrison @0x0x1a9f168 -> UnityEngine.Object$$op_Inequality @0x0x50521bc  (via SimHero$$IncrementAge)
+    [B-one-hop] SimHero$$IsARoyal @0x0x1a9f070 -> UnityEngine.Object$$op_Inequality @0x0x50521bc  (via SimHero$$IncrementAge)
+    [B-one-hop] GameReference$$CurrencyStringForAmount @0x0x1f6f518 -> UnityEngine.Object$$op_Inequality @0x0x50521bc  (via SimHero$$IncrementAge)
+    [B-one-hop] GameReference$$KeepItClean @0x0x1f6eb90 -> UnityEngine.Object$$op_Equality @0x0x5053df4  (via SimHero$$IncrementAge)
+    [B-one-hop] SimFinances$$AdjustBankBalanceByAmount @0x0x1a9d360 -> UnityEngine.PlayerPrefs$$HasKey @0x0x50474e8  (via SimHero$$IncrementAge)
+    [B-one-hop] SimFinances$$AdjustBankBalanceByAmount @0x0x1a9d360 -> UnityEngine.PlayerPrefs$$GetInt @0x0x5046dd4  (via SimHero$$IncrementAge)
+    [B-one-hop] SimFinances$$AdjustBankBalanceByAmount @0x0x1a9d360 -> UnityEngine.PlayerPrefs$$SetInt @0x0x5046b34  (via SimHero$$IncrementAge)
+    [B-one-hop] SimFinances$$AdjustBankBalanceByAmount @0x0x1a9d360 -> UnityEngine.PlayerPrefs$$Save @0x0x5047934  (via SimHero$$IncrementAge)
+    [B-one-hop] SimHero$$CheckForWholeSomeLife @0x0x1aa72ec -> UnityEngine.PlayerPrefs$$GetInt @0x0x5046b98  (via SimHero$$IncrementAge)
+    [B-one-hop] SimHero$$CheckForWholeSomeLife @0x0x1aa72ec -> UnityEngine.PlayerPrefs$$GetInt @0x0x5046b98  (via SimHero$$IncrementAge)
+    [B-one-hop] SimHero$$CheckForWholeSomeLife @0x0x1aa72ec -> UnityEngine.PlayerPrefs$$SetInt @0x0x5046b34  (via SimHero$$IncrementAge)
+    [B-one-hop] SimHero$$CheckForWholeSomeLife @0x0x1aa72ec -> UnityEngine.PlayerPrefs$$SetInt @0x0x5046b34  (via SimHero$$IncrementAge)
+    [B-one-hop] SimHero$$CheckForWholeSomeLife @0x0x1aa72ec -> UnityEngine.PlayerPrefs$$Save @0x0x5047934  (via SimHero$$IncrementAge)
+    [B-one-hop] SimCasino$$CancelAllCasinoScenarios @0x0x1aed2b8 -> UnityEngine.Debug$$Log @0x0x5013798  (via SimCasino$$IncrementAge)
+
+[out] wrote D:\Clean Folder\Gabut\reverse-engineer-bitlife\out\reverse-engineering\rng_q123_probe.json

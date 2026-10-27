@@ -45,6 +45,24 @@
       "status": "cross-verified"
     },
     {
+      "id": "rng.wrapper-bounds-exclusive",
+      "rule": "DataHub.GetRandomNumber @ 0x015C4E50 passes max verbatim (mov r8,r1 at 0x015C4E60 then mov r2,r8 at 0x015C4F20) into the vtable+0xF0 virtual call; GameReference.GetRandomNumber @ 0x01F6E348 passes max after its only modification, the clamp cmp r4,#1 / movle r4,#1 (max<=1 -> 1). Neither wrapper adds 1. Both call System.Random.Next(int,int) @ 0x047E11D0, whose max is EXCLUSIVE",
+      "source": ["out/REPORT_RNG_QUESTIONS_3253.md", "out/reverse-engineering/rng_q123_probe.txt", "tools/rng_q123_probe.py"],
+      "status": "static-verified"
+    },
+    {
+      "id": "rng.seeding-parameterless",
+      "rule": "Both DataHub..cctor @ 0x018B0B30 (site 0x018B0CD0) and GameReference..cctor @ 0x01F7F5D8 (site 0x01F7F7B4) call the SAME veneer 0x020B89A4 -> 0x047E0BA4, which is the PARAMETERLESS System.Random..ctor: it calls GenerateSeed @ 0x047E0C10 then OVERWRITES r1 with the result (mov r1,r0 at 0x047E0BF4) before tail-calling Random..ctor(int) @ 0x047E0DFC. The mov r1,#0 seen before each .cctor call site is therefore discarded, not a seed argument. GenerateSeed is thread-safe (Monitor.Enter/Exit) and draws from a virtual method at vtable+0xE8 on a static object. Runtime seed is NOT statically recoverable",
+      "source": ["out/REPORT_RNG_QUESTIONS_3253.md", "out/reverse-engineering/rng_q123_probe.txt", "tools/disasm2.py", "tools/rng_q123_probe.py"],
+      "status": "static-verified-runtime-seed-unknown"
+    },
+    {
+      "id": "rng.unityengine-not-in-sim-incrementage",
+      "rule": "Across all 141 Sim*$$IncrementAge bodies (scope A, direct calls) and 511 one-hop helper bodies (scope B), there are ZERO UnityEngine.Random call sites and ZERO direct UnityEngine calls inside the Sim*.IncrementAge bodies themselves. The only 14 UnityEngine hits are one hop deep and are Object.op_Inequality/op_Equality (null checks), PlayerPrefs.HasKey/GetInt/SetInt/Save (persistence), and Debug.Log (logging). Scope B is one hop only, so UnityEngine.Random at depth >= 2 is NOT excluded by this scan",
+      "source": ["out/REPORT_RNG_QUESTIONS_3253.md", "out/reverse-engineering/rng_q123_probe.json", "tools/rng_q123_probe.py"],
+      "status": "static-verified-bounded"
+    },
+    {
       "id": "rng.call-sites",
       "rule": "DataHub.GetRandomNumber has exactly 7 direct callers, all internal DataHub content helpers; GameReference.GetRandomNumber has 522 distinct callers / 620 sites across Scenario*, Sim*.IncrementAge, PersonGenerator*, Genesis; Life.ValidateAndSetScenario dispatches via reflection (Type.GetMethod + MethodBase.Invoke) and makes zero direct RNG calls, so per-year draw order is not statically traceable from it",
       "source": ["out/REPORT_RNG_CALLSITES_3253.md", "out/reverse-engineering/callers_getrandomnumber_3253.txt", "out/reverse-engineering/callgraph_validate_and_set_scenario_3253.txt", "tools/find_callers.py"],

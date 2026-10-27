@@ -1,0 +1,411 @@
+{
+  "q1_wrapper_bounds": {
+    "DataHub.GetRandomNumber": {
+      "rva": "0x15c4e50",
+      "bounds": [
+        "0x15c4e50",
+        "0x15c4fb0"
+      ],
+      "calls": [
+        {
+          "site": "0x15c4e7c",
+          "target": "0x100f410",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x15c4eac",
+          "target": "0x100f530",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x15c4edc",
+          "target": "0x483e0f4",
+          "kind": "BL",
+          "name": "System.Threading.Monitor$$Enter",
+          "veneer": true
+        },
+        {
+          "site": "0x15c4ef0",
+          "target": "0x100f530",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x15c4f08",
+          "target": "0x100f66c",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x15c4f24",
+          "target": "r4",
+          "kind": "BLX-reg",
+          "name": "INDIRECT",
+          "veneer": false
+        },
+        {
+          "site": "0x15c4f48",
+          "target": "0x48416b8",
+          "kind": "BL",
+          "name": "System.Threading.Monitor$$Exit",
+          "veneer": true
+        },
+        {
+          "site": "0x15c4f58",
+          "target": "0x100f668",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x15c4f78",
+          "target": "0x555be30",
+          "kind": "BL",
+          "name": null,
+          "veneer": true
+        },
+        {
+          "site": "0x15c4f84",
+          "target": "0x555be40",
+          "kind": "BL",
+          "name": null,
+          "veneer": true
+        },
+        {
+          "site": "0x15c4f98",
+          "target": "0xd89cc4",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x15c4f9c",
+          "target": "0x555be50",
+          "kind": "BL",
+          "name": null,
+          "veneer": true
+        },
+        {
+          "site": "0x15c4fa0",
+          "target": "0xd87f84",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        }
+      ],
+      "indirect_calls": [
+        {
+          "site": "0x15c4f24",
+          "reg": 4
+        }
+      ]
+    },
+    "GameReference.GetRandomNumber": {
+      "rva": "0x1f6e348",
+      "bounds": [
+        "0x1f6e348",
+        "0x1f6e4b0"
+      ],
+      "calls": [
+        {
+          "site": "0x1f6e374",
+          "target": "0x100f410",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x1f6e3ac",
+          "target": "0x100f530",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x1f6e3dc",
+          "target": "0x483e0f4",
+          "kind": "BL",
+          "name": "System.Threading.Monitor$$Enter",
+          "veneer": true
+        },
+        {
+          "site": "0x1f6e3f0",
+          "target": "0x100f530",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x1f6e408",
+          "target": "0x100f66c",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x1f6e424",
+          "target": "r10",
+          "kind": "BLX-reg",
+          "name": "INDIRECT",
+          "veneer": false
+        },
+        {
+          "site": "0x1f6e448",
+          "target": "0x48416b8",
+          "kind": "BL",
+          "name": "System.Threading.Monitor$$Exit",
+          "veneer": true
+        },
+        {
+          "site": "0x1f6e458",
+          "target": "0x100f668",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x1f6e478",
+          "target": "0x555be30",
+          "kind": "BL",
+          "name": null,
+          "veneer": true
+        },
+        {
+          "site": "0x1f6e484",
+          "target": "0x555be40",
+          "kind": "BL",
+          "name": null,
+          "veneer": true
+        },
+        {
+          "site": "0x1f6e498",
+          "target": "0xd89cc4",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        },
+        {
+          "site": "0x1f6e49c",
+          "target": "0x555be50",
+          "kind": "BL",
+          "name": null,
+          "veneer": true
+        },
+        {
+          "site": "0x1f6e4a0",
+          "target": "0xd87f84",
+          "kind": "BL",
+          "name": null,
+          "veneer": false
+        }
+      ],
+      "indirect_calls": [
+        {
+          "site": "0x1f6e424",
+          "reg": 10
+        }
+      ]
+    }
+  },
+  "q2_cctor_seeding": {
+    "DataHub..cctor": {
+      "rva": "0x18b0b30",
+      "bounds": [
+        "0x18b0b30",
+        "0x18b1174"
+      ],
+      "ctor_calls": [
+        {
+          "site": "0x18b0cd0",
+          "target": "0x47e0ba4",
+          "name": "System.Random$$.ctor",
+          "veneer": true
+        },
+        {
+          "site": "0x18b0d10",
+          "target": "0x4d74904",
+          "name": "System.Text.RegularExpressions.Regex$$.ctor",
+          "veneer": true
+        },
+        {
+          "site": "0x18b0d40",
+          "target": "0x4d74904",
+          "name": "System.Text.RegularExpressions.Regex$$.ctor",
+          "veneer": true
+        }
+      ]
+    },
+    "GameReference..cctor": {
+      "rva": "0x1f7f5d8",
+      "bounds": [
+        "0x1f7f5d8",
+        "0x1f7f964"
+      ],
+      "ctor_calls": [
+        {
+          "site": "0x1f7f6a4",
+          "target": "0x4189548",
+          "name": "System.Collections.Generic.List<object>$$.ctor",
+          "veneer": true
+        },
+        {
+          "site": "0x1f7f7b4",
+          "target": "0x47e0ba4",
+          "name": "System.Random$$.ctor",
+          "veneer": true
+        },
+        {
+          "site": "0x1f7f7f0",
+          "target": "0x3944574",
+          "name": "System.ValueTuple<int, int>$$.ctor",
+          "veneer": false
+        },
+        {
+          "site": "0x1f7f824",
+          "target": "0x3944574",
+          "name": "System.ValueTuple<int, int>$$.ctor",
+          "veneer": false
+        }
+      ]
+    }
+  },
+  "q3_unityengine_reachability": {
+    "sim_increment_age_count": 141,
+    "bodies_scanned": 141,
+    "helper_bodies_scanned": 511,
+    "unity_hits": [
+      {
+        "scope": "B-one-hop",
+        "from": "SimHero$$CurrentlyInPrison",
+        "from_rva": "0x1a9f168",
+        "site": "0x1a9f1e0",
+        "to": "UnityEngine.Object$$op_Inequality",
+        "to_rva": "0x50521bc",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimHero$$IsARoyal",
+        "from_rva": "0x1a9f070",
+        "site": "0x1a9f0e8",
+        "to": "UnityEngine.Object$$op_Inequality",
+        "to_rva": "0x50521bc",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "GameReference$$CurrencyStringForAmount",
+        "from_rva": "0x1f6f518",
+        "site": "0x1f6f5bc",
+        "to": "UnityEngine.Object$$op_Inequality",
+        "to_rva": "0x50521bc",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "GameReference$$KeepItClean",
+        "from_rva": "0x1f6eb90",
+        "site": "0x1f6ec08",
+        "to": "UnityEngine.Object$$op_Equality",
+        "to_rva": "0x5053df4",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimFinances$$AdjustBankBalanceByAmount",
+        "from_rva": "0x1a9d360",
+        "site": "0x1a9d564",
+        "to": "UnityEngine.PlayerPrefs$$HasKey",
+        "to_rva": "0x50474e8",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimFinances$$AdjustBankBalanceByAmount",
+        "from_rva": "0x1a9d360",
+        "site": "0x1a9d5a0",
+        "to": "UnityEngine.PlayerPrefs$$GetInt",
+        "to_rva": "0x5046dd4",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimFinances$$AdjustBankBalanceByAmount",
+        "from_rva": "0x1a9d360",
+        "site": "0x1a9d5e0",
+        "to": "UnityEngine.PlayerPrefs$$SetInt",
+        "to_rva": "0x5046b34",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimFinances$$AdjustBankBalanceByAmount",
+        "from_rva": "0x1a9d360",
+        "site": "0x1a9d5e8",
+        "to": "UnityEngine.PlayerPrefs$$Save",
+        "to_rva": "0x5047934",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimHero$$CheckForWholeSomeLife",
+        "from_rva": "0x1aa72ec",
+        "site": "0x1aa782c",
+        "to": "UnityEngine.PlayerPrefs$$GetInt",
+        "to_rva": "0x5046b98",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimHero$$CheckForWholeSomeLife",
+        "from_rva": "0x1aa72ec",
+        "site": "0x1aa784c",
+        "to": "UnityEngine.PlayerPrefs$$GetInt",
+        "to_rva": "0x5046b98",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimHero$$CheckForWholeSomeLife",
+        "from_rva": "0x1aa72ec",
+        "site": "0x1aa7864",
+        "to": "UnityEngine.PlayerPrefs$$SetInt",
+        "to_rva": "0x5046b34",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimHero$$CheckForWholeSomeLife",
+        "from_rva": "0x1aa72ec",
+        "site": "0x1aa7878",
+        "to": "UnityEngine.PlayerPrefs$$SetInt",
+        "to_rva": "0x5046b34",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimHero$$CheckForWholeSomeLife",
+        "from_rva": "0x1aa72ec",
+        "site": "0x1aa7880",
+        "to": "UnityEngine.PlayerPrefs$$Save",
+        "to_rva": "0x5047934",
+        "reached_from": "SimHero$$IncrementAge"
+      },
+      {
+        "scope": "B-one-hop",
+        "from": "SimCasino$$CancelAllCasinoScenarios",
+        "from_rva": "0x1aed2b8",
+        "site": "0x1aedefc",
+        "to": "UnityEngine.Debug$$Log",
+        "to_rva": "0x5013798",
+        "reached_from": "SimCasino$$IncrementAge"
+      }
+    ]
+  }
+}
