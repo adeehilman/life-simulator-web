@@ -1,0 +1,2497 @@
+{
+ "Life": {
+  "kind": "class",
+  "fields": [
+   {
+    "name": "LifeInterface",
+    "cs_type": "LifeInterface",
+    "ts_type": "LifeInterface"
+   },
+   {
+    "name": "IncrementAgeScenarioQueueArray",
+    "cs_type": "List<Scenario>",
+    "ts_type": "Scenario[]"
+   },
+   {
+    "name": "OnYearIncremented",
+    "cs_type": "UnityEvent<int>",
+    "ts_type": "UnityEvent"
+   },
+   {
+    "name": "<IncrementAgeScenariosInProgress>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<MetaLifeType>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<MetaGenerationID>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<MetaHeroID>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<MetaLastBootupVersion>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<MetaStartLifeVersion>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<LifeLog>k__BackingField",
+    "cs_type": "LifeLog",
+    "ts_type": "LifeLog"
+   },
+   {
+    "name": "_Decks",
+    "cs_type": "RandomDeckCollection",
+    "ts_type": "RandomDeckCollection"
+   },
+   {
+    "name": "<ScenarioLogArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<CustomPersonsNameUsedArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "ObituaryGenerator",
+    "cs_type": "ObituaryGenerator",
+    "ts_type": "ObituaryGenerator"
+   },
+   {
+    "name": "<ChallengeTracker>k__BackingField",
+    "cs_type": "Apollo16ChallengeTracker",
+    "ts_type": "Apollo16ChallengeTracker"
+   },
+   {
+    "name": "_TriggerEventValueDictionary",
+    "cs_type": "Dictionary<string, int>",
+    "ts_type": "{ [key: string]: number }"
+   },
+   {
+    "name": "_TriggerManager",
+    "cs_type": "TriggerManager",
+    "ts_type": "TriggerManager"
+   },
+   {
+    "name": "<Hero>k__BackingField",
+    "cs_type": "SimHero",
+    "ts_type": "SimHero"
+   },
+   {
+    "name": "<World>k__BackingField",
+    "cs_type": "SimWorld",
+    "ts_type": "SimWorld"
+   },
+   {
+    "name": "<Past>k__BackingField",
+    "cs_type": "SimPast",
+    "ts_type": "SimPast"
+   },
+   {
+    "name": "<Death>k__BackingField",
+    "cs_type": "SimDeath",
+    "ts_type": "SimDeath"
+   },
+   {
+    "name": "<Father>k__BackingField",
+    "cs_type": "SimParent",
+    "ts_type": "SimParent"
+   },
+   {
+    "name": "<FatherType>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Mother>k__BackingField",
+    "cs_type": "SimParent",
+    "ts_type": "SimParent"
+   },
+   {
+    "name": "<HeroWasAdopted>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<HeroBornToImmigrantParentsFromCountryCode>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<HeroHasGayParents>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<Lover>k__BackingField",
+    "cs_type": "SimLover",
+    "ts_type": "SimLover"
+   },
+   {
+    "name": "<_ChildArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<Finances>k__BackingField",
+    "cs_type": "SimFinances",
+    "ts_type": "SimFinances"
+   },
+   {
+    "name": "<_Portfolio>k__BackingField",
+    "cs_type": "SimPortfolio",
+    "ts_type": "SimPortfolio"
+   },
+   {
+    "name": "<_LandlordPortfolio>k__BackingField",
+    "cs_type": "SimLandlordPortfolio",
+    "ts_type": "SimLandlordPortfolio"
+   },
+   {
+    "name": "<_EnemiesTurnedFriendFullNames>k__BackingField",
+    "cs_type": "List<string>",
+    "ts_type": "string[]"
+   },
+   {
+    "name": "<NumEnemiesTurnedFriendsKilled>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<_SketchyUnprotectedLovers>k__BackingField",
+    "cs_type": "List<string>",
+    "ts_type": "string[]"
+   },
+   {
+    "name": "<NumSexualEncountersWithoutCondom>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HasGottenSTDFromUnprotectedSex>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<NumFightsWithoutRetalitation>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumAccidentalMurdersFromFights>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HasRecordedDiamondAlbum>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<HasWonABittyAward>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<HasBecomeFamousCEO>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<HasBecomeFamousMagician>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<HasEncounteredVampire>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<NumPeopleKilledWithPlasticVampireTeeth>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HasPostedSomethingThatIsNotFeetOnOnlyFans>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<Occupation>k__BackingField",
+    "cs_type": "SimOccupation",
+    "ts_type": "SimOccupation"
+   },
+   {
+    "name": "<PartTimeJobArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<DiseaseArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<AddictionArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<_HouseArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<_CarArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<RichSocialMedia>k__BackingField",
+    "cs_type": "SimRichSocialMedia",
+    "ts_type": "SimRichSocialMedia"
+   },
+   {
+    "name": "<Fame>k__BackingField",
+    "cs_type": "SimFame",
+    "ts_type": "SimFame"
+   },
+   {
+    "name": "<Royal>k__BackingField",
+    "cs_type": "SimRoyal",
+    "ts_type": "SimRoyal"
+   },
+   {
+    "name": "<Will>k__BackingField",
+    "cs_type": "SimWill",
+    "ts_type": "SimWill"
+   },
+   {
+    "name": "<_SiblingArray>k__BackingField",
+    "cs_type": "List<SimPerson>",
+    "ts_type": "SimPerson[]"
+   },
+   {
+    "name": "<_PetArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<_FriendArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<AgeAtLastFriendsRefresh>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AncestorArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<Orphanage>k__BackingField",
+    "cs_type": "SimOrphanage",
+    "ts_type": "SimOrphanage"
+   },
+   {
+    "name": "<_AircraftArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<_WatercraftArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<_JewelryArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<SpecialTalent>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<DeterministicCostAdjustmentPercent>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<LastFailedEmigrationAttemptedCountry>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<_RecreationalVehicleArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<_DeterministicEmigrationPlaceArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<DrivingLicense>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<DrivingTestAttempts>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeWhenLicensed>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumSexualPartners>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastThreesomeAttempt>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumAbortions>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<TimesCheatedOnLovers>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<TimesSpreadSTD>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<OpenToSexBeforeMarriage>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<LastSelectedMajor>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastAcceptanceToUniversity>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastAcceptanceToPostUniversity>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastParentsRefusalToPayTuition>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastScholarshipRejection>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastDrugOfferAccept>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastStudy>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastWorkHarder>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastJobRejection>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastJobRejectionByEducation>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastCompletedRehab>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastGymWorkout>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastMeditation>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastLibraryVisit>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastSnubLoverForVacation>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastLoverArgument>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastTurnDownChildCollegeTuition>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastHookupScenario>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastHookupFeedback>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastWillUpdate>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastParentsRejectedPet>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastTurnedDownPet>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastClubVisit>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumClubVisits>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastSocialMediaPost>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumSocialMediaPosts>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastWitchRemedy>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastAdditionalBid>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastCrashOut>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "_lifeId",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "CurrentWitchRemedy",
+    "cs_type": "DataWitchRemedy",
+    "ts_type": "DataWitchRemedy"
+   },
+   {
+    "name": "<AttemptsToTreatAddiction>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<LivesSaved>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<PlasticSurgeriesArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<AgeAtLastPlasticSurgery>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastSexChange>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumBotchedPlasticSurgeries>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<OfferedDrugsArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<OfferedAlcoholArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<OfferedFoodArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<NumTimesTurnedDownDrugsOrAlcohol>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<WatchedMoviesArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<AgeAtLastNewsEvent>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NewsEventStringArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<AgeAtLastWarEnd>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<CasinoEarningsLifetime>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<CasinoLossesLifetime>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<BannedCasinosArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<EscapedCasinosArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<VisitedCasinosArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<GamblingConsecutiveUrgeResists>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastMurder>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumMurdersCommitted>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastHorseRaces>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HorseRacesEarningsLifetime>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<VisitedCountriesArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<HasHadVasectomy>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<HasHadTubalLigation>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<AgeAtLastSpermDonationGiven>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<LastSpermDonor>k__BackingField",
+    "cs_type": "SimPerson",
+    "ts_type": "SimPerson"
+   },
+   {
+    "name": "<NumSpermDonations>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumCarsStolen>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumPocketsPicked>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumHousesBurgled>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumItemsShoplifted>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumPorchesPirated>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTrainsRobbed>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumBanksRobbed>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastBankRobbery>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumHitmenHired>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastHitmanFound>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumCrimesAttempted>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumUniqueYearsSpentTimeWithKids>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastHairCut>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastMassage>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastMassageHappyEnding>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastNailSalon>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastTanning>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastWaxing>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesUsedTanningBed>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesUsedTanningBedThisYear>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesAskedForMoney>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesGaveMoney>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesAssaultedSomeone>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesInsultedSomeone>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesComplimentedSomeone>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesAbandonedPet>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeLovedOneLastDied>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastBoost>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastOfferedBoost>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<BlockFullLogAtStart>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<AgeAtBlockFullLog>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<MyStuffId>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<MyStuffExtraIntro>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<ReportInfluencerEvents>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<ShowBirthCircumstances>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<AgeAtStartLife>k__BackingField",
+    "cs_type": "AGE_VARIANT",
+    "ts_type": "AGE_VARIANT"
+   },
+   {
+    "name": "<CasinoRVGameType>k__BackingField",
+    "cs_type": "CASINO_GAME_TYPE",
+    "ts_type": "CASINO_GAME_TYPE"
+   },
+   {
+    "name": "<CasinoRVGameCount>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<OfferedBoostArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "_LawsuitTargetArray",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<ConsecutiveYearsLowStress>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<ConsecutiveYearsHighStress>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastExpulsion>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<CurrentExLoverStalker>k__BackingField",
+    "cs_type": "SimLover",
+    "ts_type": "SimLover"
+   },
+   {
+    "name": "<CurrentExLoverStalkerYears>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastWentOnBirthControl>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastWentOffBirthControl>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<GenesisData>k__BackingField",
+    "cs_type": "Dictionary<string, object>",
+    "ts_type": "{ [key: string]: any }"
+   },
+   {
+    "name": "<_HeirloomArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<AgeAtLastPlayedWithHeirloom>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<PrisonGangJoinedArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<PrisonGangLeftArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "LastCruise",
+    "cs_type": "DataVacationCruise",
+    "ts_type": "DataVacationCruise"
+   },
+   {
+    "name": "LastVacationDestination",
+    "cs_type": "DataVacationDestination",
+    "ts_type": "DataVacationDestination"
+   },
+   {
+    "name": "<HeroAgeAtLastAttack>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastGotAttackedByEnemy>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastVacationScenario>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastVacationDumbScenario>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastIntelligenceTest>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastJobInterviewFratBypass>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<WasResurrected>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<AgeAtLastParanormalExperience>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastLightningStrike>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<BoatingLicense>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<BoatingTestAttempts>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeWhenEarnedBoatingLicense>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<PilotHours>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<PilotsLicense>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<PilotTestAttempts>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeWhenEarnedPilotsLicense>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastGarden>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastWalk>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<MartialArtArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<AgeAtLastParentRejectionForMartialArts>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastMartialArtsAttributeBoost>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastParentRejectionForModelingLessons>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastModelingLessonAttributeBoost>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumGigAuditionsHeroGotAtThisAge>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumGigsCompletedHeroGotAtThisAge>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Diet>k__BackingField",
+    "cs_type": "SimDiet",
+    "ts_type": "SimDiet"
+   },
+   {
+    "name": "<MoneyEarnedFromRealEstate>k__BackingField",
+    "cs_type": "double",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumHousesSold>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<GiftsGiven>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<ValueOfGiftsGiven>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastRanForPoliticalOfficeLocal>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastRanForPoliticalOfficeCity>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastRanForPoliticalOfficeRegional>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastRanForPoliticalOfficeNational>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<RejectedPoliticalBribe>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<PoliticalBribesAccepted>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<SweepstakesEntered>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<AgeAtLastNameChange>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<ActiveSurrogateSituationArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<OptedOutOfVaccination>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<MetRoyalLoverThisLife>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<SportsLeagues>k__BackingField",
+    "cs_type": "SimSportsWorld",
+    "ts_type": "SimSportsWorld"
+   },
+   {
+    "name": "<AgeAtLastSteroids>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastRefusedDopingTest>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastFailedDopingTest>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<_InstrumentArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<AgeAtLastParentRejectionForInstrument>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastInstrumentAttributeBoost>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastBandSearch>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumBandAuditionOffersAtCurrentAge>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<MusicianCachedNameSet>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<NumLogLinkFillers>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<ActingLessonExperience>k__BackingField",
+    "cs_type": "SimActingLessonExperience",
+    "ts_type": "SimActingLessonExperience"
+   },
+   {
+    "name": "<ModelLessonExperience>k__BackingField",
+    "cs_type": "SimModelLessonExperience",
+    "ts_type": "SimModelLessonExperience"
+   },
+   {
+    "name": "<DealingExperience>k__BackingField",
+    "cs_type": "SimDealingExperience",
+    "ts_type": "SimDealingExperience"
+   },
+   {
+    "name": "<AgeAtLastParentRejectionForActingLessons>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastActingLessonAttributeBoost>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastAgentSearchFailure>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<TalentAgent>k__BackingField",
+    "cs_type": "SimAgent",
+    "ts_type": "SimAgent"
+   },
+   {
+    "name": "<AgeAtLastActingExtraSearchFailure>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastActingExtraRoleOffer>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastActingExtraRoleDiscovery>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumExtraRoles>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastJewelryPurchase>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastManiPedi>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastBloodDonation>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastPlasmaDonation>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastParentRejectionForSpaceCamp>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastVisitedSpaceCamp>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HasHeroVisitedSpaceCamp>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<HasHeroJoinedAstronomyClub>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<AgeAtLastMailOrderBrideMarriage>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AvailableMailOrderBride>k__BackingField",
+    "cs_type": "SimLover",
+    "ts_type": "SimLover"
+   },
+   {
+    "name": "<_PhysicalInstrumentArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<RewardedVideoRandomJobPack>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<RewardedVideoRandomJobPackUnlocked>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<RewardedVideoBusinessJobPackUnlocked>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<RewardedVideoExpansionPack>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<RewardedVideoRandomExpansionPackUnlocked>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<LifeEndedWithChildInheritingBusiness>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<AgeAtLastBusinessStartupFundingOffer>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastEscapedPrisonViaRewardedVideo>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AgeAtLastPray>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesPrayUsed>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HasCurseBeenUsed>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<SpyAgency>k__BackingField",
+    "cs_type": "SimSpyAgency",
+    "ts_type": "SimSpyAgency"
+   },
+   {
+    "name": "<Zoo>k__BackingField",
+    "cs_type": "SimZoo",
+    "ts_type": "SimZoo"
+   },
+   {
+    "name": "<Casino>k__BackingField",
+    "cs_type": "SimCasino",
+    "ts_type": "SimCasino"
+   },
+   {
+    "name": "<NumCasinoSessionsSinceLastNekoAd>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesCasinoNekoAdShown>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HasCleansedInvestmentMarket>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "_InvestmentMarket",
+    "cs_type": "SimInvestmentMarket",
+    "ts_type": "SimInvestmentMarket"
+   },
+   {
+    "name": "<Luxury>k__BackingField",
+    "cs_type": "SimLuxury",
+    "ts_type": "SimLuxury"
+   },
+   {
+    "name": "<NumTimesCommittedTaxEvasion>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumTimesInsiderTraded>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<ExpansionPackIneligible>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<BestEarthDefenseTime>k__BackingField",
+    "cs_type": "double",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastProbeDesign>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "_BlackMarketAuctionItemsArray",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<_ModelHeadshot>k__BackingField",
+    "cs_type": "SimModelHeadshot",
+    "ts_type": "SimModelHeadshot"
+   },
+   {
+    "name": "<_ModelGiftArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<_CasinoCollectibleArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<AgeAtLastRecruiterModelRequest>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NumPromoScenariosShownInLife>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<WillShowJustForYouJobPacks>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<HasInteractedWithRecruiter>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<Racing>k__BackingField",
+    "cs_type": "SimRacing",
+    "ts_type": "SimRacing"
+   },
+   {
+    "name": "<_RacingCollectibleArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<Outdoor>k__BackingField",
+    "cs_type": "SimOutdoor",
+    "ts_type": "SimOutdoor"
+   },
+   {
+    "name": "_seniorCenter",
+    "cs_type": "SimSeniorCenter",
+    "ts_type": "SimSeniorCenter"
+   },
+   {
+    "name": "<SeniorCenter>k__BackingField",
+    "cs_type": "SimSeniorCenter",
+    "ts_type": "SimSeniorCenter"
+   },
+   {
+    "name": "_genesisEntities",
+    "cs_type": "GenesisEntityContainer",
+    "ts_type": "GenesisEntityContainer"
+   },
+   {
+    "name": "_featureContainerKeys",
+    "cs_type": "List<string>",
+    "ts_type": "string[]"
+   },
+   {
+    "name": "_featureContainerValues",
+    "cs_type": "List<GenesisFeatureContainer>",
+    "ts_type": "GenesisFeatureContainer[]"
+   },
+   {
+    "name": "_featureContainerSchemaReadyGenerations",
+    "cs_type": "Dictionary<string, int>",
+    "ts_type": "{ [key: string]: number }"
+   },
+   {
+    "name": "_featureContainerSchemaReadyInstances",
+    "cs_type": "Dictionary<string, GenesisFeatureContainer>",
+    "ts_type": "{ [key: string]: GenesisFeatureContainer }"
+   },
+   {
+    "name": "_reportedFeatureContainerPairRepair",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "_reportedFeatureContainerSchemaDiagnostics",
+    "cs_type": "HashSet<string>",
+    "ts_type": "string[]"
+   },
+   {
+    "name": "<_OutdoorFishingTreasureArray>k__BackingField",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "<HasBicycleGivenByParent>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<NumTimesHackSuccessThisYear>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<PodCast>k__BackingField",
+    "cs_type": "SimPodcast",
+    "ts_type": "SimPodcast"
+   },
+   {
+    "name": "_MusicProfession",
+    "cs_type": "SimMusicProfession",
+    "ts_type": "SimMusicProfession"
+   },
+   {
+    "name": "_fightClub",
+    "cs_type": "SimFightClub",
+    "ts_type": "SimFightClub"
+   }
+  ]
+ },
+ "Scenario": {
+  "kind": "class",
+  "fields": [
+   {
+    "name": "BodyUIEvents",
+    "cs_type": "Dictionary<Type, ScenarioComponentEvent>",
+    "ts_type": "{ [key: Type]: ScenarioComponentEvent }"
+   },
+   {
+    "name": "_ChoiceToOriginalIndex",
+    "cs_type": "Dictionary<ScenarioChoice, int>",
+    "ts_type": "{ [key: ScenarioChoice]: number }"
+   },
+   {
+    "name": "_ChoiceToAction",
+    "cs_type": "Dictionary<ScenarioChoice, Action>",
+    "ts_type": "{ [key: ScenarioChoice]: Action }"
+   },
+   {
+    "name": "HasDismissButton",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "ExteriorTitle",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "Title",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "ImageString",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "Body",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "ImageSprite",
+    "cs_type": "Sprite",
+    "ts_type": "Sprite"
+   },
+   {
+    "name": "ImageSpriteNumVerticalSpacing",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "FocusPerson",
+    "cs_type": "SimPerson",
+    "ts_type": "SimPerson"
+   },
+   {
+    "name": "FocusPet",
+    "cs_type": "SimPet",
+    "ts_type": "SimPet"
+   },
+   {
+    "name": "FocusGhost",
+    "cs_type": "SimGhost",
+    "ts_type": "SimGhost"
+   },
+   {
+    "name": "FocusStreetPerson",
+    "cs_type": "SimStreetPerson",
+    "ts_type": "SimStreetPerson"
+   },
+   {
+    "name": "FocusZooAnimal",
+    "cs_type": "SimZooAnimal",
+    "ts_type": "SimZooAnimal"
+   },
+   {
+    "name": "FocusCustomString",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "FocusCustomEmojiString",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "FocusCustomName",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "TableDictionary",
+    "cs_type": "Dictionary<string, string>",
+    "ts_type": "{ [key: string]: string }"
+   },
+   {
+    "name": "TableOrderArray",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "TableShowsPositiveCurrencyAsGreen",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<NotifyTableDictionaryEntriesCreated>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "BarGraphArray",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "InputFieldArray",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "DropDownArray",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "SliderArray",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "CurrencyTableDictionary",
+    "cs_type": "Dictionary<string, string>",
+    "ts_type": "{ [key: string]: string }"
+   },
+   {
+    "name": "CurrencyTableOrderArray",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "CountdownTableDictionary",
+    "cs_type": "Dictionary<string, string>",
+    "ts_type": "{ [key: string]: string }"
+   },
+   {
+    "name": "MiniGame",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "MiniGameData",
+    "cs_type": "object",
+    "ts_type": "any"
+   },
+   {
+    "name": "MiniGameTextRegistry",
+    "cs_type": "ScenarioMinigameTextRegistry",
+    "ts_type": "ScenarioMinigameTextRegistry"
+   },
+   {
+    "name": "ChoiceArray",
+    "cs_type": "ArrayList",
+    "ts_type": "ArrayList"
+   },
+   {
+    "name": "RandomizeChoices",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "PostChoiceTextList",
+    "cs_type": "List<ScenarioChoice>",
+    "ts_type": "ScenarioChoice[]"
+   },
+   {
+    "name": "PostChoiceTextListHeight",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NextScenario>k__BackingField",
+    "cs_type": "Scenario",
+    "ts_type": "Scenario"
+   },
+   {
+    "name": "DeferScenarioAdvancementOnClose",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "PushScenario",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "FeedbackStyleScenario",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "CollapseAnyOpenListsOnDismiss",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "Damage",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "DeathAnimation",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "ColorScheme",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "CustomSoundFileName",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "CustomSound",
+    "cs_type": "SOUND",
+    "ts_type": "SOUND"
+   },
+   {
+    "name": "DisallowRandomSelection",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "CancelScenario",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "LightningOnDismiss",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "DeferAfterChain",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "ClickedRandomSelection",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "BackgroundEffect",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "CustomAudioClip",
+    "cs_type": "AudioClip",
+    "ts_type": "AudioClip"
+   },
+   {
+    "name": "<VotingCategory>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "IsPrisonThemable",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "IsInvalid",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   }
+  ]
+ },
+ "StatType": {
+  "kind": "enum",
+  "members": {
+   "None": 0,
+   "Happiness": 1,
+   "Health": 2,
+   "Smarts": 4,
+   "Looks": 8,
+   "Essence": 16,
+   "Fame": 32,
+   "Reputation": 64,
+   "Infamy": 128,
+   "StreetSmarts": 256,
+   "Performance": 512,
+   "Greatness": 1024,
+   "Popularity": 2048,
+   "Approval": 4096,
+   "Charisma": 8192,
+   "Respect": 16384
+  }
+ },
+ "SimHero": {
+  "kind": "class",
+  "fields": []
+ },
+ "SimWorld": {
+  "kind": "class",
+  "fields": [
+   {
+    "name": "<War>k__BackingField",
+    "cs_type": "SimWar",
+    "ts_type": "SimWar"
+   }
+  ]
+ },
+ "SimPerson": {
+  "kind": "class",
+  "fields": [
+   {
+    "name": "NumIncrementAges",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Name>k__BackingField",
+    "cs_type": "SimPersonName",
+    "ts_type": "SimPersonName"
+   },
+   {
+    "name": "<Alive>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<Gender>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Age>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Sexuality>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<IsValentine>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "PlaceOfResidenceString",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "_PlaceOfResidence",
+    "cs_type": "SimPlace",
+    "ts_type": "SimPlace"
+   },
+   {
+    "name": "<YearsSinceDeath>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<LgbtqGenderIdentity>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Pregnancy>k__BackingField",
+    "cs_type": "SimPregnancy",
+    "ts_type": "SimPregnancy"
+   },
+   {
+    "name": "<OnBirthControl>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<AccessoryHeadwearIndex>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AccessorySunglassesIndex>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AccessoryMaskIndex>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AccessoryForeheadTattooIndex>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AccessoryLeftCheekTattooIndex>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<AccessoryRightCheekTattooIndex>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroInvitedToSleepoverThisYear>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<Assets>k__BackingField",
+    "cs_type": "SimThirdPersonAssets",
+    "ts_type": "SimThirdPersonAssets"
+   },
+   {
+    "name": "_Script",
+    "cs_type": "SimThirdPersonScript",
+    "ts_type": "SimThirdPersonScript"
+   },
+   {
+    "name": "<EmojiScript>k__BackingField",
+    "cs_type": "PersonEmojiScript",
+    "ts_type": "PersonEmojiScript"
+   },
+   {
+    "name": "<Att_happiness>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_health>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_intelligence>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_appearance>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_discipline>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_karma>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_homo>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_fertility>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_willpower>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_wiliness>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_generosity>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_fame>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_athleticism>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_money>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_craziness>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_loyalty>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_connection>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_charisma>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_music>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_acting>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_modeling>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Att_dealing>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<ShortTermAppearancePoints>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "PlaceOfBirthString",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "_PlaceOfBirth",
+    "cs_type": "SimPlace",
+    "ts_type": "SimPlace"
+   },
+   {
+    "name": "<GenderAtBirth>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<NameAtBirth>k__BackingField",
+    "cs_type": "SimPersonName",
+    "ts_type": "SimPersonName"
+   },
+   {
+    "name": "PersonAtBirth",
+    "cs_type": "SimPerson",
+    "ts_type": "SimPerson"
+   },
+   {
+    "name": "<SkinColor>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<LgbtqGenderInclination>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroRelationshipStrength>k__BackingField",
+    "cs_type": "float",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastConversation>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastSpendTime>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastMourn>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastAskForMoney>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroTimesAskedForMoneyThisYear>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastAskForBicycle>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroTimesAskedForBicycleThisYear>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroTimesRefusedBicycleThisYear>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroTimesAskedForMoney>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastGiveMoney>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastCompliment>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastMovie>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroGivenPoliceWarning>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "_HeroAgeAtLastHeroGaveGift",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastWroteLetterFromPrison>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastMurderAttempt>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastWatchedYouTube>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastUnfriendAttempt>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeWhenLastSued>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastConcert>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastHeroCheatedWithPartner>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastDelinquentBehavior>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastRejectedBigTicketItem>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastGiveHouse>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastGiveCar>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastStartedRumor>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<FriendStatus>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<YearsFriends>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<ChildhoodFriend>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<HeroAgeAtLastBestFriendRequest>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastBecameEnemies>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastInsult>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastRejectedMarketAdvice>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<HeroAgeAtLastGaveMarketAdvice>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<MarketAdviceString>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<MarketTipString>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<HasWarnedHeroAboutDealingDrugs>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<TimesRejectedHeroForDealingThemNonDrugs>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<TimesRejectedHeroForDealingThemDrugs>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<SpecificAssetAdviceDict>k__BackingField",
+    "cs_type": "Dictionary<string, AssetAdviceDict>",
+    "ts_type": "{ [key: string]: AssetAdviceDict }"
+   },
+   {
+    "name": "<Proxy>k__BackingField",
+    "cs_type": "SimPerson",
+    "ts_type": "SimPerson"
+   },
+   {
+    "name": "<HeroAgeAtLastGiveAuctionItem>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<Vampire>k__BackingField",
+    "cs_type": "SimVampire",
+    "ts_type": "SimVampire"
+   },
+   {
+    "name": "<VampireDiseaseCarrier>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "IsDestinedToBecomeVampire",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "_lastIncrementAges",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "PronounMap",
+    "cs_type": "readonly Dictionary<string, PRONOUN_TYPE>",
+    "ts_type": "any"
+   }
+  ]
+ },
+ "SimDeath": {
+  "kind": "class",
+  "fields": [
+   {
+    "name": "<DeathType>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<DescriptiveSentence>k__BackingField",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "OverdoseDrug",
+    "cs_type": "DataDrug",
+    "ts_type": "DataDrug"
+   },
+   {
+    "name": "FatalDisease",
+    "cs_type": "SimDisease",
+    "ts_type": "SimDisease"
+   },
+   {
+    "name": "KillerAnimal",
+    "cs_type": "DataAnimal",
+    "ts_type": "DataAnimal"
+   },
+   {
+    "name": "FighterKillerAnimal",
+    "cs_type": "DataFightErAnimal",
+    "ts_type": "DataFightErAnimal"
+   },
+   {
+    "name": "FatalWitchRemedy",
+    "cs_type": "DataWitchRemedy",
+    "ts_type": "DataWitchRemedy"
+   },
+   {
+    "name": "FatalPlasticSurgery",
+    "cs_type": "DataPlasticSurgery",
+    "ts_type": "DataPlasticSurgery"
+   },
+   {
+    "name": "KillerPet",
+    "cs_type": "SimPet",
+    "ts_type": "SimPet"
+   },
+   {
+    "name": "KilledWithWeaponString",
+    "cs_type": "string",
+    "ts_type": "string"
+   },
+   {
+    "name": "<AgeAtDeath>k__BackingField",
+    "cs_type": "int",
+    "ts_type": "number"
+   },
+   {
+    "name": "<DiedAHero>k__BackingField",
+    "cs_type": "bool",
+    "ts_type": "boolean"
+   },
+   {
+    "name": "<Inheritence>k__BackingField",
+    "cs_type": "double",
+    "ts_type": "number"
+   }
+  ]
+ }
+}

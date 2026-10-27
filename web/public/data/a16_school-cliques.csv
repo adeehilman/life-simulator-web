@@ -1,0 +1,19 @@
+Index,Clique,Popularity,Aggression,Description,Short Description,Requires Nerd Activity,Requires Sports Activity,Requires Band Activity,Requires Acting Activity,Requires Arts Activity,Requires Gaming Activity,Requires Weeb Activity,Requires Skateboarding Club,Requires Trouble,Requires No Activities,Min Athleticism,Min Grades,Max Grades,Min Smarts,Max Smarts,Min Looks,Max Looks,Min Popularity,Max Popularity,Max Happiness,Gender,Popularity Score
+1,Jocks,100,100,You must be an athlete with little interest in intellectual culture to join this clique.,An athletic clique,,x,,,,,,,,,60,,,,,,,50,,,male,5
+2,Nerds,20,5,You must be seen as overly intellectual or introverted to join this clique.,An intellectual clique,x,,,,,,,,,,,,,,,,50,,50,,both,1
+3,Hipsters,50,15,You must flaunt varied non-mainstream sensibilities to join this clique.,A hipster clique,,,,,,,,,,,,,,,,,,30,,,both,2
+4,Popular Kids,100,35,You must be among the most popular kids in school to join this clique.,A popular clique,,,,,,,,,,,,,,,,,,80,,,both,5
+5,Social Floaters,80,15,You must demonstrate an uncanny ability to slip in with different groups to join this clique.,A chameleon clique,x,x,,,x,,,,,,,,,,,,,,,,both,4
+6,Talented Kids,60,5,You must be multi-talented to join this special clique.,A multi-talented clique,,x,,,x,,,,,,80,80,,80,,,,,,,both,3
+7,Drama Kids,30,5,You must be obsessed with Broadway musicals and aspire to do theatre to join this clique.,A thespian clique,,,,x,,,,,,,,,,,,,,,,,both,2
+8,Brainy Kids,10,2,You must have high smarts and grades to join this special clique.,A high functioning clique,,,,,,,,,,,,90,,90,,,,,,,both,1
+9,Artsy Kids,15,5,You must be artistically inclined to join this creative clique.,An artsy clique,,,,,x,,,,,,,,,,,,,,,,both,1
+10,Normals,20,10,You must be devoid of abnormalities to join this extremely average clique.,A non-clique clique,,,,,,,,,,x,,,,30,70,30,70,30,70,,both,1
+11,Band Geeks,5,5,You must enjoy blowing on or fingering instruments to join this clique.,A geeky clique,,,x,,,,,,,,,,,,,,,,,,both,0
+12,Mean Girls,90,100,You must engage in gossip and crave popularity to join this elite clique.,An elite female clique,,,,,,,,,,,,,,,,70,,70,,,female,4
+13,Weebs,5,5,You must be obsessed with Japanese culture to join this strange clique.,A weeb clique,,,,,,,x,,,,,,,,,,,,,,both,0
+14,Gamers,35,15,You must be obsessed with gaming and gamer culture to join this clique.,A gamer clique,,,,,,x,,,,,,,,,,,,,,,both,2
+15,Skaters,55,50,You must dedicate your life to skating to join this rebellious clique.,A skateboarding clique,,,,,,,,x,,,,,,,,,,,,,both,3
+16,Troublemakers,20,80,You must frequently get up to trouble in school to join this dubious clique.,An instigator clique,,,,,,,,,x,x,,,60,,60,,,,,40,both,1
+17,Goths,10,30,You must enjoy dark attire and makeup to join this post-punk clique.,A gothic clique,,,,,,,,,,x,,,,,,,60,,50,50,both,0
+18,Loners,0,20,You must be disliked and unhappy to join this very lonely clique.,An undesirable clique,,,,,,,,,,x,,,,,,,,,20,30,both,-1

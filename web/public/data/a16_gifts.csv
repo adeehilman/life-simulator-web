@@ -1,0 +1,384 @@
+Gift,Is Singular,Use Them,Is Flowers,Cost,Male Appreciation Score,Female Appreciation Score,Min Age,Max Age,Commonness Score,Can Be Shoplifted,Sack Exclusive
+shrunken head,x,,,50000,2,-5,18,,1,,
+Rolex watch,x,,,10000,5,5,16,,1,x,
+Italian leather sofa,x,,,4500,5,5,18,,1,,
+human skull,x,,,2000,2,-5,18,,1,x,
+Louis Vuitton handbag,x,,,1600,-2,5,16,,1,x,
+Bowflex home gym,x,,,1500,3,2,18,60,1,,
+NordicTrack treadmill,x,,,1500,2,2,18,,1,,
+set of Ping golf clubs,x,,,1000,3,-2,16,,1,x,
+pool table,x,,,1000,5,3,14,,1,,
+taxidermized deer,x,,,850,-3,-5,18,,1,,
+Molekule air purifier,x,,,700,3,4,18,,2,x,
+Fender guitar,x,,,700,4,4,14,,2,x,
+Samsung smart TV,x,,,600,5,5,12,,2,x,
+gym membership,x,,,600,-2,-2,18,,1,,
+Roomba vacuum,x,,,500,5,5,18,,3,x,
+diamond earrings,,x,,500,4,5,12,,1,x,
+"50,000 piece puzzle",x,,,500,-1,-1,14,,1,x,
+mountain lion skin,x,,,500,4,-5,18,,1,,
+portable movie projector,x,,,500,4,3,16,,2,x,
+Vitamix blender,x,,,400,5,5,18,,2,x,
+DJI drone,x,,,400,5,3,10,50,2,x,
+Dell Chromebook laptop,x,,,400,-1,-1,8,,2,x,
+paddleboard,x,,,400,4,3,16,60,2,,
+electronic drum kit,x,,,400,5,3,10,30,2,x,
+gold ring,x,,,400,3,5,18,,2,x,
+Nintendo Switch,x,,,360,5,5,5,40,4,x,
+Dyson vacuum,x,,,300,5,5,18,,3,x,
+PlayStation 5,x,,,300,4,4,6,60,2,x,
+bidet toilet seat,x,,,300,3,3,30,,2,x,
+bottle of Cristal,x,,,280,5,5,21,,3,x,
+Schwinn bicycle,x,,,250,4,3,8,,2,,
+motorized cooler,x,,,250,4,3,18,,2,x,
+Xbox Series X,x,,,210,3,3,5,40,2,x,
+DeWalt blower,x,,,200,2,1,18,,2,x,
+espresso machine,x,,,200,4,4,16,,3,x,
+Sonos One smart speaker,x,,,200,4,3,14,,4,x,
+Patagonia jacket,x,,,200,4,4,14,,3,x,
+virtual reality headset,x,,,200,3,1,14,30,4,x,
+Bose Bluetooth speaker,x,,,180,4,4,12,,2,x,
+Barbie Dreamhouse,x,,,180,-4,4,3,12,3,x,
+bottle of Dom Perignon,x,,,180,5,5,21,,3,x,
+Nest thermostat,x,,,180,4,3,30,,3,x,
+Beats headphones,,x,,160,5,5,10,,3,x,
+Ray-Ban sunglasses,,x,,150,4,4,14,,3,x,
+Amazon Fire tablet,x,,,150,3,3,10,,3,x,
+hair regrowth product,x,,,150,-5,-5,35,,2,x,
+Coach sunglasses,,x,,150,3,4,14,,2,x,
+Char-Broil grill,x,,,150,4,1,18,,2,,
+hot dog machine,x,,,150,2,2,18,,2,x,
+train set,x,,,150,5,2,6,12,5,x,
+personalized bathrobe,x,,,150,1,3,25,,2,,
+Keurig coffee maker,x,,,140,4,4,18,,3,x,
+popcorn machine,x,,,130,2,2,16,,2,,
+Fossil watch,x,,,120,4,3,12,,3,x,
+stripper pole,x,,,120,-2,2,18,40,1,x,
+Zumiez skateboard,x,,,120,3,1,10,30,3,x,
+Dutch oven,x,,,120,-3,2,18,,3,x,
+18-piece knife set,x,,,120,3,3,18,,2,x,
+Fitbit,x,,,100,3,3,14,,4,x,
+Fuji instant camera,x,,,100,1,3,14,,2,x,
+Ring video doorbell,x,,,100,4,3,30,,3,x,
+NutriBullet blender,x,,,100,3,4,18,,3,x,
+box of Cuban cigars,x,,,100,5,-2,18,,3,x,
+Lululemon tights,,x,,100,-4,4,16,,3,x,
+glass bong,x,,,100,5,3,18,22,1,x,
+Instant Pot,x,,,85,1,3,18,,2,x,
+sensory gym,x,,,80,5,5,1,2,3,x,
+Radio Flyer wagon,x,,,80,4,2,3,12,2,x,
+globe,x,,,80,-1,-1,14,,2,x,
+Ronaldo soccer jersey,x,,,80,3,-2,10,30,2,x,
+Messi soccer jersey,x,,,80,3,-2,10,30,2,x,
+Lebron James jersey,x,,,80,3,-2,10,30,2,x,
+Air Jordan shoes,,x,,80,4,3,12,40,2,x,
+Omaha Steaks package,x,,,80,3,2,18,,4,x,
+remote control car,x,,,80,5,1,6,18,3,x,
+cryotherapy session,x,,,80,-3,3,21,,3,,
+bottle of scotch,x,,,75,4,3,21,,3,x,
+Braun electric razor,x,,,75,5,3,13,,3,x,
+camping tent,x,,,75,3,1,12,,3,x,
+cocktail maker set,x,,,75,4,4,21,,4,x,
+Craftsman jig saw,x,,,70,3,1,18,,2,x,
+smart yoga mat,x,,,70,3,4,14,,3,x,
+North Face backpack,x,,,65,2,2,14,40,3,x,
+Ryobi drill,x,,,60,4,-1,16,,3,x,
+wreath of assorted flowers,x,,x,60,-2,4,18,,2,,
+Super Mario Wonder game,x,,,60,5,5,5,25,2,x,
+Canon binoculars,,x,,60,1,1,14,,2,x,
+Levi's jean jacket,x,,,60,3,3,14,,2,x,
+oil diffuser,x,,,55,2,4,18,,3,x,
+Revlon hair dryer,x,,,50,-3,3,12,,2,x,
+Lego set,x,,,50,4,2,5,12,5,x,
+Cobra 2-way radios,,x,,50,4,-3,10,50,1,x,
+wrinkle cream,,,,50,-4,-5,30,,2,x,
+Hitachi Magic Wand,x,,,50,-4,5,14,,2,x,
+teeth whitening kit,x,,,50,-5,-5,30,,1,x,
+Star Wars onesie,x,,,50,2,2,1,,3,x,
+vase of orchids,x,,x,50,-2,4,14,,2,,
+fountain pen,x,,,50,1,-1,16,,3,x,
+toy drum set,x,,,50,2,2,3,8,3,x,
+Brookstone back massager,x,,,50,3,3,18,,3,x,
+reading glasses,,x,,50,-4,-4,16,,1,x,
+two-piece pajama set,x,,,50,-3,2,6,,3,x,
+Steve Madden shoes,,x,,50,-3,3,14,,4,x,
+keg of beer,x,,,50,5,3,21,40,2,x,
+bouquet of chrysanthemums,x,,x,40,2,4,14,,3,,
+bottle of Burberry perfume,x,,,40,-3,4,14,,3,x,
+bottle of Versace cologne,x,,,40,3,-5,14,,3,x,
+Amazon Fire TV stick,x,,,40,3,3,14,,3,x,
+Roku media player,x,,,40,3,3,12,,3,x,
+fruit basket,x,,,40,-2,-2,18,,1,x,
+bouquet of tulips,x,,x,40,-2,4,14,,3,,
+spice kit,x,,,40,2,2,18,,3,x,
+scarf,x,,,40,-3,3,14,,5,x,
+teapot,x,,,40,-3,-1,18,,2,x,
+French press coffee maker,x,,,40,1,2,18,,2,x,
+Ralph Lauren wallet,x,,,40,2,1,14,,3,x,
+chemistry set,x,,,40,2,1,8,18,4,x,
+poker set,x,,,40,4,-3,16,,3,x,
+switchblade knife,x,,,40,3,-3,18,30,2,x,
+BitLife hoodie,x,,,40,5,5,12,,1,x,
+Google Home Mini,x,,,35,2,2,18,,3,x,
+Lush bath set,x,,,35,-3,2,18,,5,x,
+Super Smash Bros video game,x,,,70,4,-1,10,40,3,x,
+wine decanter,x,,,35,-2,3,21,,3,x,
+bottle of wine,x,,,30,3,3,21,,5,x,
+box of chocolates,x,,,30,3,5,6,,5,x,
+glitter bomb,x,,,30,-3,-3,7,,1,,
+Barbie doll,x,,,30,-5,4,4,11,5,x,
+wool sweater,x,,,30,-3,-3,12,,2,x,
+Buzz Lightyear doll,x,,,30,4,2,3,11,4,x,
+Scarlet Witch action figure,x,,,30,2,5,3,11,3,x,
+toy dinosaur,x,,,30,5,1,3,11,4,x,
+Razor scooter,x,,,30,5,3,5,13,4,x,
+cane,x,,,30,-5,-5,65,,1,x,
+nose trimmer,x,,,30,-2,-5,65,,1,x,
+dozen red roses,x,,x,30,-2,4,14,,4,x,
+ant farm,x,,,30,2,-1,8,13,2,x,
+scented candle,x,,,30,-2,3,18,,4,x,
+Nerf Super Soaker,x,,,30,4,1,4,13,3,x,
+leather journal,x,,,30,-1,1,12,30,2,x,
+memory foam pillow,x,,,30,2,2,18,,3,x,
+Breath of the Wild video game,x,,,70,4,4,10,40,2,x,
+Speck phone case,x,,,30,1,1,10,,3,x,
+Stanley tool box,x,,,30,3,1,18,,2,x,
+CBD oil,,,,30,3,3,25,,2,x,
+coffee grinder,x,,,30,1,1,18,,3,x,
+dartboard,x,,,30,2,-3,14,,4,x,
+manicure set,x,,,30,-3,2,14,,3,x,
+Dead Sea bath salts,,x,,25,-3,3,14,,3,x,
+dumbbell weight set,x,,,25,-3,-5,18,,2,x,
+fruitcake,x,,,25,-5,-5,14,,2,x,
+bouquet of wildflowers,x,,x,25,-2,3,14,,3,,
+bunch of pansies,x,,x,25,-5,3,14,,3,,
+Echo Dot,x,,,25,3,3,14,,4,x,
+Wilson tennis racquet,x,,,25,2,1,10,,2,x,
+Crocs sandals,,x,,25,-3,-3,18,,2,x,
+ShamWow set,x,,,25,-3,-3,18,,2,x,
+Minecraft video game,x,,,25,4,1,10,40,3,x,
+Craftsman screwdriver set,x,,,25,1,1,18,,3,x,
+bottle of vodka,x,,,25,3,4,21,,5,x,
+bottle of whiskey,x,,,25,4,3,21,,5,x,
+bottle of tequila,x,,,25,4,3,21,,5,x,
+bottle of rum,x,,,25,3,3,21,,5,x,
+compass,x,,,25,-1,-1,12,,2,x,
+piggy bank,x,,,25,-2,-2,5,13,1,x,
+penis enlargement pills,,x,,25,-5,3,18,,2,x,
+Squatty Potty,x,,,25,-4,-4,30,,1,x,
+white noise machine,x,,,25,-1,-1,30,,2,x,
+George Foreman grill,x,,,25,3,3,18,,4,x,
+Michael Kors belt,x,,,25,1,2,14,,4,x,
+pair of Wranglers,x,,,25,2,2,14,,4,x,
+bamboo underwear,,,,25,1,2,16,,3,x,
+Feed Me Cookie Monster,x,,,20,4,3,1,10,3,x,
+Nerf gun,x,,,20,5,-1,5,12,5,x,
+Conair curling iron,x,,,20,-4,2,12,,1,x,
+book,x,,,20,1,1,2,,5,x,
+onion goggles,,x,,20,-2,-2,18,,1,x,
+Black Panther mask,x,,,20,5,-1,3,16,3,x,
+soccer ball,x,,,20,5,-1,4,40,3,x,
+yoga mat,x,,,20,-3,2,16,,3,x,
+ABC musical train,x,,,20,5,3,1,5,4,x,
+garden gnome,x,,,20,-2,-4,18,,3,x,
+Nalgene water bottle,x,,,20,2,2,14,,3,x,
+3D Harry Potter puzzle,x,,,20,1,1,8,,2,x,
+Starbucks gift card,x,,,20,3,3,16,,5,x,
+Amazon gift card,x,,,20,3,3,10,,5,x,
+Visa gift card,x,,,20,3,3,10,,5,x,
+basketball,x,,,20,2,1,6,40,4,x,
+football,x,,,20,2,-1,6,40,4,x,
+vanilla body scrub,x,,,20,-3,2,12,,4,x,
+Mickey Mouse t-shirt,x,,,20,-1,1,2,25,3,x,
+Superman t-shirt,x,,,20,-1,-4,5,,2,x,
+Hard Rock t-shirt,x,,,20,-3,-3,16,,2,x,
+Taylor Swift t-shirt,x,,,20,-5,4,10,20,1,x,
+box of cockroaches,x,,,20,-5,-5,18,,2,,
+electric blanket,x,,,20,1,1,14,,2,x,
+fabric steamer,x,,,20,-3,1,20,,2,x,
+umbrella,x,,,20,-3,-3,16,,1,x,
+electric toothbrush,x,,,20,1,1,14,,2,x,
+rechargeable battery set,x,,,20,1,-2,8,,2,x,
+one-ply toilet paper,,,,20,-5,-5,18,,1,x,
+anti-aging cream,,,,20,-4,-4,25,,1,x,
+flask,x,,,20,3,2,21,,3,x,
+smart beanie,x,,,20,2,2,14,40,2,x,
+bird feeder,x,,,20,-3,-1,30,,3,x,
+mini zen garden,x,,,20,-3,-3,18,,3,x,
+Bluetooth gloves,,,,20,1,1,14,30,2,x,
+Arizona Wildcats visor,x,,,20,5,5,18,22,1,x,
+stink bomb,x,,,15,-3,-4,7,,1,x,
+Paw Patrol toy truck,x,,,15,3,1,2,5,3,x,
+Little Tikes truck,x,,,15,4,2,2,5,4,x,
+bathroom scale,x,,,15,-4,-5,18,,1,x,
+romance novel,x,,,15,-5,-3,18,,2,x,
+socks,,x,,15,-3,-3,1,,3,x,
+Aqua-man action figure,x,,,15,5,-1,3,11,3,x,
+Play-Doh set,x,,,15,2,2,3,10,3,x,
+Chutes & Ladders game,x,,,15,2,2,4,7,3,x,
+Battleship game,x,,,15,2,-2,7,16,3,x,
+Bang game,,,,15,3,3,10,,2,x,
+Scrabble game,x,,,15,-2,-2,16,,3,x,
+Monopoly game,x,,,15,1,1,10,,3,x,
+corkscrew,x,,,15,-1,-1,21,,2,x,
+Hot Wheels car,x,,,15,3,-2,2,12,4,x,
+Etch A Sketch,x,,,15,-1,-1,2,10,2,x,
+Chia Pet,x,,,15,-3,-3,12,,2,x,
+Batman Snuggie,x,,,15,-2,-4,3,30,2,x,
+SlimFast shake mix,,,,15,-5,-5,18,,3,x,
+phone charger,x,,,15,1,1,13,,2,x,
+Veja sneakers,,,,130,2,5,18,,1,x,
+snugger fit condoms,,x,,15,-5,-5,18,30,1,x,
+self-help book,x,,,15,-3,-3,18,,2,x,
+rainbow t-shirt,x,,,15,-3,-3,16,,1,x,
+pimple popping toy,x,,,15,-4,-4,10,30,1,x,
+unicorn pool float,x,,,15,-3,2,14,30,3,x,
+earmuffs,,x,,15,-3,-3,16,,3,x,
+foot hammock,x,,,15,1,1,18,,1,x,
+selfie stick,x,,,10,1,2,10,40,3,x,
+sewing kit,x,,,10,-4,-1,12,,2,x,
+Shake Weight,x,,,10,2,-2,14,,2,x,
+Pokemon Charmander figure,x,,,10,5,3,3,11,3,x,
+broom,x,,,10,-5,-5,18,,1,x,
+yo-yo,x,,,10,1,-3,5,18,2,x,
+Rubik's Cube,x,,,10,1,1,12,30,3,x,
+teddy bear,x,,,10,1,3,1,8,5,x,
+shape sorter,x,,,10,2,2,2,4,4,x,
+pill organizer,x,,,10,-5,-5,65,,1,x,
+magnifying glass,x,,,10,1,-3,65,,2,x,
+shoehorn,x,,,10,-1,-5,65,,1,x,
+stacking rings,,,,10,3,3,1,2,5,x,
+blocks,,,,10,3,3,1,5,4,x,
+single carnation,x,,x,10,1,1,6,,2,,
+soap dish,x,,,10,-2,-3,18,,2,x,
+Little Tikes basketball,x,,,10,4,1,1,5,3,x,
+Connect 4 game,x,,,10,1,1,6,14,3,x,
+colored pencil set,x,,,10,-1,2,5,25,3,x,
+Yoda coffee mug,x,,,10,2,-3,16,,1,x,
+puppy calendar,x,,,10,-5,-3,12,,2,x,
+fake desk cactus,x,,,10,-3,-3,16,,2,x,
+whopee cushion,x,,,10,-2,-5,8,30,1,x,
+Jurassic Park DVD,x,,,10,-1,-1,10,,1,x,
+compression eye mask,x,,,10,-2,-2,40,,1,x,
+cooling eye mask,x,,,10,-1,-1,25,,1,x,
+hair dye kit,x,,,10,-3,-3,18,,1,x,
+acne treatment soap,x,,,10,-5,-5,14,30,1,x,
+bottle of hot sauce,x,,,10,1,-1,16,,3,x,
+yodeling pickle toy,x,,,10,2,-4,8,25,2,x,
+cooking apron,x,,,10,-3,-2,18,,2,x,
+clown nose,x,,,7,-3,-3,10,,1,x,
+toothbrush,x,,,5,-3,-3,5,,1,x,
+kitten calendar,x,,,5,-3,1,10,,3,x,
+tweezers,,,,5,-4,-1,18,,1,x,
+can opener,x,,,5,-3,-4,18,,1,x,
+fidget spinner,x,,,5,2,-1,6,16,3,x,
+hula-hoop,x,,,5,-4,1,5,12,3,x,
+rattle,x,,,5,5,5,1,2,5,x,
+single red rose,x,,x,5,-3,3,6,,3,,
+ashtray,x,,,5,-4,-4,18,,2,x,
+key chain,x,,,5,-3,-3,14,,4,x,
+used vibrator,x,,,5,-5,-5,18,,1,,
+rabbit's foot,x,,,5,-5,-5,12,,1,x,
+deodorant stick,x,,,5,-5,-5,18,,5,x,
+jar of mouthwash,x,,,5,-5,-5,18,,3,x,
+BitLife Bitizenship,x,,,5,5,5,13,,2,,
+BitLife Boss Mode,x,,,15,5,5,13,,2,,
+facial wax strips,,x,,5,-4,-5,18,,1,x,
+Odor-Eaters insoles,,x,,5,-3,-3,14,,1,x,
+bottle of lotion,x,,,5,3,3,13,20,1,x,
+rainbow keychain,x,,,5,5,5,16,,1,x,
+bag of Hot Cheetos,x,,,3,2,2,5,15,2,x,
+box of mismatched socks,x,,,3,-2,-2,3,,1,,
+fly swatter,x,,,2,-4,-4,15,,1,x,
+Altoids,,x,,2,-5,-5,14,,1,x,
+hard candy,,,,2,5,3,5,,5,x,
+rubber band ball,x,,,2,-2,-2,5,12,1,,
+Jumanji DVD case,x,,,1,-2,-2,10,15,1,x,
+stress ball,x,,,1,1,-1,16,,1,x,
+dead daisy,x,,x,1,-5,-5,14,,1,,
+wilting sunflower,x,,x,1,-5,-5,14,,2,,
+Pickle Rick action figure,x,,,0,4,4,15,,1,,x
+fragile fishnet-stockinged leg lamp,x,,,0,5,-1,50,,1,,x
+candy cane,x,,,0,1,1,6,,4,,x
+cup of hot cocoa,x,,,0,2,2,6,,3,,x
+sleigh bells,,x,,0,1,1,10,,4,,x
+snowflake ninja star,x,,,0,3,-1,15,30,3,,x
+authentic reindeer antlers,,x,,0,4,-3,35,80,2,,x
+gingerbread house,x,,,0,4,4,6,15,3,,x
+colorful twinkle lights,,x,,0,2,3,15,,2,,x
+Winter Town snowglobe,x,,,0,1,1,5,,1,,x
+elf costume,x,,,0,-3,-3,5,,3,,x
+Santa costume,x,,,0,-2,-4,5,,3,,x
+Rudolph costume,x,,,0,-1,-1,5,,3,,x
+corncob pipe,x,,,0,2,1,18,,2,,x
+red-and-green scarf,x,,,0,2,3,10,,2,,x
+ornate gold star,x,,,0,2,4,18,,3,,x
+alcohol-free eggnog,x,,,0,2,2,5,,3,,x
+spiked eggnog,x,,,0,5,5,21,,1,,x
+gold stocking,x,,,0,2,2,10,,4,,x
+Yule log,x,,,0,1,1,18,,3,,x
+Pikachu Santa tree ornament,x,,,0,3,3,5,30,2,,x
+candy cane dildo,x,,,0,-2,1,18,,1,,x
+peppermint-scented foot exfoliant,x,,,0,-3,3,15,,3,,x
+bough of holly,x,,,0,-2,-3,5,,3,,x
+silver bell,x,,,0,1,2,5,,3,,x
+holly-shaped anal beads,,x,,0,-5,-5,18,,1,,x
+lump of coal,x,,,0,-5,-5,5,,5,,x
+two front teeth,,x,,0,-5,-5,5,15,1,,x
+miniature Santa,x,,,0,1,1,5,,3,,x
+chocolate coins,,x,,0,3,3,5,10,3,,x
+BitLife advent calendar,x,,,0,5,5,15,,3,,x
+sackful of reindeer poop,x,,,0,-5,-5,13,,2,,x
+sackful of elf poop,x,,,0,-5,-5,13,,2,,x
+red-and-white ice skates,,x,,0,2,4,10,,3,,x
+ornamental wreath,x,,,0,1,3,50,,3,,x
+tinsel bra,x,,,0,-5,5,18,,1,,x
+Jingle Bells athletic supporter,x,,,0,5,-5,18,,1,,x
+roll of wrapping paper,x,,,0,-3,-3,5,,3,,x
+red poofball hat,x,,,0,5,2,8,12,2,,x
+sperm-shaped tree ornament,x,,,0,5,5,18,,2,,x
+Santa-shaped coffee mug,x,,,0,1,1,13,,5,,x
+classic Santa hat,x,,,0,2,2,5,,5,,x
+mistletoe butt plug,x,,,0,-3,-3,18,,1,,x
+can of Who hash,x,,,0,-2,-2,10,,2,,x
+twinkle light-shaped vibrator,x,,,0,4,4,18,,1,,x
+latex Santa skirt,x,,,0,-2,2,18,,2,,x
+holly crown,x,,,0,1,1,15,,3,,x
+candy cane-inspired stripper pole,x,,,0,4,4,18,,1,,x
+sugarplum-inspired truck nuts,,x,,0,5,-5,18,,1,,x
+BitLife tree skirt,x,,,0,1,1,50,,1,,x
+toy train,x,,,0,4,4,5,10,3,,x
+model light blue '54 convertible,x,,,0,5,5,10,,2,,x
+bright red sled,x,,,0,2,2,5,15,4,,x
+toy Red Ryder BB gun,x,,,0,5,2,5,10,1,,x
+trash can lid sled,x,,,0,-5,-5,5,,2,,x
+cake of soap,x,,,0,-2,-2,10,,2,,x
+red-and-green ribbon,x,,,0,-1,1,5,10,5,,x
+glowing red nose,x,,,0,1,1,5,10,5,,x
+Santa cookie jar,x,,,0,2,2,14,,5,,x
+gallon of whole milk,x,,,0,-2,-2,15,,3,,x
+Krampus shackle,x,,,0,-5,-5,5,15,2,,x
+sperm-shaped nutcracker,x,,,0,2,2,18,,1,,x
+sugarplum fairy figurine,x,,,0,-2,5,10,18,4,,x
+Rat King figurine,x,,,0,-3,-3,5,,2,,x
+Mariah Carey Christmas album,x,,,0,5,5,15,,5,,x
+DogLife sticker wreath,x,,,0,5,5,10,,1,,x
+toy soldier set,x,,,0,3,-2,5,10,2,,x
+poinsettia planter,x,,x,0,1,3,30,,3,,x
+warm woolen mittens,,x,,0,2,2,10,,3,,x
+CatLife tree topper,x,,,0,5,5,15,,3,,x
+tangled twinkle lights,,x,,0,-5,-5,10,,2,,x
+paper snowflake,x,,,0,-2,-2,4,,3,,x
+one-horse open sleigh,x,,,0,5,5,18,,1,,x
+model airplane,x,,,0,3,1,5,10,4,,x
+taxidermied hippopotamus,x,,,0,5,5,18,,1,,x
+stuffed Olaf,x,,,0,3,3,5,10,3,,x
+spotted elephant doll,x,,,0,1,1,5,,3,,x
+frosted sugar cookies,,x,,0,4,4,1,,5,,x
+roasted chestnuts,,x,,0,2,2,3,,5,,x
+peppermint bark,,x,,0,4,4,1,5,5,,x
+Santa doll,x,,,0,5,5,1,5,5,,x
+Christmas train toy,x,,,0,5,5,1,5,5,,x
+stuffed reindeer,x,,,0,5,5,1,5,5,,x
+Jack-in-the-box,x,,,0,2,2,1,5,4,,x
+water gun,x,,,0,2,2,3,7,2,,x

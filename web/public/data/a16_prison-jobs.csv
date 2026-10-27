@@ -1,0 +1,39 @@
+Job,Description,Daily Rate,Commonness Score
+license plate maker,making license plates,$3,5
+laundry attendant,as a laundry attendant,$3,5
+commissary attendant,as a commissary attendant,$3,4
+commissary stocker,as a commissary stocker,$3,4
+landscaper,as a landscaper,$3,5
+inmate advisor,as an inmate advisor,$5,1
+boiler room maintenance,in the boiler room,$4,2
+plumber,as a plumber,$4,2
+light bulb changer,changing light bulbs,$2,1
+machine fixer,fixing machines,$4,2
+farmer,as a farmer,$3,3
+furniture maker,as a furniture maker,$3,4
+highway sign maker,as a highway sign maker,$3,4
+panty maker,as a panty maker,$3,2
+military uniform maker,as a military uniform maker,$3,3
+military bedding maker,as a military bedding maker,$3,3
+military shoe maker,as a military shoe maker,$3,3
+braille book maker,as a Braille book maker,$4,1
+fruit picker,as a fruit picker,$3,5
+craft maker,as a craft maker,$3,3
+telemarketer,as a telemarketer,$3,4
+call center representative,as a call center representative,$3,4
+canoe maker,as a canoe maker,$3,1
+painter,as a painter,$3,2
+maintenance worker,as a maintenance worker,$3,4
+warehouse worker,as a warehouse worker,$3,4
+line server,as a line server,$3,5
+sanitation worker,as a sanitation worker,$3,4
+baker,as a baker,$2,3
+librarian,as a librarian,$4,2
+library orderly,as a library orderly,$2,3
+tutor,as a tutor,$4,1
+recreation orderly,as a recreation orderly,$2,3
+referee,as a referee,$1,1
+cook,as a cook,$3,4
+chapel orderly,as a chapel orderly,$2,2
+barber,as a barber,$2,2
+meat smoker,as a meat smoker,$1,1

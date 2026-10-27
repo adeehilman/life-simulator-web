@@ -1,0 +1,55 @@
+Snippet,Reason,Impact Score,Commonness Score
+after it was ravaged by a fire,Fire,4,3
+that was raided by thieves,Theft,2,4
+after one of your trucks carrying a large shipment toppled over,Accident,3,3
+after a rampaging bull tore through a warehouse,Accident,4,1
+that was destroyed by a sprinkler system malfunction in a warehouse,Accident,2,2
+after a warehouse sewage pipe burst,Accident,4,1
+that was destroyed by a warehouse employee who went on a joyride in a forklift,Accident,4,1
+after one of your trucks carrying a load drove off a cliff,Accident,5,1
+after a truck carrying a shipment crashed into a river as it crossed a bridge,Accident,5,2
+after a herd of <cows/oxen/sheep/goats> ran a truck carrying a shipment off the road,Accident,2,1
+after a forklift malfunctioned in a warehouse,Accident,3,3
+after a delivery driver mistakenly gave some of it away thinking they were meant to be free samples,Accident,1,1
+after heavy winds blew a delivery truck off the road,Accident,2,3
+after a delivery driver fell asleep at the wheel and crashed into a ditch,Accident,3,3
+after a warehouse collapsed,Accident,5,1
+after <city> officials demolished the wrong warehouse,Accident,5,1
+that was diverted to an unknown location as the result of a cyberattack,Cyberattack,4,2
+after a cyberattack caused a shipment to be delivered to <country-other-adjectival> hackers,Cyberattack,5,2
+that was blown away by a cyclone,Cyclone,4,
+that was donated to a local charity,Donation,1,1
+after a magnitude <four/five/six> earthquake leveled a warehouse,Earthquake,3,
+after a neighboring warehouse exploded,Explosion,5,1
+after a dissatisfied customer planted a pipe bomb in the warehouse ,Explosion,5,1
+after a guided missile decimated the warehouse,Explosion,5,1
+after a plane crashed into the warehouse,Explosion,5,1
+after a warehouse suspiciously caught fire,Fire,3,3
+that was reduced to ash after a careless warehouse employee played with matches,Fire,3,3
+after a disgruntled warehouse employee set a storeroom ablaze,Fire,3,3
+that was damaged in an electrical fire,Fire,2,3
+after some <vandals/hoodlums/gang members/thugs> tossed a Molotov cocktail through a warehouse window,Fire,4,2
+that was swept away in a flash flood,Flood,3,3
+that was ruined by rising flood waters in the aftermath of a thunderstorm,Flood,2,3
+that was damaged during a hurricane,Hurricane,3,2
+that was brought down by a landslide,Landslide,3,3
+after a landslide carried a warehouse away,Landslide,4,1
+that was incinerated by a lightning strike,Lightning Strike,4,2
+after a sinkhole opened beneath the warehouse and swallowed it whole,Sinkhole,4,1
+after it fell into a sinkhole,Sinkhole,3,2
+after some hooligans swiped it,Theft,2,4
+after some looters stole from the warehouse,Theft,3,3
+that was swiped by some thieves in the night,Theft,3,3
+after some thieves hijacked a truck carrying a shipment,Theft,4,2
+"after a warehouse employee ""misplaced"" it",Theft,2,1
+after a thieving <random-person> disguised as a worker infiltrated the warehouse and pilfered it,Theft,3,3
+after a scammer dressed as a warehouse worker made off with it,Theft,3,3
+after discovering some warehouse workers took it home,Theft,1,4
+after a crazed consumer broke into a warehouse and stole it,Theft,3,3
+after a tornado carried it away,Tornado,5,2
+that was flung into the atmosphere by a raging tornado,Tornado,5,2
+"after a tornado dropped a <cow/double-wide trailer/sedan/pickup truck/hunk of debris/boulder/house> onto the warehouse, crushing it",Tornado,5,1
+after some hoodlums ransacked a warehouse,Vandalism,3,3
+after a group of angry protestors seized and destroyed a shipment,Vandalism,3,3
+after some cops mistakenly ransacked the wrong warehouse,Vandalism,4,1
+that was vandalized by a group of <savage/wild/unruly/unkempt/ruthless/evil> teenagers,Vandalism,3,2

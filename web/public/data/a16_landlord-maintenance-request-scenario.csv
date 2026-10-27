@@ -1,0 +1,86 @@
+Body Snippet,Feedback Present Snippet,Feedback Past Snippet,Commonness Score,House Type Whitelist,House Type Blacklist,Requires Single Bedroom,Requires Single Bathroom,Requires Multiple Bedrooms,Requires Multiple Bathrooms,Min Repair Cost,Max Repair Cost,Agree Satisfaction Impact,Disagree Satisfaction Impact,May Cause Move-Out
+the staircase railings are <cracked/loose/missing/wobbly>,repair the staircase railings,repaired the staircase railings,3,,"trailer, tiny house",,,,,1200,9000,2,-3,
+the air conditioner is <blowing hot air/on the fritz/not running/making a funny sound>,repair the air conditioner,repaired the air conditioner,3,,,,,,,200,2000,3,-4,x
+the air conditioner is <blowing hot air/on the fritz/not running>,replace the air conditioner,replaced the air conditioner,1,,,,,,,3000,30000,4,-4,x
+the hot water heater is broken,repair the hot water heater,repaired the hot water heater,3,,,,,,,300,3000,4,-5,x
+the floorboards are <scuffed/creaky/rotting/decaying/getting moldy>,replace the floorboards,replaced the floorboards,1,,,,,,,1200,24000,3,-3,
+the stairs won't stop creaking,replace the stairs,replaced the stairs,1,,,,,,,1000,11000,2,-3,
+the shower head is broken,replace the broken shower head,replaced the broken shower head,4,,,,x,,,150,500,4,-4,
+a shower head is broken,replace a broken shower head,replaced a broken shower head,3,,,,,,x,150,500,4,-4,
+the ceiling fan in the <living room/dining room/kitchen> is <wobbly/broken/missing a blade> ,repair the ceiling fan in the <rb>,repaired the ceiling fan in the <rb>,3,,,,,,,250,2500,3,-3,
+an electrical outlet in the <living room/hallway/dining room/kitchen> has shorted out,repair an electrical outlet,repaired an electrical outlet,4,,,,,,,150,350,3,-3,
+the garbage disposal is broken,repair the garbage disposal,repaired the garbage disposal,3,,,,,,,200,600,3,-4,
+the heater is <broken/on the fritz/only blowing cold air>,repair the heater,repaired the heater,3,,"trailer, houseboat, loft, tiny house",,,,,350,1500,4,-5,x
+the lights in the <living room/kitchen/hallway/dining room> have shorted out,repair the lights in the <rb>,repaired the lights in the <rb>,3,,"trailer, tiny house",,,,,100,500,3,-3,
+the lights in the bathroom have shorted out,repair the lights in the bathroom,repaired the lights in the bathroom,3,,,,x,,,100,500,4,-4,
+the lights in the bedroom have shorted out,repair the lights in the bedroom,repaired the lights in the bedroom,3,,,x,,,,100,500,4,-4,
+the lights in <one of the bedrooms/the master bedroom/a guest bedroom> have shorted out,repair the lights in <rb>,repaired the lights in <rb>,2,,,,,x,x,100,500,2,-3,
+the lights in <one of the bathrooms/the master bathroom/a guest bathroom> have shorted out,repair the lights in <rb>,repaired the lights in <rb>,2,,,,,,x,100,500,2,-3,
+the <living room/kitchen/dining room> ceiling is <swelling/caving in>,repair the <rb> ceiling,repaired the <rb> ceiling,1,,"trailer, houseboat, tiny house",,,,,500,5000,2,-4,x
+the bedroom ceiling is <swelling/caving in>,repair the bedroom ceiling,repaired the bedroom ceiling,1,,,x,,,,500,5000,3,-4,x
+the bathroom ceiling is <swelling/caving in>,repair the bathroom ceiling,repaired the bathroom ceiling,1,,,,x,,,500,5000,3,-4,x
+the ceiling in <one of the bedrooms/the master bedroom/the guest bedroom> is <swelling/caving in>,repair the ceiling in <rb>,repaired the ceiling in <rb>,1,,,,,x,,500,5000,2,-4,x
+the ceiling in <one of the bathrooms/the master bathroom/the guest bathroom> is <swelling/caving in>,repair the ceiling in <rb>,repaired the ceiling in <rb>,1,,,,,,x,500,5000,2,-4,x
+the paint is peeling off of the walls in <his/her> bedroom,repaint the bedroom walls,repainted the bedroom walls,2,,,x,,,,500,3500,3,-3,
+the paint is peeling off of the walls in one of the bedrooms,repaint the bedroom walls,repainted the bedroom walls,2,,,,,x,,500,3500,3,-3,
+strong winds destroyed the mailbox during a violent storm,replace the mailbox,replaced the mailbox,2,,"condo, houseboat, loft",,,,,200,2000,2,-3,
+rising waters during a recent storm flooded the entryway,repair the entryway,repaired the entryway,1,,"condo, loft, tiny house, trailer, duplex, houseboat",,,,,1500,6000,3,-5,x
+the oven isn't heating as it should,repair the oven,repaired the oven,3,,,,,,,350,2000,3,-5,
+the oven was damaged as the result of an electrical fire,replace the oven,replaced the oven,2,,,,,,,1500,5500,4,-5,x
+the <kitchen/utility> faucet is leaking,fix the <rb> faucet,fixed the <rb> faucet,3,,,,,,,250,750,3,-3,
+the furnace <is not working/is making a loud screeching sound/only blows cold air/smells like smoke>,replace the furnace,replaced the furnace,2,,"loft, tiny house, trailer, houseboat",,,,,4000,18000,4,-5,x
+the electrical panel shorted out,repair the electrical panel,repaired the electrical panel,2,,,,,,,500,5000,4,-5,x
+a bedroom window has shattered,replace a bedroom window,replaced a bedroom window,2,,,,,x,,350,2000,3,-3,
+someone broke the bedroom window,replace the bedroom window,replaced the bedroom window,2,,,x,,,,350,2000,3,-4,
+someone broke the bathroom window,replace the bathroom window,replaced the bathroom window,1,,,,x,,,350,2000,3,-4,
+someone broke the <living room/kitchen/dining room> window,replace the <rb> window,replaced the <rb> window,3,,,,,,,350,2000,3,-4,
+someone broke a window in <the master bedroom/a guest bedroom/the living room>,replace a window in <rb>,replaced a window in <rb>,3,,,,,x,,350,2000,3,-4,
+someone broke a window in <the master bathroom/a guest bathroom>,replace a window in <rb>,replaced a window in <rb>,3,,,,,,x,350,2000,4,-5,
+<he/she> can't <raise/lower> the <living room/kitchen/dining room> window,repair the broken <rb2> window,repaired the broken <rb2> window,3,,,,,,,350,2000,3,-4,
+<he/she> can't <raise/lower> the bedroom window,repair the bedroom window,repaired the bedroom window,2,,,x,,,,350,2000,3,-4,
+<he/she> can't <raise/lower> the bathroom window,repair the bathroom window,repaired the bathroom window,2,,,,x,,,350,2000,3,-4,
+<he/she> can't <raise/lower> the windows in any of the bathrooms,replace the broken bathroom windows,replaced the broken bathroom windows,1,,,,,,x,1000,10000,4,-5,
+<he/she> can't <raise/lower> the windows in any of the bedrooms,replace the broken bedroom windows,replaced the broken bedroom windows,1,,,,,x,,1000,10000,4,-5,
+the window screens were damaged during a storm,replace the window screens,replaced the window screens,3,,,,,,,300,1500,3,-2,
+a tree branch shattered the <living room/dining room/kitchen> window during a storm,replace the <rb> window,replaced the <rb> window,1,,,,,,,350,2500,4,-4,x
+the <bathtub walls/shower walls/bathroom floor/shower/bathroom sink> needs to be regrouted,regrout the <rb>,regrouted the <rb>,3,,,,x,,,150,450,3,-3,
+the kitchen sink drain is clogged,unclog the kitchen sink,unclogged the kitchen sink,4,,,,,,,150,450,3,-4,x
+the bathroom sink is clogged,unclog the bathroom sink,unclogged the bathroom sink,4,,,,x,,,150,450,3,-4,x
+a bathroom sink is clogged,unclog a bathroom sink,unclogged a bathroom sink,4,,,,,,x,150,450,3,-4,x
+the toilet bowl in <one of the bathrooms/the master bathroom/the guest bathroom> is <leaking/crumbling/cracked>,replace a toilet in <rb>,replaced a cracked <rb>,2,,,,,,x,750,2500,4,-5,x
+the toilet bowl is <cracked/leaking/crumbling>,replace the toilet,replaced the <rb> toilet bowl,2,,,,x,,,750,2500,5,-5,x
+a toilet is <overflowing/leaking/clogged/backed up>,repair a toilet,repaired a toilet,3,,,,,,x,150,350,3,-4,
+the toilet is <overflowing/leaking/clogged/backed up>,repair the toilet,repaired the toilet,3,,,,x,,,150,350,3,-4,
+the toilet in the <upstairs/downstairs/guest/master suite/main floor/hall> bathroom <keeps backing up/is clogged and starting to smell>,fix the <rb> toilet,fixed the <rb> toilet,3,,,,,,x,150,350,4,-4,
+the one-and-only toilet <keeps backing up/is clogged and starting to smell>,fix the toilet,fixed the toilet,3,,,,x,,,150,350,4,-4,x
+every toilet in the place is overflowing,fix the plumbing,fixed the plumbing,1,,,,,,x,1500,25000,5,-5,x
+a sewer backup in the <bathroom/kitchen>,fix the plumbing,fixed the plumbing,2,,,,x,,,500,10000,5,-5,x
+a sewer backup in <a bathroom/the bathrooms/the kitchen>,fix the plumbing,fixed the plumbing,2,,,,,,x,500,10000,5,-5,x
+the pipes burst and the basement has flooded,fix the plumbing,fixed the plumbing,1,,"condo, loft, tiny house, trailer, duplex, houseboat",,,,,500,10000,3,,x
+a water pipe burst and caused some flooding,fix the plumbing,fixed the plumbing,3,,,,,,,500,10000,3,,x
+an electrical surge fried the refrigerator's motherboard,replace the refrigerator,replaced the refrigerator,2,,,,,,,500,5000,3,-4,x
+the <freezer/refrigerator> went out and all <his/her> food is starting to rot,repair the refrigerator,repaired the refrigerator,4,,,,,,,75,150,3,-4,x
+the roof is leaking,patch the roof,patched the roof,2,,"condo, loft",,,,,350,7000,3,-5,x
+the roof is <falling apart/caving in>,replace the roof,replaced the roof,1,,"condo, loft",,,,,7000,100000,3,-5,x
+the roof shingles are falling off,repair the roof,repaired the roof,2,,"condo, loft",,,,,500,7000,3,-5,x
+the bathtub drain is clogged,unclog the bathtub drain,unclogged the bathtub drain,5,,,,x,,,100,400,2,-2,
+a bathtub drain is clogged,unclog a bathtub drain,unclogged a bathtub drain,5,,,,,,x,100,400,2,-2,
+a bathroom sink faucet is leaking,repair a bathroom sink faucet,repaired a bathroom sink faucet,4,,,,,,x,5,25,2,-1,
+the bathroom sink faucet is leaking,repair the bathroom sink faucet,repaired the bathroom sink faucet,4,,,,x,,,5,25,2,-1,
+a bathtub faucet has broken off of the wall,replace a bathtub faucet,replaced a bathtub faucet,3,,,,,,x,20,300,3,-4,x
+the bathtub faucet has broken off of the wall,replace the bathtub faucet,replaced the bathtub faucet,2,,,,x,,,20,300,3,-4,x
+the bathtub faucet is leaking,repair the leaky bathtub faucet,repaired the bathtub faucet,3,,,,x,,,15,45,2,-2,
+a bathtub faucet is leaking,repair a leaky bathtub faucet,repaired a bathtub faucet,3,,,,,,x,15,45,2,-2,
+the front door has <broken/cracked/fallen apart>,replace the front door,replaced the front door,3,,,,,,,150,6000,3,-5,x
+the front door key broke inside the lock,replace the front door lock,replaced the lock on the front door,3,,,,,,,15,150,3,-5,x
+the front door key won't open the lock,replace the front door lock,replaced the lock on the front door,3,,,,,,,15,150,3,-5,x
+someone stole the front door,replace the front door,replaced the front door,2,,,,,,,150,6000,3,-5,x
+the backdoor needs caulking,caulk <his/her> backdoor,caulked <his/her> backdoor,3,,"condo, loft, trailer",,,,,40,100,2,-1,
+a bedroom door broke off the hinges,repair a bedroom door,repair a bedroom door,4,,,,,x,,20,100,3,-3,
+the bedroom door broke off its hinges,repair the bedroom door,repair the bedroom door,4,,,x,,,,20,100,3,-3,
+black mold is growing in the kitchen,remove the black mold in the kitchen,removed black mold,3,,,,,,,1100,3400,2,-5,x
+black mold is growing in the laundry room,remove the black mold in the laundry room,removed black mold,3,,"condo, loft, trailer, tiny home",,,,,1100,3400,2,-5,x
+black mold is growing in the basement,remove the black mold in the basement,removed black mold,3,,"condo, loft, trailer, tiny home",,,,,1100,3400,2,-5,x
+black mold is growing in the bathroom,remove the black mold in the bathroom,removed black mold,3,,,,x,,,1100,3400,2,-5,x
+black mold is growing in a bathroom,remove the black mold in a bathroom,removed black mold,3,,,,,,x,1100,3400,2,-5,x
+black mold is growing in every bathroom,remove the black mold in the bathrooms,removed black mold,3,,,,,,x,1100,50000,2,-5,x

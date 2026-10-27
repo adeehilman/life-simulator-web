@@ -1,0 +1,283 @@
+Industry,Product,Product Name Base,Unit,Unit Plural,Avg Unit Price,Max Unit Price,Min Unit Cost,Max Unit Cost,Demand Score,Shelf Life Years
+adult toys,"silicone dildo, plastic dildo, rubber dildo, double-ended dildo, glass dildo",Dildo,unit,units,25,65,9.25,19.5,5,4
+adult toys,"silicone butt plug, glass butt plug, rubber butt plug",Butt Plug,unit,units,25,65,8.25,20.5,3,4
+adult toys,ball gag,Ball Gag,unit,units,15,25,3.75,13.5,2,3
+adult toys,anal beads,Anal Beads,unit,units,20,75,5,18,2,4
+adult toys,"cherry-flavored edible underwear, strawberry-flavored edible underwear, chocolate-flavored edible underwear",Edible Underwear,unit,units,10,30,2.5,9,1,0
+adult toys,vibrator,Vibrator,unit,units,45,110,11.25,40.5,5,5
+adult toys,blow-up sex doll,Sex Doll,unit,units,80,200,40,65,3,5
+adult toys,sex swing,Sex Swing,unit,units,100,250,25,75,3,5
+adult toys,leather harness,Leather Harness,unit,units,100,300,20,60,3,5
+adult toys,nipple clamps,Nipple Clamps,unit,units,10,20,1,6,1,5
+adult toys,artificial vagina,Artificial Vagina,unit,units,40,90,10,36,4,5
+adult toys,strap-on,Strap-On,unit,units,30,120,7.5,27,2,5
+brewery,IPA,IPA,can,cans,2,7,0.6,1,5,1
+brewery,lager,Lager,can,cans,1.5,6,0.4,1,3,1
+brewery,stout,Stout,can,cans,1.5,6,0.5,1,3,1
+brewery,hefeweizen,Hefeweizen,bottle,bottles,1.5,6,0.5,1,3,1
+brewery,pale ale,Pale Ale,can,cans,1.5,5,0.5,1,4,1
+brewery,porter,Porter,can,cans,1.5,6,0.5,1,2,1
+brewery,kolsch,Kolsch,bottle,bottles,2,7,0.7,1,2,1
+brewery,sour beer,Sour,bottle,bottles,2,9,0.8,1,1,1
+brewery,mead,Mead,bottle,bottles,2,7,0.7,1,2,1
+brewery,hard cider,Cider,bottle,bottles,2,6,0.6,1,3,1
+food truck,BBQ brisket,BBQ Brisket,serving,servings,8,12,3,4,4,0
+food truck,"pulled pork, pulled pork sandwich, pulled pork nachos",Pulled Pork,serving,servings,10,15,3,5,3,0
+food truck,"cheeseburger, Kobe beef burger, double cheeseburger, double bacon cheeseburger, half-pound burger, ossobuco burger, bulgogi burger, mushroom swiss burger",Burger,serving,servings,8.75,13,3,4.5,4,0
+food truck,"carne asada street taco, shrimp street taco, carnitas street taco, barbacoa street taco, tacos al pastor, fish taco",Street Taco,serving,servings,5,7.5,1.75,2.5,3,0
+food truck,"buffalo chicken mac n' cheese, Philly cheesesteak mac n' cheese, jerk chicken mac n' cheese, mac n' cheese, four-cheese mac n' cheese, lobster mac n' cheese, smoked barbecue mac n' cheese, chicken parmesan mac n' cheese",Mac n' Cheese,serving,servings,8,12,2.75,4,3,0
+food truck,"burrito, chicken burrito, carne asada burrito, pollo asado burrito, bulgogi burrito, five-layer burrito, bean & cheese burrito, vegan burrito, breakfast burrito",Burrito,serving,servings,10.5,15.75,3.75,5.25,2,0
+food truck,"gruyere sourdough grilled cheese, Swiss rye grilled cheese, cheddar ham grilled cheese",Grilled Cheese,serving,servings,6.5,9.75,2.25,3.25,2,0
+food truck,pork belly bao,Pork Belly Bao,serving,servings,7,10.5,2.5,3.5,3,0
+food truck,"loaded fries, bacon ranch loaded fries, buffalo chicken blue cheese loaded fries, poutine lovers loaded fries, cheesy smothered loaded fries, chili cheese loaded fries, shepherd's pie loaded fries, black truffle parmesan loaded fries",Loaded Fries,serving,servings,7.5,11.25,2.5,3.75,4,0
+food truck,"Pacific cod fish & chips, Alaskan pollock fish & chips, Alaskan halibut fish & chips, king salmon fish & chips",Fish & Chips,serving,servings,12,18,4.5,6,4,0
+food truck,funnel cake,Funnel Cake,serving,servings,5,7.5,1.25,2.5,5,0
+marijuana dispensary,blunt,Blunt,unit,units,10,30,2,5,3,0
+marijuana dispensary,gummies,Gummies,package,packages,18,40,3,6,4,1
+marijuana dispensary,pot brownie,Pot Brownie,unit,units,18,40,3,6,4,0
+marijuana dispensary,THC-infused chocolate,Chocolate,unit,units,18,40,3,6,4,0
+marijuana dispensary,indica,Flower,gram,grams,10,30,2,5,5,0
+marijuana dispensary,sativa,Flower,gram,grams,10,30,2,5,5,0
+marijuana dispensary,bong,Bong,unit,units,25,100,5,25,2,5
+marijuana dispensary,vape pen,Vape Pen,unit,units,50,120,15,40,3,5
+marijuana dispensary,rolling paper,Rolling Paper,unit,units,2,6,0.1,0.5,2,5
+marijuana dispensary,rolling tray,Rolling Tray,unit,units,12,30,2,5,1,5
+robotics,autonomous robot,Robot,unit,units,30000,75000,7500,25000,5,5
+robotics,cyborg,Cyborg,unit,units,100000,250000,25000,80000,4,5
+robotics,maid robot,Maid Robot,unit,units,150000,300000,37500,130000,3,5
+robotics,combat robot,Combat Robot,unit,units,250000,550000,62500,221000,4,5
+robotics,vending machine robot,Vending Machine Robot,unit,units,150000,350000,25000,80000,2,5
+robotics,sex robot,Sex Robot,unit,units,500000,1000000,125000,450000,5,5
+robotics,security robot,Security Robot,unit,units,500000,1000000,125000,450000,4,5
+robotics,bartending robot,Bartending Robot,unit,units,100000,300000,25000,80000,2,5
+robotics,android,Android,unit,units,800000,2000000,200000,700000,4,5
+robotics,bending unit,Bending Unit,unit,units,200000,550000,50000,180000,3,5
+robotics,devil robot,Devil Robot,unit,units,1000000,10000000,250000,900000,1,5
+beauty supply,foundation,Foundation,unit,units,15,25,7,12,4,2
+beauty supply,blush,Blush,unit,units,15,22,6,9,4,2
+beauty supply,mascara,Mascara,unit,units,12,22,4,8,3,2
+beauty supply,eyeshadow,Eyeshadow,unit,units,10,20,3,5,4,2
+beauty supply,lipstick,Lipstick,tube,tubes,12,22,4,7,5,2
+beauty supply,nail polish,Nail Polish,bottle,bottles,8,15,2,6,4,4
+beauty supply,eyeliner,Eyeliner,unit,units,22,30,7,15,3,2
+beauty supply,lotion,Lotion,bottle,bottles,6,9,2,3,3,2
+beauty supply,hair spray,Hair Spray,can,cans,14,30,6.5,12.5,5,3
+beauty supply,hair dye,Hair Dye,unit,units,10,20,2.5,8.5,5,3
+beauty supply,hair extensions,Hair Extensions,unit,units,200,600,50,180,3,4
+beauty supply,wig,Wig,unit,units,300,650,75,270,3,4
+beauty supply,eyelashes,Eyelashes,package,packages,4,12,1,3,4,2
+beauty supply,hair gel,Hair Gel,tube,tubes,8,16,2,6,4,3
+beauty supply,curling iron,Curling Iron,unit,units,25,75,10,20,2,5
+car manufacturer,pickup truck,Pickup Truck,vehicle,vehicles,45000,80000,35000,40000,4,2
+car manufacturer,sedan,Sedan,vehicle,vehicles,35000,60000,25000,30000,5,2
+car manufacturer,coupe,Coupe,vehicle,vehicles,40000,70000,30000,35000,3,2
+car manufacturer,electric,Electric,vehicle,vehicles,60000,100000,50000,55000,2,2
+car manufacturer,convertible,Convertible,vehicle,vehicles,55000,90000,45000,50000,2,2
+car manufacturer,SUV,SUV,vehicle,vehicles,50000,80000,40000,45000,4,2
+car manufacturer,luxury,Luxury,vehicle,vehicles,80000,120000,65000,75000,2,2
+car manufacturer,4x4,4x4,vehicle,vehicles,55000,85000,45000,50000,3,2
+car manufacturer,hybrid,Hybrid,vehicle,vehicles,50000,85000,40000,45000,3,2
+car manufacturer,sports car,Sports Car,vehicle,vehicles,120000,210000,110000,115000,1,2
+clothing outlet,t-shirt,T-Shirt,unit,units,20,35,7,12,5,1
+clothing outlet,jeans,Jeans,unit,units,60,90,20,40,5,1
+clothing outlet,shorts,Shorts,unit,units,50,70,17,35,4,1
+clothing outlet,khakis,Khakis,unit,units,70,90,22,55,3,1
+clothing outlet,blouse,Blouse,unit,units,65,100,25,50,4,1
+clothing outlet,blazer,Blazer,unit,units,90,120,40,70,3,1
+clothing outlet,sundress,Sundress,unit,units,95,125,35,70,4,1
+clothing outlet,bikini,Bikini,unit,units,69,99,22,44,3,1
+clothing outlet,yoga pants,Yoga Pants,unit,units,55,90,20,30,5,1
+clothing outlet,pajama pants,Pajama Pants,unit,units,40,50,15,25,2,1
+clothing outlet,skirt,Skirt,unit,units,50,75,20,40,4,1
+clothing outlet,"tweed coat, wool overcoat, fur overcoat, suede overcoat, sport coat",Coat,unit,units,190,275,130,170,2,1
+clothing outlet,muumuu,Muumuu,unit,units,45,75,10,25,1,1
+coffeehouse,Americano,Americano,unit,units,3.5,5.5,0.5,1,3,0
+coffeehouse,drip coffee,Coffee,cup,cups,2.5,4.5,0.5,1,4,0
+coffeehouse,cappuccino,Cappuccino,cup,cups,4.5,6.5,1.5,3.5,5,0
+coffeehouse,iced latte,Iced Latte,cup,cups,4,6,1,2.5,5,0
+coffeehouse,pumpkin spice latte,Pumpkin Spice Latte,cup,cups,3,4.5,1.5,2.7,5,0
+coffeehouse,espresso,Espresso,unit,units,1,2,0.25,0.75,5,0
+coffeehouse,caffe mocha,Caffe Mocha,cup,cups,3.5,5,1.5,2.75,4,0
+coffeehouse,caramel macchiato,Caramel Macchiato,cup,cups,3.5,5,1.5,2.75,4,0
+coffeehouse,croissant,Croissant,unit,units,3.5,5,1.5,3,3,0
+coffeehouse,blueberry scone,Blueberry Scone,unit,units,3,4.5,0.8,2.5,4,0
+coffeehouse,breakfast burrito,Breakfast Burrito,unit,units,6.5,8,2.75,5.25,4,0
+coffeehouse,chocolate chip muffin,Chocolate Chip Muffin,unit,units,3,4.5,1,3,4,0
+coffeehouse,cheese danish,Cheese Danish,unit,units,3,4.5,1,3,3,0
+coffeehouse,apple fritter,Apple Fritter,unit,units,3,4.5,1,3,4,0
+coffeehouse,vegan brownie,Vegan Brownie,unit,units,5,7,1.75,4,1,0
+consumer electronics,laptop computer,Laptop,unit,units,800,1400,600,1200,4,2
+consumer electronics,desktop computer tower,CPU,unit,units,900,1600,700,1000,3,2
+consumer electronics,computer monitor,Monitor,unit,units,250,400,175,250,4,2
+consumer electronics,keyboard,Keyboard,unit,units,35,100,20,80,3,2
+consumer electronics,mouse,Mouse,unit,units,15,50,8,25,3,2
+consumer electronics,television,Television,unit,units,400,2000,350,1500,5,2
+consumer electronics,headphones,Headphones,unit,units,50,300,10,200,4,2
+consumer electronics,smart phone,Smart Phone,unit,units,200,1200,100,700,5,2
+consumer electronics,virtual reality headset,VR Headset,unit,units,350,500,250,300,3,2
+dairy farm,"whipped butter, salted butter, unsalted butter",Butter,unit,units,4,6,2,4,5,0
+dairy farm,"whole milk, skim milk, goat milk",Milk,gallon,gallons,3,5,2,4,5,0
+dairy farm,"heavy cream, cream, whipping cream",Cream,carton,cartons,5,7,3,4,3,0
+dairy farm,"cheddar cheese, brie, gorgonzola, mozzarella cheese, parmesan cheese",Cheese,pound,pounds,4,6,3,4,5,0
+dairy farm,yogurt,Yogurt,unit,units,2,4,1,2.5,4,0
+dairy farm,"vanilla ice cream, chocolate ice cream, strawberry ice cream",Ice Cream,unit,units,5,9,3,4,5,0
+dairy farm,buttermilk,Buttermilk,unit,units,4,6,2,3,3,0
+dairy farm,cream cheese,Cream Cheese,unit,units,3,5,1.5,3,3,0
+distillery,vodka,Vodka,bottle,bottles,10,20,4,9,3,5
+distillery,gin,Gin,bottle,bottles,22,34,12,15,3,5
+distillery,rum,Rum,bottle,bottles,15,27,5,10,4,3
+distillery,bourbon,Bourbon,bottle,bottles,35,50,22,28,5,5
+distillery,whiskey,Whiskey,bottle,bottles,27,45,18,22,3,5
+distillery,tequila,Tequila,bottle,bottles,25,45,15,20,4,5
+distillery,scotch,Scotch,bottle,bottles,50,85,30,40,3,5
+distillery,moonshine,Moonshine,bottle,bottles,8,15,2,5,2,5
+distillery,mezcal,Mezcal,bottle,bottles,12,20,4,7,2,5
+footwear,tennis shoes,Tennis Shoes,pair,pairs,50,130,40,75,4,1
+footwear,high heels,High Heels,pair,pairs,90,130,60,90,4,2
+footwear,slippers,Slippers,pair,pairs,20,40,10,20,3,3
+footwear,sandals,Sandals,pair,pairs,20,50,11,20,5,2
+footwear,loafers,Loafers,pair,pairs,50,90,35,60,3,4
+footwear,sneakers,Sneakers,pair,pairs,75,200,50,125,5,1
+footwear,slip-ons,Slip-Ons,pair,pairs,20,45,10,15,4,2
+footwear,"galoshes, rain boots, cowboy boots, ankle boots",Boots,pair,pairs,100,180,85,125,4,2
+gift shop,shot glass,Shot Glass,unit,units,5.5,8.25,1.75,2.75,4,5
+gift shop,wine glass,Wine Glass,unit,units,10,15,3.5,5,3,5
+gift shop,refrigerator magnet,Refrigerator Magnet,unit,units,3,4.5,0.75,1.5,4,5
+gift shop,snow globe,Snow Globe,unit,units,15,22.5,6,7.5,2,3
+gift shop,keychain,Keychain,unit,units,5,7.5,1.5,2.5,3,4
+gift shop,calendar,Calendar,unit,units,18,27,7.5,9,5,0
+gift shop,coffee mug,Coffee Mug,unit,units,13,19.5,5,6.5,4,5
+gift shop,postcard,Postcard,unit,units,1.5,2.25,0.25,0.75,4,3
+gift shop,bumper sticker,Bumper Sticker,unit,units,3.5,5.25,1,1.75,3,4
+health food store,fish oil supplements,Fish Oil Supplements,bottle,bottles,15,25,3,7,4,0
+health food store,protein powder,Protein Powder,unit,units,25,35,9,15,3,1
+health food store,multivitamin,Multivitamins,bottle,bottles,12,18,4,8,5,1
+health food store,organic probiotics,Probiotics,bottle,bottles,18,28,5,11,4,0
+health food store,muscle gain,Muscle Gain,container,containers,30,50,12,15,4,1
+health food store,essential oils,Essential Oils,bottle,bottles,22,45,10,15,2,2
+health food store,detox in a box,Detox in a Box,box,boxes,40,65,10,15,3,2
+health food store,keto bar,Keto Bar,bar,bars,2.5,4,0.5,1.5,5,1
+health food store,organic frozen kale,Frozen Kale,bag,bags,6,10,2,3,5,0
+health food store,organic frozen broccoli,Frozen Broccoli,bag,bags,6,10,2,3,5,0
+health food store,organic frozen peas,Frozen Peas,bag,bags,6,10,2,3,5,0
+health food store,goji berries,Goji Berries,bag,bags,13.5,21,5,8,4,1
+jewelry,"white gold diamond ring, sterling silver diamond ring, platinum diamond ring, yellow gold diamond ring",Diamond Ring,ring,rings,10000,15000,6500,9000,5,5
+jewelry,"white gold diamond necklace, sterling silver diamond necklace, platinum diamond necklace, yellow gold diamond necklace",Diamond Necklace,necklace,necklaces,5500,9000,3000,4500,4,5
+jewelry,"white gold diamond earrings, sterling silver diamond earrings, platinum diamond earrings, yellow gold diamond earrings",Diamond Earrings,pair,pairs,2700,4500,1900,2400,5,5
+jewelry,"white gold sapphire ring, sterling silver sapphire ring, platinum sapphire ring, yellow gold sapphire ring",Sapphire Ring,ring,rings,900,1500,300,650,2,5
+jewelry,"white gold ruby ring, sterling silver ruby ring, platinum ruby ring, yellow gold ruby ring",Ruby Ring,ring,rings,1100,1900,650,900,3,5
+jewelry,"white gold emerald ring, sterling silver emerald ring, platinum emerald ring, yellow gold emerald ring",Emerald Ring,ring,rings,800,1400,350,550,2,5
+jewelry,"white gold ruby earrings, sterling silver ruby earrings, platinum ruby earrings, yellow gold ruby earrings",Ruby Earrings,pair,pairs,550,900,200,350,2,5
+jewelry,"white gold emerald earrings, sterling silver emerald earrings, platinum emerald earrings, yellow gold emerald earrings",Emerald Earrings,pair,pairs,400,750,200,300,3,5
+jewelry,"black pearl necklace, pink pearl necklace, white pearl necklace",Pearl Necklace,necklace,necklaces,600,900,300,550,5,5
+jewelry,"black pearl earrings, pink pearl earrings, white pearl earrings",Pearl Earrings,pair,pairs,300,450,125,200,5,5
+jewelry,"yellow gold watch, sterling silver watch, white gold watch ",Watch,unit,units,475,650,350,425,3,2
+jewelry,"stainless steel turquoise ring, sterling silver turquoise ring, copper turquoise ring, aluminum turquoise ring",Turquoise Ring,ring,rings,25,45,5,12,4,5
+jewelry,"stainless steel turquoise necklace, sterling silver turquoise necklace, copper turquoise necklace, aluminum turquoise necklace",Turquoise Necklace,ring,rings,99,130,27,50,2,5
+jewelry,"stainless steel turquoise earrings, sterling silver turquoise earrings, copper turquoise earrings, aluminum turquoise earrings",Turquoise Earrings,pair,pairs,40,75,18,34,2,5
+kitchenware,food processor,Food Processor,unit,units,120,180,85,105,3,3
+kitchenware,"blender, immersion blender",Blender,unit,units,65,100,35,50,4,5
+kitchenware,"stainless steel skillet, cast iron skillet, non-stick skillet",Fry Pan,unit,units,40,65,20,30,3,5
+kitchenware,stock pot,Stock Pot,unit,units,60,80,15,30,4,5
+kitchenware,slow cooker,Slow Cooker,unit,units,75,115,40,65,4,3
+kitchenware,Dutch oven,Dutch Oven,unit,units,150,200,75,115,3,5
+kitchenware,"sheet pan, baking sheet, cookie sheet",Sheet Pan,unit,units,15,25,6,11,5,5
+kitchenware,chef's knife,Chef's Knife,unit,units,190,310,140,165,3,5
+kitchenware,"cutting board, bamboo cutting board",Cutting Board,unit,units,40,95,15,25,3,4
+kitchenware,stand mixer,Stand Mixer,unit,units,250,350,150,220,4,3
+kitchenware,melon baller,Melon Baller,unit,units,11,17,3,7,3,5
+kitchenware,boning knife,Boning Knife,unit,units,22,36,7,14,2,5
+kitchenware,silverware,Silverware,set,sets,65,95,25,50,4,5
+kitchenware,knife set,Knife Set,set,sets,90,125,45,70,3,5
+kitchenware,meat baster,Meat Baster,unit,units,8,15,2,5,2,5
+lingerie boutique,bra,Bra,unit,units,30,80,10,24,4,2
+lingerie boutique,"lace panties, satin panties, bikini panties",Panties,unit,units,25,42,8,14,5,1
+lingerie boutique,"stockings, thigh-high stockings, fishnet stockings, lace suspender pantyhose",Stockings,unit,units,20,50,5,12,2,3
+lingerie boutique,garter,Garter,unit,units,30,90,12,20,2,3
+lingerie boutique,slip,Slip,unit,units,30,80,8,14,4,3
+lingerie boutique,teddy,Teddy,unit,units,40,90,20,30,3,3
+lingerie boutique,bustier,Bustier,unit,units,30,85,18,25,2,4
+lingerie boutique,corset,Corset,unit,units,40,90,22,33,2,3
+lingerie boutique,negligee,Negligee,unit,units,50,85,15,25,5,2
+lingerie boutique,mesh undies,Mesh Undies,unit,units,25,45,15,20,1,5
+lingerie boutique,thong,Thong,unit,units,15,25,5,10,3,2
+lingerie boutique,G-string,G-string,unit,units,6,15,1.5,3,4,4
+musical instrument,acoustic guitar,Guitar,unit,units,650,1250,275,550,5,5
+musical instrument,bass guitar,Bass Guitar,unit,units,550,1550,375,420,4,5
+musical instrument,violin,Violin,unit,units,675,1550,240,525,3,5
+musical instrument,flute,Flute,unit,units,600,1600,320,480,3,5
+musical instrument,saxophone,Saxophone,unit,units,900,1900,575,925,5,5
+musical instrument,keyboard,Keyboard,unit,units,280,850,180,265,5,5
+musical instrument,piano,Piano,unit,units,600,1600,320,480,5,5
+musical instrument,harp,Harp,unit,units,280,850,180,265,1,5
+musical instrument,trombone,Trombone,unit,units,550,1550,375,420,3,5
+musical instrument,accordion,Accordion,unit,units,650,1250,275,550,1,5
+musical instrument,trumpet,Trumpet,unit,units,500,1650,260,370,3,5
+musical instrument,drum set,Drum Set,unit,units,1725,2550,1375,1500,4,5
+novelty,plastic dog feces,Fake Dog Poop,unit,units,5,9,1,2,4,5
+novelty,fake vomit,Fake Vomit,unit,units,5,9,1,2,3,5
+novelty,squirting flower,Squirting Flower,unit,units,5,8,2,3,2,5
+novelty,lava lamp,Lava Lamp,unit,units,25,50,20,30,4,5
+novelty,rubix cube,Rubix Cube,unit,units,10,18,6,9,4,5
+novelty,magic 8 ball,Magic 8 Ball,unit,units,8,15,4,8,3,5
+novelty,"anime character bobblehead, comic book villain bobblehead, video game protagonist bobblehead, superhero bobblehead, drag queen bobblehead",Bobblehead,unit,units,15,25,8,15,3,3
+novelty,whoopee cushion,Whoopee Cushion,unit,units,5,9,2,4,5,3
+pet supply,"dog kibble, puppy kibble",Dog Food,bag,bags,20,25,8,15,5,0
+pet supply,"cat kibble, kitty kibble",Cat Food,bag,bags,15,20,7,12,5,0
+pet supply,leash,Leash,unit,units,12,20,4,7,4,3
+pet supply,"rawhide chew toy, rubber chew toy, silicone chew toy, squeaky toy",Chew Toy,unit,units,6,12,1.5,3,3,3
+pet supply,kennel,Kennel,unit,units,90,120,60,75,4,3
+pet supply,hamster cage,Hamster Cage,unit,units,25,45,12,20,2,3
+pet supply,litter box,Litter Box,unit,units,22,36,5,11,5,4
+pet supply,"fish bowl, fish tank",Fish Tank,unit,units,30,50,10,20,4,4
+pet supply,fish food,Fish Food,container,containers,10,15,3,5,5,0
+pet supply,scratching post,Scratching Post,unit,units,25,40,12,20,3,4
+pet supply,"dog collar, cat collar",Collar,unit,units,15,30,5,10,4,4
+pharmaceutical,erectile dysfunction medication,Pills,bottle,bottles,100,200,15,25,5,1
+pharmaceutical,vaginal dryness medication,Topical Cream,bottle,bottles,75,110,15,30,3,1
+pharmaceutical,hair loss treatment,Serum,bottle,bottles,300,400,125,195,4,1
+pharmaceutical,common cold remedy,Pills,bottle,bottles,7,12,2,5,4,1
+pharmaceutical,allergy relief medication,Pills,bottle,bottles,9,15,2,5,3,1
+pharmaceutical,performance anxiety medication,Pills,bottle,bottles,35,65,17,27,3,1
+pharmaceutical,Redditor relief,Suppositories,package,packages,2.99,9.99,0.1,0.25,5,1
+pharmaceutical,antidepressant,Pills,bottle,bottles,40,65,17,27,5,1
+pharmaceutical,pain relief medication,Tablets,bottle,bottles,90,160,30,50,5,1
+pharmaceutical,stool softeners,Suppositories,unit,units,15,21,3,7,2,1
+semiconductor,automobile chip,Chip,chip,chips,600,1000,350,500,5,2
+semiconductor,appliance chip,Chip,chip,chips,40,90,10,25,4,2
+semiconductor,HDTV chip,Chip,chip,chips,65,110,22,45,5,2
+semiconductor,smartphone chip,Chip,chip,chips,110,190,35,65,5,2
+semiconductor,digital camera chip,Chip,chip,chips,50,85,22,42,3,2
+semiconductor,microprocessor chip,Chip,chip,chips,90,130,30,55,4,2
+semiconductor,memory chip,Chip,chip,chips,40,65,10,20,5,2
+semiconductor,gaming console chip,Chip,chip,chips,45,70,15,30,4,2
+semiconductor,vape pen chip,Chip,chip,chips,2,7,0.5,1.25,4,2
+semiconductor,smart toilet chip,Chip,chip,chips,44,90,11,22,2,2
+semiconductor,ventilator chip,Chip,chip,chips,175,255,125,155,2,2
+semiconductor,e-bike chip,Chip,chip,chips,120,170,40,70,3,2
+sporting goods,basketball,Basketball,ball,balls,40,70,20,25,4,4
+sporting goods,baseball,Baseball,ball,balls,5,9,2,4,4,4
+sporting goods,soccer ball,Soccer Ball,ball,balls,25,45,12,20,4,4
+sporting goods,football,Football,ball,balls,20,40,10,15,4,4
+sporting goods,baseball bat,Baseball Bat,unit,units,35,65,15,25,3,3
+sporting goods,hockey stick,Hockey Stick,unit,units,30,55,15,25,3,3
+sporting goods,athletic cup,Athletic Cup,unit,units,12,18,3,6,5,5
+sporting goods,football helmet,Football Helmet,unit,units,45,95,20,30,2,3
+sporting goods,golf clubs,Golf Clubs,set,sets,600,1200,300,500,3,3
+sporting goods,golf ball,Golf Ball,sleeve,sleeves,10,16,5,8,4,5
+sporting goods,bowling ball,Bowling Ball,ball,balls,75,100,30,60,3,5
+sporting goods,tennis ball,Tennis Ball,can,cans,9,14,4,7,3,4
+sporting goods,tennis racquet,Tennis Racquet,unit,units,75,100,30,60,3,3
+sporting goods,snowboard,Snowboard,unit,units,420,600,250,350,3,1
+winery,chardonnay,Chardonnay,bottle,bottles,10,30,6,20,5,2
+winery,riesling,Riesling,bottle,bottles,10,30,6,20,3,2
+winery,sauvignon blanc,Sauvignon Blanc,bottle,bottles,10,30,6,22,4,2
+winery,pinot noir,Pinot Noir,bottle,bottles,25,65,18,40,4,4
+winery,pinot grigio,Pinot Grigio,bottle,bottles,8,20,6,15,2,2
+winery,cabernet sauvignon,Cabernet Sauvignon,bottle,bottles,25,70,18,45,5,5
+winery,merlot,Merlot,bottle,bottles,20,40,13,30,4,4
+winery,white zinfandel,White Zinfandel,box,boxes,10,20,6,13,4,2
+winery,moscato,Moscato,bottle,bottles,9,20,6,15,2,3
+winery,Champagne,Champagne,bottle,bottles,20,70,15,50,3,3
+winery,syrah,Syrah,bottle,bottles,15,40,10,30,3,4
+winery,estate reserve,Estate Reserve,bottle,bottles,50,150,35,110,2,5

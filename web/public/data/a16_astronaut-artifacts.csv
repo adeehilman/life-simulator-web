@@ -1,0 +1,28 @@
+Item Lookup,Item Name,Short Name,Location,Indefinite Article,Plural,Can Be Polished,Min Value,Max Value,Appreciates,Commonness Score
+1,star-shaped locket,locket,Moon,x,,x,100000,3000000,x,1
+2,moon rock,moon rock,Moon,x,,,150,3500,,5
+3,orca tooth,orca tooth,Moon,x,,,4000,6500,,1
+4,pearlescent rock,moon pearl,Moon,x,,,5000,7500,,5
+5,cow bell,cow bell,Moon,x,,x,1000,5000,,2
+6,tattered dog collar,dog collar,Moon,x,,x,1500,5500,,3
+7,green cheese wedge,green cheese,Moon,x,,,1000,2500,,3
+8,cat-shaped hot air balloon,hot air balloon,Moon,x,,x,35000,50000,x,1
+9,golden wand,wand,Moon,x,,x,50000,100000,x,1
+10,moon dust,moon dust,Moon,x,,,50,300,,4
+11,meteorite,meteorite,Moon,x,,,150000,500000,,3
+12,human waste bag,waste bag,Moon,x,,,50,150,,3
+13,golf ball,golf ball,Moon,x,,x,2500,5500,,2
+14,jade rabbit's foot,rabbit's foot,Moon,x,,x,5000,15000,,2
+15,Martian rock,Martian rock,Mars,x,,,3500,7500,,5
+16,alien screwdriver,screwdriver,Mars,x,,x,200000,400000,x,1
+17,fossilized tentacle,tentacle,Mars,x,,,50000,250000,,1
+18,eye-shaped rock,fossilized eye,Mars,x,,,2000,8000,,1
+19,green thumb ring,thumb ring,Mars,x,,x,90000,180000,x,1
+20,iridescent sapphire,sapphire,Mars,x,,x,150000,300000,x,1
+21,dried-up mushroom,mushroom,Mars,x,,,1500,3000,,1
+22,sandworm tooth,sandworm tooth,Mars,x,,x,30000,90000,,1
+23,Martian soil,Martian soil,Mars,x,,,1200,2500,,5
+24,potato,potato,Mars,x,,,1000,2000,,2
+25,fossilized scat,excrement,Mars,x,x,,5000,9000,,1
+26,Mars Rover tire,tire,Mars,x,,,1500,3000,,2
+27,golden olive branch,olive branch,Moon,x,,x,220000,420000,x,2

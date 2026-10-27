@@ -1,0 +1,32 @@
+Location,Country,Uses Definite Article,Habitat,Activity,Landmarks,Cost Score,Danger Score,Appeal Score,Commonness Score
+Everglades National Park,United States,,swamp,camp,,2,3,4,3
+Transcaucasian Trail,Georgia,x,woodland,,"Lake Sevan, Gergeti Trinity Church, Abudelauri Lake, Vorotan Canyon",2,3,5,2
+Svalbard Archipelago,Norway,,arctic,hike,"Foxfonna Glacier, Plataberget Plateau, Alkhornet Bird Cliff, Longyearbreen Glacier",4,4,5,3
+Daintree Rainforest,Australia,x,rainforest,hike,"Mount Sorrow, Cape Tribulation, Mossman Gorge, Jindalba Boardwalk, Alexandra Lookout",3,3,4,3
+Okavango Delta,Botswana,x,swamp,,"Chief's Island, Xakanaxa Lagoon, Tsodilo Hills, Moremi Game Reserve",4,4,5,3
+Serengeti National Park,Tanzania,,grassland,camp,,4,3,5,3
+Atacama Desert,Chile,x,desert,hike,"Chaxa Lagoon, El Tatio Geysers, Moon Valley, Laguna Cejar Salt Flats",3,2,2,3
+Inca Trail,Peru,x,mountain,,"Machu Picchu, Winay Wayna Ruins, Intipata Terraces",4,2,5,4
+Tijuca Forest,Brazil,x,rainforest,hike,"Corcovado, Pico da Tijuca Mountain, Almas Waterfall, Pedra Bonita Peak",3,5,4,3
+Tongariro National Park,New Zealand,,mountain,,"Mount Doom, Emerald Lakes, Taranaki Falls, Waihohonu Springs, Red Crater",4,2,4,4
+Petra Backdoor Route,Jordan,x,desert,hike,"Ad-Deir Monastery, Al-Khazneh Monument, Royal Tombs, Jabal Haroun Peak, Wadi Sabra Valley",3,3,3,2
+Camino de Santiago,Spain,,grassland,hike,"Cabo Fisterra, Iron Cross, O Cebreiro Village, Hill of Joy, Compostela Cathedral",4,2,2,2
+Mongolian Steppe,Mongolia,x,grassland,camp,,4,3,3,3
+Himalayas,Nepal,x,mountain,,"Mount Everest Base Camp, Gokyo Lakes, Chukhung Peak, Tengboche Monastery",5,3,4,4
+Torres del Paine National Park,Chile,,mountain,,"Torres del Paine Spires, Cuernos del Paine Peaks, Grey Glacier, Silence Valley",4,3,3,3
+Yosemite National Park,United States,,"mountain, woodland",,"El Capitan, Half Dome, Yosemite Falls, Mariposa Grove, Glacier Point",3,2,3,4
+Sahara Desert,Morocco,x,desert,camp,,4,3,2,2
+Ladakh Plateau,India,,mountain,camp,,3,3,4,3
+Maasai Mara National Reserve,Kenya,,grassland,camp,,4,4,4,4
+Pantanal Wetlands,Brazil,x,swamp,,"Taiama Ecological Station, Cuiaba River Overlook, Transpantaneira Viewpoint, Corixo Negro Lagoon",3,4,5,4
+Sudd Swamp,South Sudan,x,swamp,,"Shambe National Park, Minkaman Fishing Village, Jonglei Canal, Abu Khamira Mountain",3,5,2,2
+Ilulissat Icefjord Trail,Greenland,x,arctic,hike,"Ilulissat Icefjord, Sermermiut Settlement, Kangia Iceberg Viewpoint, Ilinniarfik Hill",5,4,4,3
+Trolltunga Trail,Norway,,arctic,hike,"Trolltunga rock formation, Kjeragbolten Boulder, Folgefonna Glacier, Ringedalsvatnet Lookout",4,4,4,4
+Kungsleden Trail,Sweden,,arctic,,"Tjaktja Pass, Salka Valley, Aktse Meadows, Nallo Peak, Singi Hut",4,3,4,3
+Kuala Tahan National Park,Malaysia,,rainforest,hike,"Canopy Walkway, Gunung Tahan Peak, Lata Berkoh Waterfalls, Bukit Teresek Hill",3,4,3,2
+Congo Basin Rainforest,DR Congo,x,rainforest,,"Lango Bai clearing, Ngaga Camp, Salonga National Park",2,4,3,2
+Yellowstone National Park,United States,,"mountain, woodland",,"Old Faithful Geyser, Grand Prismatic Spring, Lamar Valley, Mount Washburn, Mammoth Hot Springs Terraces",4,2,4,3
+Black Forest,Germany,,woodland,,"Feldberg Summit, Mummelsee Lake, Schlossberg Tower, Geroldsauer Waterfall, Belchen Peak",3,4,5,4
+Yakushima Island,Japan,,woodland,,"Jomon Sugi, Miyanoura-dake Peak, Taiko Rock, Wilson Stump",5,2,4,5
+Bialowieza Forest,Poland,x,woodland,,"Wysokie Bagno Reserve, Kosy Most Bridge, Hwozna Meadow, Carska Tropina Trail, Orlowka Valley",4,3,3,3
+Denali National Park,United States,,mountain,,"Savage River Canyon, Polychrome Pass, Wonder Lake, Stony Dome",5,4,4,4

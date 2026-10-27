@@ -1,0 +1,246 @@
+Index,Category,Name,Color,Brim,Commonness Score,Gender,Min Age,Max Age,Min Crazinesss,Country
+1,Baseball Hat,All-Weather Pleather Cap,Sunset Orange,x,4,male,3,25,,"mx, ca, us"
+2,Baseball Hat,All-Weather Pleather Cap,Greenlake,x,4,male,3,30,,"mx, ca, us"
+3,Baseball Hat,All-Weather Pleather Cap,Morning Dew Blue,x,4,male,3,30,,"mx, ca, us"
+4,Baseball Hat,Summer Camp Baseball Cap,Midnight Blue,x,5,both,3,,,"mx, ca, us"
+5,Baseball Hat,Summer Camp Baseball Cap,Forest Green,x,5,both,3,,,"mx, ca, us"
+6,Baseball Hat,Pleather Logo Cap,Pink Sunset,x,3,both,16,25,,"mx, ca, us"
+7,Baseball Hat,Pleather Logo Cap,Muffy Magenta,x,3,female,16,25,,"mx, ca, us"
+8,Baseball Hat,Pleather Logo Cap,Kittycat Purple,x,3,female,16,25,,"mx, ca, us"
+9,Baseball Hat,Pleather Logo Cap,Out of the Blue,x,3,male,16,25,,"mx, ca, us"
+10,Baseball Hat,Pleather Logo Cap,Box Berry,x,3,both,16,25,,"mx, ca, us"
+11,Baseball Hat,Pleather Logo Cap,Gwyneth Green,x,3,both,16,25,,"mx, ca, us"
+12,Baseball Hat,Timmy Cap,Candywriter Red,x,1,male,16,25,,"mx, ca, us"
+13,Baseball Hat,Twirly Bird Cap,Propeller Blue,x,1,male,3,12,,"ca, us"
+101,Beanies,Dutch Boy Bucket Cap,Satin Matte Blue,,5,both,14,30,,
+102,Beanies,Dutch Boy Bucket Cap,Northern Eggplant,,5,both,14,30,,
+103,Beanies,Dutch Boy Bucket Cap,Cobblestone Brick,,5,both,14,30,,
+104,Beanies,Dutch Boy Bucket Cap,Pea Soup Green,,5,both,14,30,,
+105,Beanies,Cozy Comfy Beanie Cap,Stone Blue,,4,both,14,30,,
+106,Beanies,Cozy Comfy Beanie Cap,Organic Eggplant,,4,both,14,30,,
+107,Beanies,Cozy Comfy Beanie Cap,Deep Ocean,,4,both,14,30,,
+108,Beanies,Cozy Comfy Beanie Cap,Redwood,,4,both,14,30,,
+109,Beanies,Ski Chic Beanie,Whistler White,,5,both,2,,,
+110,Beanies,Ski Chic Beanie,Fresh Powder Blue,,5,both,2,,,
+111,Beanies,Ski Chic Beanie,Snowbunny Bubblegum,,5,both,2,,,
+112,Beanies,Killer Catch Trawler Beanie,Monkfish Tawny,,5,both,2,,,
+113,Beanies,Killer Catch Trawler Beanie,Algae Green,,5,both,2,,,
+114,Beanies,Killer Catch Trawler Beanie,Pomfret Purple,,5,both,2,,,
+115,Beanies,Killer Catch Logo Cap,Rockfish Red,,3,both,16,25,,
+116,Beanies,Killer Catch Logo Cap,Driftwood Brown,,3,both,16,25,,
+117,Beanies,Killer Catch Logo Cap,Nori Nori Green,,3,both,16,25,,
+118,Beanies,Killer Catch Logo Cap,Horizon Blue,,3,both,16,25,,
+119,Beanies,Killer Catch Logo Cap,Deep Sea Purple,,3,both,16,25,,
+120,Beanies,Double-G Zebra Cap,Robin Egg Blue,,3,both,2,,,"ca, ee, fi, dk, ie, np, nl, no, pl, ru, se, ch, ua, gb"
+121,Beanies,Double-G Zebra Cap,Robin Egg Pink,,3,female,2,,,"ca, ee, fi, dk, ie, np, nl, no, pl, ru, se, ch, ua, gb"
+122,Beanies,Acorn Beanie,Nut Brown,,5,both,14,25,,
+123,Beanies,Acorn Beanie,Rover Green,,5,both,14,25,,
+124,Beanies,Acorn Beanie,Power to the Purple,,5,both,14,25,,
+125,Beanies,Cool Wrap Beanie Cap,Dope Taupe,,3,male,14,25,,
+126,Beanies,Mellow Mushroom Cap,Magic Mocha,,3,male,14,25,,
+127,Beanies,Fruit Roll Wrap Hat,Blueberry Bubblegum,,2,female,2,25,,
+128,Beanies,Polkadot Bubble Beanie,Blue Bronco Orange,,2,male,2,25,,
+129,Beanies,Alpine Fashion Beanie,Norse Rose Red,,3,female,2,,,"ca, ru, ee, dk, fi, se, no"
+130,Beanies,Alpine Fashion Beanie,Merry Mauve,,3,female,2,,,"ca, ru, ee, dk, fi, se, no"
+131,Beanies,Alpine Fashion Beanie,Deep Glacier Blue,,3,both,2,,,"ca, ru, ee, dk, fi, se, no"
+132,Beanies,Alpine Fashion Beanie,Golden Hour Green,,3,both,2,,,"ca, ru, ee, dk, fi, se, no"
+133,Beanies,K-pop Beanie Cap,Jungkook Blue,,2,both,2,21,,"ca, ee, fi, dk, ie, np, nl, no, pl, ru, se, ch, ua, gb, kr, jp"
+134,Beanies,K-pop Beanie Cap,Wonho Indigo,,2,female,2,21,,"ca, ee, fi, dk, ie, np, nl, no, pl, ru, se, ch, ua, gb, kr, jp"
+135,Beanies,K-pop Beanie Cap,Taeyeon Teal,,2,both,2,21,,"ca, ee, fi, dk, ie, np, nl, no, pl, ru, se, ch, ua, gb, kr, jp"
+136,Beanies,K-pop Kitty Cap,Monsta Ash,,2,both,2,21,,"ca, ee, fi, dk, ie, np, nl, no, pl, ru, se, ch, ua, gb, kr, jp"
+137,Beanies,K-pop Kitty Cap,B.T. IRIS,,2,female,2,21,,"ca, ee, fi, dk, ie, np, nl, no, pl, ru, se, ch, ua, gb, kr, jp"
+138,Beanies,Nightcap Chowder Hat,Sea Breeze Cranberry,,2,female,14,21,,
+139,Beanies,Nightcap Chowder Hat,Vacation Home Violet,,2,female,14,21,,
+140,Beanies,Nightcap Chowder Hat,Blue Chartreuse,,2,female,14,21,,
+141,Beanies,Funky Bunny Beanie,Too Cute Blue,,1,both,2,21,,"ca, ee, fi, dk, ie, np, nl, no, pl, ru, se, ch, ua, gb, kr, jp"
+142,Beanies,Fresh Teddy Happy Hat,Bear Cub Brown,,1,both,2,21,,"ca, ee, fi, dk, ie, np, nl, no, pl, ru, se, ch, ua, gb, kr, jp"
+143,Beanies,Jah Rasta Mon Indicap,"Oak Leaf Green, Mellow Yellow, Red",,1,both,14,,,"jm, us, et, bs"
+201,Berets/Newsboy Hats,Cheeky Peaky Blinder Cap,Rebel Red,x,5,male,40,,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+202,Berets/Newsboy Hats,Cheeky Peaky Blinder Cap,Aggressive Avocado,x,5,male,40,,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+203,Berets/Newsboy Hats,Cheeky Peaky Blinder Cap,Troublemaker Teal,x,5,male,40,,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+204,Berets/Newsboy Hats,Cheeky Peaky Blinder Cap,Plum Purple,x,5,male,40,,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+205,Berets/Newsboy Hats,Kerouac Plaid Hat,On the Road Red,x,4,male,14,30,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+206,Berets/Newsboy Hats,Kerouac Plaid Hat,Paradise Purple,x,4,male,14,30,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+207,Berets/Newsboy Hats,Kerouac Plaid Hat,Boulder Blue,x,4,male,14,,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+208,Berets/Newsboy Hats,Kerouac Plaid Hat,Ginsberg Green,x,4,male,14,,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+209,Berets/Newsboy Hats,Kerouac Plaid Hat,Corso Cranberry,x,4,male,14,,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+210,Berets/Newsboy Hats,Vintage Paperboy Hat,Hot Off The Press Red,x,4,male,7,13,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+211,Berets/Newsboy Hats,Vintage Paperboy Hat,Extra! Extra! Eggplant,x,4,male,7,13,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+212,Berets/Newsboy Hats,Vintage Paperboy Hat,Big News Blue,x,4,male,7,13,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+213,Berets/Newsboy Hats,Vintage Paperboy Hat,Journalistic Jade,x,4,male,7,13,,"au, be, ca, dk, ee, fi, fr, de, ie, nz, ro, se, ch, gb, us, at"
+214,Berets/Newsboy Hats,Hole-in-One Hat,Woods Grey,x,4,male,60,,,"us, ca, ie, gb"
+215,Berets/Newsboy Hats,Hole-in-One Hat,Cute Yoo Pink,x,4,male,60,,,"us, ca, ie, gb"
+216,Berets/Newsboy Hats,Hole-in-One Hat,Mickelson Mauve,x,4,male,60,,,"us, ca, ie, gb"
+217,Berets/Newsboy Hats,Retro Fade Beret,Old School Blue,x,3,male,14,30,,fr
+218,Berets/Newsboy Hats,Retro Fade Beret,Boysenberry,x,3,female,14,30,,fr
+219,Berets/Newsboy Hats,Retro Fade Beret,Paint the Town Brown,x,3,both,14,30,,fr
+220,Berets/Newsboy Hats,Retro Fade Beret,Good Guy Green,x,3,both,14,30,,fr
+221,Berets/Newsboy Hats,Monet Beret,Waterloo Blue,,5,male,14,30,,fr
+222,Berets/Newsboy Hats,Monet Beret,Lily Bridge Brown,,5,both,14,30,,fr
+223,Berets/Newsboy Hats,Monet Beret,Oui Oui Green,,5,both,14,30,,fr
+224,Berets/Newsboy Hats,Monet Beret,Parisian Plum,,5,female,14,30,,fr
+301,Bucket Hats,Clouseau Cap,Roger Red,x,4,male,14,30,,"us, ca, ie, gb"
+302,Bucket Hats,Clouseau Cap,Peter Purple,x,4,female,14,30,,"us, ca, ie, gb"
+303,Bucket Hats,Clouseau Cap,Another Clue Blue,x,4,male,14,,,"us, ca, ie, gb"
+304,Bucket Hats,Clouseau Cap,Shamrock,x,4,male,14,,,"us, ca, ie, gb"
+305,Bucket Hats,Clouseau Cap,Farcical Plaid,x,4,male,14,,,"us, ca, ie, gb"
+306,Bucket Hats,Unflappable Flapper Hat,Prohibition Pink,x,4,female,3,,,"us, ca, ie, gb"
+307,Bucket Hats,Unflappable Flapper Hat,Roaring Orchid,x,4,female,60,,,"us, ca, ie, gb"
+308,Bucket Hats,Unflappable Flapper Hat,Jazzy Jasmine,x,4,female,60,,,"us, ca, ie, gb"
+309,Bucket Hats,Cutesy Bucket Cap,Pretty Pink,x,4,female,5,10,,"us, ca, ie, gb"
+310,Bucket Hats,Cutesy Bucket Cap,Smooth Blue,x,4,female,60,,,"us, ca, ie, gb"
+311,Bucket Hats,Cutesy Bow Cloche Hat,Rum Runner Red,x,5,female,3,10,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+312,Bucket Hats,Cutesy Bow Cloche Hat,Fitzgerald Fuscia,x,5,female,3,10,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+313,Bucket Hats,Cutesy Bow Cloche Hat,"""It"" Girl Indigo",x,5,female,3,10,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+314,Bucket Hats,Cutesy Bow Cloche Hat,Speakeasy Green,x,5,female,60,,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+315,Bucket Hats,Cutesy Bow Cloche Hat,Foxtrot Teal,x,5,female,60,,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+316,Bucket Hats,Just Say Bucket Hat,Chillaxin Cherry,x,5,female,3,,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+317,Bucket Hats,Just Say Bucket Hat,Let it Go Indigo,x,5,female,3,,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+318,Bucket Hats,Just Say Bucket Hat,Good Day Grey,x,5,female,3,,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+319,Bucket Hats,Just Say Bucket Hat,Good Day Sage,x,5,male,3,,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+320,Bucket Hats,Sleuth Heroine Hat,Interrogated Taupe,x,5,female,25,45,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+321,Bucket Hats,Sleuth Heroine Hat,Gotcha Grape,x,5,female,25,45,,"au, be, ca, dk, ee, fi, fr, de, ie, it, nl, nz, no, pl, ro, ru, rs, es, se, ch, gb, us, mc, cz, at, ua"
+401,Fancy Hats,1950's Roadtrip Fedora,Chevy Orange,x,1,male,20,40,70,"us, br, co, cu, do, it, ve"
+402,Fancy Hats,1950's Roadtrip Fedora,Roadside Rose,x,1,male,20,40,70,"us, br, co, cu, do, it, ve"
+403,Fancy Hats,1950's Roadtrip Fedora,Vacation Violet,x,1,male,20,40,70,"us, br, co, cu, do, it, ve"
+404,Fancy Hats,1950's Roadtrip Fedora,Horizon Blue,x,3,male,30,,,"us, br, co, cu, do, it, ve"
+405,Fancy Hats,1950's Roadtrip Fedora,Family Man Fern,x,3,male,30,,,"us, br, co, cu, do, it, ve"
+406,Fancy Hats,1950's Roadtrip Fedora,Dusty Rose,x,3,male,20,40,,"us, br, co, cu, do, it, ve"
+407,Fancy Hats,1950's Roadtrip Fedora,Stop to Tinkle Periwinkle,x,3,male,30,,,"us, br, co, cu, do, it, ve"
+408,Fancy Hats,1950's Roadtrip Fedora,Streetwise Sepia,x,3,male,30,,,"us, br, co, cu, do, it, ve"
+409,Fancy Hats,Vero Beach Fedora,Grampa Green,x,2,male,30,,,"us, br, co, cu, do, it, ve"
+410,Fancy Hats,Vero Beach Fedora,Past Prime Purple,x,2,male,30,,,"us, br, co, cu, do, it, ve"
+411,Fancy Hats,Vero Beach Fedora,Late in Life Lavender,x,2,male,30,,,"us, br, co, cu, do, it, ve"
+412,Fancy Hats,Beau Onyx Top Hat,Jet Black,x,5,male,40,,,"us, gb, be, ca, ie, nl, ch"
+413,Fancy Hats,Rude Boy Pork Pie,Mighty Mighty Brownstone,x,5,male,40,,,"us, gb, be, ca, ie, nl, ch"
+414,Fancy Hats,Bugsy Capone Fedora,Black on Grey,x,3,male,30,,,"us, gb, be, ca, ie, nl, ch"
+415,Fancy Hats,The Grinder Hat,Organ Pipe Gold,x,2,male,40,,,"us, gb"
+416,Fancy Hats,The Grinder Hat,Organ Pipe Pink,x,2,male,40,,,"us, gb"
+417,Fancy Hats,Sun City Fedora,Dusty Yellow,x,2,male,30,,,"us, br, co, cu, do, it, ve"
+418,Fancy Hats,Strawman Bucket Hat,Winter Wheat,x,1,male,30,,,"ar, au, be, br, ca, cl, co, cu, do, fr, de, gr, il, it, jm, jp, mx, nl, nz, pa, pe, ph, pr, kr, es, ch, gb, us, uy, ve, ec, mc, cr, bs, at"
+419,Fancy Hats,The Strawman Hat,Distressed Rye,x,1,male,14,,,"us, ca"
+420,Fancy Hats,Audrey Chic,Tiffany Orchid Taupe,x,4,female,40,,,
+421,Fancy Hats,Flowergorgan Turban,Stranger Things Pink,,4,female,60,,,"us, gb"
+422,Fancy Hats,Flowergorgan Turban,Hawkins Heather,,4,female,60,,,"us, gb"
+423,Fancy Hats,Nautical Bubble Bowler Cap,Dewdrop Green,x,5,male,30,,,"us, gb, be, ca, ie, nl, ch"
+424,Fancy Hats,Nautical Bubble Bowler Cap,Ripe Fig,x,5,male,30,,,"us, gb, be, ca, ie, nl, ch"
+425,Fancy Hats,Kubric Bowler,A Clockwork Black,x,4,male,30,,,"us, gb, be, ca, ie, nl, ch"
+426,Fancy Hats,Daily Derby Bowler,Brickhouse Red,x,5,male,30,,,"us, gb, be, ca, ie, nl, ch"
+427,Fancy Hats,Daily Derby Bowler,Impressive Plum,x,5,male,30,,,"us, gb, be, ca, ie, nl, ch"
+428,Fancy Hats,Daily Derby Bowler,Dark Viridian,x,4,male,30,,,"us, gb, be, ca, ie, nl, ch"
+429,Fancy Hats,Pleather Dixie Cup Cap,In the Navy Blue,x,4,male,30,,,"us, gb, be, ca, ie, nl, ch"
+430,Fancy Hats,Pleather Dixie Cup Cap,Anchor Rust Brown,x,4,male,30,,,"us, gb, be, ca, ie, nl, ch"
+431,Fancy Hats,Pleather Dixie Cup Cap,Blue Lagoon Green,x,4,male,30,,,"us, gb, be, ca, ie, nl, ch"
+432,Fancy Hats,Fuzzy Furry Cossack,Siberian Snows,,1,female,30,,,ru
+433,Fancy Hats,Happy Comrade Hat,Cold Winter Coal,,1,male,30,,,ru
+434,Fancy Hats,Farside Fez,Smoked Paprika,,1,male,18,40,,"af, eg, et, in, id, ir, iq, ng, sa, ae, ma, pk, sy, my, cd, kz, kw"
+435,Fancy Hats,Good Old-Timey Boater Hat,Riverside Rose,x,2,female,50,,,"ar, au, be, br, ca, cl, co, cu, do, fr, de, gr, il, it, jm, jp, mx, nl, nz, pa, pe, ph, pr, kr, es, ch, gb, us, uy, ve, ec, mc, cr, bs, at"
+436,Fancy Hats,Good Old-Timey Boater Hat,Golden Straw,x,4,male,50,,,"ar, au, be, br, ca, cl, co, cu, do, fr, de, gr, il, it, jm, jp, mx, nl, nz, pa, pe, ph, pr, kr, es, ch, gb, us, uy, ve, ec, mc, cr, bs, at"
+437,Fancy Hats,The Vogue Fedora,Nude,x,4,male,30,,,"ar, au, be, br, ca, cl, co, cu, do, fr, de, gr, il, it, jm, jp, mx, nl, nz, pa, pe, ph, pr, kr, es, ch, gb, us, uy, ve, ec, mc, cr, bs, at"
+438,Fancy Hats,Seurat Park Sunday Hat,Impressionist Ochre,x,4,both,30,,,"ar, au, be, br, ca, cl, co, cu, do, fr, de, gr, il, it, jm, jp, mx, nl, nz, pa, pe, ph, pr, kr, es, ch, gb, us, uy, ve, ec, mc, cr, bs, at"
+439,Fancy Hats,Band of Blue Bucket Hat,Pure Azure,x,4,male,30,,,"ar, au, be, br, ca, cl, co, cu, do, fr, de, gr, il, it, jm, jp, mx, nl, nz, pa, pe, ph, pr, kr, es, ch, gb, us, uy, ve, ec, mc, cr, bs, at"
+440,Fancy Hats,Gran's Countryside Straw Hat,Take a Stroll Gold,x,4,both,60,,,"ar, au, be, br, ca, cl, co, cu, do, fr, de, gr, il, it, jm, jp, mx, nl, nz, pa, pe, ph, pr, kr, es, ch, gb, us, uy, ve, ec, mc, cr, bs, at"
+441,Fancy Hats,Cute Girl Cowboy Hat,Rodeo Days Beige,x,4,female,18,,,"us, ca, au, mx, ar"
+442,Fancy Hats,Haute Couture Hobo Hat,Boxcar Brown,x,4,both,18,50,,"us, ca, au, mx, ar"
+443,Fancy Hats,Haute Couture Hobo Hat,Roadworn Orchid,x,3,both,18,50,50,"us, ca, au"
+444,Fancy Hats,Ark Raider Hat,Worn Leather,x,4,male,30,60,,"ca, mx, us, au, ar"
+445,Fancy Hats,Ark Raider Hat,Lost Leather,x,4,male,30,60,,"ca, mx, us, au, ar"
+501,Wraps,Hipster Urban Turban,Gin Fizz Sapphire,,4,both,3,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+502,Wraps,Hipster Urban Turban,Gin Fizz Amethyst,,4,both,3,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+503,Wraps,Hipster Urban Turban,Pink Bubblegum,,4,both,3,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+504,Wraps,Hipster Urban Turban,Emerald City Green,,4,both,3,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+505,Wraps,Swirlin' Turban,Barrel Ring Black,,5,both,3,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+506,Wraps,Swirlin' Turban,Charred New Oak,,5,both,3,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+507,Wraps,Swirlin' Turban,Weller Green,,5,both,3,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+508,Wraps,Urban Turban Tight,Charcoal,,5,both,3,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+509,Wraps,Urban Turban Tight,Organic Eggplant,,5,both,3,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+510,Wraps,Urban Turban Tight,Sangria,,5,both,3,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+511,Wraps,Super Chic Sikh,Warhol White,,2,both,3,,,in
+512,Wraps,Ali Baba Posh,Opulent Orange,,3,both,20,,,"af, in, id, ir, iq, ng, sa, tr, ae, ma, pk, sy, my, cd, kz, kw"
+513,Wraps,Foxy Firestarter Wrap,Burnt Orange,,3,female,30,,,ro
+514,Wraps,Axl Rose Durag Rag,90's Blue,,1,male,14,25,75,us
+515,Wraps,Axl Rose Durag Rag,Rocker Red,,1,male,14,25,75,us
+601,Misc.,Fleet Admiral Bitizen Hat,Traditional,x,1,male,35,,75,
+602,Misc.,Salakot Safari Hat,Oxblood Brown,x,1,male,35,,,
+603,Misc.,Crock Tooth Akubra Hat,Saddle Leather,x,1,male,35,,50,au
+604,Misc.,Brownstone Bucket Hat,Cocoa Brown,x,1,male,35,,,"ca, mx, us, au, ar"
+605,Misc.,Builder Bob Safety Hat,Skyscraper Yellow,x,3,both,18,50,,
+606,Misc.,Super Cycle Racing Helmet,Titanium,,3,male,6,,,
+607,Misc.,Super Cycle Racing Helmet,French Race Grape,,3,female,6,,,
+608,Misc.,Super Cycle Racing Helmet,Road Race Rose,,3,female,6,,,
+609,Misc.,Super Cycle Racing Helmet,In the Blue,,3,male,6,,,
+610,Misc.,The Green Beret,Traditional,,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+611,Misc.,Royal Blue Beret,Regal Blue,,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+612,Misc.,Yukon Mounty Beret,Deep Forest Green,x,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+613,Misc.,Britannica Beret,Imperial Red,,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+614,Misc.,Naval Fleet Beret,Aquamarine,,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+615,Misc.,Freedom Fighter Beret,Revolution Red,,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+616,Misc.,Eastern Bloc Beret,Berlin Black,x,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+617,Misc.,Dope Boy Beret,Navy Baby Blue,,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+618,Misc.,Che Guerilla Beret,Basecamp Coal,,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+619,Misc.,Neo Beat Beret,In the Swing Green,,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+620,Misc.,The Balkan Beret,Sophie Scarlet,,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+621,Misc.,The Blue Dress Beret,Intern Ebony,,1,male,18,40,,"cd, bo, co, et, ke, ng, za, ve"
+629,Misc.,Dropping Anchor Navy Cap,Chalk White,,1,male,18,30,75,us
+630,Misc.,Solo Flight Pilot's Cap,Nerves of Steel Blue,x,1,both,25,50,75,"us, ca, au, be, fr, de, jp, ru, gb"
+631,Misc.,Faux Fur Frontier Cap,Daniel Boone Brown,,1,male,8,,,"us, ca"
+632,Misc.,The Mighty Viking,Eric the Red,,1,male,5,,,"se, no, dk"
+633,Misc.,Runway-Ready King Tut,Old Kingdom Gold,,1,male,5,,,eg
+634,Misc.,Shaman Sage Headdress,Falcon Feather Brown,,1,both,5,12,,none
+635,Misc.,Pirate's Tricorne,Black as Death,,1,both,14,25,90,
+636,Misc.,Trippin Witch Cauldron Cap,Spellbound Black,,1,female,14,,90,"us, ca, au, gb"
+637,Misc.,The Jolly Jester,Primary Three Plus Green,,1,male,14,25,90,gb
+638,Misc.,Tom Petty Top Hat,Running Down a Red,,1,male,8,40,70,
+639,Misc.,Lucky Leprechaun Clover Cap,Emerald,x,1,male,18,,75,ie
+640,Zoo,Lion Sleeps Tonight Cap,Lion,x,2,both,3,,,"mx, ca, us"
+641,Zoo,Eye of the Tiger Cap,Tiger,x,3,both,3,,,"mx, ca, us"
+642,Zoo,Proud Peacock Cap,Peacock,x,2,both,3,,,"mx, ca, us"
+643,Zoo,Real Macaw Cap,Scarlet Macaw,x,2,both,3,,,"mx, ca, us"
+644,Zoo,My Little Unicorn Cap,Unicorn,x,1,both,3,,,"mx, ca, us"
+645,Zoo,Divine Flamboyance Cap,Flamingo,x,3,both,3,,,"mx, ca, us"
+646,Zoo,Sky High Cap,Giraffe,x,2,both,3,,,"mx, ca, us"
+647,Zoo,Sinister Scales Cap,Black Mamba,x,2,both,3,,,"mx, ca, us"
+648,Zoo,Between the Lines Cap,Zebra,x,2,both,3,,,"mx, ca, us"
+649,Zoo,Big Red Cap,Red Panda,x,1,both,3,,,"mx, ca, us"
+650,Zoo,BitFu Panda Cap,Panda,x,1,both,3,,,"mx, ca, us"
+651,Zoo,Eternal Flame Cap,Phoenix,x,1,both,3,,,"mx, ca, us"
+652,Zoo,War Paint Cap,Mandrill,x,2,both,3,,,"mx, ca, us"
+653,Deadly Sins Scavenger Hunt 2024,Lil' Devil Cap,Devil,x,5,both,3,,,"mx, ca, us"
+654,Zodiac Scavenger Hunt 2024,Cosmic Energy Cap,Zodiac,x,5,both,3,,,"mx, ca, us"
+655,Casino,Golden Swimmers Fedora,Gilded Black,x,5,both,18,,,
+656,Casino,Suited Up Bucket Hat,Full House White,x,5,both,18,,,
+657,Casino,Viva Las Vegas Fedora,Stag Party Green,x,5,both,18,,,
+658,Casino,Midas Touch Fedora,Casino Royale Gold,x,5,both,18,,,
+659,Casino,Ace of Spades Fedora,Snake Eyes Black,x,5,both,18,,,
+660,Casino,Lucky Strike Fedora,Roll the Dice White,x,5,both,18,,,
+661,Casino,Ca$h Money Bucket Hat,Money Talks Green,x,5,both,18,,,
+662,Casino,Juicy Payout Bucket Hat,Jackpot White,x,5,both,18,,,
+663,Thanksgiving Scavenger Hunt 2024,Gobble Gobble Fedora,Thanksgiving Turkey Orange,x,5,both,18,,,"mx, ca, us"
+664,Lunar New Year Scavenger Hunt 2025,Year of the Snake Cap,Lunar New Year Red,x,5,both,18,,,
+665,Independence Day Scavenger Hunt 2025,Freedom Cowboy Hat,True Blue,x,5,both,18,,,us
+666,Soccer Striker Scavenger Hunt,Premier Lion Cap,Premier Purple,x,5,both,18,,,
+667,Birthday Scavenger Hunt,Seventh Heaven Crown,Glowing Gold,x,5,both,18,,,
+668,season,Potato Bucket Hat,Gravy Boat Silver,x,5,both,18,,,
+669,season,Turkey Crown,Amber Majesty,x,5,both,18,,,
+670,season,Harvest Halo,Autumn Reverie,x,5,both,18,,,
+671,season,Tree Topper Halo,Forest green,x,5,both,18,,,
+672,season,Krampus Horns,Crimson glow,x,5,both,18,,,
+673,season,Ice Crown,Arctic ice blue,x,5,both,18,,,
+674,season,Firecracker Four Winds Hat,Festive vermilion,x,5,both,18,,,
+675,season,Disco Dome Helmet,Prismatic chrome,x,5,both,18,,,
+676,season,Midnight Top Hat,Velvet noir,x,5,both,18,,,
+677,season,Cupid's Halo,Soft carnation pink,x,5,both,18,,,
+678,season,Lovey Cowboy Hat,Rose quartz pink,x,5,both,18,,,
+679,season,Love in Paris Beret,Parisian red,x,5,both,18,,,
+680,season,Kiss Me Hat,Classic Irish green,x,5,both,18,,,
+681,season,Lucky Irish Cap,Shamrock green,x,5,both,18,,,
+682,season,Clover Bowler,Spring clover green,x,5,both,18,,,
+683,season,Lola Bunny Cosplay,Cotton candy pink,x,5,both,18,,,
+684,season,Louise's Hood,Bubblegum pink,,5,both,18,,,
+685,season,Bumble Beanie,Spring clover green,,5,both,18,,,
+686,season,Ice King's Crown,Glossy old,,5,both,18,,,
+687,season,Darth Helmet,Midnight black,,5,both,18,,,
+688,season,Maleficent's Crown,Dark noir,,5,both,18,,,
+689,season,The Babadook,Rainbow noir,x,5,both,18,,,
+690,season,Flower Crown,Radiant Bouquet,,5,both,18,,,
+691,season,Curtained Brim,Glittering gold,x,5,both,18,,,

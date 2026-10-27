@@ -1,0 +1,15 @@
+Genre,Can Use Standalone,Budget Score,Commonness Score,Country Code
+action,,5,5,
+Bollywood,,2,4,in
+comedy,x,2,4,
+drama,x,3,3,
+fantasy,,4,3,
+horror,,3,3,
+indie,,1,5,
+musical,x,2,2,
+romance,,3,3,
+romantic comedy,x,2,2,
+sci-fi,,5,3,
+thriller,x,4,3,
+western,,2,1,
+childrens,,2,3,

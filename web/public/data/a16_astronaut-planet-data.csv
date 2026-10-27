@@ -1,0 +1,9 @@
+Name,Classification,Color,Diameter,Mass,Age,Has Rings,Number of Moons,Habitability Score
+Earth,Terrestrial Planet,"Blue, White","12,742",1,"4,540,000,000",,1,0.95
+Venus,Terrestrial Planet,Yellow,"12,104",0.815,"4,500,000,000",,0,0.03
+Mars,Terrestrial Planet,Red,"6,779",0.107,"4,600,000,000",,2,0.2
+Jupiter,Gas Giant Planet,"Orange, White","139,822",318,"4,500,000,000",x,79,0.01
+Saturn,Gas Giant Planet,"Yellow, Brown","116,460",95,"4,500,000,000",x,82,0.01
+Uranus,Gas Giant Planet,"Blue, Green","50,724",14.5,"4,500,000,000",x,27,0
+Mercury,Terrestrial Planet,Grey,"4,880",0.055,"4,500,000,000",,0,0
+Neptune,Gas Giant Planet,Blue,"49,244",1710,"4,500,000,000",x,14,0

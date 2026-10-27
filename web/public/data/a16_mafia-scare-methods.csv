@@ -1,0 +1,17 @@
+Method,Scenario,Log Version,Effectiveness Score,Get Caught Score
+Firebomb <his/her> house,You firebombed <person-possessive> house!,I firebombed <person-possessive> house!,4,2
+Torch <his/her> spouse,You set <person-possessive> spouse on fire!,I set <person-possessive> spouse on fire!,5,4
+Toilet paper <his/her> house,You toilet papered <person-possessive> house!,I toilet papered <person-possessive> house!,1,2
+Key <his/her> car,You keyed <person-possessive> car!,I keyed <person-possessive> car!,2,1
+Slash car tires,You slashed <person-possessive> car tires!,I slashed <person-possessive> car tires!,2,1
+Bust house windows,You shattered every window in <person-possessive> house!,I shattered every window in <person-possessive> house!,4,3
+Bust car windows,You shattered <person-possessive> car windows!,I shattered <person-possessive> car windows!,3,2
+Torch <his/her> yard,You set <person-possessive> yard ablaze!,I set <person-possessive> yard ablaze!,4,3
+Sink <his/her> car in a lake,You sank <person-possessive> car into a lake!,I sank <person-possessive> car into a lake!,3,3
+Trash <his/her> house,You broke into <person-possessive> house and trashed the place!,I broke into <person-possessive> house and trashed the place!,4,2
+Send <him/her> a package,You sent <person> a package containing <knuckle bones/toes/teeth/hair/toenails/fingernails>!,I sent <person> a package containing <rb>!,4,3
+Blow up <his/her> car,You blew up <person-possessive> car!,I blew up <person-possessive> car!,5,2
+Smash <his/her> phone,You smashed <person-possessive> phone on the sidewalk!,I smashed <person-possessive> phone on the sidewalk!,1,1
+Cut <his/her> brakes,You cut the brakes on <person-possessive> car!,I cut the brakes on <person-possessive> car!,4,2
+Jump scare,You jumped out <from behind some bushes/of a trash can/from behind a door/from an alleyway/from behind a car/from inside a bathroom stall> and scared the bejeezus out of <person>!,I jumped out <rb> and scared the bejeezus out of <person>!,1,1
+Poop on <his/her> front porch,You left a steaming dump on <person-possessive> front porch!,I took a massive dump on <person-possessive> front porch!,1,2

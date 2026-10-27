@@ -1,0 +1,32 @@
+Species,Plural,Handbook Color String,Habitat,Danger Score,Difficulty Score,Attack String,Commonness Score,Emoji String
+bigfin squid,bigfin squids,"This species of squid is so mysterious, scientists barely know anything about them.",deep sea,5,5,touched,1,outdoor-bigfin-squid
+blood-belly jelly,blood-belly jellies,"Most deep-sea creatures can't perceive red, keeping this jelly hidden.",deep sea,2,2,stung,3,outdoor-blood-belly-jelly
+deep-sea catshark,deep-sea catsharks,"Like cats, the eyes of these sharks have mirrored lenses.",deep sea,3,3,bit,4,outdoor-deep-sea-catshark
+dolphin,dolphins,Many dolphins are infected with genital warts.,open ocean shelf,3,5,fin-whipped,4,outdoor-dolphin
+dumbo octopus,dumbo octopuses,Female dumbo octopi are always pregnant.,deep sea,1,1,punched,3,outdoor-dumbo-octopus
+fiddler crab,fiddler crabs,Males use their massive claw to attract mates.,sandy-bottom shallow,3,4,pinched,2,outdoor-fiddler-crab
+giant octopus,giant octopuses,The largest specimen of this species on record was over 600 lbs (270 kg).,open ocean shelf,3,4,sucker-punched,3,outdoor-giant-octopus
+glass squid,glass squids,"These transparent squids have a sac full of ammonia, helping them float.",deep sea,1,5,squirted on,2,outdoor-glass-squid
+great white shark,great white sharks,Great White Sharks have up to 300 teeth and constantly shed and regrow them.,open ocean shelf,5,3,eviscerated,1,outdoor-great-white-shark
+green turtle,green turtles,Females return to the beach where they were born to lay eggs.,coastal inlet,3,1,bit,5,outdoor-green-turtle
+hammerhead shark,hammerhead sharks,Hammerheads are capable of virgin births (asexual reproduction).,open ocean shelf,4,4,bit,4,outdoor-hammerhead-shark
+humpback whale,humpback whales,A 1970 album featuring humpback whale songs went multi-platinum.,open ocean shelf,1,5,blew on,1,outdoor-humpback-whale
+lanternfish,lanternfishes,Lanternfish possess special organs that make them glow.,deep sea,3,3,nipped at,5,outdoor-lanternfish
+leaf slug,leaf slugs,These cuties are green because they can photosynthesize.,coastal inlet,1,1,crawled on,1,outdoor-leaf-slug
+lion's mane jellyfish,lion's mane jellyfishes,"These freaky creatures have up to 1,200 tentacles.",open ocean shelf,3,2,stung,4,outdoor-lion's-mane-jellyfish
+manatee,manatees,Manatees fart strategically to regulate their position in the water.,coastal inlet,1,1,slapped,3,outdoor-manatee
+manta ray,manta rays,"A manta ray's underside markings are individually unique, like fingerprints.",coastal inlet,2,3,bludgeoned,3,outdoor-manta-ray
+mantis shrimp,mantis shrimps,A mantis shrimp's eyes have so many photoreceptors that it can see cancer.,sandy-bottom shallow,5,5,punched,1,outdoor-mantis-shrimp
+moray eel,moray eels,Morays have an extra set of jaws in their throat.,sandy-bottom shallow,4,4,bit,2,outdoor-moray-eel
+orca,orcas,Orcas in captivity are the only whale species in the world that have killed humans.,open ocean shelf,5,5,bit,2,outdoor-orca
+sea anemone,sea anemones,A sea anemone's mouth is also its anus.,sandy-bottom shallow,3,3,poked,5,outdoor-sea-anemone
+sea hare,sea hares,"During mating season, this hermaphroditic creature forms breeding chains up to 20 sea hares long.",sandy-bottom shallow,1,3,bonked,2,outdoor-sea-hare
+sea lion,sea lions,Sea lions are the only non-human animals that can keep a beat.,coastal inlet,4,5,slapped,4,outdoor-sea-lion
+sea pig,sea pigs,These sea cucumbers snuffle in seafloor mud like pigs.,deep sea,2,1,nibbled on,4,outdoor-sea-pig
+sea snail,sea snails,Sea snails smell with their tentacles.,sandy-bottom shallow,1,1,crawled on,4,outdoor-sea-snail
+sea snake,sea snakes,There are 69 species of sea snake. Nice.,coastal inlet,5,4,bit,2,outdoor-sea-snake
+seahorse,seahorses,"Seahorse males get pregnant, making them unique among all species.",sandy-bottom shallow,1,2,tail-whipped,3,outdoor-seahorse
+sevengill shark,sevengill sharks,Most sharks only have five pairs of gills - these guys got a couple extra.,coastal inlet,4,3,bit,3,outdoor-sevengill-shark
+starfish,starfish,A starfish that loses an arm can regrow it over the course of a year.,sandy-bottom shallow,3,1,stung,3,outdoor-starfish
+sunfish,sunfishes,"Female sunfish can lay up to 300,000,000 eggs at once.",open ocean shelf,1,1,flopped on,2,outdoor-sunfish
+whale shark,whale sharks,These big guys cruise the ocean at 3 mph.,open ocean shelf,1,1,bonked,3,outdoor-whale-shark

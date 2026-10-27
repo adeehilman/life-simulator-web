@@ -1,0 +1,45 @@
+Animal Blacklist,String,Positive,Show Type,Commonness Score
+,A crowd of enthusiastic <zoo patrons/guests/onlookers> clapped as they watched <animal-handler> feed <animal-zoo>.,x,feeding demonstration,5
+,Your zoo patrons <laughed/cheered> as they watched <animal-handler> <navigate/lead> <animal-zoo> through a small maze.,x,enrichment session,5
+,Hardly any of your zoo patrons showed up to watch <animal-handler> feed <animal-zoo>.,,feeding demonstration,5
+"Bat, Bird, Pinniped, Snake",Barely any of your zoo's guests managed to stomach watching <animal-handler> try to play <catch/fetch> with <animal-zoo>.,,enrichment session,5
+,No one showed up to watch <animal-handler> talk about <animal-zoo-possessive> needs.,,conservation talk,5
+,Several audience members took notes about how they could participate in conserving <animal-zoo-possessive> natural habitats.,x,conservation talk,5
+,"Your zoo guests collectively said ""awww"" as <animal-zoo> politely took a treat from <animal-handler>'s hand.",x,feeding demonstration,3
+Pangolin,Onlookers were <horrified/shocked/appalled> when the overly enthusiastic <animal-zoo> nearly bit off <animal-handler>'s finger during the feeding demonstration.,,feeding demonstration,2
+,Guests couldn't take their eyes off <animal-zoo> as <animal-handler> played with <him/her> using <his/her> favorite toy.,x,enrichment session,4
+,Your guests got up and left after <animal-handler> failed  to rouse <animal-zoo> from <his/her> nap.,,enrichment session,4
+,A local <elementary/middle/high> school bussed in all their students to hear <animal-handler> talk about the natural habitat of <animal-zoo>.,x,conservation talk,2
+,A local conservation activist wrote <a Tweet/an Instagram post/a newspaper column> that lambasted <animal-handler>'s talk for getting basic conservation facts wrong.,,conservation talk,2
+,The audience <gasped/roared/clapped/cheered> as <animal-zoo> beat <his/her> best time at the obstacle course.,x,obstacle course,2
+,"<animal-zoo> wasn't interested in the obstacle course, and <disappointed/unimpressed> zoo guests walked away in droves.",,obstacle course,4
+"Bat, Bird","<animal-zoo> stumbled cutely through the obstacle course, <delighting/amusing/charming> your visitors.",x,obstacle course,4
+,"Though <animal-zoo> gave it <his/her> all at the obstacle course, nobody came to see.",,obstacle course,3
+,<excited/delighted> attendees snapped pictures as <animal-handler> led <animal-zoo> in slow circles around <his/her> exhibit.,x,photo op,4
+,Disappointed zoo patrons took a few <blurry/poorly lit/grainy> photos as <animal-handler> struggled to get <animal-zoo> to come out of <his/her> shelter.,,photo op,4
+,"A gaggle of kids <giggled/laughed/cracked up> as they caught <animal-zoo> on camera, striking a silly pose.",x,photo op,4
+,Frustrated onlookers booed <animal-handler> for managing to stand in the middle of every shot.,,photo op,2
+,<fascinated/curious> onlookers listened as <animal-handler> showed them the interlocking gates that prevented <animal-zoo> from escaping.,x,behind-the-scenes tour,3
+,Nobody seemed interested in the normally off-limits parts of <animal-zoo-possessive> exhibit.,,behind-the-scenes tour,5
+,Zoo guests seemed <interested in/fascinated by/mesmerized by> <animal-handler>'s explanation on the particulars of <animal-zoo-possessive> habitat.,x,behind-the-scenes tour,5
+,Tour participants were not impressed by the massive pile of poop that <animal-zoo> left that morning in <his/her> shelter.,,behind-the-scenes tour,2
+,"As <animal-handler> showed off <animal-zoo> while <he/she> was taking a <restorative/quick> nap, several appreciative patrons lay down to nap in solidarity.",x,nap demonstration,3
+,Zoo guests muttered that the napping <animal-zoo> was <boring/uninteresting/dull>.,,nap demonstration,4
+,A healthy number of guests turned out to watch <animal-zoo> looking <adorable/precious> while <he/she> napped.,x,nap demonstration,4
+,"After <fifteen minutes/thirty minutes/an hour> of pleading with <animal-zoo> to please go to sleep, <animal-handler> admitted defeat.",,nap demonstration,2
+,"Attendees were <astounded/amazed/awestruck> as <animal-handler> coached <animal-zoo> to perform a silent, one-animal version of <Macbeth/Hamlet/Much Ado About Nothing/Othello/A Midsummer Night's Dream>.",x,animal theater,2
+,A visiting theater critic wrote a scathing review of <animal-zoo-possessive> silent version of <Macbeth/Hamlet/Much Ado About Nothing/Othello/A Midsummer Night's Dream>.,,animal theater,2
+,Kids visiting your zoo <clapped/cheered/gasped> as <animal-handler> used treats to direct <animal-zoo> in a slapstick piece of silent theater.,x,animal theater,5
+,<disgusted/enraged> zoo patrons threw tomatoes at <animal-handler> as <he/she> was directing <animal-zoo> in an experimental theater piece.,,animal theater,4
+,"After <animal-handler> put paints and a canvas in <animal-zoo-possessive> enclosure, <he/she> created a work that guests hailed as the next <Starry Night/Guernica/Girl with a Pearl Earring/Mona Lisa/Persistence of Memory>.",x,animal art creation,2
+,Zoo guests looked confused as <animal-handler> tried to persuade <animal-zoo> to use the paints <he/she> had brought to the enclosure.,,animal art creation,5
+"Bat, Bird, Turtle","After <animal-zoo> rolled across a canvas covered in paint, an artist in the crowd called the work <brave/avant-garde/thought-provoking/inventive>.",x,animal art creation,4
+,People in the crowd muttered that <animal-zoo> looked <stupid/pathetic/ridiculous> as <he/she> covered <him/her>self in paint.,,animal art creation,3
+,Your guests looked <delighted/overjoyed/charmed> when <animal-handler> let them get within a few feet of <animal-zoo>.,x,meet-and-greet,5
+,<animal-handler> caused an uproar when <animal-zoo> temporarily escaped and could not be found for <an hour/a day/a week>.,,meet-and-greet,3
+,An adorable photo of a guest with <animal-zoo> went viral on <Instagram/Facebook/Twitter>.,x,meet-and-greet,2
+,<animal-zoo> seemed <disappointed/sad/depressed> after nobody came to <his/her> meet-and-greet.,,meet-and-greet,2
+,Zoo patrons said they had a whole new understanding of biology as they left the breeding session featuring <animal-zoo>.,x,breeding demonstration,5
+,<animal-handler> was forced to intervene after the breeding session with <animal-zoo> became too <steamy/violent/lewd/spirited>.,,breeding demonstration,2
+,Several guests said they had a new understanding of themselves after seeing <animal-zoo-possessive> breeding demonstration.,x,breeding demonstration,1
+,"In a devastating blow to <his/her> confidence, <animal-zoo> experienced a bout of <performance anxiety/stage fright/extreme anxiety> during the demonstration.",,breeding demonstration,5

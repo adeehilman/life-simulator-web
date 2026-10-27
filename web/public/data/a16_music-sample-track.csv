@@ -1,0 +1,370 @@
+Song,Genre,Commonness Score
+My Humps,rhythm and blues,3
+Like a Prayer,worship,3
+Espresso,pop,3
+Oops! I Did It Again,pop,3
+Gimme More,pop,3
+Bodak Yellow,rap,3
+"Amen, Brother",rap,3
+Nuthin' but a 'G' Thang,hip-hop,3
+Smells Like Teen Spirit,rock,3
+Seven Nation Army,alternative,3
+Master of Puppets,heavy metal,3
+Friends in Low Places,country,3
+Blowin' in the Wind,folk,3
+Levels,EDM,3
+Soda Pop,K-Pop,3
+Three Little Birds,reggae,3
+Mrs Robinson ,folk ,3
+The Sound of Silence ,folk ,3
+America ,folk ,3
+Bridge Over Troubled Water ,folk,3
+Scarborough Fair ,folk ,3
+Knockin' On Heaven's Door ,folk,3
+Like a Rolling Stone ,folk ,3
+Hurricane ,folk ,3
+The Times They Are A-Changin',folk ,3
+Mr Tambourine Man,folk ,3
+Big Yellow Taxi ,folk ,3
+Wild World,folk,3
+Father and Son ,folk ,3
+Morning Has Broken ,folk ,3
+"Take Me Home, Country Roads ",folk ,3
+Diamonds and Rust ,folk ,2
+This Land is Your Land ,folk,2
+Wayfaring Stranger ,folk,2
+Gentle On My Mind ,folk,2
+Wild Mountain Thyme,folk,2
+Copperhead Road,folk,2
+If I Were A Carpenter ,folk,2
+Shady Grove ,folk,2
+She Belongs To Me,folk,2
+White Winter Hymnal,folk,2
+Hobo's Lullaby ,folk ,1
+Deep River Blues ,folk ,1
+Sittin On Top Of The World ,folk ,1
+L.A.,folk ,1
+Kathleen,folk ,1
+The Dreaded Lemon Pie ,folk ,1
+Restless Year ,folk ,1
+No Kings ,folk ,1
+She's My Baby ,folk ,1
+The One I Love Is Gone ,folk ,1
+Song For Zula ,folk ,1
+Tennessee Whiskey ,country ,3
+You Should Probably Leave ,country ,3
+Starting Over ,country ,3
+Pour Me A Drink ,country ,3
+God's Country ,country ,3
+Hurt ,country ,3
+Ring of Fire ,country ,3
+Folsom Prison Blues ,country ,3
+Ghost Riders in the Sky ,country ,3
+I Walk the Line ,country,3
+Jolene,country ,3
+9 to 5 ,country ,3
+Islands in the Stream ,country ,3
+Before He Cheats ,country ,3
+If I Didn't Love You ,country ,3
+Play It Again ,country ,3
+Country Girl ,country ,3
+All My Ex's Live In Texas ,country ,2
+Wrong Ones ,country ,2
+Where The Green Grass Grows ,country ,2
+Ain't No Love In Oklahoma ,country ,2
+Good Hearted Woman,country ,2
+Lady May,country ,2
+Turtles All The Way Down ,country ,2
+Harlem River Blues ,country ,2
+He Stopped Loving Her Today,country ,2
+Old Flames ,country ,2
+Familiarity ,country ,1
+"Hey, Good Lookin' ",country ,1
+I'm So Lonesome I Could Cry ,country ,1
+Your Cheatin' Heart ,country ,1
+To Beat The Devil ,country ,1
+Black Rose ,country ,1
+Dallas,country ,1
+The Taker ,country ,1
+Drinkin' Thing ,country ,1
+Let Him Roll,country ,1
+The Devil Went Down to Georgia,country,4
+Not Like Us ,rap ,3
+Money Trees ,rap ,3
+HUMBLE.,rap ,3
+King Kunta ,rap ,3
+Alright ,rap ,3
+mAAd city ,rap ,3
+Poetic Justice ,rap ,3
+Swimming Pools ,rap ,3
+Lose Yourself ,rap ,3
+Love The Way You Lie ,rap ,3
+The Real Slim Shady ,rap ,3
+Without Me ,rap ,3
+Stan ,rap ,3
+Superman,rap ,3
+Hypnotize ,rap,3
+Mo Money Mo Problems ,rap ,3
+Notorious Thugs ,rap ,3
+Big Poppa ,rap ,3
+Juicy ,rap ,3
+California Love ,rap ,3
+Hit 'Em Up ,rap ,3
+Ambitionz Az A Ridah ,rap ,3
+Empire State of Mind ,rap ,3
+Run This Town ,rap ,3
+Nuthin' but a 'G' Thang,rap ,3
+Gin and Juice ,rap ,3
+Drop It Like It's Hot ,rap ,3
+Look At Me Now ,rap,2
+Twerk,rap,2
+Anaconda,rap,2
+Doomsday,rap,2
+Shook Ones Pt. II,rap,2
+None Shall Pass,rap,2
+Find A Way ,rap,2
+B.I.B.L.E,rap,2
+Mass Appeal,rap,2
+3030,rap,2
+Trying To Find A Balance ,rap,2
+The ABCs,rap,1
+Gucci Gang,rap,1
+Freaky Friday ,rap ,1
+It's Everyday Bro ,rap,1
+Gummo,rap,1
+You Know It's Real ,rap,1
+Gyros,rap,1
+never thought,rap,1
+Spongebob,rap,1
+Emeralds ,rap,1
+Oldie,rap,3
+10 Freaky Girls,rap,4
+Thinkin Bout You,rap,3
+Pink + White,rap,4
+In da Club,rap,4
+Hot Shower,rap,4
+Murder Was the Case,rap,3
+Bohemian Rhapsody ,rock,3
+Hotel California ,rock,3
+Back in Black ,rock,3
+Sweet Child O' Mine ,rock,3
+Dream On ,rock,3
+London Calling ,rock,3
+Stairway To Heaven ,rock,3
+Comfortably Numb ,rock,3
+Money ,rock,3
+The Great Gig in the Sky ,rock,3
+Kashmir,rock,3
+Whole Lotta Love ,rock,3
+The Court of the Crimson King ,rock,3
+Come As You Are ,rock,3
+Paint It Black ,rock,3
+The End ,rock,3
+White Rabbit ,rock,3
+Born To Be Wild ,rock,3
+Le Grange ,rock,3
+Free Bird ,rock,3
+Go Your Own Way,rock,3
+More Than A Feeling ,rock,3
+Pinball Wizard ,rock,3
+Aqualung ,rock,3
+Carry On Wayward Son ,rock,3
+Gimme Shelter ,rock,3
+Echoes,rock,3
+Black Hole Sun ,rock,3
+Ambitionz As A Ridah ,rock,3
+Goodbye Stranger ,rock,3
+Dancing in the Moonlight ,rock,2
+Mambo Sun ,rock,2
+Shangri-La,rock,2
+School,rock,2
+Crime of the Century ,rock,2
+Take The Long Way Home ,rock,2
+Radar Love ,rock,2
+Movin' On ,rock,2
+Work This Time ,rock,1
+Life In A Glasshouse ,rock,1
+Friday Morning ,rock,1
+The Weather,rock,1
+Porcelina Of The Vast Oceans ,rock,1
+Kill Your Sons ,rock,1
+I Love The Night,rock,1
+Phoenix,rock,1
+Starless,rock,1
+Vitamin C,rock,1
+Baba O'Riley,rock,2
+Livin' on a Prayer,rock,4
+Pour Some Sugar on Me,rock,3
+Good Vibrations,rock,3
+(I Can't Get No) Satisfaction,rock,4
+Hey Jude,rock,3
+Band On The Run,rock,3
+You Give Love a Bad Name,rock,4
+L.A. Woman,rock,4
+Hyacinth House,rock,2
+Riders on the Storm,rock,3
+Golden,k-pop,3
+APT.,k-pop,3
+JUMP,k-pop,3
+Your Idol,k-pop,2
+CRAZY,k-pop,2
+Moonstruck,k-pop,2
+Gabriela,k-pop,2
+Touch,k-pop,1
+MIC Drop,k-pop,1
+Gee,k-pop,1
+Come Back Home,k-pop,3
+Gangnam Style,k-pop,4
+Hero,k-pop,3
+Who Do U Love,k-pop,3
+Dramarama,k-pop,4
+Open Mind,k-pop,4
+Losing You,k-pop,3
+Affection,k-pop,3
+Jealousy,k-pop,2
+The Line,alternative,3
+To Ashes and Blood,alternative,3
+Do I Wanna Know?,alternative,3
+Somebody That I Used to Know,alternative,3
+Radioactive,alternative,2
+19-2000,alternative,2
+Creep,alternative,2
+Wonderwall,alternative,1
+Love Spreads,alternative,1
+Slide Away,alternative,1
+Love Will Tear Us Apart,alternative,2
+This Must Be the Place,alternative,3
+Basket Case,alternative,2
+In Bloom,alternative,3
+Even Flow,alternative,2
+1979,alternative,3
+Bullet With Butterfly Wings,alternative,3
+Today,alternative,3
+Bizarre Love Triangle,alternative,3
+Push th' Little Daisies,alternative,2
+How Soon Is Now?,alternative,3
+Just Like Heaven,alternative,3
+Boys Don't Cry,alternative,3
+Paranoid Android,alternative,3
+Fake Plastic Trees,alternative,3
+I'm Only Happy When It Rains,alternative,3
+Float On,alternative,3
+Gravity Rides Everything,alternative,2
+Lose Control,pop,3
+The Fate of Ophelia,pop,3
+Ordinary,pop,3
+Mystical Magical,pop,3
+Running Up That Hill,pop,2
+Taste,pop,2
+This Love,pop,2
+I Want It That Way,pop,1
+Genie in a Bottle,pop,1
+Wannabe,pop,1
+Die With a Smile,pop,3
+BIRDS OF A FEATHER,pop,2
+Manchild,pop,2
+Shape of You,pop,3
+Flowers,pop,2
+Sweater Weather,pop,2
+As It Was,pop,3
+Beat It,pop,3
+Billie Jean,pop,3
+Thriller,pop,3
+Faith,pop,4
+Wake Me Up Before You Go-Go,pop,3
+Like a Virgin,pop,4
+Purple Rain,pop,3
+When Doves Cry,pop,2
+Every Breath You Take,pop,3
+Eye Of The Tiger,pop,2
+Maneater,pop,2
+Baby One More Time,pop,4
+Friday,pop,3
+Only in My Dreams,pop,2
+I Think We're Alone Now,pop,2
+All I Want For Christmas is You,pop,1
+I'm Too Sexy,pop,3
+Bye Bye Bye,pop,3
+Hips Don't Lie,pop,1
+Happy,pop,2
+Moves Like Jagger,pop,3
+Dancing Queen,pop,4
+Since U Been Gone,pop,3
+Call Me Maybe,pop,3
+Can't Get You Out of My Head,pop,2
+Groove Is In The Heart,pop,4
+Closer,EDM,3
+Something Just Like This,EDM,3
+Summer,EDM,3
+Cheerleader,EDM,3
+We Found Love,EDM,2
+Summertime Sadness,EDM,2
+Clarity,EDM,2
+Higher Love,EDM,1
+Heroes,EDM,1
+Hey Mama,EDM,1
+One More Time,EDM,4
+Levels,EDM,3
+Wake Me Up,EDM,3
+Don't You Worry Child,EDM,3
+Lean On,EDM,3
+Sandstorm,EDM,3
+KO,hip-hop,3
+Mother,hip-hop,3
+City on Fire,hip-hop,3
+Anxiety,hip-hop,3
+UHHH,hip-hop,2
+Fast Money,hip-hop,2
+Dancing in the Smoke,hip-hop,2
+Every President Lied,hip-hop,1
+Next 2 U,hip-hop,1
+God's Plan,hip-hop,1
+Praise,worship,3
+Holy Forever,worship,3
+Fighting for Us,worship,3
+Been so Good,worship,3
+I Believe,worship,2
+Fall Like Rain,worship,2
+In The Room,worship,2
+The Prodigal,worship,1
+At The Altar,worship,1
+Don't Stop Praying,worship,1
+Is This Love,reggae,3
+Big 45,reggae,3
+What a Feeling,reggae,3
+Rastafari Love,reggae,3
+Close to Me,reggae,2
+True to Myself,reggae,2
+Mr. Lover Man,reggae,2
+Johnny B. Goode,reggae,1
+Wife and Sweetheart,reggae,1
+Zungguzungguguzungguzeng,reggae,1
+Red Red Wine,reggae,4
+I Will Not Break,heavy metal,3
+Bring Me to Life,heavy metal,3
+Bodies,heavy metal,3
+Bury the Light,heavy metal,3
+Beauty of Annihilation,heavy metal,2
+Big Metal Shoe,heavy metal,2
+Villain,heavy metal,2
+backfire,heavy metal,1
+Lost in the Dark,heavy metal,1
+Chokehold,heavy metal,1
+Enter Sandman,heavy metal,4
+The Number of the Beast,heavy metal,2
+Iron Man,heavy metal,4
+Run to the Hills,heavy metal,2
+Rock You Like A Hurricane,heavy metal,4
+Thunderstruck,heavy metal,3
+Breaking The Law,heavy metal,3
+Paranoid ,heavy metal,3
+Folded,rhythm and blues,3
+Cry for Me,rhythm and blues,3
+the boy is mine,rhythm and blues,3
+Heart of a Woman,rhythm and blues,3
+Feel Something,rhythm and blues,2
+Oui,rhythm and blues,2
+IDGAF,rhythm and blues,2
+You,rhythm and blues,1
+Waistline,rhythm and blues,1
+Shirt,rhythm and blues,1

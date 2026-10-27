@@ -1,0 +1,74 @@
+Animal,Danger Score,Aggression Score,Skittishness Score,Attack String,Rabid Score,Continent,Vampire Essence Gain
+alligator,5,4,3,bit,0,"North America, Asia",30
+anaconda,4,4,1,suffocated,0,South America,20
+anteater,2,2,3,mauled,4,"North America, South America",15
+armadillo,1,2,3,clawed,4,"North America, South America",10
+badger,2,3,3,bit,3,"Asia, North America, Europe",10
+bat,3,3,3,bit,5,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",5
+bear,5,4,5,mauled,2,"North America, South America, Europe, Asia, Middle East",30
+beaver,2,2,3,bit,3,"North America, Europe, Asia",15
+bee,2,3,3,stung,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",2
+black widow,5,2,3,bit,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",2
+boar,4,4,3,charged,3,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",20
+bull,4,5,5,gored,2,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",40
+butterfly,1,1,1,kissed,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",2
+camel,3,3,3,kicked,2,"Africa, Middle East",25
+caterpillar,1,1,1,crawled on,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",2
+centipede,4,2,2,bit,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",2
+chicken,2,3,3,pecked,2,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",10
+chipmunk,1,3,4,bit,4,"North America, Asia",5
+cobra,5,4,5,bit,0,"Africa, Oceania, Asia, Middle East",25
+crab,2,2,4,pinched,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",5
+cricket,1,1,1,jumped on,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",2
+crocodile,5,5,3,bit,0,"Africa, Asia, Oceania, South America, North America",35
+deer,2,2,5,bit,3,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",20
+donkey,3,3,2,kicked,2,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",25
+dove,4,4,4,pecked,0,"North America, South America, Europe, Oceania",5
+duck,2,4,3,bit,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",10
+eagle,2,3,2,clawed,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",18
+elephant,5,4,2,trampled,3,"Africa, Asia",50
+elk,4,5,5,gored,4,North America,40
+flamingo,2,2,3,pecked,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",20
+fox,3,2,4,bit,5,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",20
+frog,1,1,2,licked,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",5
+garter snake,1,3,2,bit,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",8
+gecko,1,2,3,bit,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",5
+giraffe,3,2,4,kicked,3,Africa,40
+goat,2,3,2,rammed,2,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",20
+goose,3,4,3,bit,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",15
+gopher,2,2,4,bit,4,North America,12
+grasshopper,1,1,2,jumped on,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",2
+hedgehog,2,2,3,pricked,0,"Africa, Asia, Europe, Oceania",10
+hippopotamus,5,5,2,charged,3,Africa,40
+hyena,4,4,3,bit,4,Africa,30
+kangaroo,3,3,3,kicked,3,Oceania,30
+koala,2,1,2,bit,2,Oceania,15
+komodo dragon,5,5,2,bit,0,Asia,40
+ladybug,1,1,1,crawled on,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",1
+lamb,2,3,2,rammed,2,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",15
+mosquito,3,5,1,bit,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",50
+mouse,1,1,5,bit,2,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",5
+ostrich,3,4,3,kicked,0,Africa,40
+otter,2,3,3,bit,2,"North America, South America, Europe, Africa, Asia, Middle East",20
+owl,2,2,3,clawed,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",18
+panda,3,3,3,bit,3,Asia,40
+peacock,2,4,2,pecked,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",20
+penguin,2,1,2,pecked,0,"Africa, South America, Oceania",20
+pig,2,3,3,bit,2,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",25
+pigeon,2,4,4,pecked,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",5
+poison dart frog,5,2,2,touched,0,South America,2
+raccoon,3,3,4,bit,5,"North America, South America",15
+rattlesnake,5,4,5,bit,0,"North America, South America",20
+rhinoceros,5,5,3,charged,3,Africa,40
+rooster,2,3,3,pecked,2,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",10
+scorpion,3,2,2,stung,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",7
+sea lion,3,4,3,mauled,2,"Asia, North America, South America, Africa, Oceania",40
+sheep,2,3,3,rammed,2,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",20
+skunk,2,2,3,sprayed,5,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",15
+sloth,1,2,2,latched onto,3,South America,20
+snail,1,1,1,crawled on,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",2
+swan,2,4,3,bit,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",15
+turkey,2,2,2,pecked,0,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",15
+water buffalo,5,4,3,trampled,2,"North America, South America, Europe, Oceania, Africa, Asia, Middle East",40
+wolf,4,4,5,bit,4,"North America, Europe, Asia",30
+zebra,3,3,5,kicked,4,Africa,25

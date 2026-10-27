@@ -1,0 +1,67 @@
+Scenario,Log Version,Role
+You spent <10/15/20/25> minutes doing scale exercises.,I spent <rb> doing scale exercises.,
+You practiced sight-reading for <15/20/25/30/35/40> minutes.,I practiced sight-reading for <rb> minutes.,
+You spent <10/20/30/40/50> minutes doing ear training exercises.,I spent <rb> minutes doing ear training exercises.,
+You spent <a little too much time/30 seconds/one minute/five minutes/10 minutes/15 minutes/20 minutes/30 minutes/45 minutes> polishing your skin flute.,I spent <rb> polishing my skin flute.,
+You spent <way too long/30 minutes/one hour> trying to work on your rusty trombone solo.,I spent <rb> practicing my rusty trombone solo.,
+You spent <15/20/25/30/35/40> minutes fondling your <maracas/sexophone/stress balls>.,I spent <rb1> minutes fondling my <rb2>.,
+You spent <30/35/40/45/50/55> minutes studying music theory.,I spent <rb> minutes studying music theory.,
+You spent <40/45/50/55> minutes reviewing performance videos with your music coach.,I spent <rb> minutes reviewing performance videos with my music coach.,
+You spent <15/20/25/30> minutes listening to recordings of previous practices before a rehearsal.,I spent <rb> minutes listening to recordings of previous practices before a rehearsal.,
+You spent <two/three/four> extra hours tuning your vocal chords.,I spent <rb> extra hours tuning my vocal chords.,singer
+You spent <15/20/25/30/35/40/45> minutes doing the yawn-sigh technique before a performance.,I spent <rb> minutes doing the yawn-sigh technique before a performance.,singer
+You spent <25/30/35/40/45/50/55> minutes doing humming warm-ups before a rehearsal.,I spent <rb> minutes doing humming warm-ups before a rehearsal.,singer
+You spent <15/20/25/30/35/40/45/50> minutes doing vocal straw exercises.,I spent <rb> minutes doing vocal straw exercises.,singer
+You spent <10/15/20/25/30/35> minutes doing <lip/tongue> trill exercises.,I spent <rb1> minutes doing <rb2> trill exercises.,singer
+You spent <10/15/20/25/30/35/40/45> minutes doing jaw loosening exercises before a rehearsal.,I spent <rb> minutes doing jaw loosening exercises before a rehearsal.,singer
+You spent <10/15/20/25/30> minutes doing pitch glide exercises.,I spent <rb> minutes doing pitch glide exercises.,singer
+You spent <20/25/30/35/40> minutes doing vocal siren exercises.,I spent <rb> minutes doing vocal siren exercises.,singer
+You spent <15/20/25> minutes making airplane noises with your mouth.,I spent <rb> minutes making airplane noises with my mouth.,singer
+"You spent <10/15/20/25> minutes humming the tune to <'The Addams Family'/'Twinkle, Twinkle Little Star'/'Jingle Bells'>.",I spent <rb1> minutes humming the tune to <rb2>.,singer
+You spent <15/20/25/30/35> minutes doing breathing exercises before a rehearsal.,I spent <rb> minutes doing breathing exercises before a rehearsal.,singer
+You spent <20/25/30/35/40/45/50> minutes doing vowel warm-up exercises before a rehearsal.,I spent <rb> minutes doing vowel warm-up exercises before a rehearsal.,singer
+You spent <one/two/three/four> hours training with your vocal coach.,I trained with my vocal coach for <rb> hours.,singer
+You spent <10/15/20/25/30/35> minutes doing solfege vowel warm-up exercises.,I spent <rb> minutes doing solfege vowel warm-up exercises.,singer
+You spent <five/10/15> minutes tuning your guitar.,I spent <rb> minutes tuning my guitar.,"guitarist, bassist"
+You spent <10/15/20/25/30/35> minutes working on your <flatpicking/fingerstyle> technique.,I spent <rb1> minutes working on my <rb2> technique.,"guitarist, bassist"
+You spent <one/two/three/four/five> hours training with your guitar teacher.,I spent <rb> hours training with my guitar teacher.,guitarist
+You spent <one/two/three/four/five> hours training with your bass teacher.,I spent <rb> hours training with my bass teacher.,bassist
+You fingered your guitar's G-chords for <10/15/20/25/30/35/40/45/50/55> minutes.,I fingered my guitar's G chords for <rb> minutes.,guitarist
+You practiced the chords to the song '<House of the Rising Sun/Little Brown Jug/Folsom Prison Blues>' for <20/25/30/35/40/45/50> minutes.,I practiced the chords to the song '<rb1>' for <rb2> minutes.,guitarist
+You did finger twister exercises for <10/15/20/25> minutes before a rehearsal.,"Before a rehearsal, I did finger twister exercises for <rb> minutes.","guitarist, bassist"
+You practiced alternate picking for <25/30/35/40/45/50/55/65> minutes.,I practiced alternate picking for <rb> minutes.,"guitarist, bassist"
+You practiced <hammer ons/pull offs> for <20/25/30/35/40/45/50> minutes.,I practiced <rb1> for <rb2> minutes.,"guitarist, bassist"
+You practiced string bending exercises for <30/35/40/45/50> minutes.,I practiced string bending exercises for <rb> minutes.,"guitarist, bassist"
+You practiced <free/rest/down> strokes for <10/15/20/25/30/35/40/45> minutes.,I stroked my guitar for <rb2> minutes.,"guitarist, bassist"
+You practiced <single/double/triple> paradiddles for <10/15/20/25/30/35> minutes.,I practiced <rb1> paradiddles for <rb2> minutes.,drummer
+You practiced <single/double/triple/five/six/seven/eight> stroke rolls for <10/15/20/25/30/35/40/45/50/55> minutes.,I practiced <rb1> stroke rolls for <rb2> minutes.,drummer
+You beat on <pots and pans/a bucket/kitchen countertops> with <index fingers/spoons/forks/wooden spoons/drumsticks/turkey drumsticks/disco sticks/pleasure sticks/night sticks> for an hour.,I beat on <rb1> with <rb2> for an hour.,drummer
+You practiced various drum rudiments for <num20-75> minutes.,I practiced various drum rudiments for <rb> minutes.,drummer
+You worked on your <flam taps/drum fills> for <20/25/30/35/40> minutes before a rehearsal.,I worked on my <rb1> for <rb2> minutes before a rehearsal.,drummer
+You developed flam tap and flam accent combinations for <15/20/25/30/35> minutes.,I developed flam tap and flam accent combinations for <rb> minutes.,drummer
+You worked on your four-limb coordination at the drum set for <15/20/25> minutes.,I worked on my four-limb coordination at the drum set for <rb> minutes.,drummer
+You played 'Wipeout' by The Surfaris on your drums for <10/15/20/25> minutes.,I played 'Wipeout' by The Surfaris on my drums for <rb> minutes.,drummer
+You ran snare drum independence exercises for <10/15/20/25/30/35/40/45> minutes.,I ran snare drum independence exercises for <rb> minutes.,drummer
+You ran speed drills on the drums for <10/15/20/25/30> minutes.,I ran speed drills on the drums for <rb> minutes.,drummer
+You fingered the piano keys for <10/20/30> minutes.,I fingered the piano keys for <rb> minutes.,pianist
+You practiced scales and finger exercises for <10/15/20/25/30> minutes.,I practiced scales and finger exercises for <rb> minutes.,"pianist, saxophonist, keyboardist, violinist, cellist"
+You spent time transcribing songs for <10/15/20/25/30/35/40/45> minutes.,I transcribed songs for <rb> minutes.,"pianist, keyboardist"
+You experimented with different sound effects on the keyboard for <10/20/30/40/50> minutes.,I experimented with different sound effects on the keyboard for <rb> minutes.,keyboardist
+You spent <10/20/30/40/50> minutes performing <num7-20> Hanon finger exercises.,I spent <rb1> minutes performing <rb2> Hanon finger exercises.,"pianist, keyboardist"
+You spent <10/15/20/25/30> minutes practicing hand positions.,I spent <rb> minutes practicing hand positions.,"pianist, keyboardist"
+You spent <5/10/15> minutes practicing <major/minor> pentatonic scales.,I spent <rb1> minutes practicing <rb2> pentatonic scales.,"pianist, keyboardist"
+You spent <5/10/15> minutes practicing <major/minor> pentascales.,I spent <rb1> minutes practicing <rb2> pentascales.,"pianist, keyboardist"
+You spent <10/20/30/40> minutes perfecting your bow-handling technique.,I spent <rb> minutes perfecting my bow-handling technique.,"violinist, cellist"
+You spent <15/20/25/30/35> minutes performing vibrato exercises with your bow and instrument.,I spent <rb> minutes performing vibrato exercises.,"violinist, cellist"
+You balanced a lemon on your violin while you played it for <five/10/15> minutes.,I played my violin while balancing a lemon upon it for <rb> minutes.,violinist
+You practiced playing scales in <first and second/third and fourth> position for <10/20/30> minutes.,I practiced playing scales in <rb1> position for <rb2> minutes.,violinist
+You practiced your <four finger positions/three finger positions/thumb positions> for <10/20/30> minutes.,I practiced my <rb1> for <rb2> minutes.,cellist
+You performed trilling exercises on your instrument for <10/15/20/25> minutes.,I performed trilling exercises on my instrument for <rb> minutes.,"violinist, cellist"
+You practiced finger and wrist exercises for <five/10/15> minutes before rehearsal.,I practiced finger and wrist exercises for <rb> minutes.,"violinist, cellist"
+You tongued your reed for <10/15/20> minutes.,I tongued my reed for <rb> minutes.,saxophonist
+You practiced breathing exercises for <10/15/20/25> minutes before rehearsal.,I practiced breathing exercises for <rb> minutes before rehearsal.,"singer, saxophonist"
+You practiced <short/long> tone exercises for <15/20/25/30> minutes.,I practiced <rb1> tone exercises for <rb2> minutes.,saxophonist
+You worked on your fingering speed for <10/15/20/25/30> minutes.,I worked on my fingering speed for <rb> minutes.,saxophonist
+You practiced scales and arpeggios for <20/25/30/35/40/45/50> minutes.,I practiced scales and arpeggios for <rb> minutes.,"guitarist, bassist, keyboardist, pianist, violinist, cellist, saxophonist"
+You practiced playing melodies by ear for <20/30/40/50/70> minutes.,I practiced playing melodies by ear for <rb> minutes.,"guitarist, bassist, keyboardist, pianist, violinist, cellist, saxophonist"
+You spent <10/15/20/25> minutes practicing a chromatic scale before a rehearsal.,I spent <rb> minutes practicing a chromatic scale before a rehearsal.,"guitarist, bassist, keyboardist, pianist, violinist, cellist, saxophonist"

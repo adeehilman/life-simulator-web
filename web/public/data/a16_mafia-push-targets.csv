@@ -1,0 +1,74 @@
+Target,Reason,Gender,Can Have Name,Godfather Cannot Order,Get Caught Score
+local judge,who sent an associate to the Big House,,x,,4
+drag queen,<who couldn't lip sync for her life/whose wig offended <mafia-godfather>>,female,,x,1
+drag king,<who couldn't lip sync for his life/whose wig offended <mafia-godfather>>,male,,x,1
+high school teacher,<who gave too much homework/who gave <mafia-godfather-possessive> nephew a bad grade>,,,x,1
+pastry chef,<who served the Family stale pastries/who skimped on the filling in the Family's pastries/who burned the Family's dessert>,,x,,1
+butcher,who gave the Family a <fatty/bad> <cut of veal/rack of lamb/rack of ribs/London broil>,,x,,1
+bank teller,,,,,4
+bank manager,,,,,4
+comedian,<who made a joke at <mafia-godfather-possessive> expense/who wasn't funny at the Family's barbecue/who used a racial slur in front of <mafia-godfather>>,,x,x,3
+private investigator,<who has evidence against the Family/who stuck his nose where it didn't belong/who outlived his usefulness to the Family/who videotaped <mafia-godfather> being naughty/who took pictures of <mafia-godfather-possessive> feet and sold them to <mafia-rival-family>>,male,x,x,4
+federal agent,<who tried to escape the Family's pocket/who threatened to build a case against the Family/who bugged the Family's headquarters>,,,,5
+detective,<who was in the wrong place at the wrong time/who didn't detect he was in danger/who didn't detect she was in danger/who asked too many questions>,,,,4
+lounge singer,<who sang <mafia-godfather-possessive> least favorite song/who witnessed a murder/who refused one of <mafia-godfather-possessive> gifts/who looked better than <mafia-godfather>>,,x,x,2
+talk show host,who said the wrong thing about the Family,,x,,3
+local radio show host,<who didn't take <mafia-godfather-possessive> request on-air/who has the worst playlists/who made terrible jokes at <mafia-godfather-possessive> expense>,,x,x,3
+birthday clown,<who didn't make <mafia-godfather-possessive> nephew laugh at his birthday party/who failed to make a proper balloon animal/who wore a wire to <mafia-godfather-possessive> nephew's birthday party/who squirted <mafia-godfather> in the face with the wrong liquid>,,,x,1
+librarian,<who overcharged <mafia-godfather> for late fees/who wouldn't drop <mafia-godfather-possessive> late fees/who wasn't as sexy as <his/her> Tinder profile made <mafia-godfather> believe>,,,x,1
+street punk,<who tagged the Family's restaurant/whose presence plummeted <mafia-godfather-possessive> property values/who stole drugs from <mafia-godfather-possessive> car/who pranked <mafia-godfather>/who asked if he could join the mob/who asked if she could join the mob/who wouldn't stop staring at <mafia-godfather>>,,x,x,1
+jockey,<who refused to cripple his horse so <mafia-godfather> could win a bet/who refused to lose on purpose so <mafia-godfather> could win a bet>,male,x,x,2
+runway model,<who was too dumb for his own good/who was too dumb for her own good/who was too mouthy for <mafia-godfather-possessive> liking/who did a line of coke off a toilet seat>,,,x,1
+city counselor,<who is in <mafia-rival-family-possessive> pocket/who passed legislation in favor of <mafia-rival-family>/who was a member of <mafia-rival-family>/who prefers eating at <mafia-rival-family-possessive> restaurant>,,x,,3
+pit boss,who allowed card counters into a casino owned by the Family,,,,2
+scam artist,<who duped <mafia-godfather> out of a bunch of money/who wasn't much of an artist/who tried pulling one over on <mafia-godfather-possessive> nephew>,,x,x,2
+frat boy,"<who called <mafia-godfather> a poser/who was a sore loser after a game of beer pong with one of the captains/who called one of your associates 'weaksauce'/who hazed <mafia-godfather-possessive> nephew/who gave <mafia-godfather-possessive> nephew a wedgie/who wore the same baseball cap backwards every day for a month/who had an annoying, guttural laugh/who called <mafia-godfather> 'bro' at the wrong time>",male,x,x,1
+sorority girl,<who didn't let <mafia-godfather-possessive> niece into her sorority/who was prettier than <mafia-godfather-possessive> niece/who humiliated <mafia-godfather-possessive> niece at a party/who didn't wear pink on Wednesday/who didn't hold <mafia-godfather-possessive> niece's hair>,female,x,x,1
+mechanic,<who lubed the wrong socket/who planted a bug in <mafia-godfather-possessive> car/who left a wrench under <mafia-godfather-possessive> hood/who stole the hubcaps off <mafia-godfather-possessive> car>,,,x,1
+car salesman,<who sold <mafia-godfather> a lemon/who overcharged <mafia-godfather>/who wouldn't give <mafia-godfather> a discount/who planted a bug in the car he sold <mafia-godfather>>,,,x,2
+animal trainer,<who taught <mafia-godfather-possessive> dog to chase the wrong bone/who licked <mafia-godfather-possessive> kitty/who encouraged <mafia-godfather-possessive> dog to sniff butts/who jokingly put <mafia-godfather> in the Cone of Shame>,,,x,1
+housekeeper,<who didn't use Lemon Pledge/who stole jewelry from <mafia-godfather>/who didn't use Bounce dryer sheets/who swept dirt under the rug/who wouldn't clean up a dead body/who knew too much>,,x,x,1
+cosplayer,<who showed up to the Family's barbecue as a Marvel character/who showed up to the Family's barbecue as a DC character/who went around town dressed as <mafia-godfather>/who dressed up as Sailor Moon and called for <mafia-godfather-possessive> arrest>,,,x,1
+furry,<whose color palette <mafia-godfather> didn't like/who tried to get <mafia-godfather> to purchase a used fursuit>,,,x,1
+pawn broker,,,,,2
+bookie,,,,,2
+wig stylist,"<who tried to sell <mafia-godfather> a wig that looked like dry Ramen noodles/who tried to sell <mafia-godfather-possessive> niece a cheap synthetic wig/who sold <mafia-godfather> a frayed, thirsty wig>",,,x,1
+makeup artist,who made <mafia-godfather> look like <Skeletor/the Joker/a ferret/Annabelle/Chucky/Toucan Sam/Harley Quinn/a bear attack victim>,,,,1
+hair stylist,,,,,1
+barber,<who kept <mafia-rival-family> looking sharp/who worked for <mafia-rival-family>/who needs a cut>,,x,,1
+midwife,,,,,1
+Walmart greeter,<who is being too cheerful/who is not being cheerful enough>,,,,1
+gas station attendant,<who didn't screw the gas cap on all the way/who put regular gas in <mafia-godfather-possessive> car instead of Premium/who leaned against <mafia-godfather-possessive> car>,,,x,1
+insurance agent,,,,,1
+baseball player,who refused to take a dive so the Family could win a bet,,,,4
+basketball player,who refused to brick a shot so the Family could win a bet,,,,4
+soccer player,who refused to take a dive so the Family could win a bet,,,,4
+porn star,,,,,2
+erotic novelist,"<who killed off <mafia-godfather-possessive> favorite character in his series/who wrote a book about <mafia-godfather> and his captains, titled 'Oh, Captain, My Captain'/who writes erotic 'Twilight' spin-off stories>",,x,x,2
+contortionist,,,,,1
+social media troll,who disrespected the Family on <Twitter/TikTok/Instagram/YouTube/Facebook>,,,,1
+dog groomer,<who dyed <mafia-godfather-possessive> dog the wrong color/who completely shaved <mafia-godfather-possessive> dog bald/who cut <mafia-godfather-possessive> dog's nails too short>,,,x,1
+cat groomer,<who dyed <mafia-godfather-possessive> cat the wrong color/who completely shaved <mafia-godfather-possessive> pussy bald>,,,x,1
+landscaper,,,,,1
+DILF,<who wouldn't return <mafia-godfather-possessive> calls/who stopped texting <mafia-godfather>/who stopped scheduling play dates with <mafia-godfather>>,male,x,x,1
+MILF,<who wouldn't return <mafia-godfather-possessive> calls/who stopped texting <mafia-godfather>/who stopped scheduling play dates with <mafia-godfather>>,female,x,x,1
+prostitute,<who knew too much/who took his teeth out before sex/who took her teeth out before sex/who gave <mafia-godfather> a bad rash>,,x,x,1
+university professor,<who's teaching that Al Capone was a 'bad guy'/who dons a horrid tweed jacket/who failed <mafia-godfather-possessive> niece in his class>,,x,x,2
+master sommelier,<who won't shut up about his bottle of 1961 Cheval Blanc/who poured the Family a corked bottle of wine/who paired a chardonnay with asparagus/who paired a Chianti with tuna salad>,,,,2
+Starbucks barista,<who misspelled <mafia-godfather-possessive> name/who accidentally poured decaf/who used 2% for <mafia-godfather-possessive> cappuccino>,,x,x,1
+fast-food fry cook,<who undercooked <mafia-godfather-possessive> chicken strips/who overcooked <mafia-godfather-possessive> chicken strips/who left some onion rings in <mafia-godfather-possessive> order of french fries>,,x,x,1
+carpenter,<who nailed <mafia-godfather-possessive> niece/who screwed <mafia-godfather-possessive> niece/who blabbed about building the Family a kill room/who polished the wrong wood/who accused <mafia-godfather> of stealing his caulk>,male,x,x,2
+interior designer,who suggested that honey oak cabinets would look good on the Family's <kitchen/parlour/master bath> remodel,,x,,1
+forklift operator,<who accidentally forked <mafia-godfather-possessive> niece/who accidentally forked <mafia-godfather-possessive> nephew/who won't keep his forks to himself/who keeps forking around>,,x,x,2
+poll worker,<who refused to miscount votes/who threw out a box of fraudulent ballots>,,x,,2
+politician,<who refused to do the Family a favor/who insinuated that the Family is an organized crime unit>,,x,,4
+hooker with a heart of gold,,,x,,1
+scout leader,who's been teaching the scouts knotty things,,x,,2
+mall santa,"<who's been telling kids that Santa is their parents/who's been telling the kids that Santa ain't real/who whispered to <mafia-godfather>, ""You better watch out, you better not cry, better not pout, I'm coming in dry,"" and winked>",,,x,2
+race car driver,who took a bribe to lose a race but won it regardless and kept the money,,x,,3
+sales manager,,,x,,2
+security guard,<who reported the Family for stealing/who sleeps on the job>,,x,,2
+accountant,<who exposed irregularities in your reported earnings/who can't keep his digits to himself/who's been siphoning cash from the Family>,male,x,,3
+fashion designer,"who's been saying 'one day you're in the mafia, the next day you're dead'",,x,,3
+wedding planner,<who suggested <mafia-godfather-possessive> niece would be a hypocrite wearing white/who insisted the bridesmaids wear neon pink dresses/who made a pass at the groom/who made a pass at the bride>,,x,x,2
+wedding singer,<who sang horribly out of tune/who fell down drunk onstage/who goosed the bride/who goosed the groom>,,x,,1

@@ -1,0 +1,43 @@
+Index,Author,Title,Notification
+1,KO,<It's time!/Heirloom>,Hurry and collect today's heirloom before a random <random-person> gets to it first!
+2,KO,<It's time!/Heirloom>,Today's heirloom is ready now but not for long! Don't miss it.
+3,KO,<It's time!/Heirloom>,Today's heirloom is here: will you find the holy grail today or just another <umbrella/wind chime/alarm clock/teddy bear/sled/toolbox/top hat/toaster/kimono>?
+4,KO,Watch out!,<random-person-indefinite> is in your attic and about to grab today's heirloom while you're not looking!
+5,KO,On to the next one...,You've collected <num-heirlooms> heirlooms so far. Your next one is ready now!
+6,RT,Hey!,These heirlooms are not going to collect themselves!
+7,RT,<INHERITANCE!/BIRTHRIGHT!/LEGACY!>,Your ancestors had you in mind when they left today's special heirloom behind so many years ago! Will you accept it?
+8,RT,<INHERITANCE!/BIRTHRIGHT!/LEGACY!>,Your forebearers left today's heirloom behind especially for you! Claim what's yours!
+9,RT,<INHERITANCE!/BIRTHRIGHT!/LEGACY!>,Your ancestor had you in mind when he left today's special heirloom behind for you!
+10,RT,<INHERITANCE!/BIRTHRIGHT!/LEGACY!>,Your forebearers would want you to claim today's special heirloom that they left behind just for you!
+11,RT,<INHERITANCE!/BIRTHRIGHT!/LEGACY!>,There is an heirloom in your attic that has been left behind for you by your forefathers!
+12,JC,Hurry up!,Claim today's heirloom before <random-person-indefinite> gets it first!
+13,JC,<INHERITANCE!/BIRTHRIGHT!/LEGACY!>,When was the last time you went up into the attic? Your heirloom's ready!
+14,JC,<INHERITANCE!/BIRTHRIGHT!/LEGACY!>,The time has finally come. Get your hands on the next heirloom!
+15,JC,Wheel of heirloom!,Come on down! What's behind door #1?
+16,JC,No whammies! No whammies!,Today's heirloom could be <an umbrella/a wind chime/an alarm clock/a teddy bear/a sled/a toolbox/a top hat/a toaster/a kimono>\u2026or something crazy!
+17,JC,Going once. Going twice!,"I mean, if you don't want this heirloom, we could just give it away\u2026"
+18,JC,Dang Bitizen!,Back at it again with an heirloom! We had to do it to 'em!
+19,JC,*Jingle begins*,"F-R-E-E that spells free, get your heirloom right now, baby!"
+20,JC,No snoozing!,"I know you hardly sleep, so why sleep on this heirloom?!"
+21,JC,Our secret\u2026,Word on the street is there used to be a rare heirloom in your attic. Maybe you should go check it out.
+22,JC,Till death do you part!,Will you take this heirloom to love and to cherish? Claim now or forever hold your peace!
+23,RT,Heirloom alert!,Do you have any idea what is sitting inside your attic?
+24,RT,Heirloom alert!,You'll want to see this!
+25,RT,Heirloom alert!,You don't get a chance to collect an incredibly rare heirloom every day! Is today your day?
+26,RT,Strong odds,Will today be your lucky day? Your heirloom awaits!
+27,RT,Strong odds,"When it comes to collecting heirlooms, today could be the chance of a lifetime!"
+28,RT,Feeling lucky?,Maybe you'll find a rare heirloom today!
+29,RT,Golden opportunity,Will you strike gold with today's special heirloom?
+30,RT,Admit one,Here's a free ticket to your attic! It'll be worth the price of admission!
+31,RT,Nothing to lose,You'd have to be a yo-yo to not collect today's special heirloom!
+32,RT,GOOOOOOAAAAAAL!,The goal is to collect all of the heirlooms! Can you do it? Today's is ready.
+33,RT,Special occasion,You may have reason to celebrate after you collect today's special heirloom!
+34,RT,Special appraisal,Do you have any idea what the appraised value of today's special heirloom is?
+35,eb,Heirloom alert!,What's in your attic?
+36,eb,There's something valuable in the attic!,"Grab a flashlight, let's go get today's heirloom!"
+37,eb,There's something valuable in the attic!,Today's heirloom is yours if you hurry!
+38,eb,Got a flashlight?,Let's go take a look in the attic for today's heirloom!
+39,eb,Got a flashlight?,Let's go heirloom hunting!
+40,eb,Heir to the loom!,The heirloom heir is you.
+41,eb,Heirloom NOW!,Power to the heir!
+42,eb,What do we want? Heirloom!,When do we want it? Now!

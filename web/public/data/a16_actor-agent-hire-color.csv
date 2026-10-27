@@ -1,0 +1,55 @@
+Feedback Color,Requires Real Actor,Commonness Score,Agent Min Reputation,Agent Max Reputation,Hero Min Reputation,Hero Max Reputation
+"<he/she> said if <real-actor> trusts <him/her>, then you should too.",x,5,,,,40
+<he/she> plugged <his/her> work managing <real-actor>'s career during the interview.,x,5,,,,40
+"<he/she> said if <he/she>'s good enough for <real-actor>, then <he/she> should be good enough for you.",x,5,,,,40
+<he/she> said <he/she> intends to model your career after <real-actor>'s.,x,2,,,,30
+<he/she> said <he/she> and <real-actor> talk on a daily basis and would introduce you if you hired <him/her>.,x,2,,,,
+<he/she> promised to do for you what <he/she> once did for <real-actor>.,x,1,,,,
+<he/she> said you have the potential to be bigger than <real-actor>.,x,2,,,40,
+"<he/she> said if you're smart, you'll sign with <him/her>, just like <real-actor> did.",x,3,,,60,
+<he/she> promised to make you a star.,,5,,,,70
+<he/she> said <he/she>'s giving you a discount on <his/her> commission because <he/she> knows you're going to be big.,,3,,40,,40
+<he/she> said <he/she>'s giving you a discount on <his/her> commission because you're <just that special/lucky/destined for greatness>.,,3,30,60,,30
+<he/she> said no one understands the Hollywood hustle better than <him/her>.,,3,,,,
+"<he/she> said if you stick with <him/her>, your star will do nothing but rise.",,3,60,,,30
+<he/she> told you not to listen to what people say about <him/her>; <he/she> always gets results.,,3,,40,,
+<he/she> told you that you wouldn't have to lift a finger if you hired <him/her>.,,4,50,,,
+<he/she> says <he/she> knows all of the best people in the industry.,,3,,,,
+<he/she> assured you that you'll never have to worry about work with <him/her> around.,,2,50,,,
+<he/she> said <he/she> is the best in town.,,2,,60,,
+<he/she> assured you that <he/she> knows how to sniff out the best roles.,,2,,,,
+"<he/she> said it might sound like <he/she>'s blowing smoke, but swears <he/she> really is the best in the business.",,1,,50,,
+<he/she> said <he/she>'ll work night and day to give you the career you deserve.,,4,50,,,
+"<he/she> promises that if you team up, <he/she>'ll work tirelessly for you.",,4,50,,,
+"<he/she> said <he/she> could be representing <January Jones/Tina Fey/Maya Rudolph/Meghan Markle/Viola Davis/Meryl Streep/Emma Stone/Emily Blunt/Zendaya/Idris Elba/Jonah Hill/Seth Green/Seth Rogen/Matthew Perry/Lisa Kudrow/Jennifer Garner/Jennifer Coolidge/Jessica Lange/Sarah Paulson>, but is willing to give you a shot instead.",,5,,40,40,
+<he/she> said <he/she> enjoys a good challenge.,,2,,,,20
+<he/she> said <he/she> will take good care of your career.,,2,40,,,
+"<he/she> said <he/she>'s got a nose for talent, and you reek of it.",,1,30,,,
+"<he/she> said <he/she>'s done a myriad of favors for various casting directors around town, then gave you a not-so-subtle wink.",,1,,40,,
+<he/she> said <he/she> basically runs the industry and swears anyone would be lucky to work with <him/her>.,,1,,40,,
+<he/she> said <he/she> would perform any favor you asked of <him/her>.,,1,,20,,
+<he/she> says <he/she> knows where <James Cameron/Steven Spielberg/Christopher Nolan/Zack Snyder/Martin Scorsese/Tim Burton/Spike Lee/Wes Anderson/Ridley Scott/Woody Allen/Ava DuVernay/Sofia Coppola/Jane Campion/Nancy Meyers> hangs out and can easily get you an audition if you hire <him/her>.,,5,30,,,
+<he/she> promised you the career of your dreams if you hired <him/her>.,,3,40,,,50
+"<he/she> said if <he/she> could get <Seth Green/Carrot Top/James Corden/Kristen Stewart/Taylor Swift/Jaden Smith/David Spade/Steve Buscemi> cast in a film, <he/she> could get you in one too.",,5,,40,,
+"<he/she> took a long drag off a <cigar/cigarette>, exhaled a thick cloud of smoke, and said, ""Let's face it. You need me"".",,2,,40,,
+<he/she> asked if you were ready to get your hands dirty.,,2,,40,,
+<he/she> promises to do <his/her> best to faithfully represent you.,,4,50,,,
+<he/she> says <he/she>'s got a keen eye for natural talent and thinks you've got what it takes to be <a really big star/an acting legend/one of the greatest actors of all time>.,,3,,,,
+"<he/she> says if <he/she> can turn <real-actor> into a star, <he/she>'ll have you on the A-list in no time.",x,,,,,
+"<he/she> said if you like to work hard and party harder, look no further.",,2,,65,,35
+<he/she> said <he/she> knows casting directors who are begging for fresh talent of your kind.,,,,,,
+<he/she> said <he/she>'s friendly with a few casting directors who owe <him/her> a favor.,,,50,,,
+<he/she> said <he/she> only takes on clients who have it. And you definitely have it.,,,60,,,
+<he/she> said <his/her> commission includes a free <in-house massage/bottle of mineral water> anytime you stop by the office and a greeting card sent each year on your birthday.,,,40,70,,
+<he/she> said <his/her> commission is lower than it should be because it's not about the money it's about the love of the business.,,,,50,,
+"<he/she> said <he/she>'s currently working with <real-actor> on an indie project, and there might be a role for you. ",x,,60,,,50
+<he/she> said <he/she>'s the best in the business.,,,,70,,
+"<he/she> assured you it's about your best interests, not <his/hers>.",,,,,,
+"<he/she> said <he/she> only has time for one more client, so it's either now or never.",,,,65,,
+<he/she> said the best agents in town hold <him/her> in high esteem.,,,70,,,
+<he/she> assured you <his/her> reputation is second to none.,,,,65,,
+"<he/she> said, as <his/her> client, you'll have access to a beach cottage on Cape Cod.",,,,,,
+"<he/she> said if you need a reference, just ask <real-actor> about <him/her>.",x,,50,,50,
+<he/she> said <he/she>'ll make a pinky-promise to always serve your best interests. ,,,,65,,65
+<he/she> said <he/she> has connections to some of the biggest names in the biz.,,,20,70,,
+<he/she> said <he/she> has <Steven Spielberg/Christopher Nolan/Zack Snyder/Martin Scorsese/Tim Burton/Spike Lee/Wes Anderson/Ridley Scott/Woody Allen/Ava DuVernay/Sofia Coppola/Jane Campion/Nancy Meyers/James Cameron>'s number on speed dial and could put in a good word for you at any time.,,5,50,,,

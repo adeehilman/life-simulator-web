@@ -1,0 +1,14 @@
+Scenario,Log Version,Rent-Related,Commonness Score
+<he/she> says it's because you're charging too much for rent.,<tenant> began squatting on my property at <tenant-address> because <he/she> didn't agree with a recent rent increase.,x,5
+<he/she> says it's because <he/she> is protesting the idea of land ownership.,<tenant> began squatting on my property at <tenant-address> as a means of protesting land ownership.,,3
+<he/she> says it's because <he/she> believes paying rent is <a scam/for suckers/basic/pointless/a financial vacuum>.,<tenant> began squatting on my property at <tenant-address> because <he/she> believes paying rent is <rb>.,,4
+<he/she> says it's because <he/she> is tired of paying rent.,<tenant> began squatting on my property at <tenant-address> because <he/she> grew tired of paying rent.,,3
+<he/she> says <he/she> believes that <he/she> deserves to live somewhere rent-free.,<tenant> began squatting on my property at <tenant-address> because <he/she> wished to live somewhere rent-free.,,1
+<he/she> says it's because you were too greedy and now it's time for you to pay your dues.,<tenant> began squatting on my property at <tenant-address> because <he/she> believes I was too greedy with the rent.,x,1
+<he/she> says it's because you're asking for more rent than <he/she> feels the place is worth.,<tenant> began squatting on my property at <tenant-address> because <he/she> believes I was too greedy with the rent.,x,3
+<he/she> says it's because <he/she> doesn't believe in worldly possessions.,<tenant> began squatting on my property at <tenant-address> because <he/she> stopped believing in worldly possessions.,,2
+"<he/she> says it's because <he/she> wants to save up some money, and paying rent is <counterintuitive/counterproductive> to that goal.",<tenant> began squatting on my property at <tenant-address> because <he/she> wants to save money.,,4
+<he/she> says <he/she>'s wanted to be a squatter since childhood and now is <his/her> chance.,<tenant> began squatting on my property at <tenant-address> because squatting was something <he/she> had dreamed of doing since childhood.,,3
+<he/she> said <he/she> was inspired to do so after watching the movie 'Squatters' on Netflix.,<tenant> began squatting on my property at <tenant-address> after being inspired by a movie about squatters.,,1
+"<he/she> says <he/she> might start paying rent again in the future, but for now, <he/she> just wants to squat.",<tenant> began squatting on my property at <tenant-address> for the sole reason of wanting to squat.,,4
+<he/she> said <his/her> <best friend/cousin/auntie/middle school PE teacher> is a squatter and told <him/her> <to try it/it's a fun thing to do>.,<tenant> began squatting on my property at <tenant-address> after <his/her> <rb> told <him/her> <rb2>.,,3

@@ -1,0 +1,35 @@
+Scenario,Log Version,Multiple Request,Hero Min Age,Hero Max Age,Person Gender,Person Min Money,Person Max Money,Hero Needs Money,Hero Doesn't Need Money,Parent,Sibling,Lover,Child,Friend
+<person> refused to give you any money.,<person> refused to give me money.,,,,,,,,,x,x,x,x,x
+<person> told you to stop asking for money.,<person> told me to stop asking for money.,x,,,,,,,,x,x,x,x,x
+<person> reminded you that <he/she> isn't made of money.,<person> reminded me that <he/she> isn't made of money.,,,,,,50,,,x,x,x,x,x
+<person> reminded you that money doesn't grow on trees.,<person> reminded me that money doesn't grow on trees.,,,,,,50,,,x,x,x,x,x
+<person> told you that you are all take and no give.,"I asked <person> for money, and <he/she> told me that I am all take and no give.",x,,,,,,,,x,x,x,x,x
+<person> told you to <get lost/beat it/go pound sand>.,<person> told me to <rb> when I asked for money.,,,,,,,,,x,x,x,x,x
+<person> jokingly told you to get a job.,<person> jokingly told me to get a job when I asked for money.,,,,,,,x,,x,x,x,x,x
+<person> told you that <he/she> is starting to feel like you're taking advantage of <him/her>.,<person> said <he/she> felt like I was starting to take advantage of <him/her>.,x,,,,,,,,x,x,x,x,x
+<person> said there's nothing in it for <him/her>.,<person> refused to give me money because there was nothing in it for <him/her>.,,,,,,,,,x,x,x,x,x
+<person> said that <he/she> is not comfortable giving away money.,<person> said <he/she> wasn't comfortable giving me money.,,,,,,,,,x,x,x,x,x
+<person> said that <he/she> didn't have any money on <him/her>.,<person> said <he/she> couldn't give me any money because <he/she> didn't have any cash on <him/her>.,,,,,,,,,x,x,x,x,x
+<person> said <he/she> has nothing to spare.,<person> told me that <he/she> had nothing to spare when I asked for money.,,,,,,80,,,x,x,x,x,x
+<person> said <he/she> is tired of your begging.,<person> said <he/she> was tired of my begging.,x,,,,,,x,,x,x,x,x,x
+<person> said that <he/she> doesn't want you wasting <his/her> money.,<person> said <he/she> wouldn't give me money because I'd waste it.,,,,,,,,,x,x,x,x,x
+"<person> said, ""What do I look like, <a bank/a loan shark/a lender/a credit union/an investment firm/a banker/a charity>?"".",<person> reminded me that <he/she> wasn't <rb> when I asked for money.,,,,,,,,,x,x,x,x,x
+"<person> said, ""Who do I look like, <Oprah/Bill Gates/Warren Buffett/Jeff Bezos/Andrew Carnegie/John D. Rockefeller/Jay-Z/Ellen DeGeneres/Bruce Wayne/Daddy Warbucks/Tywin Lannister/Mr. Monopoly/Mother Teresa>?"".",<person> reminded me that <he/she> wasn't <rb> when I asked for money.,,,,,,50,,,x,x,x,x,x
+<person> grounded you for asking for money too many times.,<person> grounded me for asking <him/her> for money too many times.,x,6,17,,,,x,,x,,,,
+<person> took away your <phone/laptop/tablet> for asking for money too many times.,<person> took away my <rb> for asking <him/her> for money too many times.,x,6,17,,,,x,,x,,,,
+"<person> responded by asking, ""Do I look like your daddy?"".","When I asked <person> for money, he responded by asking, ""Do I look like your daddy?"".",,,,male,,,,,,x,x,,x
+"<person> responded by asking, ""Do I look like your sugar daddy?"".","When I asked <person> for money, he responded by asking, ""Do I look like your sugar daddy?"".",,,,male,,,,,,x,x,,x
+"<person> responded by asking, ""Do I look like your mommy?"".","When I asked <person> for money, he responded by asking, ""Do I look like your mommy?"".",,,,female,,,,,,x,x,,x
+"<person> responded by asking, ""Do I look like your sugar momma?"".","When I asked <person> for money, he responded by asking, ""Do I look like your sugar momma?"".",,,,female,,,,,,x,x,,x
+<person> said <he/she> doesn't want money ruining your friendship.,<person> said <he/she> wouldn't give me money because it might ruin our friendship.,,,,,,,,,,,,,x
+<person> said that you're supposed to be the parent.,<person> refused to give me money and reminded me that I'm supposed to be the parent.,,,,,,,,,,,,x,
+<person> suggestively says <he/she> cant give you money because you haven't earned it.,<person> suggestively said that I hadn't earned the money I was asking for.,,,,,,,,,,,x,,
+"<person> said that you're already ""<loaded/rich/filthy rich/extremely wealthy>"".","<person> reminded me that I was ""<rb>"" after I asked <him/her> for money.",,,,,,,,x,x,x,x,x,x
+<person> said <he/she> is sorry <he/she> is unable to give you money because <he/she> knows how badly you need it.,<person> said <he/she> was sorry <he/she> couldn't give me money because <he/she> knows how badly I need it.,,,,,,50,x,,x,x,x,x,x
+<person> said <he/she> wants to teach you the value of earning your own money.,<person> said <he/she> wanted to teach me the value of earning my own money.,,,17,,,,,,x,,,,
+"<person> said <he/she> wished <he/she> could help you, but just can't at this time.","<person> said <he/she> wished that <he/she> could give me money, but just couldn't at that time.",,,,,,50,x,,x,x,x,x,x
+"<person> said <he/she> wished that <he/she> could give you some sibling love in the form of money, but instead gave you <a noogie/a punch in the arm/a burp to the face/a fart to the face/a wet willy/a rat tail to the butt/a wedgie>.","<person> said <he/she> wished that <he/she> could give me some sibling love in the form of money, but instead gave me <rb>.",,,,,,50,,,,x,,,
+<person> said that <he/she> is pretty sure you're doing just fine on your own.,<person> said that <he/she> was pretty sure I'm doing just fine on my own.,,,,,,,,x,x,x,x,x,x
+<person> said that you are way too old to be asking for money.,<person> said that I was way too old to be asking for money.,,60,,,,,,,x,x,x,x,x
+<person> says that asking <him/her> for money makes <him/her> question your intentions.,<person> said <he/she> questioned my intentions when I asked <him/her> for money.,,,,,,,,,x,x,x,x,x
+<person> wants to know if you'll ever stop <begging for money/mooching/asking for dough>.,<person> asked if I'll ever stop <rb>.,x,,,,,,,,x,x,x,x,x

@@ -1,0 +1,60 @@
+Feedback Color,Min Propensity,Max Propensity,Commonness Score,Real Actor Required
+They told you that you just didn't fit the part.,50,,5,
+They said you had a <snowflake's/snowman's> chance in hell of being offered the part.,,10,1,
+They said they're looking to cast actors who will ensure the production gets attention during awards season.,,10,3,
+They said it'd be real sus if they gave you the part.,,10,1,
+They said your audition offended each of their senses.,,10,2,
+They said your audition could not have gone worse.,,10,4,
+They suggested you unfriend whoever it was that said you'd make a good actor.,,10,2,
+They said your audition could not have been further off the mark.,,10,3,
+They said they just don't picture you in the role.,,20,3,
+They said they weren't looking to cast someone with the emotional range of a <broken vibrator/taxidermied pigeon/leaf/dead tree/head of lettuce/defective sex toy/potted plant/dry-erase marker/fungus/dodo bird/rotten tomato>.,,20,4,
+They asked if you seriously thought you had a shot at this role.,,30,3,
+They told you not to embarrass yourself by auditioning for a role you aren't suited for.,,30,3,
+"They said they were looking to cast somebodies, not nobodies.",,30,2,
+They said you're not ready for this kind of role.,,30,4,
+They said you don't fit the description of the character.,,30,3,
+They told you they couldn't imagine this performance being in your wheelhouse.,,30,3,
+They said they could easily find someone more believable for the part.,,30,3,
+They said you wouldn't have chemistry with the rest of the cast.,,40,3,
+They said you should fire whoever told you that you'd be good for the part.,,40,2,
+"They said you'd be perfect if they were casting an <internet troll/unlikable dunce/ill-mannered dimwit/intoxicated oaf>, but they're not.",,40,3,
+They said you don't have the emotional <range/depth> they're looking for.,,50,2,
+They told you to audition for a role like this after you've had some more experience.,,50,4,
+They told you that you need to make a name for yourself before trying out for a role like this.,,50,3,
+They suggested auditioning for roles closer to your talent bracket.,,50,4,
+They said your audition lacked conviction.,,50,2,
+They said you didn't make it past the first round of cuts.,,50,2,
+"They said they were giving the part to <real-actor>, who is a much more talented actor than you. ",,50,5,x
+They said you just don't give off the vibe they envisioned for the role.,,60,1,
+They said you didn't look the part.,50,,3,
+They said they're not interested in what you bring to the table.,50,,3,
+They said they'd rather not risk giving you the role because your performance could be either amazing or awful.,50,,1,
+They told you it's because you're a C-list actor auditioning for an A-list part.,50,,3,
+"They said they liked your audition, but just couldn't see you in the role.",60,,3,
+"They said your audition was great, but the director wanted someone with a bit more <charisma/sparkle/pizazz/je ne sais quoi> than you.",70,,3,
+"They said even though you fit the role, they just didn't like you.",70,,3,
+"They said they liked your audition, but already had someone else in mind for the role.",70,,3,
+They thanked you for auditioning but said the director didn't like the shape of your <forehead/nose/mouth> and decided to go with someone else instead.,80,,3,
+They said you would have gotten the part if you didn't have Resting Stink Face.,80,,1,
+They said you could have gotten the part if you were more personable.,80,,3,
+"They thanked you for your excellent audition, but said they felt you'd be too difficult to market to their target audience.",80,,1,
+"They said they almost gave you the role, but <real-actor> blew your audition out of the water.",80,,5,x
+"They said they seriously considered you for the part, but ultimately went with <real-actor>.",90,,5,x
+They thanked you for your audition but said <real-actor> barely edged you out for the part.,90,,5,x
+They said you'd have gotten the part if <real-actor> wasn't in the running.,90,,5,x
+They said you would have gotten the part if you had the look the studio was going for.,95,,4,
+They said you would have gotten the part if you had made a better impression.,95,,4,
+"They said you would have gotten the part, but a studio executives' kid wanted to be in the production.",95,,4,
+They said you would have gotten the part if any of the studio executives wanted to sleep with you.,95,,1,
+"They said they're going with someone like <real-actor>, who is far more <attractive/talented/worth their time/special/stellar/awe-inspiring> than you.",,,5,x
+They said they're looking for someone on par with <real-actor> and sadly that isn't you.,,,5,x
+"They told you <real-actor> wants the part you're auditioning for, and thanked you for your time.",,,5,x
+They said they decided to call in a favor and get <real-actor> to play the role.,,,5,x
+They said <real-actor> owed them a favor and will be playing the part.,,,5,x
+They said they're giving the part to <real-actor>.,,,5,x
+They said <real-actor> begged them for the part.,,,5,x
+"They said the production needs more star power, so they're going with <real-actor>.",,,5,x
+They said they wanted to see how production would go with <real-actor> as part of the cast.,,,5,x
+"They said they heard a rumor that <real-actor> wanted the part, so they want to keep it open just in case.",,,5,x
+"They said it's because you're not as famous as <real-actor>, who also wants the part.",,,5,x

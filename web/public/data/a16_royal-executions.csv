@@ -1,0 +1,34 @@
+Method,Scenario,Log Version,Hero Scenario,Death Snippet,Pain Score
+Public Hanging,You had <person> publicly hanged.,I had <person> publicly hanged.,You have been publicly hanged!,being executed by public hanging,3
+Guillotine,You had <person> beheaded using a guillotine.,I had <person> beheaded using a guillotine.,You have been beheaded with a guillotine!,being beheaded with a guillotine,1
+Burn at Stake,You had <person> burned at the stake.,I had <person> burned at the stake.,You have been burned at the stake!,being burned at the stake,5
+Tar and Feather Them,You had <person> tarred and feathered.,I had <person> tarred and feathered.,You have been tarred and feathered!,being tarred and feathered,5
+Stone Them,You had <person> stoned to death.,I had <person> stoned to death.,You have been stoned to death!,being stoned to death,5
+Flay Them,You had <person> flayed alive.,I had <person> flayed alive.,You have been flayed alive!,being flayed alive,5
+Drown Them,You had <person> drowned in a nearby river.,I had <person> drowned in a nearby river.,You have been drowned in a nearby river!,being drowned in a nearby river,4
+Executioner's Axe,You had <person> beheaded using an executioner's axe.,I had <person> beheaded using an executioner's axe.,You have been beheaded using an executioner's axe!,being executed with an executioner's axe,5
+Boiling Oil,You had <person> dipped in boiling oil and set on fire.,I had <person> dipped in boiling oil and set on fire.,You have been dipped in boiling oil and set on fire!,being dipped in boiling oil and set on fire,5
+Catapult Them,You had <person> placed in a catapult and shot across the kingdom.,I had <person> placed in a catapult and shot across the kingdom.,You have been placed in a catapult and shot across the kingdom!,being placed in a catapult and shot across the kingdom,5
+Crush Them,You had <person> crushed beneath the main gate.,I had <person> crushed beneath the main gate.,You have been crushed beneath the main gate!,being crushed beneath the main gate,5
+Poison Them,You forced <person> to drink poisoned box wine.,I forced <person> to drink poisoned box wine.,You have been forced to drink poisoned box wine!,being forced to drink poisoned box wine,5
+Arrow to the Heart,You had <person> shot with an arrow to the heart.,I had <person> shot with an arrow to the heart.,You have been shot with an arrow to the heart!,being shot with an arrow to the heart,5
+Molten Metal,You had melted iron poured into the mouth of <person>.,I had melted iron poured into the mouth of <person>.,You have had melted iron poured into your mouth!,being forced to drink melted iron,5
+Puppy Chow,You had <person> fed to the hounds.,I had <person> fed to the hounds.,You have been fed to the hounds!,being fed to the hounds,5
+Dismember Them,You had <person> dismembered.,I had <person> dismembered.,You have been dismembered!,being dismembered,5
+Disembowel Them,You had <person> disemboweled.,I had <person> disemboweled.,You have been disemboweled!,being disemboweled,5
+Diseased Rats,You had diseased rats inserted into the rectum of <person>.,I had diseased rats inserted into the rectum of <person>.,You had diseased rats inserted into your rectum!,being administered diseased rats through the rectum,5
+Impale Them,You had <person> impaled on a metal spike.,I had <person> impaled on a metal spike.,You have been impaled on a metal spike!,being impaled on a metal spike,5
+Sword Swallowing,You forced a sword down the throat of <person>.,I had a sword forced down the throat of <person>.,You have had a sword forced down your throat!,being forced to swallow a sword,3
+Club to Death,You had <person> clubbed to death.,I had <person> clubbed to death.,You have been clubbed to death!,being clubbed to death,5
+Beehive,You had a massive beehive dropped on <person> in an enclosed room.,I had a massive beehive dropped on <person> in an enclosed room.,A massive beehive was dropped onto you in an enclosed room!,being stung to death by a multitude of bees,5
+Sinking,"You had <person> chained to a weight, then tossed into the ocean, causing <him/her> to sink to the bottom.",I had <person> chained to a weight and tossed into the ocean.,"You have been chained to a weight and tossed into the ocean, causing you to sink to the bottom!",being chained to a weight and tossed into the ocean,5
+Desert Desertion,You had <person> stranded in the middle of the desert with no food or water.,I had <person> stranded in the middle of the desert with no food or water.,You have been stranded in the middle of the desert with no food or water!,being stranded in the middle of the desert with no food or water,5
+Crucify Them,You had <person> crucified.,I had <person> crucified.,You have been crucified!,being crucified,5
+Bamboo Torture,"You chained <person> above a bamboo stalk, which slowly impaled <him/her> as it grew by the day.",I had <person> impaled by a bamboo stalk.,You have been impaled by a bamboo stalk that slowly grew into your body!,being impaled by a bamboo stalk,5
+Iron Maiden,"You had <person> locked in an iron maiden, instantly impaling <him/her> with dozens of spikes.",I had <person> locked in an iron maiden.,"You have been locked in an iron maiden, instantly impaling you with dozens of spikes!",being locked in an iron maiden,5
+Running of the Bulls,You had <person> trampled beneath a herd of 150 bulls.,I had <person> trampled beneath a herd of 150 bulls.,You have been trampled beneath a herd of 150 bulls!,being trampled by bulls,5
+Acid Bath,You had <person> submerged slowly into a vat of acid.,I had <person> submerged slowly into a vat of acid.,You have been slowly submerged into a vat of acid!,being slowly submerged into acid,5
+Rat Torture,"You had a metal bucket full of live rats attached to the torso of <person>, then heated the bucket, forcing the rats to burrow through <his/her> body.",I had rats burrow through the body of <person>.,You have been killed by a pack of rats that burrowed through your stomach!,being burrowed through by rats,5
+Snakebite,You had <person> encased in a glass coffin filled with poisonous snakes.,I had poisonous snakes bite <person>.,You have been encased in a glass coffin filled with poisonous snakes!,being bitten by poisonous snakes,5
+The Rack,You had <person> pulled to pieces on the rack.,I had <person> pulled to pieces on the rack.,You have been pulled to pieces on the rack!,being pulled to pieces on the rack,5
+Firing Squad,You had <person> executed by the firing squad.,I had <person> executed by the firing squad.,You have been executed by the firing squad!,being executed by the firing squad,2

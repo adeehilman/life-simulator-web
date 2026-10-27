@@ -1,0 +1,323 @@
+Specific Industry,Specific Product,Fluctuation Type,Fluctuation Amount,Snippet,Commonness Score
+,,increase,,<as a result of/due to> an influx of <country-other-adjectival> tourists,2
+,,decrease,large,<as a result of/due to> <YouTube/Instagram/TikTok> influencers promoting alternative products,3
+,,decrease,large,<as a result of/due to> consumers becoming aware they can order the same product cheaper from overseas,3
+,,increase,,<as a result of/due to> the product's placement in a scene from a popular <film/network TV show/local TV show>,4
+"adult toys, kitchenware, lingerie boutique, consumer electronics, gift shop, novelty",,increase,large,<as a result of/due to> a paparazzo photographing a celebrity with the product in hand,2
+,,decrease,small,<as a result of/due to> angry Karens vilifying the product online,3
+,,decrease,,<as a result of/due to> waning consumer interest,4
+,,decrease,,because the market is in a downward <trend/spiral>,5
+,,decrease,,<as a result of/due to> trade routes becoming increasingly threatened by pirates,2
+,,decrease,,<as a result of/due to> rising paranoia among consumers,4
+"adult toys, beauty supply, haircare, kitchenware, novelty, robotics, sporting goods, musical instrument, lingerie boutique",,decrease,,<as a result of/due to> consumers finding the product to be <inaccessible/difficult to use>,5
+adult toys,,increase,,<as a result of/due to> consumers becoming more curious in the bedroom,3
+adult toys,,decrease,,<as a result of/due to> local consumers becoming less adventurous in the bedroom,3
+adult toys,,decrease,,<as a result of/due to> protestors <whining about the evils of/vilifying> the adult toy industry,3
+adult toys,,increase,,<as a result of/due to> a growing interest in <adventurous/spicy> bedroom play among consumers,3
+adult toys,,increase,,<as a result of/due to> men finally acknowledging the value of foreplay,1
+adult toys,,increase,,<as a result of/due to> couples becoming more comfortable exploring with each other in the bedroom,1
+adult toys,,decrease,,<as a result of/due to> couples becoming less interested in exploring their <kinks/wild sides>,1
+adult toys,,increase,,as a symptom of the growing <amateur/homemade> pornography industry,1
+adult toys,,increase,small,because more couples are watching '<Bonding/How to Build a Sex Room/Sex Education/Masters of Sex/Easy/Secret Diary of a Call Girl/Wanderlust/Big Mouth>' together,4
+adult toys,,increase,large,<as a result of/due to> the emergence of more sex-positive <media/films/talk shows/podcasts/video games/TV shows/songs>,4
+brewery,,decrease,,<as a result of/due to> consumers' interest in imported brews,3
+brewery,,decrease,,<as a result of/due to> an increase in homebrewing among consumers,3
+brewery,,increase,large,<as a result of/due to> an overwhelming number of <bars/night clubs> offering better happy hour deals,3
+brewery,,decrease,small,<as a result of/due to> consumers demonstrating a preference for hard liquor,3
+brewery,,decrease,large,<as a result of/due to> an upward trend in consumers' obsession with <sobriety/health and wellness>,3
+brewery,,increase,,<as a result of/due to> an increase in the amount of local bars and nightclubs,3
+brewery,,increase,,<as a result of/due to> the beergarita beating out the mimosa as the go-to brunch beverage,1
+brewery,,increase,large,<as a result of/due to> a beer-brewing <reality competition show/docudrama series/documentary> taking the country by storm,2
+brewery,,decrease,large,<as a result of/due to> a significant decrease in <frat parties/keggers>,3
+brewery,,increase,,<as a result of/due to> consumers taste-preferences turning toward craft beers,4
+brewery,IPA,increase,large,<as a result of/due to> an increasing number of beer drinkers falling under the spell of IPA,4
+kitchenware,,increase,large,<as a result of/due to> a widespread lockdown causing more consumers to stay at home,1
+kitchenware,,increase,,<as a result of/due to> the popularity of <baking/cooking> <shows/competitions> inspiring consumers to become better home chefs,3
+kitchenware,,decrease,,<as a result of/due to> a decline in the industry as more consumers are ordering takeout versus cooking meals at home,5
+kitchenware,,increase,,"<as a result of/due to> TikTok influencers sharing recipes on their pages, inspiring viewers to cook more often",4
+kitchenware,,increase,,<as a result of/due to> more consumers obsessing over '<Top Chef/The Great British Bake Off/Hell's Kitchen/Barefoot Contessa/Chopped/Cooking with Paris/Iron Chef/Good Eats>',5
+kitchenware,,decrease,large,as a direct result of the ease of ordering takeout being more appealing than the hassle of cooking,3
+car manufacturer,truck,increase,,<as a result of/due to> a shift in customer demand toward pickup trucks,3
+car manufacturer,truck,decrease,,<as a result of/due to> a shift in customer demand toward economy cars,3
+car manufacturer,electric,increase,,<as a result of/due to> an ever-increasing demand for electric vehicles,3
+car manufacturer,sports car,increase,,fueled by growing interest in performance car culture,3
+coffeehouse,"Americano, drip coffee, cappuccino, iced latte, pumpkin spice latte, espresso, caffe mocha, caramel macchiato",decrease,small,<as a result of/due to> consumers becoming more interested in <hot cocoa/chai/tea> as their preferred hot beverage,5
+coffeehouse,"Americano, drip coffee, cappuccino, iced latte, pumpkin spice latte, espresso, caffe mocha, caramel macchiato",decrease,large,<as a result of/due to> an emergent study linking caffeine to <high anxiety/stress/cancer/dementia/diarrhea>,5
+coffeehouse,"Americano, drip coffee, cappuccino, iced latte, pumpkin spice latte, espresso, caffe mocha, caramel macchiato",increase,large,<as a result of/due to> more consumers needing an extra pep in their step,2
+coffeehouse,,increase,,<as a result of/due to> more college students <writing their papers/doing their homework/studying> at coffeehouses ,3
+coffeehouse,,increase,,<as a result of/due to> a growing population of aspiring writers who prefer to work on their <novels/short stories> in coffeehouses,3
+coffeehouse,,decrease,,<as a result of/due to> an increase in consumers making coffee at home,5
+coffeehouse,"Americano, drip coffee, cappuccino, iced latte, pumpkin spice latte, espresso, caffe mocha, caramel macchiato",decrease,,<as a result of/due to> consumers switching to <matcha/tea/energy drinks> for their caffeine fixes,5
+coffeehouse,"Americano, drip coffee, cappuccino, iced latte, pumpkin spice latte, espresso, caffe mocha, caramel macchiato",increase,large,<as a result of/due to> an increase in <Tinder/Bumble/Grindr/Hinge/eHarmony> coffeehouse dates,5
+coffeehouse,"Americano, drip coffee, cappuccino, iced latte, pumpkin spice latte, espresso, caffe mocha, caramel macchiato",decrease,,<as a result of/due to> consumers believing tea is superior to coffee,3
+coffeehouse,"Americano, drip coffee, cappuccino, iced latte, pumpkin spice latte, espresso, caffe mocha, caramel macchiato",increase,small,<as a result of/due to> consumers recognizing that a hot cup of joe really is the best part of wakin' up,2
+coffeehouse,"Americano, drip coffee, cappuccino, iced latte, pumpkin spice latte, espresso, caffe mocha, caramel macchiato",increase,,<as a result of/due to> a recent study documenting how coffee drinkers make better lovers,3
+coffeehouse,"Americano, drip coffee, cappuccino, iced latte, pumpkin spice latte, espresso, caffe mocha, caramel macchiato",decrease,small,<as a result of/due to> tea loosening its chokehold on the hot beverage market,1
+coffeehouse,"croissant, blueberry scone, breakfast burrito, chocolate chip muffin, cheese danish, apple fritter",increase,large,<as a result of/due to> an overwhelming number of consumers feeling they should treat themselves in the morning,4
+coffeehouse,"croissant, blueberry scone, chocolate chip muffin, cheese danish, apple fritter",decrease,,<as a result of/due to> more consumers embracing a gluten-free diet,5
+coffeehouse,"croissant, blueberry scone, chocolate chip muffin, cheese danish, apple fritter, vegan brownie",increase,,as desire for morning pastries is trending among consumers,4
+coffeehouse,"croissant, blueberry scone, breakfast burrito, chocolate chip muffin, cheese danish, apple fritter",decrease,,<as a result of/due to> more consumers abstaining from <calories/carbs> in the morning,4
+coffeehouse,vegan brownie,decrease,large,<as a result of/due to> consumers finally realizing that vegan brownies are <trauma-inducing/terrible/a sham/not better than the real thing/not healthy/the antithesis of joy/vile/oppressive>,5
+coffeehouse,vegan brownie,increase,small,<as a result of/due to> a small number of consumers sacrificing joy to embrace veganism,1
+marijuana dispensary,,decrease,,<as a result of/due to> the spread of anti-marijuana propaganda among local <interest groups/politicians/mothers/Karens/religious groups/fascists>,3
+marijuana dispensary,,decrease,,<as a result of/due to> an increase in anti-marijuana <television/newspaper/magazine> advertisements,5
+marijuana dispensary,,increase,,<as a result of/due to> emergent studies regarding the medicinal benefits of marijuana,3
+marijuana dispensary,,increase,,<as a result of/due to> local governments passing legislation that relaxes bans on marijuana consumption,3
+marijuana dispensary,,increase,,<as a result of/due to> law enforcement cracking down on illegal marijuana consumption,3
+marijuana dispensary,pot brownie,increase,,<as a result of/due to> a growing taste for baked goods among consumers,3
+marijuana dispensary,,increase,,<as a result of/due to> <Woody Harrelson/Willie Nelson/Cheech & Chong/Snoop Dogg>'s tireless efforts to legalize marijuana,2
+marijuana dispensary,,increase,large,due to a projected <30/40/25>% decrease in snack food pricing,3
+marijuana dispensary,,increase,large,"<as a result of/due to> consumers realizing that if they keep getting high, they'll never feel low",3
+novelty,,decrease,large,<as a result of/due to> consumers realizing that people who give gag gifts are literally the worst,3
+novelty,,decrease,small,<as a result of/due to> consumers wanting to give more serious gifts to their friends,3
+novelty,,increase,small,<as a result of/due to> White Elephant parties growing in popularity among consumers,3
+musical instrument,,increase,large,<as a result of/due to> a wave of young adults discovering how much fun it is to blow things,3
+musical instrument,,increase,,<as a result of/due to> public school music programs receiving more government funding,3
+musical instrument,,decrease,large,<as a result of/due to> public school music programs losing government funding,3
+musical instrument,,increase,large,<as a result of/due to> a popular opinion that musicians make the best lovers,3
+musical instrument,,decrease,,<as a result of/due to> a popular opinion that musicians are annoying,3
+beauty supply,"hair spray, hair dye, hair gel, curling iron, wig, hair extensions",increase,large,due to a shift in trendy hairstyles,3
+beauty supply,"hair spray, hair dye, hair gel, curling iron, wig, hair extensions",decrease,small,due to a general lack of interest in hair upkeep among consumers,3
+beauty supply,"hair spray, hair dye, hair gel, curling iron, wig, hair extensions",decrease,,<as a result of/due to> reports claiming connections between certain hair care products and <cancer/hair loss/dandruff/acne/impotence>,3
+beauty supply,wig,decrease,large,in response to consumers wigging out over prices,3
+beauty supply,wig,increase,large,due to the popularity of 'RuPaul's Drag Race',3
+beauty supply,wig,increase,small,as a result of the growing popularity of the phrase 'Wig',3
+beauty supply,curling iron,increase,small,as curly hair is trending right now,3
+beauty supply,curling iron,decrease,small,as curly hair is no longer in style,3
+beauty supply,"hair spray, hair gel",increase,,thanks to the resurgence of the <pompadour/slick back/quiff>,3
+beauty supply,"hair spray, hair gel",increase,,<as a result of/due to> reports refuting the connection between certain hair care products and <cancer/hair loss/dandruff/acne/impotence>,3
+beauty supply,,decrease,,due to a popular wave of bohemian culture sweeping the nation,3
+beauty supply,hair dye,decrease,,due to a growing trend among the elderly who believe grey is the new black,3
+beauty supply,"hair spray, hair dye, hair gel, curling iron, wig, hair extensions",increase,small,<as a result of/due to> the popularization of a new hair style trending on TikTok,3
+beauty supply,hair dye,increase,,<as a result of/due to> anime-inspired hair colors trending among consumers,3
+beauty supply,"wig, hair extensions",increase,,<as a result of/due to> merkins making a comeback,3
+beauty supply,hair extensions,decrease,,due to consumers valuing natural hair over synthetic,3
+beauty supply,"hair spray, hair dye, hair gel, curling iron, wig, hair extensions",decrease,,as a product of consumers embracing the idea that bald is beautiful,1
+clothing outlet,,decrease,,<as a result of/due to> a fashion trend favoring second-hand clothing,3
+clothing outlet,muumuu,increase,,"<as a result of/due to> muumuus suddenly becoming stylish, thanks to influencers on social media",1
+clothing outlet,,decrease,,due to vintage clothing becoming more trendy among consumers,3
+clothing outlet,muumuu,increase,,<as a result of/due to> the emergence of more drag queens,3
+clothing outlet,,increase,,<as a result of/due to> a shift in fashion trends,3
+clothing outlet,,decrease,,<as a result of/due to> a shift in fashion trends,3
+clothing outlet,,decrease,,<as a result of/due to> the emergence of more nudist colonies,1
+clothing outlet,"t-shirt, blouse, blazer, sundress, bikini, skirt, coat, muumuu",increase,,<as a result of/due to> <celebrity> being photographed purchasing the product,1
+clothing outlet,,decrease,,<as a result of/due to> consumers staying home more frequently and therefore not focusing on fashion,3
+clothing outlet,,increase,,"<as a result of/due to> popular fashion magazines declaring the product is ""in"" this year",3
+clothing outlet,,decrease,,<as a result of/due to> popular fashion magazines declaring the product is so last season,3
+clothing outlet,,decrease,large,<as a result of/due to> Anna Wintour declaring the product obsolete,5
+clothing outlet,,increase,large,<as a result of/due to> Anna Wintour declaring the product '<a wardrobe essential/fashionable/adequate/hot this year/cool/simply stylish/elegant/chic>',5
+clothing outlet,,increase,small,<as a result of/due to> a rising interest in fashion after the release of a sequel to '<Funny Face/The September Issue/Cruella/House of Gucci/Phantom Thread/Confessions of a Shopaholic/The Devil Wears Prada>',4
+dairy farm,"whole milk, skim milk, goat milk",increase,,<as a result of/due to> a popular study suggesting milk drinkers live longer,3
+dairy farm,butter,decrease,,<as a result of/due to> a popular study suggesting margarine is healthier than butter,1
+dairy farm,"whole milk, skim milk, goat milk",increase,,"<as a result of/due to> a popular advertisement boasting that milk does, in fact, do a body good",1
+dairy farm,,increase,,<as a result of/due to> consumers becoming more interested in <cooking/baking> with dairy products,3
+dairy farm,,increase,large,<as a result of/due to> a decline of veganism as a lifestyle,3
+dairy farm,,increase,large,<as a result of/due to> increasing spite toward evangelical vegans,3
+dairy farm,,decrease,small,<as a result of/due to> a rise in veganism among consumers,3
+dairy farm,,decrease,large,<as a result of/due to> an increase in the number of consumers with lactose intolerance,3
+dairy farm,,increase,small,<as a result of/due to> consumers making <nachos/queso dip/cheese fries/grilled cheese sandwiches/fondue> more frequently,3
+dairy farm,,decrease,large,<as a result of/due to> consumers choosing alternatives to dairy products in protest of the dark side of the dairy industry,3
+dairy farm,"whole milk, skim milk, goat milk",decrease,small,<as a result of/due to> consumers complaining they can't help but cry over spilled milk,3
+dairy farm,,increase,,as lactose-intolerant consumers discover it as a convenient way to sabotage a bad date ,3
+dairy farm,"vanilla ice cream, chocolate ice cream, strawberry ice cream",increase,,<as a result of/due to> an increasing number of consumers who all scream for ice cream,3
+pet supply,,increase,large,<as a result of/due to> an increase in pet ownership inspired by playing DogLife,3
+pet supply,,increase,,<as a result of/due to> more consumers working from home <purchasing/adopting> new pets,3
+pet supply,,decrease,,<as a result of/due to> fewer consumers <purchasing/adopting> new pets,3
+pet supply,,increase,,<as a result of/due to> videos of family pets taking <TikTok/YouTube/Twitter/Instagram> by storm,3
+pet supply,"fish food, fish bowl, fish tank",decrease,large,<as a result of/due to> a widespread belief among consumers that fish are <terrible/boring> pets,1
+pet supply,,decrease,,<as a result of/due to> consumers concluding that pet ownership is more of a luxury than a necessity,1
+pet supply,,decrease,large,<as a result of/due to> a staggering shortage of homeless pets,1
+pet supply,"dog kibble, puppy kibble, cat kibble, kitty kibble",decrease,,as more pet owners are giving their pets raw food instead of kibble,3
+pet supply,"dog kibble, puppy kibble, cat kibble, kitty kibble",decrease,small,<as a result of/due to> pet owners forcing a vegan diet on their pets,3
+pet supply,"dog kibble, puppy kibble, cat kibble, kitty kibble",increase,,<as a result of/due to> consumers realizing the value of kibble over raw food,3
+pet supply,"dog kibble, puppy kibble, cat kibble, kitty kibble",increase,small,<as a result of/due to> consumers over-feeding their pets,3
+pet supply,"rawhide chew toy, rubber chew toy, silicone chew toy, squeaky toy",increase,,in response to consumers wanting to play with their pets more often,3
+pet supply,"rawhide chew toy, rubber chew toy, silicone chew toy, squeaky toy",increase,large,in response to a growing sentiment among consumers that their pets should be spoiled,3
+pet supply,squeaky toy,decrease,large,<as a result of/due to> a widespread belief among consumers that squeaky toys are <pure evil/annoying/torture on their ears/abysmal/just the worst/not appropriate for pets/horrendous>,3
+pet supply,squeaky toy,increase,large,<as a result of/due to> more owners desiring to post videos on TikTok of their pets' reactions to squeaky toys,3
+pharmaceutical,,increase,large,<as a result of/due to> a growing populace endorsing better living through chemistry,3
+pharmaceutical,,decrease,small,<as a result of/due to> a growing populace embracing natural remedies for ailments,3
+pharmaceutical,,decrease,small,<as a result of/due to> a growing belief among consumers that all medications are placebos,3
+pharmaceutical,,decrease,small,<as a result of/due to> more people believing that all medications serve as a way for the government to track individuals,1
+pharmaceutical,,decrease,,<as a result of/due to> studies suggesting that the product is linked to <chronic Karen syndrome/chronic RBF/the loss of a sense of humor/unnatural euphoria/irritable scowl syndrome/vampirism>,1
+pharmaceutical,,decrease,large,<as a result of/due to> studies suggesting that the product is linked to <anal leakage/anal discoloration/areolar shrinkage/areolar engorgement/uncontrollable lactation/a decreased libido/cancer/autism/stress/anxiety/diabetes/acne/hemorrhoids/constipation/ear infections/gastrointestinal issues/irritable bowel syndrome/body odor/paranoia/dry mouth/headaches/migraines/impotence>,5
+pharmaceutical,,decrease,large,because a famous <celebrity/singer/movie star/ex-porn star> made baseless accusations connecting the product to <cancer/autism/stress/anxiety/diabetes/acne/hemorrhoids/constipation/ear infections/gastrointestinal issues/irritable bowel syndrome/body odor/paranoia>,5
+pharmaceutical,,decrease,large,<as a result of/due to> politicians sowing widespread doubt about the efficacy of the product among their constituents,1
+pharmaceutical,,decrease,,<as a result of/due to> 4 out of 5 doctors not recommending the product,1
+pharmaceutical,,increase,,<as a result of/due to> 4 out of 5 doctors recommending the product,1
+pharmaceutical,,increase,,<as a result of/due to> more consumers afflicted with medical conditions,3
+pharmaceutical,,increase,,<as a result of/due to> fewer reports of side effects among consumers,3
+pharmaceutical,,increase,large,as more consumers report the product increases their libido,3
+pharmaceutical,,increase,,<as a result of/due to> influencers on TikTok demonstrating the efficacy of the product,3
+pharmaceutical,,increase,large,<as a result of/due to> reports that the product also causes <delusions of grandeur/rapid weight loss/feelings of euphoria>,2
+pharmaceutical,,decrease,,<as a result of/due to> extremist groups asserting that medications only make people more ill,1
+lingerie boutique,,increase,,amid a resurgence of sexy in the bedroom,3
+lingerie boutique,,increase,,as being sexy is making a comeback,3
+lingerie boutique,,increase,large,<as a result of/due to> body-positive advertisements suggesting all body types can be sexy,3
+lingerie boutique,,decrease,small,<as a result of/due to> consumers wishing to be more modest in the boudoir,3
+lingerie boutique,,decrease,,<as a result of/due to> consumers reporting they don't have time to get gussied up for their partners before intimacy,3
+lingerie boutique,,increase,small,<as a result of/due to> consumers reporting a desire to dress up for their intimate partners,3
+lingerie boutique,,increase,small,because more individuals are becoming <drag queens/burlesque performers> as a means to supplement their income,3
+lingerie boutique,,increase,,<as a result of/due to> more couples playing dress-up in the bedroom,3
+lingerie boutique,bra,increase,small,<as a result of/due to> men on TikTok wearing push-up bras in their videos to give off the illusion of having pecs,3
+lingerie boutique,,increase,,<as a result of/due to> more husbands wanting their wives to look like Victoria's Secret runway models,3
+lingerie boutique,,decrease,,<as a result of/due to> a shift in personal preferences toward wanting to be naked in the bedroom,1
+lingerie boutique,,decrease,,because birthday suits are hot this season,1
+jewelry,,decrease,,<as a result of/due to> an increasing supply of fake gold and cubic zirconia,3
+jewelry,"white gold diamond ring, sterling silver diamond ring, platinum diamond ring, yellow gold diamond ring",increase,,<as a result of/due to> an increase in the amount of couples becoming engaged,5
+jewelry,"yellow gold watch, sterling silver watch, white gold watch ",increase,,<as a result of/due to> watches rising in popularity as a status symbol,4
+jewelry,"yellow gold watch, sterling silver watch, white gold watch ",decrease,,<as a result of/due to> smartphones rendering watches obsolete,2
+jewelry,,increase,,<as a result of/due to> an increase in the number of individuals with guilty consciences having extramarital affairs,1
+jewelry,,increase,,<as a result of/due to> an increase in the number of men who actually remember <anniversaries/birthdays/special occasions>,4
+jewelry,,decrease,,<as a result of/due to> consumers boycotting the jewelry industry over the mistreatment of its workers,3
+jewelry,,decrease,,<as a result of/due to> more consumers purchasing their jewelry from secondhand shops,3
+jewelry,,increase,,<as a result of/due to> an increase in the number of consumers who wish to spoil their <parents/significant others/friends/squads> with jewelry,3
+jewelry,"stainless steel turquoise necklace, sterling silver turquoise necklace, copper turquoise necklace, aluminum turquoise necklace, stainless steel turquoise earrings, sterling silver turquoise earrings, copper turquoise earrings, aluminum turquoise earrings",increase,,<as a result of/due to> an increase in tourism to the American Southwest,5
+jewelry,"stainless steel turquoise necklace, sterling silver turquoise necklace, copper turquoise necklace, aluminum turquoise necklace, stainless steel turquoise earrings, sterling silver turquoise earrings, copper turquoise earrings, aluminum turquoise earrings",increase,,<as a result of/due to> an increase in home shopping networks featuring turquoise jewelry on their programs,1
+jewelry,"stainless steel turquoise necklace, sterling silver turquoise necklace, copper turquoise necklace, aluminum turquoise necklace, stainless steel turquoise earrings, sterling silver turquoise earrings, copper turquoise earrings, aluminum turquoise earrings",decrease,,<as a result of/due to> more consumers believing that turquoise jewelry is <cheap/ugly/tacky>,5
+jewelry,"stainless steel turquoise necklace, sterling silver turquoise necklace, copper turquoise necklace, aluminum turquoise necklace, stainless steel turquoise earrings, sterling silver turquoise earrings, copper turquoise earrings, aluminum turquoise earrings",decrease,,<as a result of/due to> a widespread sentiment that most turquoise jewelry is inauthentic,2
+distillery,,increase,,<as a result of/due to> an increasing interest in vintage cocktails,3
+distillery,,increase,,<as a result of/due to> an increasing interest in lifting one's spirits among consumers,3
+distillery,,increase,,<as a result of/due to> more consumers turning to alcohol as liquid courage for difficult conversations,3
+distillery,,increase,,<as a result of/due to> a rise in <night clubs/bars> hosting <speed dating events/mixers/singles meetups>,3
+distillery,,increase,,<as a result of/due to> an increase in the amount of <wedding halls/banquet halls/cruises> that offer free open bar packages,3
+distillery,,increase,,<as a result of/due to> an increase in the popularity of doing shots,3
+distillery,,decrease,,<as a result of/due to> a new report that suggests a connection between alcohol consumption and <diarrhea/constipation/gastrointestinal issues/memory loss/rosacea/erectile dysfunction/performance anxiety/loss of libido>,3
+distillery,,decrease,,<as a result of/due to> consumers' tastes shifting toward <beer/wine>,3
+distillery,,decrease,,<as a result of/due to> a study linking the liquor industry to an increase in Molotov cocktails,3
+distillery,,increase,small,<as a result of/due to> more consumers finding comfort at the bottom of a bottle,1
+distillery,,decrease,,<as a result of/due to> a desire among consumers to embrace sobriety,1
+distillery,"whiskey, bourbon",increase,,<as a result of/due to> the sheer volume of country music songs about dark liquor that released last year,1
+winery,,increase,,<as a result of/due to> a younger generation taking interest in <viticulture/wine>,3
+winery,,decrease,,<as a result of/due to> a younger generation taking interest in <vintage cocktails/craft beer>,3
+winery,"pinot noir, cabernet sauvignon, merlot",decrease,small,<as a result of/due to> more priests preferring grape juice during communion over wine,1
+winery,,increase,,"<as a result of/due to> the creation of more ""Real Housewives"" franchises",1
+winery,,increase,,<as a result of/due to> more mothers reporting a need for some 'me time',1
+winery,,decrease,small,<as a result of/due to> consumers being grossed out by the idea that people stomp on grapes with their bare feet to make wine,3
+winery,,decrease,small,<as a result of/due to> a small contingency of consumers discovering it's <easier/cheaper> to make pruno at home,1
+winery,,increase,small,<as a result of/due to> more fathers switching from beer to wine as their go-to alcoholic beverage,3
+winery,,increase,,<as a result of/due to> multiple new studies connecting drinking wine to an increase in cardiovascular health,3
+sporting goods,,decrease,,<as a result of/due to> more kids playing more sports online,3
+sporting goods,,increase,,<as a result of/due to> more kids wanting to play sports outside,3
+sporting goods,hockey stick,increase,small,<as a result of/due to> the release of a 'Mighty Ducks' movie reboot,3
+sporting goods,basketball,increase,small,<as a result of/due to> the release of a new '<Space Jam/Air Bud/White Men Can't Jump/He Got Game/Love & Basketball>' film,3
+sporting goods,basketball,increase,large,<as a result of/due to> the release of a <Michael Jordan/Kobe Bryant/LeBron James/Scottie Pippen/Steph Curry/Magic Johnson> biopic,3
+sporting goods,"basketball, baseball, soccer ball, football, baseball bat, hockey stick, athletic cup, football helmet, tennis ball, tennis racquet",decrease,,<as a result of/due to> more kids losing interest in organized sports,3
+sporting goods,"basketball, baseball, soccer ball, football, baseball bat, hockey stick, athletic cup, football helmet, tennis ball, tennis racquet",decrease,,due to a series of disasters that resulted in a decline in local sports programs,3
+sporting goods,,decrease,large,as more teens are experiencing performance anxiety and lose interest in sports as a result,3
+sporting goods,"basketball, baseball, football, soccer ball, tennis ball",decrease,small,because fewer consumers want to play with balls,3
+sporting goods,snowboard,increase,large,<as a result of/due to> more skiers discovering the <joy/exhilaration/superior sensation> of surfing on the snow,5
+sporting goods,snowboard,increase,,as more parents discover the bonding experience of snowboarding with their kids,4
+sporting goods,snowboard,increase,,<as a result of/due to> Chloe Kim's Olympic performance inspiring a new generation of female snowboarders,3
+sporting goods,snowboard,increase,,due to an increase in snowboarders who get too high and lose their snowboard,3
+sporting goods,snowboard,decrease,,due to an uptick in snowboarders who want to continue riding the board they learned on,2
+sporting goods,,increase,,as more parents are forcing their kids to get involved in sports,3
+sporting goods,,decrease,,as esports continue to rise in popularity,3
+sporting goods,,decrease,,as more people think that playing '<FIFA 22/Call of Duty/Super Smash Bros/Apex Legends/League of Legends/Smite/Overwatch/Fortnite/Halo/Valorant/Rocket League>' counts as playing a competitive sport,4
+sporting goods,,increase,,as many fitness-obsessed consumers have begun playing sports for their cardio exercise,3
+sporting goods,,increase,,as a sports-themed anime series just released and is wildly popular,3
+sporting goods,,increase,,as more consumers report an increased interest in being outside,3
+footwear,,decrease,,<as a result of/due to> a study touting the health benefits of walking barefoot,3
+footwear,,decrease,,because a paparazzo photographed <celebrity> walking barefoot through a <movie theater/gas station/convenience store/pharmacy/fast food restaurant/bookstore/frozen yogurt shop/strip mall>,4
+footwear,,increase,,because a famous fashion critic has declared the product is in this season,5
+footwear,,decrease,,because a famous fashion critic has declared the product is out this season,5
+footwear,,decrease,,as consumers report they would rather wear <nothing/plastic bags/paper bags/flippers/clown shoes> on their feet than the product,3
+footwear,,increase,,as designers continue to innovate styles that enthrall consumers,4
+footwear,high heels,increase,,as more women wish to look classier when they go out,4
+footwear,slippers,increase,,as more consumers recognize the benefit of having a <specific/'comfy'/simple> pair of shoes to wear around the house,3
+footwear,slippers,decrease,,as younger consumers report they believe only the elderly wear slippers,2
+consumer electronics,,decrease,,<as a result of/due to> a viral meme promoting the virtues of living off-the-grid,3
+consumer electronics,,increase,,<as a result of/due to> more consumers feeling connected to the world via electronics,3
+consumer electronics,virtual reality headset,increase,,<as a result of/due to> consumers wanting to live in a fantasy world and escape from reality,3
+consumer electronics,virtual reality headset,increase,,<as a result of/due to> the re-release of 'Ready Player One',1
+consumer electronics,virtual reality headset,decrease,,<as a result of/due to> consumers being satisfied with living in the real world,3
+consumer electronics,television,increase,,because having a television in the bathroom is trending among consumers,3
+consumer electronics,television,increase,,as reports indicate consumers enjoy having a television in every room of the house,3
+consumer electronics,"desktop computer tower, laptop computer,. smart phone",decrease,,because more consumers are starting to believe the government is tracking them through their electronic devices,3
+consumer electronics,"desktop computer tower, laptop computer,. smart phone",decrease,,because more consumers are starting to believe that their electronic devices are watching them,3
+consumer electronics,"desktop computer tower, laptop computer,. smart phone",decrease,,<as a result of/due to> consumers fearing their electronic devices are smarter than they are,3
+consumer electronics,,decrease,small,<as a result of/due to> consumers believing that all electronics are frivolous luxuries,3
+consumer electronics,,increase,large,as consumers are becoming more obsessed with upgrading their electronics,3
+consumer electronics,,increase,,as more consumers need entertainment outlets,3
+consumer electronics,smart phone,increase,large,because more consumers want to play <BitLife/DogLife>,3
+consumer electronics,,increase,,as more consumers begin to view keeping up with technology trends as a status symbol,3
+health food store,,increase,large,as more consumers reconsider their health in reaction to a global health crisis,3
+health food store,,decrease,large,as more consumers believe that most health food fads are hoaxes,3
+health food store,,increase,,as consumers are starting to prioritize their health,3
+health food store,,increase,,as more consumers discover the euphoria associated with feeling healthy,3
+health food store,,decrease,,as more consumers continue to demonstrate a preference for <fast/unhealthy/greasy/buttery/fattening> foods,3
+health food store,,increase,,in response to a government-sponsored campaign to reignite the public's interest in healthy living,3
+health food store,,increase,,due to the rise of more consumers looking to supplement their diets with healthier choices,3
+health food store,,increase,,in response to a popular documentary exposing the dark side of the <meat/fast food> industry,3
+health food store,,decrease,,as the <meat/dairy/frozen dinner/pizza/fast food> industry continues to dominate the market,4
+health food store,,decrease,,as more consumers prefer getting their nutrients from <pizzas/fast food/frozen dinners>,3
+beauty supply,,increase,,because looking glamorous is becoming a top priority among consumers,3
+beauty supply,,increase,,as consumers continue to place value on their aesthetics,3
+beauty supply,"foundation, blush, mascara, eyeshadow, lipstick",decrease,,as more consumers embrace natural beauty with makeup-free looks,3
+musical instrument,,decrease,,<as a result of/due to> a sudden rise in band-kid bullies,4
+musical instrument,,increase,,as more people are drawn to the hustle of busking on the streets,3
+musical instrument,,increase,,as more parents are getting their children involved in <fine arts/music> programs,3
+musical instrument,,increase,,as more artists turn to music as a form of creative expression,2
+musical instrument,,decrease,,as consumers' interest in <making/classical> music takes a nosedive,2
+musical instrument,,decrease,large,as consumers turn to digital instruments for their music-making needs,3
+food truck,,increase,,<as a result of/due to> the popularity of a food-truck reality show,3
+food truck,,decrease,,<as a result of/due to> more consumers embracing a healthier lifestyle,2
+food truck,,increase,,"<as a result of/due to> more consumers preferring to eat on-the-go, rather than at a restaurant",3
+food truck,,decrease,,as more consumers prefer eating at a restaurant,3
+food truck,,decrease,,as more consumers believe getting meals from the back of a truck is low-class,3
+food truck,,increase,,as more consumers believe food truck food is fresher than restaurant food,3
+food truck,,increase,,as consumers tend to enjoy the convenience of a food truck over the hassle of <shopping for groceries/going to a restaurant/preparing their own meals>,4
+food truck,,increase,,as the number of <music/beer/art/food/film> festivals in <city> increases,4
+food truck,,increase,,as the product continues trending as popular features at <wedding receptions/festivals/happy hours/community events>,5
+food truck,,decrease,,as consumers prefer the lower pricing of fast food meals,5
+gift shop,,increase,large,in response to a tourism boom spurred by decreasing airfares,3
+gift shop,,decrease,,as less people are traveling due to exorbitant airfares,3
+gift shop,,decrease,,in response to a sharp decline in the tourism industry,3
+robotics,,decrease,,<as a result of/due to> a popular theory that AI will take over the world,3
+robotics,,increase,,<as a result of/due to> populations around the world preferring that robots do everything for them,3
+robotics,,increase,,as more people become comfortable with the idea of owning robots,3
+robotics,,increase,,as Terminator apologists begin making cohesive arguments for the incorporation of robots in society,1
+robotics,,increase,,as the world gets closer to the future for mankind that 'Futurama' envisioned,3
+robotics,,decrease,,as people reject the idea of robots doing their jobs for them,3
+robotics,,decrease,,as recent films about robots suggest they'll soon turn on humans and strive for world domination,3
+robotics,sex robot,increase,large,as there are some things that only a robot <is willing to/can> do,1
+robotics,,decrease,,as consumers are inherently skeptical of anything robotic,3
+robotics,,decrease,,as consumers prefer interfacing with humans over machines,3
+robotics,,increase,small,as consumers embrace the technology of the future with few reservations,3
+robotics,,increase,large,in response to a popular animated show about Earth in the year 3000 featuring robots as colorful additions to everyday life,3
+robotics,,decrease,,as more people around the world grow skeptical about the presence of robots in their daily lives,3
+robotics,"sex robot, maid robot",increase,,<as a result of/due to> more young adults preferring the product over a spouse,4
+semiconductor,"appliance chip, microprocessor chip",increase,,<as a result of/due to> an increase in demand for smart appliances,3
+semiconductor,,decrease,,<as a result of/due to> a recession affecting consumer electronics ,2
+,,decrease,,as they're falling out of popular use among consumers,5
+"adult toy store, robotics, pharmaceutical",,decrease,,in response to a popular tech magazine that declared the product unsafe for the general public,5
+semiconductor,,increase,,as chips become more integrated into essential technologies,3
+semiconductor,,increase,,as more electronic products require more sophisticated chips,3
+semiconductor,,increase,,as the electronic industries continues to expand,3
+semiconductor,,increase,,as electronics become more essential to consumers' daily lives,3
+semiconductor,,increase,,as demand for the <most sophisticated/most advanced/latest> <smart televisions/refrigerators/appliances/gaming consoles/computers/smartphones/tablets/technology> continues to rise,4
+semiconductor,,increase,,as more consumers become invested in upgrading their electronic devices,3
+semiconductor,,decrease,,as a small contingency of consumers are beginning to <live off of the grid/embrace an Amish lifestyle>,1
+semiconductor,,decrease,,as technological advances have plateaued,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck, robotics",,increase,viral,after <celebrity> appeared in a commercial promoting the product,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck, robotics",,increase,viral,after <celebrity> promoted the product on <his/her> <TikTok/Instagram/Twitter>,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,increase,viral,after <celebrity> revealed in a recent interview that <he/she> uses the product exclusively,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,decrease,viral,after <celebrity> trashed the product on <his/her> <TikTok/Instagram/Twitter>,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,decrease,viral,after <celebrity> wrote a scathing review and posted it online,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,decrease,viral,after <celebrity> tweeted that the product was 'cancelled' because it '<didn't vibe/wasn't giving/sucked>',1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,decrease,viral,after <celebrity> dissed the product on a <late-night/morning> talk show,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,increase,viral,after TMZ posted a picture on its website of <celebrity> purchasing the product,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,decrease,viral,after a TMZ paparazzo caught <celebrity> on camera ranting about the product,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,increase,viral,since <celebrity> began swearing by the product on <his/her> social media posts,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,decrease,viral,since <celebrity> began promoting a competing company's product,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,increase,viral,since <celebrity> began trashing a competing company's product,1
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,increase,viral,after <celebrity> was spotted wearing your company logo on a <T-shirt/hoodie/baseball cap>,2
+"kitchenware, consumer electronics, brewery, winery, car manufacturer, coffeehouse, novelty, musical instrument, beauty supply, clothing outlet, dairy farm, pet supply, distillery, sporting goods, footwear, health food store, food truck",,increase,viral,after <celebrity> professed <his/her> love for the product on social media,1
+,,increase,viral,after social media sites began running promotional ads for the product,2
+,,increase,viral,after social media influencers discovered it and started raving about the product to their followers,2
+,,decrease,viral,after social media influencers teamed up to publicly bash the product on their pages,1
+,,decrease,viral,after a local politician turned the product into a political issue,1
+,,increase,viral,after it sparked an intense debate on social media,1
+,,increase,viral,after social media influencers began stanning the product,1
+,,decrease,viral,after social media influencers began hyping up alternatives to the product,1
+,,decrease,viral,after social media influencers began cancelling the product in their posts,1

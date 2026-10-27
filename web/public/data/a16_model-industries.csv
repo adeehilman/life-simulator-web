@@ -1,0 +1,11 @@
+Industry,Commonness Score,Country Blacklist
+fashion,5,
+pharmaceutical,3,
+food service,4,
+alcohol,3,"af, dz, il, kw, lb, qa, sa, sy, ae, bd"
+jewelry,5,
+automobile,3,
+beauty supply,4,
+adult toys,2,"af, dz, il, kw, lb, qa, sa, sy, ae, bd"
+entertainment,3,
+fitness,2,

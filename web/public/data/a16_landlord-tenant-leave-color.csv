@@ -1,0 +1,80 @@
+Scenario,Log Version,Requires Haunted House,Commonness Score,Min Satisfaction,Max Satisfaction
+<he/she> says it's because <he/she> wants to move in with a <friend/relative/sick relative>.,<tenant> moved out to live with a <rb>.,,4,,
+<he/she> says it's because <he/she> regrets ever moving in.,<tenant> moved out because <he/she> regretted moving in.,,3,,50
+<he/she> says it's because <he/she> needs to get out of town ASAP.,<tenant> moved out because <he/she> needed to get out of town.,,1,,
+<he/she> says it's because <he/she> is moving to <country-other>.,<tenant> moved out to relocate in <country-other>.,,5,,
+<he/she> says it's because <he/she> is moving to <city-other>.,<tenant> moved out to relocate in <city-other>.,,5,,
+<he/she> says it's because <he/she> wants to move closer to work.,<tenant> moved out to live closer to work.,,3,,
+<he/she> says it's because <he/she> wants to move to a better neighborhood.,<tenant> moved out to live in a better neighborhood.,,3,,
+<he/she> says <he/she> feels it's time to move on.,<tenant> moved out because <he/she> felt like making a change.,,3,,
+<he/she> says the place isn't worth the rent.,<tenant> decided to move out because the rent was too high.,,5,,50
+<he/she> says it's because <he/she> found a better place to live.,<tenant> moved out after finding a better place to live.,,3,,50
+<he/she> says it's because <he/she> hates dealing with you.,<tenant> moved out because <he/she> hated dealing with me.,,2,,20
+<he/she> says it's because <he/she> purchased a home across town.,<tenant> moved out after purchasing <his/her> own home.,,3,,
+<he/she> says it's because <he/she> can no longer afford the rent.,<tenant> moved out because <he/she> could no longer afford the rent.,,3,,60
+<he/she> says it's because <he/she> wants to live in a quieter neighborhood.,<tenant> moved out because <he/she> found a new place in a quieter neighborhood.,,3,,70
+<he/she> says it's because <he/she> feels it's time for <him/her> to purchase <his/her> own place.,<tenant> moved out to purchase <his/her> own home.,,3,,
+<he/she> says it's because mortgage rates are low enough now to afford <his/her> own place.,<tenant> moved out to purchase <his/her> own home.,,3,,
+<he/she> says it's because <he/she> found a rental with <more storage space/a bigger kitchen/a bigger backyard/an additional bedroom/an extra bathroom/a larger dining room>.,<tenant> moved out because <he/she> found a rental with <rb>.,,4,,80
+<he/she> says it's because <he/she> got a new job across town.,<tenant> moved out to be closer to <his/her> new job.,,3,,
+<he/she> says it's because <he/she> is going into the Witness Protection Program.,<tenant> moved out because the Witness Protection Program relocated <him/her>.,,1,,
+<he/she> says it's because <he/she> wants a change of scenery.,<tenant> moved out because <he/she> needed a change.,,3,,60
+<he/she> says <he/she> needs a fresh start in a new town.,<tenant> moved out to get a fresh start in a new town.,,3,,
+<he/she> says it's because <he/she> never really liked the <smell/look/feel> of the place.,<tenant> moved out because <he/she> never really liked the <rb> of the place.,,4,,50
+<he/she> says it's because <he/she> wants a place with better views.,<tenant> moved out because <he/she> found a new place with better views.,,3,,50
+<he/she> says it's because there is something strange in the residence that's been causing <him/her> to <cry/cough/fart/sneeze> multiple times a day since moving in.,<tenant> moved out because something in the residence was causing <him/her> to <rb> multiple times a day.,,2,,65
+<he/she> says the place never really aligned with <his/her> <image/sense of style/ideal>.,<tenant> moved out because the place never aligned with <his/her> <rb>.,,3,,65
+<he/she> says the voices are telling <him/her> it's time to leave.,<tenant> moved out after voices told <him/her> it was time to leave.,,1,,
+<he/she> says <he/she> took a vow to give up all earthly possessions.,<tenant> moved out after taking a personal vow to give up all earthly possessions.,,1,,
+<he/she> says it's because the place has reeked of <weed/cat piss/cigarettes/fish sauce/garbage/foul odors/something rotten/ass> since moving in.,<tenant> moved out saying the place reeked of <rb> since moving in.,,3,,25
+<he/she> says it's because the sound of the neighbors constantly <arguing/having sex/making love/fighting/partying> keeps <him/her> up at night.,<tenant> moved out because the sound of the neighbors constantly <rb> disrupted <his/her> sleep schedule.,,4,,60
+<he/she> says it's because <he/she> doesn't feel like having an address right now.,<tenant> moved out because <he/she> wanted to experience life as a nomad.,,1,,
+<he/she> says it's because <he/she> wants to see what it's like to be homeless for a year.,<tenant> moved out because <he/she> wanted to experience homelessness.,,1,,
+<he/she> says it's because <he/she> thinks <his/her> neighbors are <criminals/in the mafia/dangerous/drug dealers/gangsters/trash/tasteless/noisy/gross/classless>.,<tenant> moved out because <he/she> thought the neighbors were <rb>.,,4,,50
+<he/she> says it's because <he/she> <doesn't like/doesn't fit in with> the <neighborhood/neighbors>.,<tenant> moved out because <he/she> didn't like the <rb2>.,,3,,50
+<he/she> says <he/she> feels the residence <is too big/isn't big enough> for <him/her>.,<tenant> moved out because <he/she> found a rental whose size is just right.,,3,,50
+<he/she> says <he/she> wants to live somewhere closer to <a library/a gym/the hustle and bustle of downtown>.,<tenant> moved out to live closer to <rb>.,,3,,60
+<he/she> says <he/she> wants to live closer to <his/her> favorite <dive bar/nightclub/gay club>.,<tenant> moved out to live closer to <his/her> favorite <rb>.,,2,,70
+<he/she> says it's because <he/she> keeps hearing <ghastly noises at/things going bump in the/strange wailing at/blood-curdling screams at> night.,<tenant> moved out because <he/she> kept hearing <rb> night.,x,5,,30
+<he/she> says it's because <he/she> can't deal with the ghosts any longer.,<tenant> moved out because <he/she> didn't want to deal with ghosts.,x,3,,50
+<he/she> says it's because <he/she> is afraid of ghosts.,<tenant> moved out because <he/she> was afraid of ghosts.,x,3,,50
+<he/she> says it's because <he/she> refuses to live with ghosts.,<tenant> moved out because <he/she> refused to live with ghosts.,x,3,,50
+<he/she> says it's because <he/she> discovered what appears to be human remains on the premises.,<tenant> moved out because <he/she> thinks <he/she> discovered human remains.,x,1,,50
+<he/she> says ghosts don't make good roommates.,<tenant> moved out because <he/she> refused to live with ghosts.,x,3,,50
+<he/she> says <he/she> didn't sign up to deal with ghosts.,<tenant> moved out because <he/she> refused to live with ghosts.,x,3,,50
+<he/she> says nothing in the lease said anything about ghosts.,<tenant> moved out because <he/she> refused to live with ghosts.,x,5,,
+<he/she> says it's because <he/she> didn't sign up for reenacting '<Poltergeist/The Exorcist/Paranormal Activity/The Conjuring/Beetlejuice/Crimson Peak/The Amityville Horror>'.,<tenant> moved out because <he/she> didn't want to deal with ghosts.,x,4,,50
+"<he/she> says although the home is lovely, <he/she> just can't tolerate ghosts.",<tenant> moved out because <he/she> didn't want to deal with ghosts.,x,3,50,
+<he/she> says the place is too spooky for <him/her>.,<tenant> moved out because <he/she> didn't want to deal with ghosts.,x,3,,60
+<he/she> says the place is infested with ghosts.,<tenant> moved out because <he/she> didn't want to deal with ghosts.,x,3,,
+"<he/she> says the place is perfect, except for the ghosts.",<tenant> moved out because <he/she> didn't want to deal with ghosts.,x,3,80,
+<he/she> says it's because <he/she> has a stalker and needs to move.,<tenant> moved out because someone began stalking <him/her>.,,2,,
+<he/she> says it's because <he/she> wants to live closer to <celebrity>.,<tenant> moved out because <he/she> wants to live closer to <celebrity>.,,3,,
+<he/she> says it's because a nearby <random-person> won't stop harassing <him/her>.,<tenant> moved out because a nearby <random-person> wouldn't stop harassing <him/her>.,,2,,
+<he/she> says it's because <he/she> needs to get a bigger place because <his/her> <mother/father> is moving in with <him/her>.,<tenant> moved out to get a bigger place that will accommodate <his/her> <rb>.,,3,,
+<he/she> says it's because <he/she> needs to maintain a healthier distance between <him/her> and <his/her> relatives.,<tenant> moved out to get away from <his/her> relatives.,,3,,
+<he/she> says it's because <his/her> online stalker finally found <him/her>.,<tenant> moved out to get away from a stalker.,,2,,
+"<he/she> said <his/her> <brother/sister/cousin> died in a <forest fire/car accident/baking accident/skydiving accident/skiing accident/factory explosion/mining accident/rock climbing accident/base jumping accident>, so <he/she>\u2019s adopting <his/her> <niece/nephew> and needs to move somewhere with more space.",<tenant> moved out because <he/she> adopted <his/her> <rb2> and needed a bigger place.,,3,,
+<he/she> says it's because <he/she> caught one of the neighbors peeking through the <living room/kitchen> window while <he/she> was dancing in <his/her> <undies/birthday suit> and feels compelled to move out of sheer embarrassment.,<tenant> moved out because a neighbor caught <him/her> dancing in <his/her> <rb2>.,,4,,
+<he/she> says it's because <he/she> wants to live somewhere <warmer/cooler>.,<tenant> moved out because <he/she> wanted to live somewhere <rb>.,,5,,
+<he/she> says it's because <he/she> wants to move to a city with more agreeable weather.,<tenant> moved out because <he/she> wanted to move to a city with a better climate.,,3,,
+<he/she> says it's because <he/she> wants to move to a city with a lower cost of living.,<tenant> moved out because <he/she> wanted to move to a city with a lower cost of living.,,3,,
+<he/she> says <he/she> is moving to another city.,<tenant> moved out because <he/she> wanted to move to another city.,,3,,
+<he/she> says it's because <he/she> wants to move to a city with nicer people.,<tenant> moved out because <he/she> wanted to live around nicer people.,,3,,
+<he/she> says it's because <he/she> wanted to move to a city that better fits <his/her> vibe.,<tenant> moved out because <he/she> wanted to move to a city that better fit <his/her> vibe.,,3,,
+<he/she> says it's because the neighborhood is too <noisy/run-down/sketchy/tacky>.,<tenant> moved out because <he/she> believed the neighborhood was too <rb>.,,3,,50
+<he/she> told you it's because the neighbors are too <friendly/nosy/obnoxious/involved/sketchy/suspicious/spooky/kooky>.,<tenant> moved out because <he/she> claimed the neighbors were too <rb>.,,3,,50
+<he/she> says it's because <he/she> feels embarrassed whenever <he/she> has to give out <his/her> address.,<tenant> moved out because <he/she> felt embarrassed whenever <he/she> gave out <his/her> address.,,2,,50
+<he/she> claims it's because there's a lingering scent of <cat urine/dog urine/dog feces/cat litter/animal refuse/animal vomit/rotten eggs/dog drool/wet dog/rotting meat/rancid milk/rotten fruit/raw sewage> that refuses to go away.,<tenant> moved out because the property smelled like <rb> no matter what <he/she> did.,,5,,50
+<he/she> simply said the residence holds too many <bad/painful> memories.,<tenant> moved out because the property held too many <rb> memories.,,3,,50
+<he/she> said dealing with you made <him/her> realize <he/she> never wants to deal with a landlord again.,<tenant> moved out because <he/she> hated dealing with me.,,5,,30
+<he/she> said it's because <he/she> realized that renting a home is like <shredding money/throwing money away>.,<tenant> moved out because <he/she> was tired of wasting money on rent.,,3,,
+<he/she> said <he/she> would rather <sit naked on a hot grill/step on a LEGO barefoot/drink battery acid/consume raw pork/ingest a tapeworm/walk over hot coals/lick the sidewalk> than pay rent again.,<tenant> moved out because <he/she> was tired of paying rent.,,3,,
+<he/she> said <he/she> just wasn't feeling at home any more.,<tenant> moved out because <he/she> no longer felt at home.,,3,,
+"<he/she> said no matter how hard <he/she> tried, <he/she> just couldn't make the house feel like home.",<tenant> moved out because <he/she> claimed <he/she> didn't feel at home.,,3,,30
+<he/she> said living there gave <him/her> <depression/anxiety/palpitations>.,<tenant> moved out because <he/she> believed living at the residence gave <him/her> <rb>.,,3,,
+<he/she> told you it's because <he/she> wants to live somewhere else.,<tenant> moved out because <he/she> simply wanted to live elsewhere.,,4,,
+<he/she> told you it's because <he/she> is tired of living in squalor.,<tenant> moved out because <he/she> claimed <he/she> grew tired of living in squalor.,,2,,20
+<he/she> told you it's because <he/she> wants to move onto bigger and better things.,<tenant> moved out because <he/she> wanted to move onto bigger and better things.,,3,,50
+<he/she> told you it's because <he/she> is expecting to come into some money and wants to move up in the world.,<tenant> moved out because <he/she> was expecting to become rich and wanted to live better.,,1,,50
+<he/she> told you it's because <he/she> is tired of living beneath <his/her> means.,<tenant> moved out because <he/she> felt living there was beneath <him/her>.,,1,,10

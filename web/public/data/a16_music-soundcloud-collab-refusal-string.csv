@@ -1,0 +1,44 @@
+String,Reason,Commonness Score
+<he/she> says a joint track that combines your two genres doesn't make any sense at all.,genre,3
+<he/she> says you're not worth the time of day.,popularity,3
+<he/she> says <he/she>'s not a launching pad for your career. ,popularity,3
+<he/she> says <he/she>'s not ready to take that kind of chance on you. ,popularity ,3
+<he/she> says <he/she> doesn't know you like that. ,popularity ,3
+<he/she> says <he/she>'s not a charity. ,popularity,2
+<he/she> says <his/her> manager advised against it. ,popularity ,3
+<he/she> says the ROI on doing a collab with you would be abysmal. ,popularity,2
+<he/she> says <he/she> doesn't work with amateurs. ,popularity ,3
+<he/she> says that you don't even qualify as a one hit wonder yet. ,popularity,2
+<he/she> says your friends don't count as a fanbase. ,popularity,3
+<he/she> said <he/she>'ll be in touch. ,popularity,2
+<he/she> said a collab with you would hurt ticket sales for <his/her> upcoming tour. ,popularity ,3
+<he/she> thanked you for being a fan. ,popularity,3
+<he/she> says your genres mix as well as oil and water. ,genre,3
+<he/she> says combining your musical styles would be like mixing ammonia with bleach.  ,genre,3
+<he/she> says that a collab with you would sound like nails collabing with a chalkboard. ,genre,2
+<he/she> says <he/she>'d have to completely change <his/her> style to mesh with yours. ,genre,2
+<he/she> says that collabing would be a detriment to both of you. ,genre,3
+"<he/she> said the last time <he/she> tried collaborating with an artist outside of <his/her> genre, <he/she> felt like Dr. Frankenstein starting at his monster.",genre,2
+"<he/she> says that making music is like cooking, where combining the wrong ingredients will ruin a dish. ",genre,2
+<he/she> said <his/her> experimental phase is over. ,genre,3
+<he/she> says the way your styles combine makes tinnitus seem appealing.,genre,3
+"<he/she> says that, unlike superheroes, musicians don't constantly need to crossover. ",genre,2
+<he/she> says there is no amount of drugs that would make a collab with you enjoyable. ,genre,3
+"<he/she> says you should gain a couple thousand followers first, then maybe you'll get a chance to collab with brilliance.",popularity,3
+<he/she> says you need to first gain some respect on your own before collabing with anyone.,popularity,3
+"<he/she> says <he/she>'ll keep you in mind, if ever you get big enough.",popularity,3
+<he/she> says to ask again when you're popular enough to have beef with another artist.,popularity,3
+"<he/she> says that stars should connect with other stars, but you haven't sparkled enough yet to be considered one.",popularity,3
+"<he/she> asks if you're some sort of a Doctor Frankenstein, wanting to make a monster out of mix-matched genres.",genre,3
+"<he/she> says <he/she>'s pretty sure that your genres, just like your chakras, don't mix.",genre,3
+<he/she> says <he/she> has a specific vibe that you aren't matching.,genre,3
+"<he/she> says <he/she>'ll consider it when Halloween comes around, and <he/she> needs a dreadful track.",genre,2
+"<he/she> says that doing a track with your genre type would shatter the charts, but not in a good way.",genre,2
+"<he/she> said thanks, but no thanks.",,3
+<he/she> said <he/she>'d rather <lick the sidewalk/grow a tumor/eat a worm/get electrocuted> than collab with you.,,2
+<he/she> feels like the two of you collaborating <just isn't a good fit/just won't click/is a bad idea/would be the end of both careers/is a dumb idea>.,,4
+<he/she> says <he/she>'s never really been a fan of collabs.,,3
+"<he/she> says <he/she>'s not opposed to collaborating, just not with you.",,3
+"<he/she>'s flattered you want to collab, but <he/she> <doesn't care for your sound/doesn't think your music is anything special/thinks you might be annoying to work with/is looking to collab with someone more popular than you/would prefer to record with someone better looking than you/thinks your star is burning out, which wasn't very bright to start with/doesn't believe you possess the level of talent to pull it off>.",,5
+"<he/she> was thinking about collabing with someone, but now that you've asked, <he/she> changed <his/her> mind.",,2
+"An assistant to one of <his/her> assistants texted you, saying, ""<Collab? No thanks/Collabs are full, try again later/I regret to inform you there will be no collaboration/Can't blame you for trying, but this collab will never happen/The answer is no/Please take this and all future collab offers off the table/This collab ain't gonna happen>"".",,4

@@ -1,0 +1,160 @@
+Name,Estate,Palace,Castle,Country Code,Commonness Score
+<random-surname> House,x,,,all,5
+Anas Bashir Palace,,x,,"jo, kw, ma, qa, sa, ae",1
+Northcocker Castle,,,x,gb,1
+Southcocker Castle,,,x,gb,1
+<random-surname> Palace,,x,,all,5
+<random-surname> Castle,,,x,all,5
+<random-surname> Manor,x,,,all,5
+<random-surname> Estate,x,,,all,5
+Suckingham Palace,,x,,gb,1
+Morningwood House,x,,,gb,1
+Fukmi Palace,,x,,jp,1
+Duk Bhudi Castle,,,x,ma,1
+Applebottom Court,x,,,gb,2
+Bhu Bhi Palace,,x,,"th, my",1
+Bhig Bhang Palace,,x,,"th, my",1
+Muffintop Manor,x,,,gb,2
+Beaverbush Palace,,x,,gb,1
+Hardwood Towers,,x,,gb,1
+Hardhandle Castle,,,x,gb,1
+Bendover Manor,x,,,gb,1
+Cumberswallow Estate,x,,,gb,1
+Morningwood Manor,x,,,gb,1
+Pechapai Palace,,x,,jp,1
+Thornrose Estate,x,,,gb,2
+Bentwood Palace,,x,,gb,2
+Chrysanthemum Court,x,,,gb,2
+Briarbreeze Manor,x,,,gb,2
+Bhim Bhat Palace,,x,,th,2
+Tsukuyomi Castle,,,x,jp,2
+Staarburg Castle,,,x,se,2
+Fyrekat Castle,,,x,nw,2
+Castillo de Corazon de Leon,,,x,es,1
+Castillo de <random-surname>,,,x,es,5
+Palacio de <random-surname>,,x,,es,5
+Nakamura Castle,,,x,jp,2
+Chateau du Fromage,x,,,"gb, se, nl",2
+Limewood Manor,x,,,"gb, es, se, nl",2
+Hynthai Castle,,,x,jp,2
+Crosspen Estate,x,,,"gb, es, se, nl",2
+Kashbah Qabash,,x,,"ma, sa, qa, jo, kw",2
+Qalea Aaliyah,,x,,"ma, sa, qa, jo, kw",2
+Mulberry Manor,x,,,"gb, nl, se",2
+Whisperwind Estates,x,,,gb,2
+Gamwystle Castle,,,x,gb,2
+Sharahjah Castle,,,x,"ma, sa, qa, jo, kw",2
+Chateau DeVayne,x,,,gb,2
+Davenport Manor,x,,,gb,2
+Takumi Palace,,x,,jp,2
+Calpernia Keep,x,,,gb,2
+Wintersmith Estate,x,,,gb,2
+Restmeadow Mansion,x,,,gb,2
+Rosendwell Residence,x,,,gb,2
+Anderledge Chateau,x,,,gb,2
+Wynnedy Manor,x,,,gb,2
+Maxbrand Estate,x,,,gb,2
+Stonewill Chateau,x,,,gb,2
+Southbay Estate,x,,,gb,2
+Gracewoods Mansion,x,,,gb,2
+Lakefield Manor,x,,,gb,2
+Dew Berry Chateau,x,,,gb,2
+Woogomery Mansion,x,,,gb,2
+Brierwell Residence,x,,,gb,2
+Lilylake Manor,x,,,gb,2
+Portfax Manor,x,,,gb,2
+Villa de <random-surname>,x,,,es,5
+Wakishi Palace,,x,,jp,2
+Throbbinwood Castle,,,x,"gb, se, no, nl, es",1
+Mistview Manor,x,,,gb,2
+Shahsheikah Palace,,x,,"ma, sa, qa, jo, kw",2
+Tyrheim Castle,,,x,nw,2
+Sakisaki Palace,,x,,jp,1
+Chateau Wynwood,x,,,gb,2
+Hyacinth House,x,,,all,1
+Palmyra Palace,,x,,"ma, sa, qa, jo, kw",2
+Adeela Estate,x,,,"ma, sa, qa, jo, kw",2
+Maskoon Manor,x,,,"ma, sa, qa, jo, kw",2
+Bukhash Palace,,x,,"ma, sa, qa, jo, kw",2
+Massoud Manor,x,,,"ma, sa, qa, jo, kw",2
+Faiza Palace,,x,,"ma, sa, qa, jo, kw",2
+Hamsa Castle,,,x,"ma, sa, qa, jo, kw",2
+Latifa Castle,,,x,"ma, sa, qa, jo, kw",2
+Sakura Palace,,x,,jp,2
+Ichika Estate,x,,,jp,2
+Maki Manor,x,,,jp,1
+Monokuma Castle,,,x,jp,2
+Nagito Estate,x,,,jp,2
+Pantsu Palace,,x,,jp,1
+Naruto Shiro,,,x,jp,2
+Shirohato Manor,x,,,jp,2
+Ichiban Palace,,x,,jp,2
+Yomozuki Castle,,,x,jp,2
+Phatprik Palace,,x,,th,1
+Selamat Palace,,x,,th,2
+Nangmi Estate,x,,,th,2
+Jitlada Estate,x,,,th,2
+Thalung Castle,,,x,th,2
+Sukhothai Towers,x,,,th,2
+Passawa Palace,,x,,th,2
+Singha Estate,x,,,th,2
+Dayang Estate,x,,,my,2
+Hujan Towers,x,,,my,2
+Kawal Castle,,,x,my,2
+Chentaku Castle,,,x,my,2
+Pemalas Palace,,x,,my,2
+Tanah Towers,x,,,my,2
+Khersonese Castle,,,x,my,2
+Thornwhistle Keep,x,,,gb,2
+Bonemarrow Fortress,x,,,gb,2
+Blightmoon Tower,x,,,gb,2
+Heartshackle Citadel,x,,,gb,2
+Deepdevil Stronghold,x,,,gb,2
+Hagstool Hold,x,,,gb,2
+Greymist Grotto,x,,,gb,2
+Blackmoor Bastion,x,,,gb,2
+Blackwater Keep,x,,,gb,2
+Hagwarts Castle,,,x,gb,1
+Elderwood Villa,x,,,gb,2
+Rotbend Fortress,x,,,gb,2
+Bilelake Bastion,x,,,gb,2
+Cankercove Keep,x,,,gb,2
+Taintmoor Villa,x,,,gb,2
+Coldfyre Keep,x,,,gb,2
+Shadegrove Citadel,x,,,gb,2
+Jademoon Keep,x,,,gb,2
+Featherpluck Manor,x,,,gb,2
+Boneshamble Bastion,x,,,gb,2
+Toxiturn Tower,x,,,gb,2
+Rustrock Fortress,x,,,gb,2
+Burstbloom Bastion,x,,,gb,2
+Bridgegap Villa,x,,,gb,2
+Sweatwater Stronghold,x,,,gb,2
+Grimgullet Grotto,x,,,gb,2
+Duskfall Keep,x,,,gb,2
+Larkscall Tower,x,,,gb,2
+Castle Greatskull,,,x,gb,1
+Nevermore Manor,x,,,gb,2
+Feelsbad Fortress,x,,,gb,1
+Nightbreath Keep,x,,,gb,2
+Shadowsmith Stronghold,x,,,gb,2
+Lardel Fort,x,,,gb,2
+Faerseton Stronghold,x,,,gb,2
+Dawnton Castle,,,x,gb,2
+Glottenham Fortress,x,,,gb,2
+Starkport Castle,,,x,gb,2
+Gancaster Stronghold,x,,,gb,2
+Soggy Bottom Hollow,x,,,gb,1
+Shiryo Castle,,,x,jp,2
+Akuryo Castle,,,x,jp,2
+Bakemono Villa,x,,,jp,2
+Shinrei Citadel,x,,,jp,2
+Upaskurt Palace,x,,,jp,1
+Slatra Keep,x,,,"no, sw",2
+Dyremyrr Fortress,x,,,"no, sw",2
+Hayalet Villa,x,,,"sa, qa, ma, qa, kw, ae",2
+Al Wala Keep,x,,,"sa, qa, ma, qa, kw, ae",2
+Castle Nabasus,,,x,"sa, qa, ma, qa, kw, ae",2
+Daiyum Palace,,x,,"sa, qa, ma, qa, kw, ae",2
+Dahabawa Villa,x,,,"sa, qa, ma, qa, kw, ae",2
+Castle Greyskull,,,x,gb,2

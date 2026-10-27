@@ -1,0 +1,31 @@
+Species,Plural,Handbook Color String,Habitat,Danger Score,Difficulty Score,Attack String,Commonness Score,Emoji Name
+alpine chough,alpine choughs,This crow species nests at a higher altitude than any other bird.,mountain,3,1,pecked,2,outdoor-alpine-chough
+barn owl,barn owls,A barn owl's ears are lopsided - one is higher than the other.,woodland,4,4,bit,2,zoo-barn-owl
+black-capped chickadee,black-capped chickadees,They remember the location of their food stores for up to 28 days.,woodland,1,4,pecked,5,outdoor-black-capped-chickadee
+bluebird,bluebirds,Bluebirds can spot caterpillars 50 yards (46 meters) away.,mountain,1,3,pecked,5,outdoor-bluebird
+burrowing owl,burrowing owls,"These clever owls wait for badgers and foxes to dig holes, then move in.",grassland,1,5,clawed,3,outdoor-burrowing-owl
+cassowary,cassowaries,"With 4-inch (10-centimeter) claws, cassowaries are the most dangerous birds in the world.",rainforest,5,5,kicked,3,zoo-cassowary
+cock-of-the-rock,cocks-of-the-rock,Male cocks-of-the-rock are polygamous.,rainforest,2,4,clawed,4,outdoor-cock-of-the-rock
+coot,coots,The coot has massive feet in proportion to its body.,swamp,2,3,stepped on,5,outdoor-coot
+desert sparrow,desert sparrows,These personable sparrows like to live near humans.,desert,1,1,clawed,5,outdoor-desert-sparrow
+dickcissel,dickcissels,The average dickcissel is about 6 to 7 inches long.,grassland,2,3,clawed,5,outdoor-dickcissel
+elf owl,elf owls,"Measuring in at about five inches tall, they're the smallest owls in the world.",desert,1,4,beaked,2,zoo-elf-owl
+fire-capped tit,fire-capped tits,Male tits are deadbeat dads: they don't help female tits maintain the nest.,woodland,1,4,clawed,3,outdoor-fire-capped-tit
+flamingo,flamingos,A flamingo's pink color comes from the shrimp it eats.,swamp,3,2,beaked,1,zoo-flamingo
+fruit dove,fruit doves,"Fruit doves are small, very shy, and partial to figs.",rainforest,1,5,pecked,1,outdoor-fruit-dove
+Gambel's quail,Gambel's quails,Chicks cheep at each other from inside the egg so they can coordinate a group hatch time.,desert,2,4,pecked,3,outdoor-gambels-quail
+golden eagle,golden eagles,They can divebomb their prey at 150 mph.,mountain,5,1,gored,1,outdoor-golden-eagle
+goose,geese,Geese poop so much that they disrupt aquatic ecosystems.,swamp,3,1,charged,4,outdoor-canadian-goose
+great blue heron,great blue herons,These big birds weigh only 5-6 lbs thanks to their hollow bones.,swamp,2,4,pecked,2,outdoor-great-blue-heron
+great bustard,great bustards,This chunky bird is the heaviest on record.,grassland,2,5,smashed into,4,outdoor-bustard
+gyrfalcon,gyrfalcons,"Once upon a time, these birds were so highly valued that only royalty could own one.",arctic,5,2,maimed,2,outdoor-gyrfalcon
+ivory gull,ivory gulls,"After seals give birth, ivory gulls often eat the placentas.",arctic,2,2,pecked,5,outdoor-ivory-gull
+macaw,macaws,"The smart, playful macaw can mimic human speech.",rainforest,2,1,scratched,2,zoo-macaw
+ostrich,ostriches,The intimidating ostrich is the largest bird in the world.,grassland,5,1,ran over,2,zoo-ostrich
+penguin,penguins,There are same-sex mating penguin pairs.,arctic,1,1,waddled on,3,zoo-penguin
+peregrine falcon,peregrine falcons,These speed demons dive up to 200 mph (323 kph) to catch prey.,mountain,5,4,dive-bombed,3,zoo-peregrine-falcon
+roadrunner,roadrunners,"Roadrunners make cooing sounds (not ""meep meep"").",desert,3,5,beaked,2,outdoor-roadrunner
+snowy owl,snowy owls,"Snowy owls have fuzzy ""slippers"" made of downy feathers.",arctic,4,5,dive-bombed,1,zoo-snowy-owl
+swift,swifts,Swifts mate for life.,woodland,2,2,pecked,5,outdoor-swift
+toucan,toucans,Their colorful bills actually help them regulate their body heat.,rainforest,3,3,beaked,3,zoo-toucan
+wild turkey,wild turkeys,"Male turkey fecal matter is j-shaped, while female turkey fecal matter is spiral-shaped.",woodland,4,1,tore at,4,outdoor-wild-turkey

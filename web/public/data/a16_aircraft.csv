@@ -1,0 +1,60 @@
+Index,Make,Model,Descriptive Name Override,Descriptive Name Suffix,Type,Subtype,Airplane Propulsion Type,Short Description,For Sale Description,Cost,Passengers,Specialty Aircraft,Min Age,Lifespan Years,Commonness Score,Luxury Only
+1,Robinson,R22 Beta II,Robinson R22,helicopter,Helicopter,Helicopter,,Utility Helicopter,"Take off vertically and fly in any direction aboard this two-bladed, single-engine, light utility helicopter!","$304,000",2,x,0,25,5,
+2,Bell,505 Jet Ranger X,Bell 505,helicopter,Helicopter,Helicopter,,Utility Helicopter,"Take off vertically and fly in any direction aboard this three-bladed, single-engine, light utility helicopter!","$1,200,000",5,x,0,25,2,
+3,Sikorsky,UH-60 Black Hawk,Black Hawk,helicopter,Helicopter,Helicopter,,Military Utility Helicopter,Have fun playing war games in this four-blade twin-engine military helicopter!,"$5,900,000",13,x,0,40,5,
+4,Airbus,H225 Super Puma,Super Puma,helicopter,Helicopter,Helicopter,,Utility Helicopter,"Perform your own search and rescue missions with this four-blade, twin-engine, medium-size utility helicopter!","$27,000,000",21,x,0,40,2,
+5,Boeing,CH-47F Chinook,Chinook,helicopter,Helicopter,Helicopter,,Military Heavy-Lift Helicopter,"Do some heavy lifting with this twin-engine, tandem rotor, military helicopter!","$31,500,000",51,x,0,40,5,
+6,Boeing,AH-64 Apache,Apache,helicopter,Helicopter,Helicopter,,Military Attack Helicopter,"Own the skies with this twin-turboshaft, heavy-lift, attack helicopter!","$36,250,000",2,x,0,40,2,
+7,Cirrus,Vision SF50,,jet,Airplane,Jet,Jet,Private Jet,"Have a blast maneuvering this agile, lightweight, single-engine jet across the skies!","$2,750,000",7,,0,35,2,
+8,Honda,HA-420 HondaJet,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, long-range lightweight business jet!","$5,280,000",7,,0,35,2,
+9,SyberJet,SJ30,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, long-range lightweight business jet!","$8,310,000",7,,0,40,1,
+10,Bombardier,Learjet 70,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, long-range lightweight business jet!","$11,300,000",8,,0,40,2,
+11,Embraer,Praetor 500,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, mid-size business jet!","$17,000,000",13,,0,40,3,
+12,Gulfstream,G280,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, super-midsize business jet!","$24,500,000",11,,0,40,2,
+13,Bombardier,Challenger 300,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, super-midsize business jet!","$26,670,000",10,,0,40,4,
+14,Dassault,Falcon 2000S,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, super-midsize business jet!","$29,950,000",11,,0,40,4,
+15,Embraer,Lineage 1000,,airplane,Airplane,Jet,Jet,Private Jet,Enjoy the luxury of a private bedroom with en-suite bathroom aboard this VIP business jet!,"$49,900,000",20,,0,40,1,
+16,Bombardier,Global 7500,,airplane,Airplane,Jet,Jet,Private Jet,Explore destinations around the world with this ultra long-range jet!,"$72,800,000",20,,0,40,2,
+17,Boeing,BBJ Max,,jet,Airplane,Jet,Jet,Private Jet,"Impress your friends with this luxury business jet favored by heads of state, corporate moguls, and mega-celebrities!","$91,200,000",20,,0,40,1,
+18,Airbus,A320 Prestige,,jet,Airplane,Jet,Jet,Private Jet,"Conduct your business meetings at 30k feet with this twin-engine, medium-range business jet designed for VIP's!","$115,000,000",31,,0,45,5,
+19,Boeing,747,,jet,Airplane,Airplane,Jet,Commercial Jet,Take your 500 closest friends on a joyride in this wide-body commercial jumbo jet!,"$387,000,000",525,x,0,45,2,
+20,Harrier,Jump Jet,Harrier,jet,Airplane,Airplane,Jet,Military Attack Aircraft,Have fun playing war games in this jet-powered attack aircraft capable of vertical takeoff!,"$30,000,000",1,x,15,45,2,
+21,Grumman,F-14 Tomcat,F-14 Tomcat,,Airplane,Airplane,Jet,Military Fighter Aircraft,"Ride into the danger zone with this supersonic, twin-engine fighter jet!","$42,000,000",2,x,30,60,2,
+22,Fairchild Republic,A-10 Thunderbolt II,A-10 Warthog,,Airplane,Airplane,Jet,Military Air Support Aircraft,Protect your friends on the ground with this air support military jet!,"$45,000,000",1,x,30,60,2,
+23,Lockheed Martin,F-35 Lightning II,F-35 Lightning,,Airplane,Airplane,Jet,Military Air Superiority Aircraft,Practice mock strike missions in the world's most elite single-engine stealth fighter jet!,"$122,000,000",1,x,0,40,2,
+24,Cessna,162 Skycatcher,,airplane,Airplane,Propeller,Propeller,Private Propeller Plane,"Get nimble in the skies flying this single-engine, light-sport, propeller airplane!","$149,000",2,,0,35,2,
+25,Cessna,172S,,airplane,Airplane,Propeller,Propeller,Private Propeller Plane,"Get nimble in the skies flying this single-engine, utility propeller plane!","$307,500",4,,0,35,5,
+26,North American Aviation,P-51 Mustang,P-51 Mustang,,Airplane,Airplane,Propeller,WW2-Era Fighter,Reenact the Battle of the Bulge in this vintage WW2 propeller plane!,"$1,250,000",1,x,75,120,1,
+27,Beechcraft,Baron G58,,airplane,Airplane,Propeller,Propeller,Private Propeller Plane,"Fly your friends to Aspen for the weekend aboard this twin-engine, light propeller plane!","$1,486,000",5,,0,60,5,
+28,Fokker,Dr.I,,triplane,Airplane,Propeller,Propeller,WW1-Era Triplane,Reenact the Battle of Verdun in this vintage WW1 prop fighter triplane!,"$1,750,000",1,x,100,150,1,
+29,Boeing,B-17 Flying Fortress,B-17 Flying Fortress,,Airplane,Propeller,Propeller,WW2-Era Bomber,Keep your friends close and your enemies closer with this vintage WW2 bomber!,"$2,700,000",11,x,75,150,1,
+30,Pilatus,PC-12 NG,,airplane,Airplane,Propeller,Propeller,Private Propeller Plane,Go island-hopping in exotic locations with this single-engine prop plane!,"$4,050,000",10,,0,40,5,
+31,Schleicher,ASK 21,glider,,Glider,Glider,,,"Enjoy the silence of the skies in this fixed-wing, engineless, glider airplane!","$120,000",2,x,0,40,4,
+32,Zeppelin,NT,blimp,,Blimp,Blimp,,,"Check out a major sporting event from the skies in this helium-filled, non-rigid airship!","$20,000,000",9,x,0,50,1,
+33,Lift Lite,B-225,hot air balloon,,Hot Air Balloon,Hot Air Balloon,,,"You'll be up, up and away with this state-of-the-art hot air balloon!","$43,500",6,x,0,20,2,
+34,Zeppelin,BL,blimp,,Blimp,Blimp,,,"Enjoy the best (or worst) flight of your life in this helium-filled, non-rigid airship!","$69,000,000",9,,0,50,1,
+35,Bombardier,Global 7500,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, super-midsize business jet!","$75,000,000",19,,0,40,2,
+36,Cessna,Citation Longitude,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, super-midsize business jet!","$30,000,000",9,,0,40,3,
+37,Dassault,Falcon 8X,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, super-midsize business jet!","$58,000,000",12,,8,40,3,
+38,Embraer,Phenom 300E,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, super-midsize business jet!","$11,000,000",4,,6,40,3,
+39,Gulfstream,G650ER,,airplane,Airplane,Jet,Jet,Private Jet,"Conduct your business, and your pleasure, aboard this twin-engine, super-midsize business jet!","$64,500,000",18,,18,40,1,
+40,Boeing,VC-25,Air Force One,airplane,Airplane,Jet,Jet,Private Jet,Fly in presidential style aboard a jet that can house a head of state's entire retinue!,"900,000,000",102,,0,90,1,x
+41,Gulfstream,IV,,airplane,Airplane,Jet,Jet,Private Jet,Jet anywhere in this top-of-the-line luxury plane with twin Rolls-Royce engines!,"450,000,000",18,,0,70,5,x
+42,Airbus,A380,Flying Palace,airplane,Airplane,Jet,Jet,Private Jet,"The most luxurious plane ever built, featuring a throne room, a spa, and a camel stable!","1,000,000,000",150,,0,100,1,x
+43,Boeing,747-300,,airplane,Airplane,Jet,Jet,Private Jet,"Go for the gold in the Sultan of Brunei's private jet, featuring gold-plated bathrooms and Lalique crystal!","800,000,000",100,,0,85,3,x
+44,Gulfstream,III,,airplane,Airplane,Jet,Jet,Private Jet,"This private ride, once property of film director Tyler Perry, features a VIP bedroom and a movie theater!","300,000,000",15,,0,70,3,x
+45,Boeing,767-33A,Bandit,airplane,Airplane,Jet,Jet,Private Jet,This airborne mansion is outfitted with a 30-person dining hall and library!,"600,000,000",50,,0,80,4,x
+46,Gulfstream,G650ER,Kim Air,airplane,Airplane,Jet,Jet,Private Jet,"Reach any reality TV set in style with Kim K's luxury jet, complete with a bar and lounge!","250,000,000",14,,0,70,2,x
+47,Lockheed Martin,X-59,Quesst,airplane,Airplane,X-Plane,Jet,Experimental Aircraft,"Fly silently with this supersonic, noiseless aircraft, a one-of-a-kind made for NASA!","900,000,000",2,x,0,100,1,x
+48,Boeing,307 Stratoliner,Cosmic Muffin,airplane,Airplane,Jet,Jet,Commercial Jet,This vintage airliner from the 1930s has been refurbished into a one-of-a-kind commercial jet with leather seats!,"700,000,000",70,,90,150,4,x
+49,Northrop Grumman,B-21,Raider,airplane,Airplane,Jet,Jet,Military Stealth Bomber,"A prototype of the fastest, strongest military plane in history!","1,000,000,000",2,x,0,125,1,x
+50,Sharp,Nemesis NXT,,airplane,Airplane,Sport Jet,Jet,Racing Plane,"Set new personal records in one of these sleek, sporty racing planes!","150,000,000",2,,0,60,5,x
+51,Ryan Airlines,N-X-211,Spirit of St. Louis,monoplane,Airplane,Propeller,Radial,Private Propeller Plane,"Chart a course from New York to Paris in Charles Lindbergh's historic plane, the first to fly across the Atlantic!","100,000,000",1,x,100,160,1,x
+52,Lockheed Martin,F-22 Raptor,,airplane,Airplane,Jet,Jet,Stealth Fighter Aircraft,Dominate the skies in one of the most sophisticated fighter planes ever made!,"500,000,000",1,x,0,130,2,x
+53,Boeing,747-8VIP,Lau Dreamliner,airplane,Airplane,Jet,Jet,Private Jet,"Made for businessman Joseph Lau, this massive private jet features a gym and spiral staircase!","550,000,000",75,,0,80,4,x
+54,Boeing,787-8 Business Jet,,airplane,Airplane,Jet,Jet,Private Jet,Impress your business connections with this jet that includes a boardroom and heated marble floors!,"400,000,000",18,,0,75,5,x
+55,de Havilland,106 Comet 4,,airplane,Airplane,Jet,Jet,Private Jet,Travel back to the 1950s with this retrofitted airliner from the Golden Age of Aviation!,"200,000,000",32,,65,130,4,x
+56,de Havilland Canada,Twin Otter,,airplane,Seaplane,Floatplane,Turboprop,Private Seaplane,"Make aquatic landings in style with this luxurious seaplane, outfitted with leather seats!","150,000,000",12,,0,90,3,x
+57,Saunders-Roe,Princess,,airplane,Seaplane,Flying Boat,Turboprop,Flying Boat Airliner,Navigate the seas and skies with this retrofitted flying boat from the 1950s!,"350,000,000",105,x,72,165,2,x
+58,Luftschiffbau Zeppelin,LZ 10 Schwaben,,airship,Airship,Zeppelin,Hydrogen gas,Commercial Rigid Airship,"Indulge your inner steampunk with the first commercial airship, redone with king beds and shag carpets!","250,000,000",20,x,105,175,1,x
+59,Hybrid Air Vehicles,Airlander 10,Flying Buttocks,airship,Airship,Hybrid Airship,Helium gas,Luxury Hybrid Airship,Make 'em look twice with this bootylicious-shaped airship that boasts a bar and eight suites!,"700,000,000",130,x,0,65,1,x

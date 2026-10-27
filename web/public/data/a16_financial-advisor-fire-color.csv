@@ -1,0 +1,30 @@
+Feedback Color,Commonness Score,Advisor Min Reputation,Advisor Max Reputation,Hero Min Net Worth,Hero Max Net Worth
+"<he/she> said you were wasting <his/her> time, anyway.",1,50,,,
+<he/she> said <he/she> wasn't even trying.,1,,50,,
+"<he/she> said <he/she> wishes <he/she> could say <he/she>'s surprised you're making such a rash decision, but <he/she> isn't.",1,80,,,
+<he/she> said <he/she> will land on <his/her> feet.,2,,,,
+<he/she> wished you luck finding someone more financially savvy than <him/her>.,2,80,,,
+"<he/she> said you were beneath <his/her> pay grade, anyway.",3,80,,,50000000
+"<he/she> said <he/she> was about to drop you, anyway.",3,80,,,
+<he/she> said <he/she> <hopes/prays> that all your future investments <decrease in value/lose money>.,3,,70,,
+"<he/she> said <he/she> didn't need you, anyway.",3,,70,,
+<he/she> said you'll regret firing <him/her> when you're poor.,3,,80,10000000,
+<he/she> said you'll come crawling back to <him/her> someday.,3,50,,,
+<he/she> said the feeling is mutual.,3,,,,
+"<he/she> said <he/she> never put much stock into you, anyway.",3,70,,,
+<he/she> said that you're making a big mistake.,3,,,,
+"<he/she> said that one day, you'll see the drawbacks from this decision.",3,50,,,
+"<he/she> called you ""yuppie scum"".",3,,50,100000000,
+<he/she> said you're digging your own grave.,4,,50,,
+"<he/she> said you don't know what you're doing, and it shows.",4,50,,,
+"<he/she> said you weren't adding any value to <his/her> credentials, anyway.",4,60,,,
+<he/she> said you're throwing away your financial future.,4,60,,,
+<he/she> said <he/she> hopes you continue making costly decisions.,3,,70,,
+<he/she> said <he/she> won't be surprised if you're flat-broke in <two/three/four> years.,3,,70,,
+<he/she> said <he/she> will land a wealthier client than you in no time.,5,80,,,10000000
+<he/she> said <he/she> hopes you end up <bankrupt/penniless/poor/broke/in debt>.,5,,50,,
+<he/she> called you <insult>.,5,,,,
+<he/she> said that wasn't very cash money of you.,5,,,,
+"<he/she> called you and your investment portfolio ""worthless"".",3,,50,,1000000
+<he/she> told you <he/she> regrets making money for you.,3,,,5000000,
+<he/she> told you <he/she> was just about to make you a fortune.,3,,,,10000000

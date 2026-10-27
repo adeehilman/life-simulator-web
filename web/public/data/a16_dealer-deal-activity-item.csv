@@ -1,0 +1,122 @@
+Item,Uses Indefinite Article,Plural,Min Sale Value,Max Sale Value,Appeal Score,Hero Min Age,Hero Max Age,Target Min Age,Target Max Age,Risk Score,Person Type,Target Gender,Commonness Score
+stick of gum,x,,1,5,3,6,12,6,12,2,Classmate,,5
+fake sick note,x,,10,30,5,,,6,18,4,Classmate,,3
+candy cigarettes,,x,1,10,2,,,6,10,1,Classmate,,3
+homemade postcard,x,,1,5,2,,,,,,,,5
+<glittery/shiny/metallic> pencil case,x,,2,7,3,6,13,6,13,2,"Classmate, Sibling, Friend, Lover",,5
+box of <Thin Mint/Caramel Delite/Do-Si-Do/Tagalong> cookies,x,,5,10,4,6,15,6,15,2,"Classmate, Parent, Sibling, Friend, Lover",,4
+box of fireworks,x,,3,20,4,9,17,9,17,5,"Classmate, Sibling, Friend",,2
+fake off-campus lunch pass,x,,10,30,5,13,17,13,17,4,Classmate,,3
+marbles,,x,1,10,2,6,12,6,12,1,"Classmate, Sibling, Friend",,4
+<Playboy/Playgirl> magazine,x,,7,20,4,9,17,9,17,4,"Classmate, Sibling, Friend, Lover",,3
+energy drink,x,,3,12,3,11,,11,,2,,,4
+gummy <worms/bears> soaked in Kool-Aid,,x,2,10,4,6,13,6,13,1,"Classmate, Sibling, Friend, Lover",,5
+butterfly knife,x,,8,20,3,9,,9,,4,,,3
+weighted dice,,x,10,30,4,8,,8,,3,,,2
+torrented <Final Fantasy/Yakuza/Sims/EA Sports/Persona> game,x,,20,40,3,11,,11,,3,,,3
+realistic fake gun,x,,40,80,3,12,,12,,5,,,2
+mini <Snickers bar/Three Musketeers candy bar/Hershey chocolate bar/Milky Way candy bar>,x,,2,6,3,6,13,6,13,1,"Classmate, Sibling, Friend, Lover",,4
+my dirty <underwear/gym shorts/socks>,,,1,40,2,13,,,,4,"Lover, Classmate, Friend, Co-Worker",,1
+<Cool Ranch Doritos/Takis/Hot Cheetos/sour cream Pringles>,,x,1,7,3,6,17,6,17,1,"Classmate, Sibling, Friend, Lover",,5
+<stink/glitter> bomb,x,,10,20,4,8,,8,,3,,,4
+beer,x,,8,20,4,12,17,12,17,5,"Classmate, Sibling, Friend, Lover",,3
+rare <Pokemon/Magic: The Gathering> card,x,,10,40,2,8,17,8,17,2,"Classmate, Sibling, Friend, Lover",,3
+rare <Pokemon/Magic: The Gathering> card,x,,5,20,4,20,,6,16,3,Child,,3
+custom <hentai/furry/fetish> art,,,15,80,4,13,,13,,4,"Lover, Classmate, Friend, Co-Worker",,2
+friendship bracelet,x,,1,5,1,6,10,6,10,1,"Classmate, Sibling, Friend, Lover",,4
+homemade slime,,,2,15,3,8,14,8,14,2,"Lover, Classmate, Friend, Sibling",,3
+<Juul/Elf Bar/Geek Bar> vape,x,,10,20,4,10,17,10,17,3,"Classmate, Sibling, Friend, Lover",,4
+tobacco chews,,x,5,15,3,11,17,11,17,4,"Classmate, Sibling, Friend, Lover",,2
+nudes of a co-worker,,x,10,20,4,18,,18,,5,Co-Worker,,1
+fake ID,x,,30,60,5,13,17,13,17,5,"Classmate, Sibling, Friend, Lover",,3
+erectile dysfunction meds,,x,15,30,3,18,,18,,3,"Lover, Classmate, Friend, Co-Worker",male,3
+lip-plumping gloss,,,8,20,4,12,17,12,17,2,"Classmate, Sibling, Friend, Lover",female,3
+push-up bra,x,,20,50,3,12,17,12,17,4,"Classmate, Sibling, Friend, Lover",female,2
+exam cheat sheet,x,,10,30,5,12,,12,,5,Classmate,,4
+fidget spinner,x,,1,6,3,6,12,6,12,1,"Classmate, Sibling, Friend, Lover",,5
+pea shooter,x,,3,10,3,6,14,6,14,3,"Classmate, Sibling, Friend, Lover",,3
+pop tarts,,x,2,10,4,6,17,6,17,2,"Classmate, Sibling, Friend, Lover",,3
+fake doctor's note,x,,20,40,4,18,,18,,4,Classmate,,2
+concert tickets,,x,30,80,3,16,,16,,3,,,3
+canister of protein powder,x,,10,30,2,16,,16,,2,,,3
+fake weight loss pills,,x,20,50,3,16,,16,,3,,,3
+hair growth serum,,,10,25,2,16,,35,,2,,,4
+sleeping gummies,,x,20,40,4,16,,16,,2,,,4
+bag of <butterscotch hard candy/black licorice/lemon drops/hard peppermints/strawberry hard candy>,x,,5,15,4,60,,60,,2,,,3
+one-size-fits-all dentures,,,15,30,3,18,,65,,2,,,2
+arthritis steroids,,x,20,50,3,18,,70,,3,,,3
+wrinkle cream,,,10,30,4,30,,50,,3,,,3
+hearing aids,,x,20,40,5,60,,60,,2,,,4
+case of <Mountain Dew/Sprite/Coke/Pepsi/orange soda/grape soda>,x,,8,15,3,8,,8,,2,,,4
+<spicy/demure/cheetah-print/edible/classy/neon> lingerie,,,15,45,3,16,,16,,4,"Lover, Classmate, Friend, Co-Worker",,2
+novelty condoms,,x,5,15,3,16,,16,,3,"Lover, Classmate, Friend, Co-Worker",,3
+<philodendron/ficus/pothos/monstera/jade/fiddle-leaf fig> plant,x,,5,25,3,18,,18,,1,,,3
+mini bottle of <vodka/gin/whiskey/tequila/rum/absinthe/cognac>,x,,8,15,4,12,17,12,17,5,"Lover, Sibling, Classmate, Friend",,3
+mini bottle of <vodka/gin/whiskey/tequila/rum/absinthe/cognac>,x,,6,12,3,18,,18,,3,,,4
+poster from <musician-indefinite> concert,x,,5,50,4,10,,10,,2,,,4
+jar of homemade pickles,x,,1,10,1,8,,8,,1,,,3
+box of <cremini/button/shiitake/oyster/enoki/portabella> mushrooms,x,,1,10,1,8,,8,,1,,,2
+<raspberry/watermelon/cherry/banana/blueberry/grape/fruit punch>-scented marker,x,,2,6,4,6,10,6,10,2,,,3
+extra-strength rubber cement,,,5,10,4,7,17,7,17,3,"Lover, Sibling, Classmate, Friend",,3
+extra-strength cough syrup,,,10,20,3,12,,12,,4,,,4
+alcohol-soaked tampons,,x,10,15,2,13,,13,,4,,,3
+canister of whipped cream,x,,1,10,3,8,,8,,2,,,3
+jar of nutmeg,x,,1,10,2,10,,10,,1,,,3
+can of <kava/kratom>,x,,5,20,3,13,,13,,3,,,3
+special edition <Batman/Superman/Wonder Woman/Spider-Man/Iron Man/Black Widow/Scarlet Witch> comic,x,,10,25,3,8,30,8,30,2,,,3
+"""stop teasing me for 24 hours"" coupon",x,,5,30,4,6,17,6,17,4,Sibling,,3
+<hand/foot/head/back/spicy> massage,x,,10,30,4,18,,18,,2,Lover,,2
+fake jury duty summons,x,,10,30,4,18,,18,,5,Co-Worker,,4
+sad desk lunch,x,,5,15,3,18,,18,,2,Co-Worker,,4
+"""<It's Monday Again/It's Almost Friday>"" mug",x,,2,10,2,18,,18,,1,Co-Worker,,3
+faked sick leave documentation,,,30,80,5,18,,18,,5,Co-Worker,,5
+Favorite Child certificate,x,,5,30,,6,,6,,3,"Child, Sibling",,2
+date night certificate,x,,5,50,4,18,,18,,3,Lover,,3
+<merino/alpaca> wool socks,,x,10,40,3,13,,13,,2,,,3
+rolling papers,,x,5,10,3,18,,18,,4,,,4
+<yerba mate/matcha> tea powder,,,2,15,3,13,,13,,3,,,4
+phone charger,x,,2,20,4,12,,12,,2,,,3
+<lavender/peppermint/vanilla/citrus/rose/jasmine/leather>-scented candle,x,,5,25,4,18,,18,,2,,,3
+tool set,x,,15,50,3,15,,15,,1,,,3
+portable speaker,x,,30,60,3,13,,13,,3,,,4
+blue light-blocking glasses,,,10,30,3,16,,16,,2,,,3
+risque pajamas,,x,8,40,4,16,,16,,4,"Lover, Classmate, Friend, Co-Worker",,3
+knitting needles,,x,2,12,1,11,,11,,3,,,3
+Tide pen,x,,2,10,3,13,,13,,2,,,3
+used graphing calculator,x,,10,100,4,10,,10,,3,Classmate,,3
+used cell phone,x,,20,80,2,13,,13,,3,,,4
+bong,x,,5,30,5,18,,18,,3,,,2
+instant camera,x,,30,80,3,9,,9,,2,,,3
+glitter glue,,,1,6,5,6,10,6,10,3,"Classmate, Friend, Sibling",,5
+cool rock,x,,1,5,4,6,12,6,12,2,"Sibling, Classmate, Friend",,3
+reusable water bottle,x,,5,30,3,12,,12,,1,,,3
+<pink/green/blue/red/purple> hair dye,,,8,20,4,9,,9,,3,,,3
+eyeshadow palette,x,,10,50,3,11,,11,,3,,,3
+French press,x,,15,35,4,18,,18,,2,,,4
+Airtag,x,,25,45,4,13,,13,,3,,,3
+combat boots,,x,25,75,3,16,,16,,3,,,3
+bottle of <Tylenol/Advil/Aleve> pain meds,x,,4,12,4,10,,10,,3,,,4
+diet pills,,x,20,50,4,16,,16,,4,,,2
+allergy pills,,x,5,25,3,13,,13,,3,,,4
+vintage <Super Nintendo/GameBoy/PS1/Xbox> game,x,,2,40,3,9,,9,,3,,,2
+stolen library book,x,,1,10,1,7,,7,,4,,,3
+promise to do the dishes,x,,2,10,5,6,,6,,2,"Lover, Child, Sibling",,2
+hall pass,x,,15,50,5,18,,18,,4,Lover,,2
+magnifying glass,x,,5,15,3,13,,60,,2,,,3
+knock off perfume,,,3,20,4,12,,12,,3,,,3
+tea cozy,x,,3,15,3,13,,60,,2,,,4
+book of word puzzles for seniors,x,,4,20,4,12,,70,,2,,,3
+smart speaker,x,,20,40,3,13,,13,,3,,,4
+homemade flamethrower,x,,50,100,4,15,,15,,5,,,3
+crossbow,x,,15,60,3,13,,13,,5,,,2
+rubber band gun,x,,2,15,4,6,17,6,17,4,"Sibling, Classmate, Friend, Lover",,4
+nunchucks,,x,12,40,3,10,,10,,4,,,3
+wood-splitting axe,x,,15,40,3,16,,16,,5,,,4
+hydrochloric acid,,,12,30,2,16,,16,,5,,,3
+sharp scissors,,x,5,15,3,13,,13,,4,,,3
+silk pillowcases,,x,30,50,3,16,,16,,2,,,3
+devastatingly spicy hot sauce,,,5,15,3,12,,12,,4,,,3
+half-eaten chocolate bar,x,,1,4,1,6,,6,,2,,,2
+pill organizer,x,,4,11,2,11,,65,,2,,,3
+electric wine corkscrew,x,,10,25,4,12,,12,,4,,,3
+gallon of <oat/soy/macadamia/hemp/almond/coconut> milk,x,,2,5,1,12,,12,,2,,,2

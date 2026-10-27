@@ -1,0 +1,13 @@
+Product,Plural,Price Per Unit,Min Sale Price,Max Sale Price,Popularity Score
+keychain,keychains,1,1,8,5
+poster,posters,1,2,10,5
+postcard,postcards,1,1,8,5
+water bottle,water bottles,3,7,20,4
+plush toy,plush toys,5,15,30,2
+t-shirt,t-shirts,4,10,25,3
+action figure,action figures,5,15,25,1
+hoodie,hoodies,7,30,50,1
+coffee mug,coffee mugs,2,10,20,4
+butt scratcher,butt scratchers,2,3,15,3
+bath bomb,bath bombs,3,6,15,2
+condom,condoms,1,5,12,1

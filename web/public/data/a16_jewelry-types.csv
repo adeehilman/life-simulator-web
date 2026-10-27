@@ -1,0 +1,13 @@
+Category,Is Plural,Cost Score,Show Carats,Max Carats,Super Max Carats,Commonness Score,Luxury Only
+pendant,,4,x,7,60,3,
+bracelet,,4,x,10,60,1,
+ring,,5,x,7,60,5,
+charm,,1,,3,30,2,
+earrings,x,4,x,3,60,4,
+gemstone watch,,4,x,20,70,4,x
+exotic watch,,5,,,,1,x
+chandelier earrings,x,5,x,20,70,5,x
+encrusted necklace,,5,x,50,80,5,x
+choker,,5,x,15,75,2,x
+cocktail ring,,5,x,40,80,3,x
+crown,,1,,3,30,0,

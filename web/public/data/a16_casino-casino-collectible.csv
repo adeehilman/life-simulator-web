@@ -1,0 +1,22 @@
+Item Lookup,Item Name,Short Name,Definite Article,Indefinite Article,Plural,Can Be Refurbished,Min Value,Max Value,Appreciates,Commonness Score
+1,diamond-studded dice,diamond dice,,x,x,x,50000,250000,x,1
+2,emerald four-leaf clover brooch,clover brooch,,x,,x,15000,60000,x,3
+3,rabbit's foot,rabbit's foot,,x,,,15,75,,5
+4,two-headed coin,trick coin,,x,,x,50,150,,2
+5,enamel calico cat figurine,calico cat figurine,,x,,x,500,2000,x,3
+6,solid platinum horseshoe,platinum horseshoe,,x,,x,8000,40000,x,2
+7,moonstone elephant statuette,elephant statuette,,x,,x,4000,10000,x,2
+8,uncommonly large wishbone,wishbone,,x,,,5,25,,5
+9,jade pig figurine,pig figurine,,x,,x,2000,10000,x,2
+10,golden carp scale,carp scale,,x,,x,200,800,x,4
+11,ruby ladybug ring,ladybug ring,,x,,x,30000,80000,x,1
+12,silver shooting star necklace,shooting star necklace,,x,,x,600,2500,x,4
+13,handful of acorns,acorns,,x,,,2,15,,3
+14,sapphire scarab beetle bracelet,beetle bracelet,,x,,x,5000,36000,x,1
+15,777 cufflinks,cufflinks,,x,x,x,777,7777,x,3
+16,taxidermied twerking albatross,taxidermied albatross,,x,,,35,125,,2
+17,heather crown,heather crown,,x,,,20,100,,4
+18,tipsy leprechaun sculpture,leprechaun sculpture,,x,,x,100,800,,5
+19,lucky duck plushie,duck plushie,,x,,,50,250,,4
+20,fuzzy coin purse,coin purse,,x,,,10,100,,2
+21,sparkly paper crane,paper crane,,x,,,2,10,,5

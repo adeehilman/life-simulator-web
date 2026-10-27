@@ -1,0 +1,34 @@
+Arena Name,Country Code,Is Championship Match Arena,Commonness Score
+<K.O./Eight Cage/Southpaw> Center,,,3
+<Prime/Game/High>time Punch-Dome,,,3
+<Slushie/Parfait/Cage> <King/Queen> Center,,,1
+<Knock/Slap/Slam>atorium,,,3
+<Allison Scrap/Paterson Slam/Maddie's Son> Garden,,,3
+<Thumb/Foot/Kick>print Center,,,3
+<Smack/Smackdown> Shack,,,4
+<Beat/Take/Smack>down <Ballroom/Center/Arena>,,,3
+<Melee/Brawl/Wrangle> Barn,,,2
+<RAD/POG/GOAT/FOMO/FRFR/TLDR/BAE> Garden Arena,,,3
+<Stonebridge/Golden Arch/Canyonside> Arena,,x,3
+<Bit-Mobile/Scissor Sweep/Suplex> Arena,,x,3
+<Armdrag Arena/All-Around Arena/Crossroads Coliseum/Statewide Arena/Coast-2-Coast Arena>,,x,4
+<Silver/Bronze/Brass/Iron/Alloy/Golden> <num1-7> <Center/Stadium>,,x,3
+<Azure/Cobalt/Sapphire/Red> Cross Arena ,,x,3
+<city> <Coliseum/Center/Pavilions/Stadium>,,x,4
+Fight <Arena/Center/House>,,,3
+<Big/Bad>-<O/Ass/Boys/Girls> Octagon,,,4
+<Strikeforce/Sambo/Suplex> Stadium,,x,3
+<Armbar/Axe Kick/Ankle Pick/Reverse Mount> Arena,,,3
+<Cauliflower Ear/Calf Slicer/Cages> Coliseum,,x,4
+<Wimbley/New Trafford/Twinkham/Manchester> <Stadium/Park/Arena>,uk,x,3
+<Melbourne/Koala/Crikey> <Coliseum/Court>,au,x,3
+<Feijoada Field/Caipirinha Coliseum/Gisele Gardens/Pele Park>,br,x,3
+<Auckland Arena/Wellington Ring/Petone Park/Dunedin Downs>,nz,x,3
+<Poutine Park/Rogers Park/Maple Leaf Arena/Moose Meadows>,ca,x,3
+<Signal Ida Arena/Allianz Octagons/Olympia Stadium/Mercedes Bowl/Dusseldorf Dome/Cologne Coliseum>,de,x,3
+<Carnita Coliseum/Burrito Bowl/El Guapo Grandstand/Gordo Grounds/El Chorro Expo Hall>,mx,x,3
+<Mok Dong Downs/Beondegi Park/Kottakji Coliseum/Appa Arena>,kr,x,3
+<Cape Town Coliseum/Mandela Park/Johannesburg Arena>,za,x,3
+<Saitama's/Tatsumaki's/Bofoi's/King's/Genos'> Grand Arena,jp,x,2
+<Nile/Verbena/Athena/Sliver> River Arena,eg,x,3
+<Pacquiao Park/Utot Arena/Adobo Arena/San Miguel Fighting Grounds/Boracay Brawling Center>,ph,x,3

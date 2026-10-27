@@ -1,0 +1,52 @@
+Category,Industry,Minimum Model Type,Min Typical Model Age,Max Typical Model Age,Commonness Score
+lingerie,fashion,catalog,18,35,4
+swimwear,fashion,body part,18,35,3
+bridal,fashion,catalog,20,45,2
+evening wear,fashion,catalog,18,60,5
+activewear,fashion,catalog,18,40,4
+casual,fashion,stock photo,18,50,5
+haute couture,fashion,catalog,18,24,1
+streetwear,fashion,stock photo,18,30,4
+maternity,fashion,catalog,20,45,2
+accessories,fashion,body part,18,50,4
+footwear,fashion,body part,18,50,3
+prescription medication,pharmaceutical,body part,18,80,4
+over-the-counter medication,pharmaceutical,body part,18,80,3
+natural medication,pharmaceutical,stock photo,18,80,1
+sexual wellness,pharmaceutical,stock photo,18,80,2
+vitamins,pharmaceutical,stock photo,18,80,3
+skin care,beauty supply,body part,18,80,3
+hair care,beauty supply,body part,18,55,2
+makeup,beauty supply,body part,18,80,5
+nail polish,beauty supply,body part,18,80,3
+fragrance,beauty supply,stock photo,18,80,4
+sun care,beauty supply,stock photo,18,80,2
+oral care,beauty supply,body part,18,80,2
+beer,alcohol,body part,21,65,2
+wine,alcohol,stock photo,21,65,2
+spirits,alcohol,catalog,21,65,2
+Champagne,alcohol,elite,21,65,3
+fine jewelry,jewelry,elite,18,50,3
+costume jewelry,jewelry,body part,18,65,1
+wedding jewelry,jewelry,body part,18,65,2
+fast food,food service,stock photo,18,40,4
+casual dining,food service,body part,18,40,3
+fine dining,food service,elite,30,60,1
+bakery,food service,body part,18,35,2
+coupe,automobile,stock photo,18,30,5
+sedan,automobile,body part,18,55,5
+SUV,automobile,stock photo,25,55,5
+truck,automobile,stock photo,18,40,5
+electric car,automobile,catalog,20,45,5
+luxury vehicles,automobile,elite,18,24,3
+personal toys,adult toys,body part,18,35,5
+lubricants,adult toys,body part,18,35,2
+fetish gear,adult toys,body part,18,35,3
+erotic lingerie,adult toys,catalog,18,35,4
+fitness equipment,fitness,stock photo,18,45,5
+outdoor equipment,fitness,stock photo,18,45,4
+athletic equipment,fitness,body part,18,45,3
+board games,entertainment,stock photo,20,35,4
+video games,entertainment,stock photo,18,30,4
+art supplies,entertainment,body part,30,65,3
+sporting goods,entertainment,body part,18,50,4

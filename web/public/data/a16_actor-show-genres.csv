@@ -1,0 +1,10 @@
+Genre,Can Use Standalone,Budget Score,Commonness Score,Shows Per Season,Country Code
+action,,5,3,22,
+crime,,3,3,24,
+docudrama,x,2,3,8,
+drama,x,4,5,18,
+fantasy,,5,4,12,
+sitcom,x,3,5,24,
+soap opera,x,1,3,50,"us, ca, au, gb"
+telenovela,x,1,5,50,"ar, bo, cl, co, cr, cu, do, ec, mx, pa, pe, pr, es, uy, ve"
+childrens,,2,3,25,

@@ -1,0 +1,76 @@
+Amenity Name,Secondary Text Line,Category,Theme,Cost,Monthly Expenses,Gambler Happiness Impact,Base Popularity Impact,Match Popularity Impact
+Prima Nocta Chapel,Attend a traditional Medieval-style wedding,wedding chapel,Medieval,50000,1500,1,-1,1
+Cheeseburger Fairy's Burger Buffet,Enjoy a meal at your drag-themed burger buffet,restaurant,Medieval,90000,3000,3,1,2
+Short Rest Tavern,Grab a pint at your Medieval-themed bar,bar,Medieval,75000,2500,2,1,2
+Ye Olde Club,Bust a move on the dance floor,nightclub,Medieval,90000,3000,1,-3,3
+Dowries Roman Wedding Chapel,Make it legal in the Pantheon of wedding chapels,wedding chapel,Roman,50000,1500,1,1,2
+Palazzo Ristorante,Feast like a Caesar in your exclusive ristorante,restaurant,Roman,90000,3000,2,-1,3
+Ubriaco Bar,"Vino! Cocktails! Birra! Drink one, drink all! ",bar,Roman,75000,2500,3,-1,
+Good Vibes Villa,You'll get your merry-on in this Romanesque discotheque,nightclub,Roman,100000,5000,4,2,3
+Treasure Chest Wedding Chapel,Lovers treasure their nuptials at this chapel,wedding chapel,pirate,50000,1500,2,-1,2
+Arrgh! Eatery,Enjoy a bounteous offering from land and sea,restaurant,pirate,90000,3000,2,-2,3
+Pirate's Booty Bar,Don't attempt walking the plank after this bar,bar,pirate,75000,2500,4,-2,3
+Jolly Rogers,Show off the cut of your jib while dancing a jig,nightclub,pirate,100000,5000,3,-2,2
+Waifu Chaperu ,A magical establishment where true love unites,wedding chapel,anime,50000,1500,3,-3,3
+Dream Husbando Chapel,A magical establishment where true love unites,wedding chapel,anime,50000,1500,3,-3,3
+Ichiraku Bistro,Enjoy world-famous ramen at this delightful bistro,restaurant,anime,90000,3000,3,-2,2
+Baratie Bar,Ask the mixologist for a Glass of God,bar,anime,75000,2500,2,,2
+Stardust Club,The hip spot for the best in J-pop,nightclub,anime,100000,5000,2,1,2
+Celestial Weddings,A place on Earth for love that's out of this world,wedding chapel,outer space,50000,1500,2,,1
+Oort Cloud Cafe,Theoretically the best food in the universe,restaurant,outer space,90000,3000,1,-1,2
+Space Station Saloon,It's the feel like you're floating in space bar,bar,outer space,75000,2500,2,-2,3
+Black Hole Disco,Discover the event horizon of pleasure,nightclub,outer space,100000,5000,5,1,3
+Big Top Bliss Wedding Chapel,Where the big ring is a wedding ring,wedding chapel,circus,50000,1500,1,-1,1
+Cirque du Cafe,Revered as a circus for the mouth,restaurant,circus,90000,3000,4,,3
+Clown Around Cocktail Bar,The place where a horse actually walks into a bar,bar,circus,75000,2500,3,-3,3
+The Ringmaster Room,The greatest show on Earth is after dark,nightclub,circus,100000,5000,2,-2,2
+Movie Star Matrimony,"Whether it's your first or fifth, do it celebrity style",wedding chapel,Hollywood,50000,1500,1,-1,3
+Holly's Wood-Fired Grill,Holly's wood will leave a pleasant taste in your mouth,restaurant,Hollywood,90000,3000,2,1,3
+Beverly Hill's Bar,The bottles are flowing in Beverly Hill's,bar,Hollywood,75000,2500,3,1,2
+Tinseltown,The place to get down is in Tinseltown,nightclub,Hollywood,100000,5000,4,1,3
+Chapel Clandestine,For those who want their nuptials on the down-low,wedding chapel,speakeasy,50000,1500,1,-2,2
+Gourmet Gatsby's,Upscale dining famous for their East and West eggs,restaurant,speakeasy,90000,3000,3,,3
+Speakeasy Lounge,The hottest spot in town that nobody talks about,bar,speakeasy,75000,2500,5,1,3
+Daisy Flappers Dance Hall,This is the bee's knees of the jazz age,nightclub,speakeasy,100000,5000,5,-1,3
+Chapel of Courtly Love,"Declare your love for the king, queen, or knight of your heart",wedding chapel,Medieval,50000,1500,3,,2
+Alaric's Famous Turkey Legs,King Henry VIII wishes he could eat this good,restaurant,Medieval,90000,3000,1,-1,2
+Rosamund's Famous Turkey Legs,King Henry VIII wishes he could eat this good,restaurant,Medieval,90000,3000,1,-1,
+Wife of Bath's Ale,"Fine brews, Chaucer-approved",bar,Medieval,75000,2500,3,-2,3
+Leaping Laddie,Show thine ankles on the dance floor,nightclub,Medieval,100000,5000,3,-1,2
+Leaping Lass,Show thine ankles on the dance floor,nightclub,Medieval,100000,5000,3,-1,
+Juno's Temple,Let the Goddess of Marriage bless your union,wedding chapel,Roman,50000,1500,1,,2
+Lucius's Bread and Figs,Filling fare for the average Roman citizen,restaurant,Roman,90000,3000,2,-2,3
+Sulpicia's Bread and Figs,Filling fare for the average Roman citizen,restaurant,Roman,90000,3000,2,-2,
+Taberna Ostiae,Tuscan vintages fit for a Roman consul,bar,Roman,75000,2500,3,-1,2
+Taberna Carthaginis,Tuscan vintages fit for a Roman consul,bar,Roman,75000,2500,3,-1,
+She-Wolf Disco,Put on your finest dancing togas,nightclub,Roman,100000,5000,3,1,2
+She-Wolf Dance Hall,Put on your finest dancing togas,nightclub,Roman,100000,5000,3,1,
+Alt-Arrrrr of Love,Show your first mate how much you care,wedding chapel,pirate,50000,1500,1,-3,3
+Davy Jones's Larder,Salted pork and hardtack for all!,restaurant,pirate,90000,3000,2,-1,2
+Wailing Jenny's,"Quality rum, never diluted",bar,pirate,75000,2500,3,,2
+Wailing Jack's,"Quality rum, never diluted",bar,pirate,75000,2500,3,,
+Bouncy Buccaneers,Hoist yer knees and get jiggy with it,nightclub,pirate,100000,5000,5,1,3
+Hyperspace Hearts Chapel,Let your love move faster than the speed of light,wedding chapel,outer space,50000,1500,1,-2,2
+Cosmic Chophouse,Every dish is outta-this-world good,restaurant,outer space,90000,3000,3,,3
+Twin Suns Bistro,Every dish is outta-this-world good,restaurant,outer space,90000,3000,3,,
+Liquor Up Uranus Cantina,The best cocktails this side of the Kuiper Belt,bar,outer space,75000,2500,4,-1,2
+Pluto Cantina,The best cocktails this side of the Kuiper Belt,bar,outer space,75000,2500,4,-1,
+Heavenly Bodies,Enjoy our zero-gravity dance chambers,nightclub,outer space,100000,5000,-1,2,3
+Master of Ceremonies Chapel,"Now with ""I do""s on unicycles!",wedding chapel,circus,50000,1500,1,-1,1
+Spinning Plates Pub,Delicious food on constantly-rotating dishes,restaurant,circus,90000,3000,-1,-2,
+Sword Swallower's Saloon,Stretch your gullet with our stiff drinks,bar,circus,75000,2500,3,,2
+Jacques the Mime's Silent Disco,Get down in total silence,nightclub,circus,100000,5000,-2,1,2
+Elvis Presley's Wedding Extravaganza,Put a hunk of burning love on your sweetie's ring finger,wedding chapel,Hollywood,50000,1500,3,,2
+"Lights, Camera, Appetizers",Get ready for your close-up with tasty apps,restaurant,Hollywood,90000,3000,3,-1,2
+Sunset Boulevard Tavern,Vodka and peach schnapps for days,bar,Hollywood,75000,2500,4,,2
+Pink Stallion Society,Come be a queen every single day,nightclub,Hollywood,100000,5000,5,,2
+Wild Wingdings Chapel,Get hitched to your main squeeze,wedding chapel,speakeasy,50000,1500,2,-2,2
+Dizzy Dames Diner,Fill up before hitting the giggle water,restaurant,speakeasy,90000,3000,3,-1,2
+Dolls' Delicious Diner,Fill up before hitting the giggle water,restaurant,speakeasy,90000,3000,3,-1,
+Rum Runner's Joint,Get your sidecars and gin rickeys here,bar,speakeasy,75000,2500,4,1,3
+Tarantula Juice Joint,Get your sidecars and gin rickeys here,bar,speakeasy,75000,2500,4,1,
+Hoofers' Heaven,Do the Charleston!,nightclub,speakeasy,100000,5000,4,-1,2
+Beowulf's Den,Party like it's 745,nightclub,Medieval,100000,5000,4,-2,3
+Fujiwara's Tofu Cafe,Drift your way into this iconic cafe for the win,restaurant,anime,90000,3000,5,,3
+Club Cyberia,Where the wired world is a mirror ball,nightclub,anime,100000,5000,3,1,3
+Highball Tokyo,Gengki girl-approved,bar,anime,75000,2500,4,1,3

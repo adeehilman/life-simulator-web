@@ -1,0 +1,15 @@
+Format,Prefix,Suffix,Min Age,Max Age,Typical Gender,Commonness Score
+"<city> <suffix>, <color> <suffix>, <random-first-name> <suffix>, <random-last-name> <suffix>",,"Modeling Agency, Talent Agency",18,30,,3
+<color> <suffix>,,"Modeling Agency, Talent Agency",18,30,,3
+"<city> <suffix>, <color> <suffix>, <random-first-name> <suffix>, <random-last-name> <suffix>",,"Modeling Agency, Talent Agency",30,50,,3
+<color> <suffix>,,"Modeling Agency, Talent Agency",30,50,,3
+"<city> <suffix>, <color> <suffix>, <random-first-name> <suffix>, <random-last-name> <suffix>",,"Modeling Agency, Talent Agency",50,70,,3
+<color> <suffix>,,"Modeling Agency, Talent Agency",50,70,,3
+<prefix> <suffix>,"Hilhemina, Villainina, IMC, Minor, Select Few, Anjela Grey, Riverstone, Summerstone","Modeling Agency, Talent Agency",18,25,female,3
+<prefix> <suffix>,"Bored, Horde, Hoard, Floored, Fjord, Stormy","Modeling Agency, Talent Agency",18,25,male,3
+"<prefix> <suffix>, <color> <suffix>","Morning Glory, Rising Star, Fresh Faces, Spring Chicken, GenChic, Elite, SupremeZ, Trendsetters, Rising Dawn, Iconic, Innov8, ABC","Modeling Agency, Talent Agency",18,25,female,5
+<prefix> <suffix>,"Prime Time, Ageless, Posewise, Starstruck, Pristine, Essence, Beautessence, Finesse, Lofty Ambitions, Dusky Rose","Modeling Agency, Talent Agency",26,45,female,5
+<prefix> <suffix>,"Old Lace, Last Dregs, Last Legs, Golden Years, Sunrise Sunset, Sunset, Twilight, Stagnant Twilight, Eventide, Ageless Wonders, Eon, Wrinkle 'n Time, NYM, XYZ, Twilight Thorn, Ye Olde","Modeling Agency, Talent Agency",46,70,female,5
+<prefix> <suffix>,"Atlas, Hulkin' Herc, Titan, Adonis, Maverick, Orion, Vanguard, Catwalk Kings, Peak, Metro Male, SupremeZ, Innov8, ABC, Macho Man, Big Dawg, Mach50, Spunky, Punk","Modeling Agency, Talent Agency",18,25,male,5
+<prefix> <suffix>,"Man-Made, Dick's, Urban Bachelor, Ripped Bro, Alpha Male, Lord, Distinguished, Classic Male, Top Hat, Big Banana, Top Banana, Top Dog, Raw Dog, Clique","Modeling Agency, Talent Agency",26,45,male,5
+<prefix> <suffix>,"Silver Fox, Grey Era, Gray Area, Cue Ball, Old Dawg, Classique, Big Daddy, Zaddy, Sugar Daddy, Crisis, Midlife Male","Modeling Agency, Talent Agency",46,70,male,5

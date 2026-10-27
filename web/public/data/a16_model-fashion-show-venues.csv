@@ -1,0 +1,25 @@
+Venue,Uses Indefinite Article,Min Profile,Max Profile
+warehouse,x,,
+banquet hall,x,,
+park,x,,
+shopping mall,x,,40
+city hall,,,50
+community pool,x,,50
+art gallery,x,50,
+museum,x,70,
+hotel ballroom,x,40,
+botanical garden,x,70,
+historic mansion,x,60,
+skyscraper rooftop,x,70,
+luxury yacht,x,80,
+country club,x,80,
+vineyard,x,80,
+abandoned asylum,x,,30
+beach,,30,70
+lake,,30,70
+marina,x,50,75
+senior care center,x,,50
+school gymnasium,x,,50
+local bar,x,,40
+nightclub,x,,50
+vacant parking lot,x,,30

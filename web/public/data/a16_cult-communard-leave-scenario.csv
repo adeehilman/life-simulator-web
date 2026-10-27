@@ -1,0 +1,59 @@
+Scenario Snippet,Reason,Min Loyalty,Max Loyalty
+<he/she> says <he/she> is already dedicated to the commune and doesn't understand why you're trying to educate <him/her>.,educate,60,
+<he/she> says <he/she>'s tired of listening to the same stories all the time.,educate,70,
+<he/she> says <he/she> doesn't understand why you're preaching to the choir.,educate,51,
+<he/she> says <he/she>'s getting sick of your lessons.,educate,,30
+<he/she> says <he/she>'s tired of your drivel.,educate,,40
+<he/she> says your stories are starting to sound a little <stale/unbelievable/old/familiar/inconceivable>.,educate,,20
+<he/she> tells you it sounds like your well of knowledge is running dry.,educate,,30
+<he/she> says your stories aren't even creative anymore.,educate,,30
+<he/she> says it's because <he/she> just can't wrap <his/her> mind around your teachings anymore.,educate,,50
+<he/she> says it's because <he/she> doesn't believe in you anymore.,loyalty,,40
+<he/she> says it's because <he/she> can't fathom following you anymore.,loyalty,,30
+<he/she> says <he/she>'s going to follow someone else.,loyalty,,40
+<he/she> says <he/she>'s leaving the commune life behind.,loyalty,,20
+<he/she> says it's time for <him/her> to live on <his/her> own.,loyalty,,30
+<he/she> says <he/she>'s ready to think for <him/her>self.,loyalty,,45
+<he/she> says <he/she> wants to live <his/her> own life.,loyalty,,35
+<he/she> says <he/she> wants to start dating outside of the commune.,loyalty,,25
+"<he/she> tells you it's nothing personal, <he/she> just doesn't think the commune is for <him/her> anymore.",loyalty,50,
+<he/she> says <he/she> feels you can't be trusted anymore.,loyalty,,20
+<he/she> says <he/she> feels foolish for ever having trusted you,loyalty,,40
+<he/she> says you've duped <him/her> long enough.,loyalty,,10
+<he/she> tells you <he/she> thinks you're just using the commune to scam <him/her> out of <his/her> <possessions/money>.,offering,,40
+<he/she> says it's because <he/she> feels like you're a bit too greedy.,offering,,45
+<he/she> tells you it's because you're asking for too much from <him/her>.,offering,,50
+"<he/she> tells you <he/she> believes in you, but not your <demands/requests>.",offering,50,
+<he/she> tells you it's because you're too demanding.,offering,,50
+<he/she> tells you that your <demands/requests> are too unrealistic.,offering,,50
+<he/she> says it's because <he/she> isn't your cash cow and <he/she> won't be moo-ved.,offering,,
+"<he/she> says it took <him/her> long enough, but now <he/she> sees right through you.",,,50
+<he/she> says this is the part where <he/she> breaks free.,,,
+<he/she> says <he/she> has found another commune <he/she> wants to join.,,,30
+<he/she> says <he/she> has found another leader who inspires <him/her> more than you.,,,10
+"<he/she> tells you it's definitely you, not <him/her>.",,,30
+<he/she> tells you <he/she> just doesn't have it in <him/her> to follow you anymore.,,,30
+<he/she> says <he/she> has to get serious about <his/her> life. ,,,
+<he/she> says <he/she> isn't as sure of your leadership as <he/she> used to be.,,60,
+<he/she> said your latest lesson has clouded <his/her> mind with doubt.,educate,40,
+<he/she> claims your latest teachings make <him/her> more <doubtful/terrified/troubled/afraid/concerned> than <inspired/reassured/peaceful/hopeful>.,educate,50,
+<he/she> claims you're only after <his/her> money.,offering,,
+<he/she> says you only seem to care about cash.,offering,,
+<he/she> says <he/she> finds it funny how you say material things don't matter and then ask your followers to give you material things.,offering,,50
+<he/she> says <he/she> just isn't interested in giving up <his/her> possessions to be in your commune.,offering,,45
+<he/she> says <he/she> has realized your teachings are beneath <him/her>.,educate,,30
+<he/she> says <he/she> wants to take everything <he/she> has learned from you and start <his/her> own commune.,loyalty,,10
+<he/she> says <he/she> doesn't like your ceremonies.,ceremony,,50
+<he/she> says <he/she> gets <creeped out/annoyed/extreme anxiety> by the way you conduct your ceremonies.,ceremony,,50
+<he/she> said it's because <he/she> <cannot stomach/can no longer endure> another one of your <dumb/boring/embarrassing/ridiculous/self-indulgent> ceremonies ever again in <his/her> life.,ceremony,,40
+<he/she> says <he/she>'d rather go <lick the sidewalk/lick a toilet bowl/eat maggots/drink a urine sample/jump off a bridge/play Russian roulette> than sit through another one of your <poorly-run/stupid/half-baked/crappy> ceremonies.,ceremony,,20
+"<he/she> says <he/she> pretty much likes everything about your commune except the ceremonies, which <really suck/are atrocious/are really, really boring/which ruin everything/are too much to take>.",ceremony,,75
+"<he/she> says the way you conduct a ceremony makes <him/her> think you learned it from a ""Ceremonies for Dummies"" book that you barely even read.",ceremony,,65
+"<he/she> says it\u2019s because your ceremonies are just <okay/too boring/sorta meh>, and there's a commune down the street with <outrageous/totally lit/amazing> ceremonies averaging <num3-5> stars from <num502-1927> of their followers.",ceremony,,35
+<he/she> says the last ceremony you conducted was the proverbial straw that broke the camel's back.,ceremony,,40
+<he/she> says after the last ceremony you conducted <he/she> realized that <he/she's> just not a ceremony-type person.,ceremony,,
+"<he/she> says <he/she> experienced <an out-of-body sensation/a moment/a break in time> during your last ceremony, indicating that all good things must come to an end, and it was a sign for <him/her> to leave. ",ceremony,,
+<he/she> says <his/her> eyes have recently been opened to the infinite possibilities of mortal existence and feels the commune is holding <him/her> back from that experience.,,,
+"<he/she> says when <he/she> decided to join the commune, it was under the influence of <alcohol/drugs/ecstasy/psilocybin/LSD/some amazing skunk bud>, and looking back now, it was a mistake. ",,,
+"<he/she> says <his/her> <father/mother/brother/sister/aunt/cousin/ex-lover> has a <flat tire/bad case of herpes/medication-induced anxiety disorder/termite situation at the house>, and <he/she> needs to go help with that.",,,
+<he/she> says there is mounting evidence that living in a commune is not good for <your health/your brain/the environment/society>.,,,

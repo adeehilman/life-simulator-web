@@ -1,0 +1,55 @@
+# Dependencies and generated web output
+web/node_modules/
+web/dist/
+web/tsconfig.tsbuildinfo
+
+# Local Python/Frida environments and caches
+frida/venv/
+frida/frida-server*
+**/__pycache__/
+*.pyc
+*.pkl
+
+# APKs, native binaries, extracted workspaces, and local tooling
+*.apk
+*.aab
+*.xapk
+*.obb
+*.so
+*.dll
+work/
+dl/
+rea/
+Folder/
+
+# Large generated Unity assets/audio; manifests and source data are tracked
+web/public/assets/**
+web/public/audio/**
+out/assets/
+out/audio/
+out/datapack/
+out/decrypted/
+out/scenarios/
+out/scenarios_csv/
+out/strings_by_topic/
+out/il2cpp/il2cpp.h
+out/il2cpp/script.json
+out/il2cpp/stringliteral.json
+out/il2cpp/dummy_dll/
+
+# Large/local extraction projects
+Il2CppDumper/
+bitlife-edit/
+
+# Local scratch and generated temporary files
+nul
+*.tmp
+*.log
+*.bak
+
+# Credentials and private state
+.env
+.env.*
+**/playerprefs.xml
+**/*token*
+**/*credential*

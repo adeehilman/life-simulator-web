@@ -1,0 +1,41 @@
+Scenario,Log Version,Can Be Reaction,Can Be Push,Score
+<employee> brought you donuts for breakfast every day for a week.,<employee> brought me donuts every day for a week.,x,x,4
+<employee> just offered to shine your shoes.,<employee> offered to shine my shoes.,x,x,4
+<employee> says you look stressed and offers to give you a back rub.,<employee> offered to give me a back rub.,x,x,5
+<employee> says <he/she> doesn't mind working late if anything pops up unexpectedly.,<employee> told me <he/she> didn't mind working late if anything popped up unexpectedly.,,x,4
+"<employee> made you a cake with frosting that says, ""World's Greatest Boss"".","<employee> made me a cake with frosting that said, ""World's Greatest Boss""!",,x,3
+"<employee> just gave you a coffee mug that says, ""World's Greatest Boss"".","<employee> gave me a coffee mug that says, ""World's Greatest Boss"".",,x,3
+<employee> brought you a Starbucks coffee prepared just the way you like it each day for a <week/month>.,<employee> brought me Starbucks each day for a <rb>.,x,x,5
+<employee> brought you a gift basket full of assorted <wines/cheeses/candies/fruits/muffins/chocolates/bath products>.,<employee> brought me a gift basket full of assorted <rb>.,x,x,5
+<employee> sent an email telling the entire company what a fantastic boss you are.,<employee> emailed the company to tell everyone I'm a fantastic boss.,,x,4
+"<employee> just handed you a Post-It with the words ""<You rock/You're the best/You're a winner/You're awesome>"" written in big, bubble letters.",<employee> gave me a thoughtfully-written Post-It note.,,x,5
+<employee> painted a watercolor portrait of you and hung it in your office.,<employee> painted my portrait and hung it in my office.,,x,5
+<employee> gave you a pedicure during a Zoom meeting.,<employee> gave me a pedicure during a Zoom meeting.,,x,5
+<employee> thanked you for making the company a great place to work.,<employee> thanked me for making the company a great place to work.,x,x,2
+<employee> just called you the next <Bill Gates/Steve Jobs/Lee Iacocca/Jeff Bezos/Rupert Murdoch/Sam Walton/Elon Musk/Larry Page/Sergey Brin>.,<employee> said I'm the next <rb>.,x,x,1
+<employee> bowed and said <he/she> isn't worthy.,<employee> told me <he/she> wasn't worthy of my attention.,x,,5
+<employee> thanked you.,<employee> thanked me.,x,,1
+"<employee> offered to do ""anything"" for you because you've been such a great boss.",<employee> offered to perform any favor I wanted.,x,x,5
+<employee> offered to massage your shoulders.,<employee> offered to massage my shoulders.,x,,5
+<employee> offered to take you out to <lunch/dinner/brunch> to show <his/her> appreciation.,<employee> offered to take me out to <rb> to show <his/her> appreciation.,x,,3
+<employee> told you <he/she> wants to be just like you someday.,<employee> told me <he/she> wants to be just like me someday.,x,x,2
+<employee> told you that you're <his/her> BFF.,<employee> told me I'm <his/her> BFF.,x,x,4
+<employee> told you <he/she> has a crush on you.,<employee> told me <he/she> has a crush on me.,,x,5
+<employee> told you <he/she> responds well to the authority you exert.,<employee> told me <he/she> responds well to my authoritative side.,,x,5
+<employee> just handed you a list containing the names of employees who were goofing off during your lunch break.,<employee> snitched on <his/her> co-workers in an attempt to impress me.,,x,5
+<employee> noticed you seemed depressed and offered to order you <a coffee/a cake/some lunch/a singing telegram/a stripper> to improve your mood.,<employee> offered to order me <rb> to improve my mood on a bad day.,,x,3
+<employee> just offered you <his/her> leftovers from lunch.,<employee> offered me <his/her> leftovers from lunch.,,x,2
+<employee> just offered you half of <his/her> lunch.,<employee> offered me half of <his/her> lunch.,,x,4
+<employee> told you <he/she> enjoys watching you discipline <his/her> co-workers.,<employee> told me <he/she> enjoys watching me discipline <his/her> coworkers.,,x,5
+You just walked into your office and found <employee> <organizing/cleaning/tidying> it.,I discovered <employee> <rb> my office.,,x,5
+"<employee> told you if <he/she> has to kiss anyone's ass, <he/she>'s glad it's yours.",<employee> told me <he/she> enjoys kissing my ass.,x,x,5
+"<employee> told you if <he/she> has to lick anyone's boots, <he/she>'s glad they're yours.",<employee> told me <he/she> enjoys being my personal bootlicker.,x,x,5
+<employee> asked if <he/she> could eat lunch with you.,<employee> expressed an interest in eating lunch with me.,,x,1
+<employee> saluted you.,<employee> saluted me.,x,,1
+<employee> just told you that your outfits are always on point.,<employee> complimented my fashion sense.,,x,2
+<employee> told you <he/she> appreciates you so much that <he/she> is willing to <work Saturdays/work weekends/work unpaid overtime/work holidays> for you.,<employee> offered to <rb> to show <his/her> appreciation for everything I've done for <him/her>.,x,x,4
+<employee> told you <his/her> whole world revolves around you.,<employee> told me <his/her> whole world revolves around me.,x,x,5
+<employee> told you that you make coming to work a blessing.,<employee> told me that I make coming to work a blessing.,x,x,3
+"<employee> told you <he/she> is ""#blessed"" to <know/work for/work with> you.","<employee> told me <he/she> is ""#blessed"" to <rb> me.",x,x,3
+"Lately, <employee> has been the only person to laugh at your bad jokes.",<employee> has been the only person laughing at my bad jokes.,,x,3
+<employee> clapped for you.,<employee> clapped for me.,x,x,4

@@ -1,0 +1,142 @@
+Condition,Scenario,Hero Gender,Lover Gender,Hero Min Age,Hero Max Age,Hero Min Smarts,Hero Max Smarts,Hero Min Looks,Hero Max Looks,Clean
+Already Have Lover,<he/she> tells you it's because you are in a relationship.,both,both,,,,,,,x
+Already Have Lover,"<he/she> tells you that you are a no-good, dirty, rotten cheat.",both,both,,,,,,,x
+Already Have Lover,<he/she> tells you that you should be ashamed of yourself for asking someone out when you are already involved in a relationship.,both,both,,,,,,,x
+Already Have Lover,<he/she> says <he/she> is not trying to get involved in a love triangle.,both,both,,,,,,,x
+Already Have Lover,<he/she> tells you <he/she> feels like <he/she> should rat you out for trying to cheat.,both,both,,,,,,,x
+Already Have Lover,<he/she> asks you if <lover> knows what a filthy cheater you are.,both,both,,,,,,,x
+Already Have Lover,<he/she> says <he/she> feels bad for <lover>.,both,both,,,,,,,x
+Already Have Lover,<he/she> recommends that you try ashleymadison.com to find the extra love you are looking for.,both,both,18,,,,,,
+Disease,<he/she> tells you it's because you have <disease>.,both,both,,,,,,,x
+Disease,"<he/she> says it's not you, it's your <disease>.",both,both,,,,,,,x
+Disease,<he/she> says <he/she> wouldn't want to let your <disease> get in the way of <his/her> happiness.,both,both,,,,,,,x
+Disease,<he/she> says <he/she> doesn't date people with <disease>.,both,both,,,,,,,x
+Job,<he/she> says <he/she> doesn't date people in your profession.,both,both,,,,,,,x
+Job,<he/she> says you seem too into your job.,both,both,,,,,,,x
+,"<he/she> says it's because you're too attractive, and that your looks would make <him/her> insecure.",both,both,,,,,80,,x
+,<he/she> tells you that you're just too smart for <him/her>.,both,both,,,80,,,,x
+,<he/she> says that <he/she> is not ready to get into a relationship.,both,both,,,,,,,x
+,<he/she> tells you that <he/she> is not ready for anything serious.,both,both,,,,,,,x
+,<he/she> tells you that you only seem to be interested in sex.,both,both,18,,,,,,
+,<he/she> says that you are too cocky.,male,both,,,,,,,x
+,<he/she> tells you that your lack of confidence is a turn-off.,both,both,,,,,,,x
+,<he/she> says that you seem to be too self-involved.,both,both,,,,,,,x
+,<he/she> says it's your bad hygiene.,both,both,,,,,,,x
+,<he/she> says your breath stinks.,both,both,,,,,,,x
+,<he/she> tells you it's because it seems like sex with you would be bad.,both,both,18,,,,,,
+,<he/she> tells you it's because you seem to be a bad person.,both,both,,,,,,,x
+,"<he/she> tells you it's not you, it's <him/her>.",both,both,,,,,,,x
+,<he/she> tells you <he/she> is looking for someone hotter.,both,both,,,,,,70,x
+,<he/she> says <he/she> is not looking for anything serious.,both,both,,,,,,,x
+,<he/she> says <he/she> just wants to be friends.,both,both,,,,,,,x
+,<he/she> says <he/she> doesn't have the time to date.,both,both,,,,,,,x
+,"<he/she> says, ""Ain't nobody got time for that"".",both,both,,,,,,,x
+,<he/she> says <he/she> really isn't looking to date anyone.,both,both,,,,,,,x
+,<he/she> says <he/she> is too busy.,both,both,,,,,,,x
+,<he/she> says <he/she> works too much to date anyone.,both,both,,,,,,,x
+,<he/she> says <he/she> is too busy taking care of <his/her> <dog/cat/rabbit/hamster/snake/bird/horse/llama/chickens/gerbil/mouse/rat/salamander/pony>.,both,both,,,,,,,x
+,<he/she> tells you that you are not <his/her> type.,both,both,,,,,,,x
+,<he/she> tells you that you just seem too nice.,both,both,,,,,,,x
+,<he/she> says <he/she> is focusing on <himself/herself> right now.,both,both,,,,,,,x
+,<he/she> says <his/her> religion prevents <him/her> from dating you.,both,both,,,,,,,x
+,<he/she> says <he/she> is working on <his/her> health right now.,both,both,,,,,,,x
+,<he/she> says <he/she> will be moving away soon.,both,both,,,,,,,x
+,<he/she> says <he/she> just got out of a relationship and is not ready to date again.,both,both,,,,,,,x
+,<he/she> says <he/she> has a mental disorder that makes dating a challenge.,both,both,,,,,,,x
+,<he/she> tells you that <he/she> is experiencing some depression right now.,both,both,,,,,,,x
+,<he/she> says that <he/she> is confused about <his/her> sexuality these days.,both,both,,,,,,,
+,<he/she> says that you are too tall for <his/her> personal taste.,both,both,,,,,,,x
+,<he/she> says that you are too short for <his/her> personal taste.,both,both,,,,,,,x
+,<he/she> says that <he/she> is looking for someone more stable.,both,both,,,,,,,x
+,"<he/she> says you are the wrong astrological sign, making you incompatible.",both,both,,,,,,,x
+,<he/she> says that you seem too immature.,both,both,,,,,,,x
+,<he/she> tells you that <he/she> is looking for someone more sophisticated.,both,both,,,,,,,x
+,<he/she> says you seem a little basic.,both,both,,,,,,,x
+,<he/she> tells you that <he/she> prefers bad boys.,male,both,,,,,,,x
+,<he/she> tells you that <he/she> prefers rebels.,both,both,,,,,,,x
+,<he/she> tells you that you remind <him/her> of <his/her> cousin.,both,both,,,,,,,x
+,"<he/she> says you remind <him/her> of <his/her> daddy, and <he/she> doesn't need another daddy.",male,both,,,,,,,
+,"<he/she> says you remind <him/her> of <his/her> mama, and <he/she> doesn't need another mama.",female,both,,,,,,,
+,<he/she> says you seem like too much drama.,both,both,,,,,,,x
+,<he/she> says you seem like bad news.,both,both,,,,,,,x
+,<he/she> says that <he/she> has been too stressed to start something new.,both,both,,,,,,,x
+,<he/she> says that dating you seems like a nightmare.,both,both,,,,,,,x
+,<he/she> says that <he/she> is not feeling your fashion.,both,both,,,,,,,x
+,<he/she> says that you look like a bad kisser.,both,both,,,,,,,x
+,<he/she> tells you that your social values don't align.,both,both,,,,,,,x
+,<he/she> says that it's just too difficult to date someone of your socioeconomic status.,both,both,,,,,,,x
+,<he/she> says that your socioeconomic statuses don't align.,both,both,,,,,,,x
+,<he/she> says that <he/she> just can't envision you inside of <him/her>.,male,both,18,,,,,,
+,he says that he just can't envision himself inside of you.,both,male,18,,,,,,
+,<he/she> says <he/she> can't picture things working out with someone like you.,both,both,,,,,,,x
+,<he/she> says <he/she> needs someone more adventurous.,both,both,,,,,,,x
+,<he/she> says that you seem a bit too wild and crazy.,both,both,,,,,,,x
+,<he/she> says that you are just a bit too aggressive.,both,both,,,,,,,x
+,<he/she> says that <he/she> can't get over how you are picking your nose while asking <him/her> out.,both,both,,,,,,,x
+,<he/she> inquires as to if you really just farted while asking <him/her> out.,both,both,,,,,,,
+,<he/she> says that you seem way too flirty for <him/her>.,both,both,,,,,,,x
+,<he/she> says you are coming on way too strong.,both,both,,,,,,,x
+,<he/she> says <he/she> is looking for someone with more similar interests.,both,both,,,,,,,x
+,<he/she> says you are moving too fast for <him/her>.,both,both,,,,,,,x
+,<he/she> says you are trying too hard.,both,both,,,,,,,x
+,<he/she> says <he/she> can't get over your atrocious grammar.,both,both,,,,,,,x
+,<he/she> says <he/she> can't get over the fact that you are asking <him/her> out using baby talk.,both,both,,,,,,,x
+,<he/she> says <he/she> finds your lack of eye contact to be a turn off.,both,both,,,,,,,x
+,<he/she> says <he/she> can't get past your absurd hairstyle.,both,both,,,,,,80,x
+,<he/she> says that your lack of pop culture knowledge is odd and mildly disturbing.,both,both,,,,,,,x
+,<he/she> tells you that <he/she> can envision you in the friend zone.,both,both,,,,,,,x
+,"<he/she> says it's not that <he/she> doesn't like close talkers, it's just that <he/she> doesn't date them.",both,both,,,,,,,x
+,"<he/she> says <he/she> doesn't mind people invading <his/her> personal space a little, but asks you to back up a bit because <he/she> can taste your breath.",both,both,,,,,,,x
+,"<he/she> tells you <he/she> can smell your crotch from where <he/she> is standing, and by the look on <his/her> face you can tell that is not a good thing.",both,both,18,,,,,,
+,<he/she> tells you that you wear too much cologne.,male,both,,,,,,,x
+,<he/she> tells you that you wear too much perfume.,female,both,,,,,,,x
+,<he/she> says you are woefully inadequate in the manners department.,both,both,,,,,,,x
+,<he/she> points out that your <shoes/socks> don't match.,both,both,,,,,,,x
+,He says that he is gay.,female,male,,,,,,,
+,She says that she is a lesbian.,male,female,,,,,,,
+,"He says he didn't realize it until he met you, but he thinks he may be gay.",female,male,,,,,,,
+,"She says she didn't realize it until she met you, but she thinks she may be a lesbian.",male,female,,,,,,,
+,<he/she> says you just don't seem smart enough.,both,both,,,,50,,,x
+,<he/she> says <he/she> prefers older women.,female,both,,30,,,,,x
+,<he/she> says <he/she> prefers younger women.,female,both,30,,,,,,x
+,<he/she> says <he/she> prefers older men.,male,both,,30,,,,,x
+,<he/she> says <he/she> prefers younger men.,male,both,30,,,,,,x
+,<he/she> says <his/her> family wouldn't approve of you.,both,both,,,,,,,x
+,<he/she> says <his/her> <father/mother/grandmother/grandfather> would think you are a <pansy/namby-pamby/wuss/loser/wimp/yellow belly/wussy/momma's boy/sissy/pantywaist/coward/cream puff/loser/douche/douche canoe/deadbeat/moron/imbecile/idiot/fool/creep/cretin>.,male,both,,,,50,,,
+,<he/she> says <his/her> <father/mother/grandmother/grandfather> would think you are a <floozy/slut/tramp/loser/hussy/snatch/deadbeat/moron/imbecile/idiot/fool>.,female,both,18,,,50,,,
+,<he/she> says that you make the decision easy.,both,both,,,,,,,x
+,"<he/she> apologizes for laughing, but says <he/she> thought you were joking.",both,both,,,,,,,x
+,<he/she> says <he/she> is sorry for giving you the impression that <he/she> would ever date you.,both,both,,,,,,,x
+,"<he/she> wishes you well, before departing.",both,both,,,,,,,x
+,"<he/she> informs you that <he/she> knows a personal trainer and would be happy to introduce you, should you ever decide to get in shape.",both,both,,,,,,50,x
+,<he/she> says that <he/she> can smell your craziness from a mile away.,both,both,,,,,,,x
+,<he/she> says the mole on your face is just too distracting.,both,both,,,,,,,x
+,"<he/she> says <he/she> has a hard time listening to you because <he/she> is consumed with the game <he/she> is playing in <his/her> head called, ""Where's the Bulge?"".",male,both,18,,,,,,
+,"<he/she> says that your erect nipples are mesmerizing, but too distracting.",female,both,18,,,,,,
+,<he/she> explains that you just don't meet <his/her> prerequisites.,both,both,,,,,,,x
+,<he/she> says <he/she> just isn't picking up what you are putting down.,both,both,,,,,,,x
+,<he/she> explains that <he/she> just doesn't like the cut of your jib.,both,both,,,,,,,x
+,<he/she> says <he/she> likes <his/her> men a little meatier.,male,both,18,,,,,,x
+,<he/she> says <he/she> likes <his/her> women a little meatier.,female,male,18,,,,,,x
+,<he/she> says that <he/she> is surprised you are not able to pick up on <his/her> social cues letting you know how little interest <he/she> has in you.,both,both,,,,,,,x
+,<he/she> tells you <he/she> hopes you will handle the rejection well.,both,both,,,,,,,x
+,<he/she> encourages you by telling you there has to be someone out there that won't reject you.,both,both,,,,,,,x
+,"<he/she> tries to reassure you by telling you that you're good, just not good enough to date <him/her>.",both,both,,,,,,,x
+,"<he/she> reminds you that there are more fish in the sea, and tells you that some of them may actually date you.",both,both,,,,,,,x
+,"<he/she> says <he/she> is sorry for having to reject you, but suggests you are probably used to rejection by now.",both,both,,,,,,,x
+,<he/she> says <he/she> knew you were trouble when you walked in.,both,both,,,,,,,x
+,<he/she> says your extreme hotness would only make <him/her> feel insecure about <himself/herself>.,both,both,,,,,80,,x
+,<he/she> tells you <he/she> already has enough craziness in <his/her> life without you.,both,both,,,,,,,x
+,<he/she> tells you <he/she> only dates crazies.,both,both,,,,,,,x
+,<he/she> tells you that you seem a little too normal for <his/her> liking.,both,both,,,,,,,x
+,<he/she> tells you that your intelligence is intimidating.,both,both,,,80,,,,x
+,"<he/she> says that you are nice, but points out that you are not the sharpest tool in the shed.",both,both,,,,50,,,x
+,<he/she> says that it's because you smell like <olives/fish/sewage/vomit/a skunk/dirty socks/garlic/tuna/onion/vinegar/rotten milk/sulfur/plaque/feet/curry/cheese/sour milk/urine/rubber/cat farts/mayonnaise/sour cream/an outhouse/a porta-potty/gasoline/failure/chitterlings/squid>.,both,both,,,,,,,x
+,<he/she> says that your cackle of a laugh would be too much for <him/her> to handle.,both,both,,,,,,,x
+,<he/she> says it's because you believe in astrology.,both,both,,,,,,,x
+,<he/she> says <he/she> can't think of a good excuse to tell you as to why <he/she> would never date you in a million years.,both,both,,,,,,,x
+,"<he/she> says you seem like a nice person, but <he/she> just can't get over the stupid haircut.",both,both,,,,,,,x
+,<he/she> says <he/she> couldn't date someone with your name.,both,both,,,,,,,x
+,<he/she> recommends that you try <farmersonly.com/christianmingle.com/equestriancupid.com/glutenfreesingles.com/gothicmatch.com/diapermates.com/uglyschmucks.com/meet-an-inmate.com> to find your true love.,both,both,18,,,,,,x
+,"<he/she> says <he/she> is no fortune teller, but <he/she> can see <Bumble/Tinder/Hinge> in your future.",both,both,,,,,,,x
+,"<he/she> reminds you that there are billions of fish in the sea, and that there must be at least a few <sucker fish/catfish> willing to date you.",both,both,,,,,,,x

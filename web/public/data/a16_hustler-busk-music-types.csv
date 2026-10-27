@@ -1,0 +1,33 @@
+Music Type,Needs Music Appended,Possible Instruments,Best Instruments,Success Score
+peaceful,x,"harp, cello, triangle, violin, guitar, flute, pan flute","harp, cello, triangle",4
+classical,x,"harp, cello, triangle, violin, guitar, flute, saxophone, trumpet, tuba, kazoo, trombone",violin,4
+classic rock,,"guitar, bass guitar, harmonica, flute, keyboard, tambourine, saxophone, keyboard, violin",guitar,3
+reggae,,"steel drum, guitar, keyboard, tambourine, cello, kazoo","steel drum, guitar, keyboard",3
+Peruvian,x,"flute, pan flute, guitar, tambourine","pan flute, flute",5
+jazz,,"trombone, saxophone, trumpet, guitar, bass guitar","saxophone, trumpet",5
+romantic,x,"violin, saxophone, harp, guitar, triangle, keyboard, triangle, flute, pan flute","violin, saxophone, harp, guitar",3
+experimental,x,,"kazoo, didgeridoo, triangle",1
+pop,x,"bass guitar, saxophone, guitar, keyboard, cello, trumpet, recorder, kazoo, tambourine",keyboard,3
+funk,x,"bass guitar, saxophone, guitar, keyboard, cello, trumpet",bass guitar,3
+polka,x,"accordion, harmonica, guitar, keyboard, banjo","accordion, harmonica",1
+country,x,"banjo, guitar, harmonica, bass guitar, keyboard","guitar, banjo, harmonica",3
+bluegrass,,"banjo, guitar, harmonica, bass guitar, keyboard","guitar, banjo, harmonica",2
+folk,x,"recorder, banjo, guitar, harmonica, pan flute","guitar, banjo, harmonica",2
+Renaissance,x,"recorder, harp, flute, guitar, bass guitar, keyboard, tambourine","recorder, flute, harp, tambourine",1
+new age,x,"keyboard, flute, triangle, harp, guitar, pan flute, didgeridoo","keyboard, flute, triangle, harp",2
+adult contemporary,x,"guitar, saxophone, keyboard, trumpet, harp","guitar, saxophone",3
+house music,,"bass guitar, guitar, keyboard","bass guitar, guitar",3
+synth-pop,,"keyboard, harp",keyboard,2
+world music,,"guitar, keyboard, steel drum, saxophone, flute, pan flute, didgeridoo, triangle, cello, kazoo","guitar, keyboard, flute, steel drum",4
+funk carioca,,"bass guitar, keyboard",keyboard,5
+bossa nova,x,"guitar, keyboard, tambourine, saxophone","guitar, keyboard",5
+indie,x,"guitar, bass guitar, harmonica, keyboard, saxophone","guitar, bass guitar",3
+elevator music,,"keyboard, bass guitar, guitar, violin, steel drum, saxophone, harp, triangle, flute","keyboard, bass guitar, guitar",4
+worship,x,"keyboard, guitar, harmonica, flute, recorder, harp","keyboard, guitar",1
+blues,,"guitar, bass guitar, harmonica, trombone, trumpet, saxophone","harmonica, bass guitar, guitar, saxophone",5
+kawaii metal,,"bass guitar, guitar, keyboard","bass guitar, guitar",4
+grunge,x,"bass guitar, guitar, keyboard","bass guitar, guitar",1
+punk rock,,"bass guitar, guitar, keyboard","bass guitar, guitar",1
+screamo,x,"bass guitar, guitar, keyboard","bass guitar, guitar",1
+emo pop,,"bass guitar, guitar, keyboard","bass guitar, guitar",2
+disco,x,keyboard,keyboard,3

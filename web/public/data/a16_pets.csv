@@ -1,0 +1,136 @@
+Animal,Emoji,Breed,Pure Bred,Wild,Exotic,Black Market,Colors,Average Lifespan,Obedience Score,Intelligence Score,Danger Score,Cost Score,Commonness Score
+Bird,bird1,parrot,x,,x,,"green & yellow, red & blue, green & blue, gray",50,3,5,4,5,1
+Bird,bird2,cockatiel,x,,,,"white & yellow, gray & yellow, gray & white",12,2,2,2,2,4
+Bird,bird3,cockatoo,x,,,,"white, pink, black, gray",50,3,5,4,5,1
+Bird,bird4,canary,x,,,,"yellow, white & brown, brown, gray, white",10,2,3,1,2,3
+Bird,bird5,finch,x,,,,"red, orange, yellow, green, blue, white, brown, black",7,1,2,1,1,3
+Bird,bird6,lovebird,x,,,,"purple & cream, yellow & red, green & yellow, blue, green, orange",20,3,4,3,2,2
+Bird,bird7,parakeet,x,,,,"green & yellow, yellow, white, blue, purple, gray, gray & yellow, purple & white",12,2,4,3,2,5
+Bird,bird8,macaw,x,,x,,"blue & yellow, red, blue, green, green & red, red & blue",50,3,5,4,5,1
+Cat,cat1,alley cat,,,,,"orange, gray, black, white",16,2,5,4,1,4
+Cat,cat2,Siamese cat,x,,,,"gray, cream",18,5,4,2,4,2
+Cat,cat3,Persian cat,x,,,,"white, brown, tan",14,3,3,3,5,5
+Cat,cat4,Bengal cat,x,,,,"gray & black, brown & black, orange & black",12,5,5,2,5,2
+Cat,cat5,American shorthair cat,x,,,,"gray, black & gray, black & brown, black, gray & white",17,4,4,2,3,1
+Cat,cat6,house cat,,,,,"gray, black & gray, black & brown, black, gray & white",16,3,3,3,1,5
+Cat,cat7,sphynx cat,x,,x,,"white, gray, black, pink, cream, brown, tan, gray & pink",12,5,3,3,5,1
+Cat,cat8,wildcat,,x,x,,"gray & brown, brown & tan, gray & brown, gray & tan",20,1,5,4,5,1
+Cat,cat9,bobcat,,x,x,,"brown & black, tan & black",25,1,5,5,5,1
+Dog,dog1,Akita,x,,,,"black & white, brown & white, tan & white",11,3,3,4,4,2
+Dog,dog2,Alaskan malamute,x,,,,"gray & white, black & white, brown & white",13,2,3,4,5,2
+Dog,dog3,Australian shepherd,x,,,,"red & white, white & gray",14,5,5,3,3,4
+Dog,dog4,basset hound,x,,,,"brown & white, tan & white, black & brown",11,3,4,1,3,2
+Dog,dog5,beagle,x,,,,"brown & white, brown, black & white",14,2,1,2,2,5
+Dog,dog6,Bernese mountain dog,x,,,,"black & tan, black & white",8,3,4,4,3,3
+Dog,dog7,bichon frise,x,,,,"white, white & brown",14,3,4,2,3,2
+Dog,dog8,bloodhound,x,,,,"brown & black, black & tan",12,3,1,3,4,2
+Dog,dog9,bluetick coonhound,x,,,,"black & white, black & brown",12,3,3,4,2,1
+Dog,dog10,border collie,x,,,,"black & white, brown & white, gray & white",14,5,5,3,4,3
+Dog,dog11,Boston terrier,x,,,,white & black,15,4,3,1,2,4
+Dog,dog12,boxer,x,,,,"brown & white, brown, black & white",11,3,4,4,3,4
+Dog,dog13,bulldog,x,,,,brown & white,9,3,1,2,5,5
+Dog,dog14,chihuahua,x,,,,"brown & white, black & white",16,3,4,1,1,3
+Dog,dog15,chow chow,x,,,,"red, cream, gray, black",13,2,1,4,2,1
+Dog,dog16,cocker spaniel,x,,,,"gold, red",13,5,4,2,2,4
+Dog,dog17,dachshund,x,,,,"chocolate, black & tan, chocolate & tan",14,2,4,2,2,4
+Dog,dog18,dalmatian,x,,,,"white, white & black",13,4,4,2,3,2
+Dog,dog19,Doberman pinscher,x,,,,"black & brown, brown",10,5,5,5,3,4
+Dog,dog20,German shepherd,x,,,,black & brown,11,5,5,4,5,5
+Dog,dog21,golden retriever,x,,,,"gold, light gold, dark gold",11,5,5,3,4,5
+Dog,dog22,Great Dane,x,,,,"black, black & white, gray",9,3,3,4,5,4
+Dog,dog23,greyhound,x,,,,"white & tan, white & gray, black",13,3,5,3,3,1
+Dog,dog24,Havanese,x,,,,"gray & white, tan & white, brown & white",14,5,4,2,4,3
+Dog,dog25,Irish setter,x,,,,brown,13,3,5,3,3,1
+Dog,dog26,Jack Russell terrier,x,,,,"brown & white, tan & white",13,5,5,2,2,2
+Dog,dog27,Labrador retriever,x,,,,"black, yellow, chocolate",11,5,5,3,5,5
+Dog,dog28,Lhasa apso,x,,,,"cream, white, white & tan",14,3,4,2,2,1
+Dog,dog29,Maltese,x,,,,white,16,3,4,2,2,3
+Dog,dog30,mastiff,x,,,,"black & tan, black & cream",9,3,3,4,5,3
+Dog,dog31,miniature pinscher,x,,,,"black & tan, black & brown, red",13,4,3,2,2,1
+Dog,dog32,papillon,x,,,,brown & white,15,5,5,1,3,2
+Dog,dog33,Pekingese,x,,,,"white, brown & white, black & brown",12,2,1,2,2,1
+Dog,dog34,pit bull,x,,,,"brown, tan, tan & white, gray & white",13,4,4,5,4,3
+Dog,dog35,pointer,x,,,,"black & white, brown & white",14,3,4,3,3,5
+Dog,dog36,Pomeranian,x,,,,"red & cream, orange & cream",16,3,4,1,2,4
+Dog,dog37,pug,x,,,,"black, black & tan",13,3,2,1,3,3
+Dog,dog38,rottweiler,x,,,,black & brown,9,3,5,5,5,5
+Dog,dog39,Saint Bernard,x,,,,white & brown,9,3,4,4,5,2
+Dog,dog40,schnauzer,x,,,,"gray & white, black",13,5,4,2,5,4
+Dog,dog41,shar-pei,x,,,,"cream, gray, brown & black, brown",10,3,3,4,4,2
+Dog,dog42,Shetland sheepdog,x,,,,"black & tan, tan & white",13,5,5,3,3,3
+Dog,dog43,Shiba Inu,x,,,,brown & cream,14,2,3,3,3,2
+Dog,dog44,shih tzu,x,,,,"brown & white, gray & white",14,3,3,2,4,4
+Dog,dog45,Siberian husky,x,,,,"brown & white, gray & white, black & white",13,2,4,4,5,4
+Dog,dog46,poodle,x,,,,"white, gray, brown",15,5,5,3,5,5
+Dog,dog47,Thai ridgeback,x,,,,"gray, black, brown",13,2,4,4,4,1
+Dog,dog48,toy poodle,x,,,,"red, brown, gray, white",15,5,5,2,5,4
+Dog,dog49,vizsla,x,,,,"gold, brown, red",13,5,4,3,4,3
+Dog,dog50,Welsh corgi,x,,,,"gray & white, black & white, brown & white",13,5,4,2,4,4
+Dog,dog51,whippet,x,,,,"black, gray & white, tan & white",13,3,5,3,5,2
+Dog,dog52,Yorkshire terrier,x,,,,black & brown,14,3,4,2,2,5
+Dog,dog53,mutt,,,,,"black, brown, white, tan, gray, gold, black & white, black & brown, brown & white",11,3,3,3,1,5
+Dog,dog54,coyote,,x,x,,"brown, tan, brown & tan, brown & cream, tan & cream",20,2,4,5,5,1
+Rabbit,rabbit1,rabbit,,,,,"black, white, gray, brown, brown & white, black & white, gray & white",9,1,1,1,1,1
+Snake,snake1,corn snake,x,,,,"red & black, pink & yellow, red & orange, gray & black, gray & purple",17,1,1,2,1,5
+Snake,snake2,ball python,x,,,,"white & yellow, black & brown, white, brown, purple & orange, yellow",30,1,1,3,2,4
+Snake,snake3,California kingsnake,x,,,,"black & white, brown & yellow, red & black, black & yellow",25,1,1,2,2,4
+Snake,snake4,gopher snake,x,,,,"brown & tan, brown & yellow, gray & black",15,1,1,2,2,4
+Snake,snake5,boa constrictor,x,,x,,"black & brown, gray & brown, brown & tan, green & yellow, orange & brown",27,1,1,4,4,3
+Snake,snake6,garter snake,x,,,,"red & brown, brown & green, brown & blue, brown & yellow",10,1,1,1,1,3
+Snake,snake7,green tree python,x,,,,"green, green & yellow, yellow & brown, blue & green, orange & yellow",17,1,1,3,5,1
+Snake,snake8,carpet python,x,,,,"yellow & black, brown & cream, brown & black",20,1,1,4,3,2
+Snake,snake9,Burmese python,x,,x,,"brown & tan, yellow & cream, orange & cream",22,1,1,5,4,1
+Big Cat,bigcat1,Bengal tiger,x,x,x,,"orange & black, white & black",25,1,4,5,5,1
+Big Cat,bigcat2,Siberian tiger,x,x,x,,"orange & black, white & black",25,1,4,5,5,1
+Big Cat,bigcat3,lion,x,x,x,,"gold, light gold, dark gold, tan",20,1,5,5,5,1
+Big Cat,bigcat4,leopard,x,x,x,,"yellow & black, tan & black",25,2,3,4,3,2
+Big Cat,bigcat5,jaguar,x,x,x,,"yellow & black, tan & black",25,2,2,4,3,2
+Big Cat,bigcat6,black panther,x,x,x,,black,20,2,2,4,3,2
+Big Cat,bigcat7,mountain lion,x,x,x,,gold,20,2,2,4,3,2
+Primate,primate1,chimpanzee,x,x,x,,brown,60,4,5,3,5,2
+Primate,primate2,macaque,x,x,x,,"brown & cream, brown & tan, tan & cream",30,2,3,2,2,3
+Primate,primate3,squirrel monkey,x,x,x,,"brown & gray, tan & gray",20,2,3,2,2,3
+Primate,primate4,gorilla,x,x,x,,black,60,3,5,5,5,1
+Horse,horse1,American quarter horse,x,,,,"gray, tan, brown, black, cream, white, brown & white, black & white, gray & white",30,5,3,2,3,5
+Horse,horse2,Arabian horse,x,,,,"brown, gray, white, tan, brown & white, black & white, gray & black",30,3,2,3,5,4
+Horse,horse3,thoroughbred horse,x,,,,"gray, tan, brown, black, cream, white, brown & white, black & white, gray & white",30,2,4,3,4,3
+Horse,horse4,Appaloosa horse,x,,,,"gray, tan, brown, black, cream, white, brown & white, black & white, gray & white",30,4,3,4,2,5
+Horse,horse5,pony,x,,,,"gray, tan, brown, black, cream, white, brown & white, black & white, gray & white",35,5,5,2,1,3
+Unicorn,unicorn1,unicorn,x,x,,,"white, pink & white",250,5,5,1,5,1
+Fish,fish1,goldfish,,,,,gold,7,1,1,1,1,1
+Fish,fish2,betta fish,,,,,"red, yellow, orange, blue, purple, green, blue & red, red & purple, blue & purple, blue & orange",4,1,1,1,2,1
+Rodent,rodent1,hamster,,,,,"brown, white, tan, black, gray, brown & white, black & white, gray & white",5,1,1,1,1,1
+Rodent,rodent2,gerbil,,,,,"brown, white, tan, black, gray, gray & white, brown & white, tan & white",5,1,1,1,1,1
+Rodent,rodent3,guinea pig,,,,,"brown, tan, cream, black, red, gold, brown & tan, tan & cream, brown & cream, black & brown, black & white",6,1,1,1,1,1
+Rodent,rodent4,rat,,,,,"black, brown, white, gray, white & gray, brown & white, black & white",5,1,2,1,1,1
+Llama,llama1,llama,,,,,"brown, black, white, gray, red, black & white, tan & white",20,2,3,3,3,1
+Llama,llama2,alpaca,,,,,"brown, black, white, gray, red, black & white, tan & white",20,3,3,2,4,1
+Turtle,turtle1,turtle,,,,,"green, green & brown",30,1,1,2,2,1
+Dog,dog55,Australian cattle dog,x,,,,"black & brown, black & gray, brown & cream",14,5,5,3,2,2
+Dog,dog56,Rhodesian ridgeback,x,,,,"brown, tan",11,4,5,4,4,2
+Dog,dog57,Staffordshire bull terrier,x,,,,"brown, tan, gray, black, black & white, brown & white",12,2,4,4,4,3
+Dog,dog58,West Highland terrier,x,,,,white,15,4,4,2,3,3
+Dog,dog59,Cavalier King Charles spaniel,x,,,,"brown, black & white, black & brown, brown & white",12,4,4,2,3,4
+Dog,dog60,Newfoundland dog,x,,,,"black, black & white, brown",9,3,4,4,4,2
+Dog,dog61,Great Pyrenees,x,,,,white,11,2,4,4,2,2
+Dog,dog62,French bulldog,x,,,,"brown, tan, brown & tan, brown & cream, tan & cream, white",11,3,3,3,5,2
+Dog,dog63,bull terrier,x,,,,"brown & white, black & white, gray & white",12,2,4,4,4,3
+Dog,dog64,weimaraner,x,,,,"gray, brown, tan",11,5,5,3,3,2
+Dog,dog65,cairn terrier,x,,,,"brown, gray, tan, black, white & gray, brown & black, black & gray",14,3,4,2,2,2
+Dog,dog66,wolf,,x,x,,"black, gray, brown, white, black & brown, gray & white",12,1,5,5,5,1
+Dog,dog67,dingo,,x,x,,"brown, black, brown & black, brown & white",15,1,5,5,5,1
+Cat,cat10,tabby cat,,,,,"gray, black & gray, black & brown, black, gray & white, orange",18,3,3,3,1,5
+Cat,cat11,calico cat,,,,,"white & black, white & gray, white & brown",15,3,3,3,1,5
+Cat,cat12,Maine coon cat,x,,,,"white, black, gray, brown, gray & white, brown & white, black & white, black & gray",13,5,4,2,5,4
+Cat,cat13,ragdoll cat,x,,,,"white, white & brown, white & gray, gray & brown, white & black",15,4,4,2,4,4
+Cat,cat14,Abyssinian cat,x,,,,"gray, cream, brown, gray & white, brown & cream",12,5,5,4,4,4
+Cat,cat15,Birman cat,x,,,,"white, white & black, white & gray, white & tan",14,3,4,2,3,2
+Cat,cat16,Himalayan cat,x,,,,"white, cream, black & cream, tan & white, gray & cream",16,3,3,4,3,3
+Cat,cat17,Chartreux cat,x,,,,gray,13,3,4,2,5,2
+Cat,cat18,savannah cat,x,,,,"gray & black, orange & black, tan & black",18,5,4,2,5,3
+Komodo Dragon,komodo1,Komodo dragon,x,,,x,"green & gray, brown & gray",50,1,4,5,5,1
+Sloth,sloth1,sloth,x,,,x,brown & tan,30,2,2,1,4,3
+Skunk,skunk1,skunk,x,,,x,black & white,10,3,3,2,4,5
+Zebra,zebra1,zebra,x,,,x,black & white,45,1,2,5,5,2
+Platypus,platypus1,platypus,x,,,x,brown,17,2,4,4,5,3
+Pangolin,pangolin1,pangolin,x,,,x,dark brown & black,25,1,3,1,5,3

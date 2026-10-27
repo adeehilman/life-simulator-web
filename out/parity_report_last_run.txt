@@ -1,0 +1,28 @@
+{
+  "target": "BitLife 3.25.3 / com.candywriter.bitlife",
+  "generatedBy": "tools/parity_report.py",
+  "manifest": 37478,
+  "webCsvFiles": 965,
+  "webAssetFiles": 16347,
+  "manifestAudioClipObjects": 17,
+  "webAudioWavFiles": 418,
+  "audioIndexFiles": 1,
+  "knownAudioDecodeFailures": 17,
+  "knownFontTextureFailures": 3,
+  "failedAssetCount": 0,
+  "effectDomainCount": 102,
+  "funResolution": {
+    "uniqueFunReferences": 147,
+    "resolvedCount": 2,
+    "unresolvedCount": 145
+  },
+  "sourceHashes": {
+    "out/il2cpp/dump.cs": "72f8c04ce1f9b6f03109747c6fe670d6f6c8af1f7fdd722d9b6fe560d4d93d70",
+    "out/il2cpp/script.json": "bf6d8273c1a18e9da750db3d4f809caedfbdd2cfd8e47ab2d10f0a5cee0dc2ac",
+    "out/data_index.json": "143773b3e949b0b6caac2228d007c7a3ab5463efee753730d0bea6f76c9fbee2",
+    "out/asset_index.json": "44bdfb2661a3f3e7613990ae831b3583818b8d4478b6c62aa418621683beaa7c",
+    "out/ghidra/decompiled_20methods.c": "556a1addee03291f6f60879e014bfabc48a24911b5f33e7a6dd92028802626b8",
+    "out/EVIDENCE_LEDGER.json": "0ae85aea6db5d9eb1a062ee899b3f0b7e201299e8976a8ff9a248c91b604d0d0",
+    "out/scenario_effect_coverage.json": "bbe0534d2ef9573767162fab2e420bd48346e51cf82ff1760c986d8254c7fabf"
+  }
+}

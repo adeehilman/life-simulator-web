@@ -1,0 +1,203 @@
+Industry,Job Title,Influence Score,One Per Facility,Gender,Min Age,Max Age,Required Education,Commonness Score
+brewery,Brewmaster,4,x,,21,60,None,5
+brewery,Assistant Brewer,4,,,21,60,None,4
+brewery,Server,2,,,21,60,None,4
+brewery,Keg Cleaner,1,,,21,60,None,2
+brewery,Brewery Manager,5,x,,21,60,High School,5
+brewery,Microbiologist,4,x,,21,60,Undergraduate,3
+brewery,Drinking Game Coordinator,1,x,,21,60,Community College,1
+brewery,Tour Guide,1,,,21,60,High School,2
+adult toys,Anal Bead Demonstrator,1,x,,18,50,None,1
+adult toys,Store Manager,5,x,,18,60,Undergraduate,5
+adult toys,Buyer,4,x,,18,60,Undergraduate,4
+adult toys,Sales Associate,3,,,18,35,High School,5
+adult toys,Dildo Tester,2,,,18,60,High School,1
+adult toys,Cashier,1,,,18,60,High School,4
+adult toys,Marketing Manager,4,x,,18,60,Undergraduate,3
+adult toys,Customer Service Representative,3,,,18,60,High School,2
+beauty supply,Store Manager,5,x,,18,60,Undergraduate,5
+beauty supply,Buyer,4,x,,21,60,Undergraduate,4
+beauty supply,Drag Queen,1,x,male,18,60,None,1
+beauty supply,Quality Assurance Tester,3,,,16,60,High School,2
+beauty supply,Cashier,1,,,16,60,High School,5
+beauty supply,Marketing Manager,4,x,,21,60,Undergraduate,3
+beauty supply,Customer Service Representative,3,,,18,60,High School,2
+beauty supply,Beauty Consultant,1,,,18,60,High School,2
+clothing outlet,Store Manager,5,x,,18,60,Undergraduate,5
+clothing outlet,Buyer,3,x,,21,60,Undergraduate,4
+clothing outlet,Sales Associate,2,,,16,60,High School,3
+clothing outlet,Cashier,1,,,16,60,High School,5
+clothing outlet,Marketing Manager,4,x,,21,60,Undergraduate,3
+clothing outlet,Mannequin Stylist,1,,,21,60,Undergraduate,1
+clothing outlet,Window Model,2,,,18,35,High School,2
+clothing outlet,Seamstress,3,x,female,18,60,High School,1
+coffeehouse,Barista,3,,,16,60,High School,5
+coffeehouse,Store Manager,5,x,,18,60,Undergraduate,5
+coffeehouse,Cashier,2,,,16,60,High School,3
+coffeehouse,Janitor,1,,,16,60,None,3
+coffeehouse,Bean Roaster,3,,,18,60,None,1
+coffeehouse,Grinder,1,,,18,60,None,1
+coffeehouse,Baker,3,x,,18,60,Community College,3
+coffeehouse,Q Grader,3,x,,21,60,Undergraduate,1
+dairy farm,Herd Manager,5,x,,21,60,Undergraduate,5
+dairy farm,Feeder,3,,,16,60,High School,4
+dairy farm,Milker,3,,,16,60,High School,4
+dairy farm,Veterinarian,4,,,21,60,Veterinary,4
+dairy farm,Milkmaid,1,x,female,18,35,High School,1
+dairy farm,Milking Supervisor,4,x,,21,60,Undergraduate,3
+dairy farm,Reproduction Technician,3,x,,21,60,Veterinary,1
+dairy farm,Butter Churner,1,,,16,60,None,1
+distillery,Lead Distiller,5,x,,21,60,None,5
+distillery,Distiller Assistant,4,,,21,60,None,3
+distillery,Bottling Line Operator,4,,,21,60,None,4
+distillery,Quality Control Manager,4,x,,21,60,None,4
+distillery,Blender,3,,,21,60,None,2
+distillery,Tour Guide,1,,,21,60,None,2
+distillery,Brand Manager,4,,,21,60,Business,3
+distillery,Taste Tester,3,,,21,60,None,1
+lingerie boutique,Store Manager,5,x,,18,60,Undergraduate,5
+lingerie boutique,Buyer,4,x,,21,60,Undergraduate,4
+lingerie boutique,Sales Associate,3,,,18,60,High School,3
+lingerie boutique,Bra Specialist,2,x,,18,60,None,1
+lingerie boutique,Thong Model,1,,female,18,70,None,1
+lingerie boutique,Cashier,2,,,18,60,High School,3
+lingerie boutique,Mannequin Stylist,2,x,,18,60,Undergraduate,2
+lingerie boutique,Customer Service Representative,3,,,18,60,High School,3
+pharmaceutical,Facilities Engineer,4,,,21,60,Graduate,4
+pharmaceutical,Facilities Support Technician,4,,,21,60,Graduate,3
+pharmaceutical,Drug Safety Associate,4,,,21,60,Medical,3
+pharmaceutical,Laboratory Manager,5,x,,21,60,Graduate,5
+pharmaceutical,Sales Representative,3,,,21,60,Undergraduate,2
+pharmaceutical,Quality Assurance Analyst,5,,,21,60,Undergraduate,3
+pharmaceutical,Lab Rat,2,,,18,,None,1
+pharmaceutical,Pharmaceutical Microbiologist,4,x,,21,60,Medical,3
+winery,Tasting Room Manager,3,x,,21,60,High School,3
+winery,Cellar Master,4,x,,21,65,Undergraduate,5
+winery,Cellar Rat,3,,,18,45,High School,3
+winery,Sommelier,5,x,,21,75,High School,4
+winery,Field Worker,3,,,16,,None,4
+winery,Grounds Supervisor,4,x,,21,65,High School,5
+winery,Winemaker,5,x,,21,,Undergraduate,5
+winery,Assistant Winemaker,3,,,21,60,High School,4
+winery,Bunghole Inspector,2,,,18,,High School,2
+jewelry,Appraiser,5,,,18,60,HIgh School,3
+jewelry,Jewelry Designer,3,x,,18,60,Undergraduate,2
+jewelry,Watchmaker,3,x,,18,60,Undergraduate,2
+jewelry,Sales Associate,2,,,18,60,High School,4
+jewelry,Store Manager,5,x,,18,60,Undergraduate,5
+jewelry,Quality Assurance Technician,4,,,18,60,High School,3
+jewelry,Buyer,4,x,,18,60,Business,3
+jewelry,Family Jewel Handler,1,x,,18,60,None,1
+novelty,Buyer,4,x,,21,60,Business,4
+novelty,Sales Associate,2,,,16,60,High School,3
+novelty,Cashier,2,,,16,60,High School,3
+novelty,Marketing Manager,4,x,,18,60,Undergraduate,2
+novelty,Customer Service Representative,2,,,16,60,High School,3
+novelty,Store Manager,5,x,,18,60,Undergraduate,5
+novelty,Quality Assurance Technician,3,,,18,60,High School,3
+novelty,Whoopee Cushion Consultant,1,,,16,60,None,1
+sporting goods,Store Manager,5,x,,18,60,Undergraduate,5
+sporting goods,Buyer,4,x,,21,60,Business,4
+sporting goods,Sales Associate,3,,,16,60,High School,3
+sporting goods,Cashier,2,,,16,60,High School,3
+sporting goods,Marketing Manager,3,x,,21,60,Business,2
+sporting goods,Customer Service Representative,2,,,16,60,High School,2
+sporting goods,Ball Handler,1,,,18,60,None,1
+sporting goods,Athletic Supporter,1,,,18,60,None,1
+gift shop,Buyer,4,x,,21,60,Business,4
+gift shop,Sales Associate,3,,,16,60,High School,3
+gift shop,Cashier,2,,,16,60,High School,3
+gift shop,Marketing Manager,3,,,21,60,Business,2
+gift shop,Wrapper,1,,,16,60,None,1
+gift shop,Customer Service Representative,2,,,16,60,High School,2
+gift shop,Calendar Photographer,1,x,,18,60,Community College,1
+gift shop,Store Manager,5,x,,18,60,Undergraduate,5
+food truck,Head Chef,5,x,,21,60,High School,5
+food truck,Sous Chef,2,x,,16,60,High School,3
+food truck,Truck Mechanic,4,,,18,60,None,2
+food truck,Cashier,2,,,16,60,None,3
+food truck,Prep Cook,3,,,18,60,None,2
+food truck,Yelp Review Writer,4,,,18,60,None,1
+food truck,Sign Twirler,1,,,16,60,None,1
+food truck,Buyer,4,x,,21,60,Business,3
+marijuana dispensary,Budtender,4,,,21,,None,5
+marijuana dispensary,Buyer,5,x,,21,,High School,4
+marijuana dispensary,Quality Assurance Specialist,4,,,21,,High School,3
+marijuana dispensary,Joint Roller,3,,,21,,None,3
+marijuana dispensary,Security Guard,2,,,21,,None,3
+marijuana dispensary,Grower,4,,,21,,None,5
+marijuana dispensary,Ganjier,5,x,,21,,High School,4
+marijuana dispensary,Bud Trimmer,3,,,21,,None,3
+car manufacturer,Assembly Line Worker,2,,,18,60,None,3
+car manufacturer,Factory Manager,5,x,,21,60,Undergraduate,5
+car manufacturer,Quality Assurance Specialist,4,,,21,60,Undergraduate,2
+car manufacturer,Mechanical Engineer,5,,,21,60,Graduate,4
+car manufacturer,Manufacturing Engineer,5,,,21,60,Graduate,4
+car manufacturer,Inventory Manager,3,x,,21,60,Undergraduate,3
+car manufacturer,Test Dummy,3,,,18,,None,1
+car manufacturer,Decal Designer,5,x,,18,,None,1
+semiconductor,Assembly Line Worker,2,,,18,60,None,3
+semiconductor,Factory Manager,5,x,,21,60,Undergraduate,5
+semiconductor,Quality Assurance Specialist,4,,,21,60,Undergraduate,2
+semiconductor,Technical Engineer,5,,,21,60,Graduate,4
+semiconductor,Manufacturing Engineer,5,,,21,60,Graduate,4
+semiconductor,Inventory Manager,3,x,,21,60,Undergraduate,3
+semiconductor,Chip Specialist,2,,,21,60,Graduate,1
+semiconductor,Programmer,3,,,21,60,Graduate,2
+robotics,Assembly Line Worker,2,,,18,60,None,3
+robotics,Factory Manager,5,x,,21,60,Undergraduate,5
+robotics,Quality Assurance Specialist,4,,,21,60,Undergraduate,2
+robotics,Technical Engineer,5,,,21,60,Graduate,4
+robotics,Manufacturing Engineer,5,,,21,60,Graduate,4
+robotics,Inventory Manager,3,x,,21,60,Undergraduate,3
+robotics,Software Engineer,4,,,21,60,Graduate,3
+robotics,Robot Lubricator,2,x,,18,,None,1
+pet supply,Buyer,4,x,,21,60,Business,4
+pet supply,Sales Associate,3,,,16,60,High School,3
+pet supply,Cashier,2,,,16,60,None,3
+pet supply,Marketing Manager,3,,,21,60,Business,2
+pet supply,Customer Service Representative,2,,,16,60,High School,2
+pet supply,Pet Trainer,2,,,18,60,High School,2
+pet supply,Feces Disposal Tech,2,,,16,60,None,1
+pet supply,Store Manager,5,x,,21,60,Undergraduate,5
+pet supply,Cat Herder,1,x,,18,60,None,1
+health food store,Buyer,4,x,,21,60,Business,4
+health food store,Sales Associate,3,,,16,60,High School,3
+health food store,Cashier,2,,,16,60,None,3
+health food store,Marketing Manager,3,x,,21,60,Business,2
+health food store,Customer Service Representative,2,,,16,60,High School,2
+health food store,Store Manager,5,x,,18,60,Undergraduate,5
+health food store,Yogi,1,,,16,,None,1
+health food store,Hippie,1,,,16,,None,1
+footwear,Foot Measurer,1,,,16,60,None,1
+footwear,Buyer,4,x,,21,60,Business,4
+footwear,Store Manager,5,x,,21,60,Undergraduate,5
+footwear,Sales Associate,3,,,16,60,High School,3
+footwear,Cashier,2,,,16,60,None,3
+footwear,Marketing Manager,3,x,,21,60,Business,2
+footwear,Customer Service Representative,2,,,16,60,High School,2
+footwear,Foot Model,2,,,18,,None,1
+consumer electronics,Assembly Line Worker,2,,,18,60,None,3
+consumer electronics,Factory Manager,5,x,,21,60,Undergraduate,5
+consumer electronics,Quality Assurance Specialist,4,,,21,60,Undergraduate,2
+consumer electronics,Technical Engineer,5,,,21,60,Graduate,4
+consumer electronics,Manufacturing Engineer,5,,,21,60,Graduate,4
+consumer electronics,Inventory Manager,3,x,,21,60,Undergraduate,3
+consumer electronics,Software Engineer,4,,,21,60,Graduate,3
+consumer electronics,Hardware Designer,3,x,,21,60,Graduate,2
+kitchenware,Buyer,4,x,,21,60,Business,4
+kitchenware,Sales Associate,3,,,16,60,High School,3
+kitchenware,Cashier,2,,,16,60,None,3
+kitchenware,Marketing Manager,3,,,21,60,Business,2
+kitchenware,Customer Service Representative,2,,,16,60,High School,2
+kitchenware,Store Manager,5,x,,21,60,Undergraduate,5
+kitchenware,Demo Chef,2,x,,18,60,Undergraduate,1
+kitchenware,Knife Specialist,1,,,18,60,None,1
+musical instrument,Buyer,4,x,,21,60,Business,4
+musical instrument,Sales Associate,3,,,16,60,High School,3
+musical instrument,Cashier,2,,,16,60,None,3
+musical instrument,Marketing Manager,3,,,21,60,Business,2
+musical instrument,Customer Service Representative,2,,,16,60,High School,2
+musical instrument,Store Manager,5,x,,21,60,Undergraduate,5
+musical instrument,Store Busker,2,x,,18,,None,1
+musical instrument,Instrument Polisher,1,x,,18,60,None,1

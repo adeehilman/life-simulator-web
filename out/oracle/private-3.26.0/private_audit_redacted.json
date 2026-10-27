@@ -1,0 +1,31 @@
+{
+  "package": "com.candywriter.bitlife",
+  "installedVersion": "3.26.0",
+  "root": {
+    "magiskSuId": "uid=0(root)",
+    "procMaps": "blocked by SELinux",
+    "privateStorageListing": "available for selected paths"
+  },
+  "selectedGameFiles": {
+    "playerPrefsBytes": 4588,
+    "preferencesBytes": 3143,
+    "emptyBackupBytes": 0,
+    "smallGameBlobBytes": 25,
+    "dictionaryBytes": 4016,
+    "encryptedStatisticsFileBytes": 115
+  },
+  "athData": {
+    "decodedBytes": 1883,
+    "classification": "authentication/session JSON, not gameplay save",
+    "topLevelKeys": ["Email", "Guid", "JwtToken", "Method", "RefreshToken", "UserId"],
+    "rawValueStored": false,
+    "tokensStored": false
+  },
+  "gameplayStringSearch": {
+    "Jose Grossweiner": false,
+    "Crispin Focker": false,
+    "Physical Development": false,
+    "Crawl across the floor": false
+  },
+  "conclusion": "No plaintext gameplay save was identified in selected private files. Runtime state remains unavailable through this read-only audit; do not treat this as proof that no encrypted/runtime save exists."
+}

@@ -1,0 +1,229 @@
+Body Part,Outbound Scenario,Inbound Scenario,Clean
+ear,"<you/I> tugged on <his/her> earlobes, bruising them badly!","<he/she> tugged on <your/my> earlobes, bruising them badly!",x
+ear,"<you/I> stuck a finger in <his/her> ear, damaging <his/her> eardrum!","<he/she> stuck <his/her> fingers in <your/my> ears, damaging <your/my> eardrums!",x
+ear,"<you/I> gave <him/her> a roundhouse to <his/her> head, leaving <his/her> ears ringing!","<he/she> gave <you/me> a roundhouse to <your/my> head, leaving <your/my> ears ringing!",x
+ear,"<you/I> grappled with <him/her>, leaving <him/her> with cauliflower ear!","<he/she> grappled with <you/me>, giving <you/me> cauliflower ear!",x
+ear,"<you/I> screamed in <his/her> ear, leaving <him/her> deaf!","<he/she> screamed in <your/my> ear, leaving <you/me> partially deaf!",x
+lung,"<you/I> gave <him/her> a bear hug, leaving <him/her> unconscious!","<he/she> gave <you/me> a bear hug, leaving <you/me> unconscious!",x
+lung,"<you/I> gave <him/her> a flying knee to the chest, knocking the wind out of <him/her>!","<he/she> gave <you/me> a flying knee to the chest, knocking the wind out of <you/me>!",x
+skin,"<you/I> clawed at <his/her> skin, leaving bleeding scratch marks!","<he/she> clawed <your/my> skin, leaving bleeding scratch marks!",x
+skin,<you/I> gave <him/her> an Indian burn on <his/her> wrist!,<he/she> gave <you/me> an Indian burn on <your/my> wrist!,x
+bladder,<you/I> booted <his/her> bladder!,<he/she> booted <your/my> bladder!,x
+kidney,"<you/I> landed a right hook to <his/her> body, pounding <his/her> kidney!","<he/she> landed a right hook to <your/my> body, pounding <your/my> kidney!",x
+stomach,"<you/I> gave <him/her> an elbow drop to the stomach, making <him/her> vomit!","<he/she> gave <you/me> an elbow drop to the stomach, making <you/me> vomit!",x
+stomach,<you/I> walloped <him/her> in the gut!,<he/she> walloped <you/me> in the gut!,x
+stomach,<you/I> bit <him/her> in the belly!,<he/she> bit <you/me> in the belly!,x
+stomach,<you/I> punched <him/her> in the paunch!,<he/she> punched <you/me> in the paunch!,x
+stomach,"<you/I> pounded <him/her> in the six pack, doing virtually no damage to <his/her> chiseled stomach!","<he/she> pounded <you/me> in the six pack, doing virtually no damage to <your/my> chiseled stomach!",x
+throat,"<you/I> gave <him/her> a shot to the gullet, bruising <his/her> throat!","<he/she> gave <you/me> a shot to the gullet, bruising <your/my> throat!",x
+throat,"<you/I> karate chopped his throat, leaving <him/her> speechless!","<he/she> karate chopped <your/my> throat, leaving <you/me> speechless!",x
+throat,<you/I> pummeled his pharynx!,<he/she> pummeled <your/my> pharynx!,x
+pancreas,<you/I> punted <him/her> in the pancreas!,<he/she> punted <you/me> in the pancreas!,x
+pancreas,<you/I> popped <his/her> pancreas!,<he/she> popped <your/my> pancreas!,x
+pancreas,"<you/I> kicked <his/her> pancreas, altering <his/her> insulin levels!","<he/she> kicked <your/my> pancreas, altering <your/my> insulin levels!",x
+mouth,"<you/I> punched <him/her> in the kisser, leaving <him/her> without two front teeth!","<he/she> punched <you/me> in the kisser, leaving <you/me> missing two front teeth!",x
+mouth,<you/I> stuck a fist in <his/her> mouth to show <him/her> how big <his/her> mouth is!,<he/she> stuck <his/her> fist in <your/my> mouth to show <you/me> how big <your/my> mouth is!,x
+mouth,<you/I> mugged <him/her> in <his/her> mandible!,<he/she> mugged <you/me> in <your/my> mandible!,x
+brain,"<you/I> gave <him/her> a Superman punch to the dome, making <him/her> see stars!","<he/she> gave <you/me> a Superman punch to the dome, making <you/me> see stars!",x
+brain,"<you/I> punched <his/her> head, leaving <him/her> with a bruised brain!","<he/she> punched <your/my> head, bruising <your/my> brain!",x
+gallbladder,<you/I> gouged <his/her> gallbladder!,<he/she> gouged <your/my> gallbladder!,x
+gallbladder,"<you/I> busted <his/her> gallbladder, leaving <him/her> unsettled!","<he/she> busted <your/my> gallbladder, leaving <you/me> unsettled!",x
+thyroid,"<you/I> karate chopped <his/her> thyroid, threatening <him/her> with weight gain!","<he/she> karate chopped <your/my> thyroid, threatening <you/me> with weight gain!",x
+thyroid,<you/I> gave <him/her> a swift kick to the thyroid gland!,<he/she> gave <you/me> a swift kick to the thyroid gland!,x
+finger,<you/I> stuck <his/her> finger in <his/her> ear!,<he/she> stuck <your/my> finger in <your/my> ear!,x
+finger,<you/I> dislocated <his/her> finger!,<he/she> dislocated <your/my> finger!,x
+finger,<you/I> deformed <his/her> ring finger!,<he/she> deformed <your/my> ring finger!,x
+finger,<you/I> ripped off <his/her> pointer finger!,<he/she> cracked <your/my> pointer finger!,x
+finger,<you/I> dislocated <his/her> middle finger!,<he/she> dislocated <your/my> middle finger!,x
+forearm,<you/I> smacked <him/her> in <his/her> bingo wings!,<he/she> smacked <you/me> in <your/my> bingo wings!,x
+forearm,<you/I> jacked <his/her> forearm!,<he/she> jacked <your/my> forearm!,x
+waist,"<you/I> walloped <him/her> in the waist, leaving <him/her> somber!","<he/she> walloped <you/me> in the waist, leaving <you/me> somber!",x
+waist,<you/I> pummeled <him/her> with body blows to the midsection!,<he/she> pummeled <you/me> with body blows to the midsection!,x
+back,"<you/I> body slammed <him/her>, knocking the wind out of <him/her>!","<he/she> body slammed <you/me>, knocking the wind out of <you/me>!",x
+back,"<you/I> cracked <his/her> back, leaving <him/her> a hunchback!","<he/she> cracked <your/my> back, making <you/me> a hunchback!",x
+belly button,<you/I> prodded <his/her> belly button!,<he/she> prodded <your/my> belly button!,x
+belly button,"<you/I> forcefully poked <his/her> belly button, turning <his/her> outie into an innie!","<he/she> forcefully poked <your/my> belly button, turning <your/my> outie into an innie!",x
+belly button,<you/I> twisted <his/her> outie belly button!,<he/she> twisted <your/my> outie belly button!,x
+belly button,<you/I> ripped the piercing out of <his/her> belly button!,<he/she> ripped the piercing out of <your/my> belly button!,x
+jugular,<you/I> gave <him/her> a quick jab to the jugular!,<he/she> gave <you/me> a quick jab to the jugular!,x
+jugular,"<you/I> clotheslined <him/her>, bruising <his/her> jugular!","<he/she> clotheslined <you/me>, bruising <your/my> jugular!",x
+jugular,"<you/I> put <him/her> into a sleeper hold, making <him/her> go nighty night!","<he/she> put <you/me> into a sleeper hold, making <you/me> go nighty night!",x
+larynx,"<you/I> give <him/her> a karate chop to the gullet, bruising <his/her> larynx!","<he/she> gave <you/me> a karate chop to the gullet, bruising <your/my> larynx!",x
+larynx,"<you/I> punched <his/her> larynx, leaving <him/her> sounding like Louis Armstrong!","<he/she> punched <your/my> larynx, leaving <you/me> sounding like Louis Armstrong!",x
+larynx,"<you/I> lambasted <his/her> larynx, leaving <him/her> speechless!","<he/she> lambasted <your/my> larynx, leaving <you/me> speechless!",x
+patella,<you/I> pummeled <his/her> patella!,<he/she> pummeled <your/my> patella!,x
+patella,<you/I> pulverized <his/her> patella!,<he/she> pulverized <your/my> patella!,x
+buttocks,<you/I> gave <him/her> a backhand to the buttocks!,<he/she> gave <you/me> a backhand to the buttocks!,x
+buttocks,"<you/I> kicked <him/her> in the keister, leaving <him/her> unable to sit for a week!","<he/she> kicked <you/me> in the keister, leaving <you/me> unable to sit for a week!",x
+buttocks,<you/I> trucked <his/her> tuchus!,<he/she> trucked <your/my> tuchus!,x
+cheek,"<you/I> slapped <his/her> cheek, leaving a handprint!","<he/she> slapped <your/my> cheek, leaving a handprint!",x
+cheek,"<you/I> hooked <his/her> cheek with a finger, dragging <him/her> in a circle!","<he/she> hooked <your/my> cheek with <his/her> finger, dragging <you/me> around with <him/her>!",x
+cheek,<you/I> gave <him/her> a wedgie!,<he/she> gave <you/me> a wedgie!,x
+cheek,<you/I> went George Foreman on <his/her> grill!,<he/she> went George Foreman on <your/my> grill!,x
+rump,"<you/I> walloped <his/her> rump, so <he/she> couldn't sit for days!","<he/she> walloped <your/my> rump, so <you can't/I can't> sit for days!",x
+rump,<you/I> socked <him/her> in the cellulite!,<he/she> socked <you/me> in the cellulite!,x
+rump,<you/I> spanked <his/her> rump!,<he/she> spanked <your/my> rump!,x
+eyeball,"<you/I> clawed <his/her> eye, leaving <him/her> with a scratched cornea!","<he/she> clawed <your/my> eye, leaving <you/me> with a scratched cornea!",x
+eyeball,<you/I> gave <him/her> a two-finger double-eye poke!,<he/she> gave <you/me> a two-finger double-eye poke!,x
+eyeball,<you/I> popped <him/her> in <his/her> peepers!,<he/she> popped <you/me> in <your/my> peepers!,x
+lips,"<you/I> gave <him/her> the ol' one-two, leaving <him/her> with a busted lip!","<he/she> gave <you/me> the ol' one-two, leaving <you/me> with a busted lip!",x
+lips,<you/I> smacked <him/her> in <his/her> duck lips!,<he/she> smacked <you/me> in <your/my> duck lips!,x
+lips,<you/I> popped <him/her> in <his/her> pucker hole!,<he/she> popped <you/me> in <your/my> pucker hole!,x
+lips,<you/I> popped <him/her> in <his/her> kisser!,<he/she> popped <you/me> in <your/my> kisser!,x
+lips,<you/I> yanked out <his/her> lip piercing!,<he/she> yanked out <your/my> lip piercing!,x
+ankle,"<you/I> gave <him/her> a leg sweep, spraining <his/her> ankle!","<he/she> gave <you/me> a leg sweep, spraining <your/my> ankle!",x
+ankle,<you/I> cracked <his/her> cankles!,<he/she> cracked <your/my> cankles!,x
+elbow,<you/I> elbowed <his/her> elbow!,<he/she> elbowed <your/my> elbow!,x
+elbow,"<you/I> dislocated <his/her> elbow, ending <his/her> chance of a tennis career!","<he/she> dislocated <your/my> elbow, ending <your/my> chance at a tennis career!",x
+toenail,"<you/I> stepped on <his/her> toe, cracking <his/her> toenail!","<he/she> stepped on <your/my> toe, cracking <your/my> toenail!",x
+knuckle,<you/I> cracked <his/her> knuckles one at a time!,<he/she> cracked <your/my> knuckles one at a time!,x
+knuckle,<you/I> busted <his/her> knuckles with <his/her> face!,<he/she> busted <his/her> knuckles with <your/my> face!,x
+knuckle,<you/I> bloodied <his/her> knuckles!,<he/she> bloodied <your/my> knuckles!,x
+knuckle,"<you/I> broke <his/her> knuckles, forcing <him/her> to use doorbells for the rest of <his/her> life!","<he/she> broke <your/my> knuckles, forcing <you/me> to use doorbells for the rest of <your/my> life!",x
+heart,"<you/I> roundhouse kicked <his/her> chest, hurting <his/her> heart!","<he/she> roundhouse kicked <your/my> chest, hurting <your/my> heart!",x
+heart,"<you/I> struck <him/her> in the heart, leaving <him/her> blue!","<he/she> struck <you/me> in the heart, leaving <you/me> blue!",x
+heart,"<you/I> punched <him/her> in the heart, leaving <him/her> heartbroken!","<he/she> punched <you/me> in the heart, leaving <you/me> heartbroken!",x
+heart,"<you/I> punched <his/her> chest, making <his/her> heart skip a beat!","<he/she> punched <your/my> chest, making <your/my> heart skip a beat!",x
+heart,<you/I> tagged <him/her> in the ticker!,<he/she> tagged <you/me> in the ticker!,x
+liver,"<you/I> gave <him/her> a left hook to the liver, incapacitating <him/her>!","<he/she> gave <you/me> a left hook to the liver, incapacitating <you/me>!",x
+liver,<you/I> gave <him/her> a scissor kick to the liver!,<he/she> gave <you/me> a scissor kick to the liver!,x
+nose,"<you/I> jabbed <him/her> in the nose, giving <him/her> bloody nostrils!","<he/she> jabbed <you/me> in the nose, giving <you/me> a bloody nose!",x
+nose,<you/I> sucker punched <his/her> schnoz!,<he/she> sucker punched <your/my> schnoz!,x
+nose,<you/I> bit <him/her> on the beak!,<he/she> bit <you/me> on the beak!,x
+nose,<you/I> pulled out <his/her> nose piercing!,<he/she> pulled out <your/my> nose piercing!,x
+spleen,<you/I> sucker punched <his/her> spleen!,<he/she> sucker punched <your/my> spleen!,x
+spleen,<you/I> struck <his/her> spleen!,<he/she> struck <your/my> spleen!,x
+spleen,"<you/I> speared <his/her> spleen, leaving <him/her> sullen!","<he/she> speared <your/my> spleen, leaving <you/me> sullen!",x
+knee,"<you/I> put <him/her> into a kneebar, until <he/she> submitted!","<he/she> put <you/me> into a kneebar, until <you/I> submitted!",x
+knee,<you/I> clocked <him/her> in <his/her> knobby knees!,<he/she> clocked <you/me> in <your/my> knobby knees!,x
+knee,<you/I> kicked <him/her> in the shin hinges!,<he/she> kicked <you/me> in the shin hinges!,x
+thigh,<you/I> kicked <him/her> in the thigh gap!,<he/she> kicked <you/me> in the thigh gap!,x
+thigh,"<you/I> kicked <him/her> in the thighs repeatedly, chopping <him/her> down like a tree!","<he/she> kicked <you/me> in <your/my> thighs repeatedly, chopping <you/me> down like a tree!",x
+kneecap,<you/I> jacked up <his/her> kneecap!,<he/she> jacked up <your/my> kneecap!,x
+kneecap,"<you/I> busted <his/her> kneecap, making <him/her> glum!","<he/she> busted <your/my> kneecap, making <you/me> glum!",x
+kneecap,"<you/I> dislocated <his/her> kneecap, leaving <him/her> irked!","<he/she> dislocated <your/my> kneecap, leaving <you/me> irked!",x
+skull,<you/I> cracked <his/her> skull!,<he/she> cracked <your/my> skull!,x
+skull,<you/I> cleaned <his/her> clock!,<he/she> cleaned <your/my> clock!,x
+skull,<you/I> messed up <his/her> mug!,<he/she> messed up <your/my> mug!,x
+arm,<you/I> put <him/her> in a Kimura armlock until <he/she> tapped out!,"<he/she> put <you/me> in a Kimura armlock, until <you/I> tapped out!",x
+arm,"<you/I> twisted <his/her> arm, making <him/her> willing to do anything!","<he/she> twisted <your/my> arm, making <you/me> willing to do anything!",x
+arm,"<you/I> broke <his/her> humerus, but <he/she> didn't find it funny!","<he/she> broke <your/my> humerus, but <you/I> didn't find it funny!",x
+armpit,<you/I> pulled the hair out of <his/her> armpit!,<he/she> pulled the hair out of <your/my> armpit!,x
+armpit,<you/I> uppercutted <him/her> in the armpit!,<he/she> uppercutted <you/me> in the armpit!,x
+armpit,"<you/I> poked <him/her> in the armpit, incapacitating <his/her> arm!","<he/she> poked <you/me> in the armpit, incapacitating <your/my> arm!",x
+calf,<you/I> put <him/her> into a calf slicer maneuver until <he/she> submitted!,"<he/she> put <you/me> into a calf slicer maneuver, until <you/I> submitted!",x
+calf,"<you/I> kicked <him/her> in <his/her> chicken legs, bruising <his/her> calf!","<he/she> kicked <you/me> in <your/my> chicken legs, bruising <your/my> calf!",x
+calf,"<you/I> kneed <him/her> in the calf, making <his/her> leg go numb!","<he/she> kneed <you/me> in the calf, making <your/my> leg dead!",x
+chest,"<you/I> dropkicked <him/her> to the chest, making <him/her> cry like a baby!","<he/she> dropkicked <you/me> to the chest, making <you/me> cry like a baby!",x
+chest,<you/I> cracked <his/her> ribs with a roundhouse to the chest!,<he/she> cracked <your/my> ribs with a roundhouse to the chest!,x
+chest,<you/I> cracked <his/her> clavicle with a crane kick to the sternum!,<he/she> cracked <your/my> clavicle with a crane kick to the sternum!,x
+chin,<you/I> double jabbed <him/her> in <his/her> double chins!,<he/she> double jabbed <you/me> in <your/my> double chins!,x
+chin,"<you/I> punched <his/her> chin, leaving <him/her> with an underbite!","<he/she> punched <your/my> chin, leaving <you/me> with an underbite!",x
+coccyx,<you/I> clocked <his/her> coccyx!,<he/she> clocked <your/my> coccyx!,x
+coccyx,"<you/I> body slammed <him/her>, bruising <his/her> coccyx!","<he/she> body slammed <you/me>, bruising <your/my> coccyx!",x
+coccyx,<you/I> KO'd <his/her> coccyx!,<he/she> KO'd <your/my> coccyx!,x
+coccyx,"<you/I> bruised <his/her> coccyx, forcing <him/her> to use the bathroom standing up!","<he/she> bruised <your/my> coccyx, forcing <you/me> to use the bathroom standing up!",x
+eyebrow,<you/I> pinched and pulled some hair off of <his/her> eyebrow!,<he/she> pinched and pulled some hair off of <your/my> eyebrow!,x
+eyebrow,<you/I> bruised <his/her> eyebrow with a flying drop kick!,<he/she> busted <your/my> eyebrow with a flying drop kick!,x
+eyebrow,<you/I> ripped the piercing from <his/her> eyebrow!,<he/she> ripped the piercing from <your/my> eyebrow!,x
+eyelid,"<you/I> tugged <his/her> eyelid, pulling out some eyelashes!","<he/she> tugged at <your/my> eyelid, pulling out some eyelashes!",x
+eyelid,<you/I> busted <his/her> eye socket with a cartwheel kick!,<he/she> busted <your/my> eye socket with a cartwheel kick!,x
+eyelid,"<you/I> turned <his/her> eyelid inside out, leaving <him/her> looking like a freak!","<he/she> turned <your/my> eyelid inside out, leaving <you/me> looking like a freak!",x
+face,<you/I> knocked the smile right off of <his/her> face!,<he/she> knocked the smile right off of <your/my> face!,x
+face,<you/I> mangled <his/her> mug!,<he/she> mangled <your/my> mug!,x
+face,<you/I> slapped <his/her> face!,<he/she> slapped <your/my> face!,x
+face,<you/I> backhanded <his/her> mandible!,<he/she> backhanded <your/my> mandible!,x
+fist,<you/I> broke <his/her> hand on <his/her> jawbone!,<he/she> broke <your/my> hand on <his/her> jawbone!,x
+fist,"<you/I> pounded <his/her> fist, breaking <his/her> phalanges!","<he/she> pounded <your/my> fist, breaking <your/my> phalanges!",x
+fist,"<you/I> broke <his/her> fist, preventing <him/her> from fist bumping!","<he/she> broke <your/my> fist, preventing <you/me> from fist bumping!",x
+foot,<you/I> put <him/her> into a figure four leglock until <he/she> cried uncle!,<he/she> put <you/me> into a figure four leglock until <you/I> cried uncle!,x
+forehead,<you/I> battered <his/her> forehead!,<he/she> battered <your/my> forehead!,x
+forehead,<you/I> KO'd <him/her> with an axe kick to the forehead!,<he/she> KO'd <you/me> with an axe kick to the forehead!,x
+forehead,<you/I> went Bruce Lee on <his/her> forehead!,<he/she> went Bruce Lee on <your/my> forehead!,x
+heel,<you/I> went Achilles on <his/her> heel!,<he/she> went Achilles on <your/my> heel!,x
+heel,"<you/I> bit <his/her> heel, leaving a bite mark!","<he/she> bit <your/my> heel, leaving a bite mark!",x
+hip,"<you/I> hip checked <him/her>, bruising <his/her> hip joint!","<he/she> hip checked <you/me>, bruising <your/my> hip joint!",x
+hip,"<you/I> cracked <his/her> hips, reminding <him/her> that hips don't lie!","<he/she> cracked <your/my> hips, reminding <you/me> that hips don't lie!",x
+neck,<you/I> put <him/her> into a rear naked choke until <he/she> went unconscious!,<he/she> put <you/me> into a rear naked choke until <you/I> went unconscious!,x
+neck,"<you/I> put <him/her> into a triangle choke, making <him/her> pass out!","<he/she> put <you/me> into a triangle choke, making <you/me> pass out!",x
+neck,"<you/I> put <him/her> in a guillotine choke, until <he/she> tapped out!","<he/she> put <you/me> in a guillotine choke, until <you/I> tapped out!",x
+neck,<you/I> karate chopped <him/her> in <his/her> giraffe neck!,<he/she> karate chopped <you/me> in <your/my> giraffe neck!,x
+neck,<you/I> cracked <his/her> pencil neck!,<he/she> cracked <your/my> pencil neck!,x
+nostril,<you/I> used two fingers to drag <him/her> by the nostrils!,<he/she> used two fingers to drag <you/me> by the nostrils!,x
+nostril,<you/I> pulled the hair out of <his/her> nostril!,<he/she> pulled the hair out of <your/my> nostril!,x
+nostril,<you/I> probed <his/her> nasal passage!,<he/she> probed <your/my> nasal passage!,x
+nostril,"<you/I> punched <his/her> nose, leaving <him/her> with bloody nostrils!","<he/she> punched <your/my> nose, leaving <you/me> with bloody nostrils!",x
+scalp,<you/I> pulled some hair out of <his/her> scalp!,<he/she> pulled some hair out of <your/my> scalp!,x
+scalp,"<you/I> scratched <his/her> scalp, giving <him/her> dandruff!","<he/she> scratched <your/my> scalp, giving <you/me> dandruff!",x
+scalp,"<you/I> gave <him/her> a noogie, irritating <his/her> scalp!","<he/she> gave <you/me> a noogie, irritating <your/my> scalp!",x
+shin,<you/I> gave <him/her> a solid kick to the shin!,<he/she> gave <you/me> a solid kick to the shin!,x
+shin,"<you/I> kneed <his/her> leg, chipping the bone!","<he/she> kneed <your/my> leg, chipping the bone!",x
+shin,"<you/I> bit <his/her> shin, leaving <him/her> confused!","<he/she> bit <your/my> shin, leaving <you/me> confused!",x
+spine,"<you/I> gave <him/her> the Heimlich maneuver, damaging <his/her> spine!","<he/she> gave <you/me> the Heimlich maneuver, damaging <your/my> spine!",x
+spine,"<you/I> punched <him/her> in the back fat, misaligning <his/her> spine!","<he/she> punched <you/me> in the back fat, misaligning <your/my> spine!",x
+spine,"<you/I> twisted <his/her> torso, tweaking <his/her> spine!","<he/she> twisted <your/my> torso, tweaking <your/my> spine!",x
+thumb,<you/I> dislocated <his/her> thumb!,<he/she> dislocated <your/my> thumb!,x
+thumb,"<you/I> broke <his/her> thumb, making hitchhiking impossible for <him/her>!","<he/she> broke <your/my> thumb, making hitchhiking impossible!",x
+tooth,"<you/I> kicked <his/her> piehole, chipping <his/her> tooth!","<he/she> kicked <your/my> piehole, chipping a tooth!",x
+tooth,<you/I> slapped <his/her> trap shut!,<he/she> slammed <your/my> trap shut!,x
+tooth,<you/I> cold cocked <his/her> yapper!,<he/she> cold cocked <your/my> yapper!,x
+tooth,<you/I> pasted <him/her> right in the chompers!,<he/she> pasted <you/me> right in the chompers!,x
+torso,"<you/I> gave <him/her> a punch to the torso, cracking <his/her> clavicle!","<he/she> gave <you/me> a punch to the torso, cracking <your/my> clavicle!",x
+torso,<you/I> went Jean-Claude Van Damme on <his/her> torso.,<he/she> went Jean-Claude Van Damme on <your/my> torso.,x
+ear,<you/I> bit off a portion of <his/her> ear!,<he/she> bit off a portion of <your/my> ear!,x
+groin,"<you/I> narrowly missed with a foot to the groin, but still managed to chafe <his/her> chode!","<he/she> narrowly missed with a foot to the groin, but still managed to chafe <your/my> chode!",
+bladder,"<you/I> side kicked <his/her> bladder, making <him/her> pee <himself/herself>!","<he/she> side kicked <your/my> bladder, making <you/me> pee!",x
+bladder,"<you/I> karate kicked <his/her> bladder, making <him/her> pee <himself/herself>!","<he/she> karate kicked <your/my> bladder, making <you/me> pee <yourself/myself>!",x
+bladder,"<you/I> busted <his/her> bladder, making <him/her> pee <his/her> underpants!","<he/she> busted <your/my> bladder, making <you/me> pee <your/my> underpants!",x
+kidney,"<you/I> pounded <his/her> kidney, causing <him/her> kidney failure!","<he/she> pounded <your/my> kidney, causing kidney failure!",x
+brain,<you/I> concussed <him/her> with a haymaker to <his/her> head!,<he/she> concussed <you/me> with a haymaker to <your/my> head!,x
+brain,<you/I> dizzied <him/her> with a hammer fist to <his/her> melon!,<he/she> dizzied <you/me> with a hammer fist to <your/my> melon!,x
+brain,"<you/I> gave <him/her> a piledriver, knocking <him/her> out!","<he/she> gave <you/me> a piledriver, knocking <you/me> out!",x
+penis,<you/I> whacked <him/her> below the belt!,<he/she> whacked <you/me> below the belt!,x
+booty,"<you/I> bopped <his/her> booty, leaving <him/her> bitter!","<he/she> bopped <your/my> booty, leaving <you/me> bitter!",x
+booty,<you/I> pummeled the junk in <his/her> trunk!,<he/she> pummeled the junk in <your/my> trunk!,x
+booty,<you/I> beat <his/her> badonkadonk!,<he/she> beat <your/my> badonkadonk!,x
+buttocks,<you/I> battered <his/her> bubble butt!,<he/she> battered <your/my> bubble butt!,x
+eyeball,<you/I> gouged <his/her> eye sockets!,<he/she> gouged <your/my> eye sockets!,x
+toenail,<you/I> ripped off <his/her> toenail!,<he/she> ripped off <your/my> toenail!,x
+torso,"<you/I> tickled <his/her> torso, causing <him/her> to pee <his/her> pants!","<he/she> tickled <your/my> torso, causing <you/me> to pee <your/my> pants!",x
+nipple,<you/I> gave <him/her> a hard nipple twist!,<he/she> gave <you/me> a hard nipple twist!,
+nipple,<you/I> scratched off <his/her> nipple!,<he/she> scratched off <your/my> nipple!,
+nipple,<you/I> gave <him/her> a papercut to the nipple!,<he/she> gave <you/me> a papercut to the nipple!,
+nipple,<you/I> gave <him/her> a nice strong flick to the nipple,<he/she> gave <you/me> a nice strong flick to the nipple!,
+rectum,<you/I> ruined <his/her> rectum!,<he/she> ruined <your/my> rectum!,
+rectum,<you/I> wrecked <his/her> rectum!,<he/she> wrecked <your/my> rectum!,
+rectum,"<you/I> clobbered <his/her> rectum, leaving <him/her> pessimistic!","<he/she> clobbered <your/my> rectum, leaving <you/me> pessimistic!",
+anus,<you/I> sucker punched <his/her> anus!,<he/she> sucker punched <your/my> anus!,
+anus,"<you/I> gave <him/her> a kick to the anus, leaving <him/her> flustered!",<he/she> gave <you/me> a kick to the anus and left <you/me> flustered!,
+anus,"<you/I> smacked <him/her> in the heinie, irritating <his/her> anus!","<he/she> smacked <you/me> in the heinie, irritating <your/my> anus!",
+none,<you/I> dropped <him/her> with a left hook and kicked <him/her> in the face!,<he/she> dropped <you/me> with a left hook then kicked <you/me> in the face!,x
+none,"<you/I> punched <him/her> in the face, making <his/her> eyeball twitch!",<he/she> punched <you/me> in the face making <your/my> eyeball twitch!,x
+none,<you/I> kicked <him/her> in the crotch and cracked <him/her> in the jaw!,<he/she> kicked <you/me> in the crotch then cracked <you/me> in the jaw!,x
+none,<you/I> knocked <him/her> to the ground with <a knee/an elbow strike/a headbutt/a backhand/a Wing Chun slap/an uppercut> to the <gut/face/skull/ear/nose/throat/torso> and followed with a brutal ax kick to the <body-part>.,<he/she> knocked <you/me> to the ground with <a knee/an elbow strike/a headbutt/a backhand/a Wing Chun slap/an uppercut> to the <gut/face/skull/ear/nose/throat/torso> then followed with a brutal ax kick to the <body-part>.,x
+none,<you/I> took <him/her> down with a jab-jab cross uppercut combo and ax stomped <his/her> <body-part>.,<he/she> took <you/me> down with a jab-jab cross uppercut combo then ax stomped <your/my> <body-part>.,x
+none,<you/I> put <his/her> <body-part> in a death grip and twisted until <he/she> hit the ground.,<he/she> put <your/my> <body-part> in a death grip and twisted until <you/I> hit the ground.,x
+none,<you/I> jabbed <his/her> <body-part> with <your/my> fingers and dropkicked <his/her> <body-part>.,<he/she> jabbed <your/my> <body-part> with <his/her> fingers then dropkicked <your/my> <body-part>.,x
+none,<you/I> backhanded <him/her> across the face and then delivered a devastating roundhouse to <his/her> <body-part>.,<he/she> backhanded <you/me> across the face then delivered a devastating roundhouse to the <body-part>.,x
+none,<you/I> kicked <him/her> where the sun don't shine.,<he/she> kicked <you/me> where the sun don't shine.,x
+none,<you/I> tackled <him/her> from behind and slammed <him/her> to the ground with brutal force.,<he/she> tackled <you/me> from behind and slammed <you/me> to the ground with brutal force.,x
+none,<you/I> bent <his/her> finger so far back it made a popping noise.,<he/she> bent <your/my> finger so far back it made a popping noise.,x
+none,<you/I> grabbed <him/her> by the hair and quickly delivered a long-knee to the face.,<he/she> grabbed <you/me> by the hair and quickly delivered a long-knee to the face.,x
+none,<you/I> landed a quick elbow strike to <his/her> abdomen and Wing Chun slapped <his/her> <body-part>.,<he/she> landed a quick elbow strike to <your/my> abdomen then Wing Chun slapped <your/my> <body-part>.,x
+none,<you/I> cracked <him/her> in the jaw and blasted <his/her> face with an iron fist.,<he/she> cracked <you/me> in the jaw then blasted <your/my> face with an iron fist.,x
+none,<you/I> jammed <your/my> finger up <his/her> nostril and pulled <him/her> around in little circles.,<he/she> jammed <his/her> finger up <your/my> nostril and then pulled <you/me> around in little circles.,x
+none,<you/I> Wing Chun slapped <his/her> face so violently it left a bruised handprint.,<he/she> Wing Chun slapped <your/my> face so violently it left a bruised handprint.,x
+none,<you/I> cracked <his/her> jaw with a sideways hammer strike and stomp kicked <him/her> in the <body-part>.,<he/she> cracked <your/my> jaw with a sideways hammer strike then stomp kicked <you/me> in the <body-part>.,x
+none,"<you/I> dropped <him/her> to the ground with a quick jab, right elbow, knee strike combo. ","<he/she> dropped <you/me> to the ground with a quick jab, right elbow, knee strike combo. ",x
+none,<you/I> seized <him/her> by the ears then poked a finger in <his/her> nose.,<he/she> seized <you/me> by the ears then poked a finger in <your/my> nose.,x
+none,<you/I> grasped <him/her> by the ear then delivered a quick throat punch.,<he/she> grasped <you/me> by the ear then delivered a quick throat punch.,x
+none,<you/I> swung a hard left hook into <his/her> temple and slapped <his/her> face with a backhand.,<he/she> swung a hard left hook into <your/my> temple then slapped <your/my> face with a backhand.,x
+none,<you/I> delivered a devastating palm-heel strike to <his/her> <body-part>.,<he/she> delivered a devastating palm-heel strike to <your/my> <body-part>.,x
+none,<you/I> faked <him/her> out with a left swing and stomp kicked <his/her> big toe.,<he/she> faked <you/me> out with a left swing then stomp kicked <your/my> big toe.,x
+none,<you/I> grabbed <him/her> by the back of <his/her> head and pulled it down into a vicious upward knee strike.,<he/she> grabbed <you/me> by the back of the head and pulled it down into a vicious upward knee strike.,x
+none,"<you/I> clutched <him/her> by the ear, pulled <him/her> around in circles, and pinched <his/her> nose really hard!","<he/she> clutched <you/me> by the ear, pulled <you/me> around in circles, then pinched <your/my> nose really hard!",x
+none,<you/I> put <him/her> in a chokehold then ratcheted <your/my> knuckles across <his/her> cranium.,<he/she> put <you/me> in a chokehold then ratcheted <his/her> knuckles across <your/my> cranium.,x
+none,<you/I> slapped <him/her> in the face and then <you/I> slapped <him/her> in the face again even harder.,<he/she> slapped <you/me> in the face and then <he/she> slapped <you/me> in the face again even harder.,x
+none,<you/I> poked <his/her> eyes with <your/my> fingers and boxed <his/her> ear with a left hook.,<he/she> poked <your/my> eyes with <his/her> fingers then boxed <your/my> ear with a left hook.,x
+none,<you/I> straight punched <him/her> in the chin and roundhouse kicked <his/her> ribcage. ,<he/she> straight punched <you/me> in the chin and then roundhouse kicked <your/my> ribcage. ,x
+none,<you/I> seized <him/her> by the collar in a merciless nutcracker choke hold until <he/she> cried for mercy.,<he/she> seized <you/me> by the collar in a merciless nutcracker choke hold until <you/I> cried for mercy.,x

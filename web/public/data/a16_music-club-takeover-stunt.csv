@@ -1,0 +1,35 @@
+Scenario,Log Version,Artist Genre,Popularity Impact,Commonness Score
+<artist> says <he/she> wants to do shots of communion wine off <random-person-indefinite> <back/stomach/legs/feet> to get some more attention.,do shots of communion wine off <random-person-indefinite> <rb>,,1,3
+"<artist> tells you <he/she>'s thinking about singing '<My Neck, My Back/Dancing in the Dark/Judas/1000 Doves/Wrecking Ball>' while hanging upside down from the rafters, just to get some more attention.",sing '<rb>' while hanging upside down from the rafters,,2,4
+<artist> says <he/she> wants to go around the dance floor and pants every <Chad/frat bro> <he/she> sees.,pants every <rb> on the dance floor,,-2,1
+"<artist> says <he/she> wants to try a Benson Boone backflip off <the center stage/the bartender's shoulders/a random fan's head/club employees in a pyramid formation, like cheerleaders>.",do a Benson Boone backflip off <rb>,"alternative, country",3,3
+<artist> says <he/she> wants to tell everyone in the audience to <get on their knees/pray/beg for forgiveness>.,tell everyone in the audience to <rb>,worship,2,3
+<artist> says <he/she> wants to ride an actual wrecking ball right into the venue. ,ride an actual wrecking ball right into the venue,,-3,3
+<artist> tells you <he/she> wants to flash the audience while <being sprayed with water/strobe lights flicker/being pelted with pies>.,flash the audience while <rb>,reggae,1,2
+<artist> says <he/she> wants to wear an overly bedazzled <jester's/clown's> outfit while juggling <batons that are on fire/balls that have spikes on them/dildos/used fleshlights>.,wear an overly bedazzled <rb> outfit while juggling <rb2>,,1,2
+<artist> tells you <he/she> would love to be lowered onto the stage in a real life <power armor from Fallout/RX-78 mobile suit/Metroid-inspired armor/Halo-inspired armor/DOOM-inspired armor/Warhammer-inspired armor> while shooting down <fake aliens/floating saucer props/demons>.,be lowered onto the stage in real life <rb> while shooting down <rb2>,heavy metal,3,3
+<artist> tells you <he/she> wants to engage in a rap battle with <a random person in the audience/a bartender/a security guard>.,engage in a rap battle with <rb>,"rap, hip-hop",3,3
+<artist> tells you <he/she> wants a giant claw to grab members of the audience from the roof like they were prizes in a crane game.,grab members in the audience via cranes in the roof like they were prizes in a crane-game,,-2,2
+<artist> says <he/she> wants to speedrun <Mario 64/Celeste/The Legend of Zelda: Ocarina of Time> live while performing.,speedrun <rb> live ,EDM,1,3
+<artist> wants to bang on <a large drum/a sumo wrestler's stomach/a metal gong> when the beat starts getting good to hype up the audience.,bang on <rb> to hype up the audience,"folk, k-pop, heavy metal",2,3
+<artist> wants to cook a four-course meal on stage while being berated by Gordon Ramsay.,cook a four-course meal on stage while being berated by Gordon Ramsay,,3,3
+<artist> wants to jump on a trampoline while <dodging spears being thrown/catching and eating hot dogs/signing merch> during the performance.,jump on a trampoline while <rb>,,-1,2
+<artist> wants to simulate having sex on stage while <lights flash rapidly over/dancers obscure> the scene.,simulate having sex on stage while <rb> the scene,,-2,2
+<artist> wants to pull a lever and dump <slime/a mysterious black liquid/Labubus/straight up liquid gold> all over the audience.,pull a lever and dump <rb> all over the audience,,2,3
+<artist> wants to control a puppet version of <him/her>self singing the chorus.,control a puppet version of <him/her>self singing the chorus,,3,3
+<artist> wants to run a live ARG during the performance to hint at <his/her> next merch drop,run a live ARG hinting at <his/her> next merch drop,,2,3
+<artist> wants to cosplay as <Jotaro Kujo/Monkey D. Luffy/Levi Ackerman/Son Goku/Gon Freecs/Roy Mustang> and sing anime openings as a show opener.,cosplay as <rb> and sing anime openings as the show opener,,3,3
+<artist> wants to give a live therapy session to a random audience member in the crowd.,give a live therapy session to a random audience member,"rhythm and blues, worship, folk",-1,2
+<artist> tells you <he/she> wants to try swallowing a sword in front of the audience.,swallow a sword in front of the audience,,-2,2
+<artist> tells you <he/she> wants to grab a gnarly surfboard and surf across the audience.,grab a gnarly surfboard and surf across the audience,reggae,1,3
+<artist> tells you <he/she> wants to make an entrance by shredding on guitar while the entire stage bursts into flames.,walk into the venue shredding on guitar while the stage goes up in flames ,"rock, heavy metal",2,2
+<artist> tells you <he/she> wants to ride into the venue on a <stallion/hog/pony/donkey/bull> while throwing <bottles of moonshine/bandanas/cowboy hats/leather boots/lassos> into the crowd.,ride into the venue on a <rb> while throwing <rb2> into the crowd,"country, folk ",3,2
+<artist> tells you <he/she> wants to <hotbox the entire venue/pass out blunts to everyone in the crowd/hit a double-chamber bong on stage/spark up a blunt the size of a baseball bat>.,<rb>,"rap, reggae, hip-hop",2,2
+<artist> tells you <he/she> wants a pastor to <bless the venue/give a sermon/anoint the crowd with holy water/lead a gospel choir intro/consecrate the instruments> during the performance.,a pastor to <rb>,worship ,3,2
+<artist> tells you <he/she> wants to DMX the lights in the venue so they <blast the crowd in sync/turn the whole room into an RGB lightning storm/pulse hard enough to trigger a blackout/strobe violently> with the beat drop.,DMX the lights in the venue to <rb> with the beat drop,EDM,3,3
+<artist> says <he/she> wants to <shoot fireworks into the crowd/fire a machine gun into the air/detonate a live grenade> mid-set.,<rb> mid-set,"pop, rock. alternative, rap, hip-hop, k-pop",-2,2
+<artist> says <he/she> wants to hand out fruit punch spiked with <LSD/psilocybin/ketamine/MDMA/salvia/DMT> to enhance the experience.,hand out punch spiked with <rb> ,"pop, K-pop, rock, EDM",-2,3
+<artist> says <he/she> wants to perform a fully unplugged acoustic set with a strict no-devices policy for the audience. ,perform a fully unplugged acoustic set,"country, folk, rhythm and blues",1,2
+"<artist> says <he/she> wants to stack the speakers in the venue to create a giant ""Wall of Sound,"" just like the Grateful Dead used to do.","stack the speakers in the venue to create a ""Wall of Sound""",,2,3
+"<artist> says <he/she> wants to cheese-spray the speakers like in the Goofy Movie, and eat it after the cheese gets stretched out by the beats. ",cheese-spray the speakers like that one character from the Goofy Movie,"pop, alternative",-1,3
+<he/she> wants to perform a <little jig/serenade> while holding <his/her> childhood saxophone.,perform a <rb> while holding <his/her> childhood saxophone,rhythm and blues,1,1

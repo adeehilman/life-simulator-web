@@ -1,0 +1,72 @@
+Name,Data Type,Commonness Score
+Interstellar <Discoveries/Activities/Observations/Revelations/Exposure/Voyage>,,5
+Look What I Found,,5
+Black Holes & You,Black Hole,4
+The Holy <discovery-name>,Black Hole,2
+This Old Hole,Black Hole,3
+Every Hole is a Goal,Black Hole,1
+Holes in Space,Black Hole,3
+This Thing Sucks,Black Hole,3
+The Galactic Guzzler,Black Hole,2
+Spatial Fissures,Black Hole,5
+The Universe's Most Powerful Vacuum,Black Hole,1
+Event Horizon Zero Dawn,Black Hole,1
+<Supermassive/Ultramassive> Black Holes: Are They a Threat?,Black Hole,3
+Mysteries of Deep Space,Black Hole,4
+It Gazes Back,Black Hole,4
+Butterfly in the Sky,Comet,3
+Astral Flow,Comet,2
+They're Among Us,Extraterrestrial Message,3
+<Screams/Wisdom/Sayings/Conversations/Whispers> from Space,Extraterrestrial Message,5
+Galactic <Screams/Sayings/Wisdom/Wisecracks/Whispers>,Extraterrestrial Message,4
+<EYALD/WREDF/DOLAD/CBDET> <NHD/WOW/SLA/FSB> <PREIOS/WIELSB/MNDHW/EPIRND/LPADGC>,Extraterrestrial Message,5
+<Texts/DMs/Messages/Letters> from <Space/Deep Space/a Probed Space/Uranus/Mars/Mercury/Venus/Jupiter/the Moon/Pluto>,Extraterrestrial Message,5
+Lunar Bling,Lunar Artifact,1
+<Moon/Lunar> <Relics/Treasures/Souvenirs/Memorabilia/Totems/Trinkets>,Lunar Artifact,5
+<Discovered/Uncovered/Found> on the Moon,Lunar Artifact,3
+Lunar Archaeology,Lunar Artifact,3
+<Excavating/Discovering/Unraveling/Artifacts from> the Moon,Lunar Artifact,3
+<Lunar/Moon> Mysteries,Lunar Artifact,2
+The Lunar Puzzle,Lunar Artifact,2
+<Signs of Life/Cosmic Clue/Martian Life/Martian Civilization> Discovered,Martian Artifact,3
+Mars Unearthed,Martian Artifact,5
+Alien Drip,Martian Artifact,1
+The Red Wedding,Martian Artifact,1
+Rusty Artifact Uncovered,Martian Artifact,1
+Salvaged from Rust,Martian Artifact,2
+Signs of Life on Mars,Martian Artifact,3
+Martian <Mysteries/Secrets/Histories> <Unveiled/Revealed/Exposed/on Display/Unfolded/Explored>,Martian Artifact,5
+Genuine Martian Artifact Discovered,Martian Artifact,3
+We Did It,Martian Artifact,2
+Martian Spoils,Martian Artifact,2
+Plundering the Red Planet,Martian Artifact,4
+Earth <II/III/IV/V/VI/VII/VIII/IX/X>?,Planet,4
+Alternate Earth,Planet,3
+Home Away From Home,Planet,3
+New Earth,Planet,3
+<Tales of/Discovering/Exploring/Unveiling> a New World,Planet,4
+Probing the Abyss,Planet,2
+Wide Open Space,Radio Telescope Recording,3
+Deep Space Recording <I/II/III/IV/V/VI/VII/VIII>,Radio Telescope Recording,5
+Heard it Here First,Radio Telescope Recording,2
+"Sounds from Far, Far Away",Radio Telescope Recording,3
+Deep Space Echoes,Radio Telescope Recording,3
+<Alien/Intergalactic/Galactic/Solar/Planetary/Stellar> Sounds,Radio Telescope Recording,3
+<Listening to/Ears in/Beats in> Space,Radio Telescope Recording,4
+"Starlight, Star Bright",Star,2
+Great Balls of <Flame/Fire>,Star,4
+Lucky Star,Star,2
+Flamers in Space,Star,1
+I Could Be Your <Solar Flare/Sunspot/Supernova/Lucky Star/Star/Solar Eclipse>,Star,4
+<Fireball/Fission/Facula/Flaring/Flared-Up/Fusion/Flaming> Fanatics,Star,3
+<Fabulous/Flaming/Fiery/Fantastic> Fusion,Star,4
+Spark in the Distance,Star,2
+A Comet's <Tale/Quest/Journey/Debut/Trip/Adventure>,Comet,3
+New Comet <Discovered/Emerges/on the Horizon/Spotted>,Comet,3
+Comet <Identified/Discovery/Alert>,Comet,3
+Superstar,Star,2
+This is <discovery-name>,"Planet, Comet, Star, Black Hole",5
+<discovery-name> Found on Mars,Martian Artifact,5
+<discovery-name> Found on the Moon,Lunar Artifact,5
+<Probing/Discovering/Orbiting/Locating/Circling> <discovery-name>,"Planet, Comet, Star, Black Hole",5
+I Found <discovery-name>,"Planet, Comet, Star, Black Hole",3

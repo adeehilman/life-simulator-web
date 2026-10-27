@@ -1,0 +1,10 @@
+Role,Solo,Band,Solo Fame Score,Band Fame Score,Primary Instrument,Secondary Instrument,School Activity
+singer,x,x,5,5,voice,,"Choir, Glee Club"
+guitarist,x,x,3,4,guitar,bass guitar,"Concert Band, Jazz Band"
+bassist,x,x,1,4,bass guitar,guitar,"Concert Band, Jazz Band"
+drummer,,x,,3,drums,,"Concert Band, Jazz Band, Marching Band"
+keyboardist,,x,,2,"keyboard, piano",organ,"Concert Band, Jazz Band, Orchestra"
+pianist,x,,4,,piano,"keyboard, organ","Concert Band, Jazz Band, Orchestra"
+violinist,x,,1,,violin,cello,"Concert Band, Jazz Band"
+cellist,x,,1,,cello,violin,"Concert Band, Jazz Band"
+saxophonist,x,,2,,saxophone,,"Concert Band, Jazz Band, Orchestra"

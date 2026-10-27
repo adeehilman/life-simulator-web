@@ -1,0 +1,130 @@
+Index,Item,Plural,Uses Indefinite Article,Health Impact,Happiness Impact,Poison Risk Score
+1,stale hamburger bun,,x,0,0,1
+2,half-eaten bean and cheese burrito,,x,1,1,3
+3,McDonald's cheeseburger,,x,1,2,1
+4,slice of cheese pizza,,x,1,2,1
+5,stale salmon sushi roll,,x,-1,-2,4
+6,soggy meatball sub,,x,1,1,3
+7,day-old tuna sandwich,,x,-1,0,4
+8,King Size Snickers bar,,x,1,3,1
+9,side of warm ranch dressing,,x,0,-1,3
+10,tossed salad,,x,0,3,4
+11,half-eaten egg salad sandwich,,x,0,1,3
+12,day-old potato salad,x,x,-1,1,3
+13,mozzarella cheese stick,,x,2,2,1
+14,peanut butter and jelly sandwich,,x,2,2,1
+15,doggie biscuit,,x,-1,-2,3
+16,slice of cherry pie,,x,1,3,1
+17,organic Gala apple,,x,2,1,1
+18,juicy peach,,x,1,3,1
+19,cup of warm ramen noodles,,x,1,3,1
+20,block of Velveeta cheese,,x,1,2,1
+21,girthy English cucumber,,x,2,3,1
+22,unidentified roadkill,x,x,-2,-3,5
+23,leftover meatloaf with mash,x,x,1,3,2
+24,jumbo shrimp kabob,,x,1,2,3
+25,carton of chunky milk,,x,-2,-3,5
+26,stale dinner roll,,x,0,0,1
+27,half-eaten avocado toast,,x,1,1,1
+28,half of a sub sandwich,,x,2,2,1
+29,chicken drumstick,,x,1,1,3
+30,half-eaten chicken tender,,x,0,1,1
+31,piece of kale,,x,1,0,1
+32,crouton,,x,0,0,1
+33,old bowl of curry,,x,-1,-2,3
+34,thick eggplant,,x,1,2,1
+35,saucy roast beef sandwich,,x,2,2,2
+36,plate of mutton,,x,1,-2,2
+37,box of cold French fries,,x,-1,-1,1
+38,thick sausage link,,x,2,2,3
+39,half-eaten kielbasa,,x,1,2,3
+40,bag of <buffalo sauce/BBQ/honey mustard/ketchup/sea salt/ghost pepper>-flavored potato chips,,x,-1,2,1
+41,bag of chicken nuggets,,x,1,2,2
+42,stick of butter,,x,-2,-2,1
+43,soggy fish filet,,x,1,-2,4
+44,frozen chicken nugget,,x,-1,-3,3
+45,container of <shrimp/chicken/pork> fried rice,,x,2,2,4
+46,leftover chicken parmesan,x,x,2,2,3
+47,corn on the cob,x,x,2,1,1
+48,cupcake,,x,2,3,1
+49,stale cupcake,,x,-1,-2,1
+50,stale piece of German chocolate cake,,x,-1,-3,2
+51,<ketchup/mustard/mayonnaise> packet,,x,-1,-3,1
+52,piece of naan,,x,1,2,1
+53,chicken tender,,x,2,2,2
+54,bowl of gumbo,,x,2,3,2
+55,thick slice of watermelon,,x,1,1,1
+56,half-eaten pear,,x,1,-1,2
+57,popsicle,,x,0,3,1
+58,sucker,,x,0,1,1
+59,<lime/grape/green apple/cherry/pink lemonade>-flavored lollipop,,x,0,1,1
+60,packet of fruit snacks,,x,1,1,2
+61,packet of Gushers,,x,1,1,2
+62,bag of Chex Mix,,x,0,1,1
+63,Oreo cookie,,x,0,1,1
+64,chocolate chip cookie,,x,0,2,1
+65,bale of hay,,x,-2,-3,4
+66,half of a grapefruit,,,1,-1,1
+67,yogurt,x,x,1,1,2
+68,smoothie,,x,2,2,2
+69,sausage biscuit,,x,2,2,2
+70,half-eaten omelette,,x,1,1,3
+71,tin of cat food,,x,-2,-3,4
+72,tin of dog food,,x,-2,-3,4
+73,tin of sardines,,x,-1,-2,4
+74,raw octopus tentacle,,x,-2,-2,5
+75,cold calamari,x,x,-1,-1,4
+76,pork bao,,x,2,2,1
+77,tomato,,x,1,1,1
+78,bag of potato skins,,x,0,2,1
+79,pizza crust,,x,0,-1,1
+80,slice of pepperoni pizza,,x,1,2,1
+81,slice of ham and pineapple pizza,,x,1,2,1
+82,vegan brownie,,x,2,-2,2
+83,vegan egg salad sandwich,,x,-1,-3,5
+84,tub of chocolate frosting,,x,-2,3,3
+85,can of SpaghettiOs,,x,0,1,1
+86,"stale, fuzzy donut",,x,-2,-2,4
+87,black banana,,x,-2,-3,5
+88,banana,,x,1,2,1
+89,lemon,,x,1,-1,1
+90,lime,,x,1,-1,1
+91,doggie bag of Chilean sea bass with lemon cream sauce,,x,2,2,2
+92,doggie bag of pan-seared ribeye with black truffle sauce,,x,2,3,1
+93,doggie bag of lasagna bolognese with garlic knots,,x,2,3,2
+94,to-go container of leftover tonkatsu and rice,,x,2,2,2
+95,to-go container of fish and chips with malt vinegar,,x,2,2,3
+96,to-go container of carne asada with beans and rice,,x,2,1,2
+97,to-go container of leftover Kung Pao chicken,,x,2,2,2
+98,to-go container of pork adobo with garlic fried rice,,x,2,2,1
+99,to-go container of atomic ghost pepper hot wings,,x,-1,-1,2
+100,container of cottage cheese,,x,2,0,3
+101,jar of green chili salsa,,x,1,-1,1
+102,frozen Salisbury steak TV dinner,,x,1,1,1
+103,bag of frozen peas,,x,2,0,1
+104,baked potato,,x,2,0,1
+105,dill pickle,,x,1,0,1
+106,bag of Flamin' Hot Cheetos,,x,-1,1,1
+107,jar of marshmallow fluff,,x,-2,1,1
+108,"bacon, egg, and cheese biscuit",,x,1,1,2
+109,"sausage, egg, and cheese biscuit",,x,1,1,2
+110,slice of french toast,,x,0,1,1
+111,pancake,,x,0,1,1
+112,tater tots,x,x,0,2,1
+113,smoked salmon,x,x,2,1,2
+114,shrimp,x,x,2,1,3
+115,krab salad,x,x,-1,-2,3
+116,gas station sushi,x,x,-2,-3,5
+117,corn dog,,x,-1,1,1
+118,hot dog,,x,-1,1,2
+119,popcorn ball,,x,0,-1,1
+120,beef enchilada,,x,1,3,3
+121,taco,,x,1,1,1
+122,bag of roasted chestnuts,,x,1,1,1
+123,salty nuts,x,x,-1,2,4
+124,packet of cashews,,x,1,1,1
+125,packet of gumdrops,,x,0,2,1
+126,churro,,x,0,3,2
+127,steak-and-cheese taquito,,x,1,2,4
+128,boneless chicken wings,x,x,2,2,3
+129,saltine crackers,x,x,0,0,1

@@ -1,0 +1,26 @@
+Scenario,Risk Score,Commonness Score
+You threatened to fire <employee>.,1,5
+"You told <employee> if something like this ever happens again, <he/she>'s out of here!",3,4
+"You told <employee> that if <he/she> doesn't shape up, <he/she>'s going to ship out.",1,5
+You told <employee> to clean up <his/her> act.,1,5
+"You told <employee> to take <his/her> job seriously, or you would find someone who will.",1,5
+You gave <employee> a wedgie and told <him/her> to get back to work.,2,3
+You told <employee> it would be a shame if something <bad/violent/heinous/horrible> happened to <him/her> in the parking lot after work.,5,2
+You told <employee> to recalibrate <his/her> attitude.,1,3
+You warned <employee> against being a nuisance.,1,4
+You got in <employee-possessive> face and shouted at <him/her>.,3,3
+You spat at <employee>.,4,3
+You physically kicked <employee> out of the building.,5,1
+You called <employee> <insult> and threatened to fire <him/her>.,3,4
+You told <employee> that <he/she>'ll get the axe if <he/she> doesn't adjust <his/her> <behavior/attitude>.,2,4
+You warned <employee> to not make you bust <his/her> buns.,3,3
+"You showed <employee> a picture of a homeless person and said, ""keep it up, and you'll be next"".",3,2
+"You scowled at <employee> while whispering, ""<don't force my hand/this is your last warning/you're lucky I'm in a good mood right now/I hope you have a plan B>"".",3,4
+You silently stared at <employee> while making a throat-slitting gesture.,4,2
+You told <employee> to go sit on a cactus.,2,2
+You told <employee> you know how to snuff out a liability when you see one.,2,4
+You told <employee> you feel <he/she> might be moving in a different direction than the company.,1,3
+You told <employee> you might have to reconsider <his/her> employment if <he/she> isn't careful.,1,3
+You wrote <employee> a strongly-worded letter about how detrimental <his/her> performance is to <his/her> future at the company.,2,3
+You threatened to spank <employee>.,5,1
+You met with <employee> after work and threatened to sack <him/her>.,1,3

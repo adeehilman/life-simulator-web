@@ -1,0 +1,25 @@
+Species,Plural,Handbook Color String,Habitat,Hiking Only,Camping Only,Enjoyment Score,Toxicity Score,Health Impact,Happiness Impact,Hallucinations,Tastes Like,Commonness Score,Emoji Names
+agave,agave flowers,"Margarita fans have agave to thank for tequila, which comes from fermented agave cores.",desert,x,,4,,2,3,,honey,3,outdoor-agave
+arctic lupine,arctic lupine seeds,This hardy plant can survive all but the coldest of winters.,arctic,,x,2,3,-2,-1,,edamame,4,outdoor-arctic-lupine
+chicory,chicory roots,Their roots have fueled caffeine addictions for centuries.,grassland,x,,4,,2,3,,strong coffee,4,outdoor-chicory
+crowberry,crowberries,0/5 taste. Berry bad. Would not recommend.,arctic,x,,2,,1,1,,grass,5,outdoor-crowberry
+death camas,death camas bulbs,Looks like wild garlic but tastes disgusting.,mountain,x,,1,4,-4,,x,soapy hot sauce,3,outdoor-death-camas
+edelweiss,edelweiss petals,This rare beauty is protected by law in Switzerland.,mountain,x,,4,,1,3,,sweet mint,1,outdoor-edelweiss
+fly agaric,fly agaric mushrooms,"If consumed, these 'shrooms produce reality-bending properties with life-altering experiences.",woodland,x,,2,4,2,3,x,steel wool,3,outdoor-fly-agaric
+huckleberry,huckleberries,So good it was once used as a term of endearment.,mountain,,x,5,,3,2,,blueberries,3,outdoor-huckleberry
+lily of the valley,lily of the valley blossoms,Every single part of this sweet-smelling flower is toxic.,woodland,,x,1,5,-5,-1,,raw artichoke,1,outdoor-lily-of-the-valley
+oleander,oleander leaves,The ancient Greeks ate oleander to induce hallucinations.,desert,,x,1,5,-5,-5,x,burnt black tea,2,outdoor-oleander
+ostrich fern,coiled fern heads,"The fern heads, called fiddleheads, are a tasty delicacy.",woodland,,x,5,,2,3,,artichokes,1,outdoor-ostrich-fern
+pitcher plant,pitcher plant leaves,These deadly plants are carnivorous: they eat bugs.,rainforest,,x,1,,1,-1,,rotting bugs,2,outdoor-pitcher-plant
+poppy,poppy seed pods,"The seed pods of the poppy produce powerful opioid effects, including euphoria, sedation, and pain relief.",grassland,x,,5,4,-4,5,,crunchy hazelnuts,1,outdoor-poppy
+prickly pear,prickly pears,You must singe the tiny spines off of the fruit in order to eat it.,desert,x,,3,,2,1,,sweet melon,4,outdoor-prickly-pear
+purple saxifrage,purple saxifrage petals,The sweet-tasting flowers of this plant are some of the northernmost blooms in the world.,arctic,x,,3,,2,4,,nectar,3,outdoor-purple-saxifrage
+red baneberry,red baneberries,"Just 6 of the red, waxy baneberries is enough to cause heart damage.",woodland,,x,2,4,-4,1,,sour pomegranates,3,outdoor-baneberry
+salvia,salvia leaves,"Putting the fresh leaves under your tongue causes sudden, intense hallucinations.",grassland,,x,4,,1,3,x,sage,4,outdoor-salvia
+swamp rose-mallow,rose-mallow flowers,A tea made from these stunning flowers helps with a sore throat.,swamp,x,,3,,3,2,,licorice,3,outdoor-swamp-rose-mallow
+water hemlock,water hemlock stems,Eat at your own risk.,swamp,,x,1,5,-5,-5,,bitter celery,3,outdoor-water-hemlock
+water lily,water lily tubers,"Thanks to Monet, this flower had a real moment in the early 1900s.",swamp,,x,3,,2,3,,potatoes,5,outdoor-water-lily
+rafflesia,rafflesia petals,"The massive and unique rafflesia flower has no leaves, stems, or roots, and smells like rotting flesh.",rainforest,x,,3,2,-2,-2,,a dead body,1,outdoor-rafflesia
+angel's trumpet,angel's trumpet flowers,Every part of the not-so-angelic angel's trumpet plant is toxic.,rainforest,,x,3,4,-4,-5,x,nutmeg,3,outdoor-angels-trumpets
+cacao,cacao fruit,"When mixed with sugar, cacao fruit pods become everyone's favorite dessert: chocolate.",rainforest,x,,4,,4,5,,bitter chocolate,4,outdoor-cacao
+pong pong tree,pong pong fruit,"The fruit of the so-called ""suicide tree"" contains a deadly compound called cerberin.",rainforest,,x,1,5,-5,,,bitter sugar,2,outdoor-pong-pong-tree

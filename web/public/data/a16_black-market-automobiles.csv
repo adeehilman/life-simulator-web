@@ -1,0 +1,51 @@
+Make,Model,Type,Min Value,Max Value,Appreciates,Cool Score,Ease of Theft Score,Commonness Score,Storage Unit Only,ID,Race Type Whitelist,Racing Class,Durability Score,Color
+1908 Ford,Model-T Touring,Coupe,100000,250000,x,3,3,3,,801,"street, demolition",C,5,red
+1963 Shelby,289 Cobra CSX 2147,Coupe,1000000,2000000,x,5,2,2,x,802,"street, demolition, circuit",B,55,blue
+1973 Ferrari,Dino 246 GTS,Coupe,500000,750000,x,5,1,2,,803,"street, demolition, circuit",B,45,red
+1997 Nissan,GT-R 400R Nismo,Coupe,500000,750000,x,5,2,3,,804,"street, demolition, circuit",A,55,red
+2002 Ferrari,Enzo,Coupe,3700000,11000000,x,5,1,1,,805,"street, demolition, circuit",A,50,red
+2017 Ferrari ,LaFerrari Aperta,Coupe,2900000,2900000,x,5,1,1,,806,"street, demolition, circuit",A,45,yellow
+1967 Toyota,2000 GT,Coupe,1500000,2900000,x,5,2,2,,807,"street, demolition, circuit",B,42,red
+2012 Lexus,LFA Nurburgring,Coupe,1100000,2500000,x,5,2,3,,808,"street, demolition, circuit",A,55,black
+1968 Ford,GT40 Gulf/ Mirage,Coupe,11500000,22500000,x,5,2,2,,809,"street, demolition, circuit",A,52,blue
+1967 Mazda,Cosmo 110 Sport,Coupe,650000,1100000,x,5,2,1,,810,"street, demolition, circuit",B,47,seafoam
+1970 Nissan,Z432R,Coupe,900000,1500000,x,5,1,3,x,811,"street, demolition, circuit",B,45,orange
+2014 Lamborghini,Veneno Roadster,Coupe,11200000,16300000,x,5,2,3,,812,"street, demolition, circuit",A,50,black
+1962 Ferrari,250 GTO,Coupe,70000000,95000000,x,5,1,1,,813,"street, demolition, circuit",A,44,red
+1963 Aston Martin,DP215,Coupe,21500000,30000000,x,5,2,4,,814,"street, demolition, circuit",A,42,green
+1954 Mercedes-Benz,W196 Silver Arrow,Coupe,32500000,39600000,x,5,1,2,,815,"street, demolition, circuit",B,33,gray
+1939 Mercedes-Benz,540K Special Roadster,Coupe,15700000,21200000,x,5,2,1,,816,"street, demolition, circuit",B,55,black
+2009 Mercedes-Benz,SLR McLaren Stirling Moss,Coupe,2700000,3900000,x,5,2,2,,817,"street, demolition, curcuit",A,60,white
+1965 Shelby,427 Cobra Roadster,Coupe,6900000,8400000,x,5,2,3,,818,"street, demolition, curcuit",A,65,blue
+1931 Duesenberg,Model J Coupe,Coupe,14400000,21700000,x,5,1,1,,819,"street, demolition, curcuit",C,33,burgundy
+1989 Porsche,911 Turbo 930,Coupe,550000,1200000,x,5,1,4,,820,"street, demolition, curcuit",A,44,red
+1970 Plymouth,Road Runner Superbird,Coupe,650000,1200000,x,5,2,3,x,821,"street, demolition, curcuit",B,67,green
+2006 Mitsubishi,Lancer Evolution IX MR,Coupe,220000,890000,x,5,2,4,,822,"street, demolition, curcuit",B,50,red
+2008 Rolls-Royce,Pininfarina Phantom Hyperion,Coupe,4200000,5500000,x,5,1,3,,823,"street, demolition",B,67,blue
+2019 Rolls-Royce,Armored Cullinan,SUV,1900000,2750000,x,5,1,2,,824,"street, demolition",B,80,black
+2021 Rolls-Royce,Ghost,Sedan,650000,980000,x,5,1,4,,825,"street, demolition",B,70,silver
+1931 Bentley,4-1/2 litre Blower,Coupe,11000000,16500000,x,5,1,1,,826,"street, demolition",B,45,green
+1999 Bentley,Hunaudi\350res Concept,Coupe,4500000,7500000,x,5,1,2,,827,"street, demolition, curcuit",A,57,green
+2021 Bentley,Mulliner Bacalar,Coupe,2500000,5500000,x,5,1,4,,828,"street, demolition, circuit",A,72,mustard
+2019 Lamborghini,Sian FKP 37,Coupe,4200000,6300000,x,5,2,3,,829,"street, demolition, circuit",A,49,silver
+2016 Lamborghini,Centenario,Coupe,2200000,3600000,x,5,2,2,,830,"street, demolition, circuit",A,49,black
+2012 Lamborghini,Aventador J,Coupe,3600000,5700000,x,5,1,4,,831,"street, demolition, circuit",A,52,red
+2000 Nissan,Skyline R34 GT-R F&F,Coupe,11000000,17000000,x,5,1,1,,832,"street, demolition, circuit",A,70,blue
+1974 BMW,3.0 CSL Batmobile,Coupe,650000,1800000,x,5,2,2,x,833,"street, demolition, circuit",A,65,gray
+1980 BMW,M1,Coupe,920000,1780000,x,5,3,4,,834,"street, demolition, circuit",B,62,red
+1957 BMW,507,Coupe,2900000,4200000,x,5,2,2,,835,"street, demolition, circuit",B,57,black
+1997 Porsche,911 GT1 Strassenversion,Coupe,3900000,4990000,x,5,2,2,,836,"street, demolition, circuit",B,47,silver
+2007 Porsche,Carrera GT,Coupe,890000,1750000,x,5,1,4,,837,"street, demolition, circuit",A,47,silver
+1989 Porsche,959,Coupe,2700000,3450000,x,5,2,3,,838,"street, demolition, circuit",A,50,burgundy
+1965 Aston Martin,DB5,Coupe,2200000,4200000,x,5,3,1,,839,"street, demolition, circuit",A,52,red
+1998 McLaren,F1,Coupe,27000000,33000000,x,5,2,2,,840,"street, demolition, circuit",A,44,orange
+1970 Plymouth,Hemi 'Cuda Convertible,Coupe,3600000,4800000,x,5,3,2,,841,"street, demolition, circuit",A,55,yellow
+1969 Dodge,Charger Daytona,Coupe,770000,1920000,x,5,2,3,,842,"street, demolition, circuit",B,69,orange
+1963 Chevrolet,"Corvette C2 Z06 ""Big Tank"" ",Coupe,820000,1890000,x,5,2,1,,843,"street, demolition, circuit",B,27,cream
+2000 Honda,NSX-R,Coupe,350000,970000,x,5,2,4,x,844,"street, demolition, circuit",A,44,white
+1939 Alfa Romeo,8C 2900,Coupe,2900000,3400000,x,5,2,4,,845,"street, demolition",C,39,burgundy
+1960 Maserati,Birdcage (Tipo 61),Coupe,15000000,30000000,x,5,1,2,,846,"street, demolition, circuit",B,29,red
+2004 Pagani,Zonda,Coupe,1700000,3600000,x,5,1,3,,847,"street, demolition, circuit",A,36,cream
+2010 Koenigsegg,CCX,Coupe,1780000,33000000,x,5,1,3,,848,"street, demolition, circuit",A,48,silver
+1985 Audi,Sport Quattro,Coupe,900000,1900000,x,5,3,2,,849,"street, demolition",B,53,blue
+1956 Mercedes-Benz,300 SL Gullwing,Coupe,950000,2400000,x,5,2,1,x,850,"street, demolition, circuit",B,56,black

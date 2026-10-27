@@ -1,0 +1,47 @@
+String,Habitat,Danger Score,Commonness Score
+eat a <caterpillar/butterfly/beetle/stink bug/ladybug> off of a leaf,,1,3
+snap a raven's beak clean off of its face,,5,3
+share an intimate moment with its mate,,1,1
+clean its mate's feathers,,1,4
+divebomb a <garter/rat/corn> snake,,4,1
+<sing/whistle/rasp> a cheerful <tune/song>,,1,5
+shake snow off of its feathers,arctic,1,4
+huddle up with another <outdoor-bird> to conserve heat,arctic,1,5
+"trying to land on an ice floe, but it slipped and fell",arctic,1,2
+take a dust bath in the sand,desert,1,5
+flap loose skin at its throat to cool off in the desert heat,desert,1,2
+slurp liquid from a <cactus fruit/prickly pear cactus/sumac berry>,desert,1,3
+play hide-and-seek with another <outdoor-bird> among the <buffalo grass/needlegrass/switchgrass/grama grass>,grassland,1,2
+pluck seeds from between the grass fronds,grassland,1,5
+hollow out a nest cavity in the grass of a pasture,grassland,1,3
+clean itself in a puddle under a <kapok/rubber/xate/strangler fig/cacao/palmito> tree,rainforest,1,4
+admire a bright <scarlet/magenta/turquoise/yellow/purple/orange> flower blooming under the rainforest canopy,rainforest,1,3
+hunt and peck for <an assassin bug/a bullet ant/a longhorn beetle/a leaf-mimic katydid/a leafhopper nymph/a glasswing butterfly>,rainforest,2,5
+snatch up <a dragonfly/a water strider/a diving beetle/a whirligig beetle/a stonefly/an alderfly/a lacewing> and eat it,swamp,1,4
+forage for food by the <shore/water's edge>,swamp,2,5
+roll around in a mud puddle,swamp,1,1
+find a hollow in a <maple/pine/spruce/beech/hickory/chestnut> tree,woodland,1,3
+fly to the highest branches of the trees and perch,woodland,2,5
+play fetch with itself by dropping a leaf from a high-up tree branch,woodland,1,1
+screech and take off after a smaller bird,,4,5
+tilt its head and look at you with raptor-like (but <cute/adorable>) eyes,,2,3
+unfurl its wings and flap them <threateningly/ominously/with violent intent>,,5,3
+feed a morsel to one of its <hatchlings/fledglings/babies/chicks/nestlings>,,1,5
+put on <a showy/a silly/an absurd/a complex/a preposterous/a strange> mating dance for another <outdoor-bird>,,1,3
+"tilt its head and scan the horizon, hunting for prey",,4,4
+fight another bird for <a caterpillar/a worm/a succulent berry/a mealworm/a sunflower seed/a lone ramen noodle/a pizza crust/a french fry>,,3,3
+tend to a nest of <two/three/four/five/six> eggs,,1,5
+<tear apart/feast on> a dead <dormouse/mouse/vole/shrew/fish/scorpion>,,5,4
+attack another bird species' nest,,3,1
+<inspect/examine/scrutinize> its cloaca,,1,1
+accidentally step on another <outdoor-bird> and then start a fight,,3,2
+try to <swallow/gobble down/gulp down/scarf down/consume/ingest> a piece of food way too big for its throat,,3,2
+settle down for a <glorious/blissful/pleasant> nap,,1,3
+"stare deeply at its reflection in a puddle, then attack its doppelganger",,3,2
+sunbathe on a rock,,1,2
+pick up a <small/large/gargantuan> stick and drag it back to its nest,,2,3
+bring a snack to its mate,,1,4
+blink its <creepy/weird> third eyelids at you,,3,4
+<defecate/evacuate its bowels/excrete feces> directly in front of you,,2,2
+thrashing up leaf litter to find <mice/lizards/small snakes> to eat,,4,5
+emit a <blood-curdling/terrifying/heart-stopping/piercing> shriek,,5,2

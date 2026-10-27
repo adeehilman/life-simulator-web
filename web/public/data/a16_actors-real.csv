@@ -1,0 +1,173 @@
+Full Name,Film Genre,Age,Gender,Country,Success Score
+Meryl Streep,drama,72,female,us,5
+Brad Pitt,drama,58,male,us,5
+Johnny Depp,fantasy,58,male,us,5
+Tom Hanks,drama,65,male,us,5
+Jennifer Lawrence,action,31,female,us,5
+George Clooney,drama,60,male,us,5
+Keanu Reeves,action,57,male,ca,5
+Julia Roberts,drama,54,female,us,5
+Sandra Bullock,drama,57,female,us,5
+Samuel L. Jackson,action,73,male,us,5
+Leonardo DiCaprio,drama,47,male,us,5
+Clint Eastwood,western,91,male,us,5
+"Robert Downey, Jr",action,56,male,us,5
+Scarlett Johansson,action,37,female,us,5
+Robert De Niro,drama,78,male,us,5
+Will Smith,drama,53,male,us,5
+Dustin Hoffman,drama,84,male,us,5
+Jack Nicholson,drama,84,male,us,5
+Al Pacino,drama,81,male,us,5
+Gwyneth Paltrow,drama,49,female,us,5
+Matthew McConaughey,action,52,male,us,5
+John Travolta,sci-fi,68,male,us,5
+Matt Damon,action,51,male,us,5
+Tom Cruise,action,59,male,us,5
+Ryan Gosling,romance,41,male,ca,5
+Ryan Reynolds,comedy,45,male,ca,5
+Jamie Foxx,drama,54,male,us,5
+Benedict Cumberbatch,drama,45,male,gb,5
+Dwayne Johnson,action,49,male,us,5
+Ariana Grande,comedy,28,female,us,5
+Denzel Washington,drama,67,male,us,5
+Christian Bale,action,47,male,us,5
+Kevin Bacon,romantic comedy,63,male,us,5
+Paul Rudd,comedy,53,male,us,5
+Emma Stone,drama,33,female,us,5
+Lindsay Lohan,comedy,35,female,us,4
+Whoopi Goldberg,comedy,66,female,us,4
+Madonna,musical,63,female,us,4
+Sylvester Stallone,action,75,male,us,4
+Chris Evans,action,40,male,us,4
+Chris Hemsworth,action,38,male,us,4
+Viola Davis,drama,56,female,us,4
+Octavia Spencer,drama,51,female,us,4
+Daniel Radcliffe,fantasy,33,male,gb,4
+Bruce Willis,action,67,male,us,4
+Tom Holland,action,25,male,gb,4
+Tom Hiddleston,action,40,male,gb,4
+Zendaya,musical,25,female,us,4
+Nicholas Cage,drama,58,male,us,4
+Rachel McAdams,comedy,43,female,ca,4
+Natalie Portman,drama,40,female,us,4
+Pete Davidson,comedy,28,male,us,4
+Mila Kunis,drama,38,female,us,4
+Tom Hardy,action,44,male,gb,4
+Emma Watson,fantasy,31,female,gb,4
+Kristen Bell,comedy,41,female,us,4
+Melissa McCarthy,comedy,51,female,us,4
+Maya Rudolph,comedy,49,female,us,4
+Eddie Redmayne,drama,40,male,gb,4
+Tina Fey,comedy,51,female,us,4
+Michael Cera,comedy,33,male,ca,4
+Lupita Nyong'o,drama,38,female,ke,4
+Idris Elba,action,49,male,gb,4
+Andrew Garfield,drama,38,male,gb,4
+Drew Barrymore,romantic comedy,46,female,us,4
+Frances McDormand,drama,64,female,us,4
+John Goodman,comedy,69,male,us,4
+Steve Buscemi,comedy,64,male,us,4
+Alec Baldwin,comedy,63,male,us,4
+Adam Sandler,comedy,55,male,us,4
+Bryan Cranston,drama,66,male,us,4
+Jennifer Lopez,romantic comedy,52,female,us,4
+Anna Kendrick,musical,36,female,us,4
+Cher,musical,75,female,us,4
+Stanley Tucci,drama,61,male,us,3
+Queen Latifah,drama,51,female,us,3
+Eugene Levy,comedy,75,male,ca,3
+Dan Levy,comedy,38,male,ca,3
+Issa Rae,comedy,37,female,us,3
+Jane Fonda,drama,84,female,us,3
+Seth Green,comedy,47,male,us,3
+Seth Rogen,comedy,39,male,ca,3
+Elizabeth Olsen,action,32,female,us,3
+Rob Lowe,drama,58,male,us,3
+Gal Gadot,fantasy,37,female,il,3
+Jim Carrey,comedy,60,male,ca,3
+Kathryn Hahn,comedy,48,female,us,3
+Taraji P. Henson,drama,51,female,us,3
+Rashida Jones,comedy,45,female,us,3
+Kristen Stewart,fantasy,31,female,us,3
+Dev Patel,drama,31,male,gb,3
+Megan Fox,horror,35,female,us,3
+Neil Patrick Harris,comedy,48,male,us,3
+Anya Taylor-Joy,drama,26,female,us,3
+Luke Wilson,drama,50,male,us,3
+Zooey Deschanel,comedy,42,female,us,3
+Sarah Michelle Gellar,fantasy,44,female,us,3
+Jennifer Garner,comedy,49,female,us,3
+Blake Lively,drama,34,female,us,3
+Alexis Bledel,drama,40,female,us,3
+Milla Jovovich,sci-fi,46,female,ua,3
+John Cena,action,44,male,us,3
+Matt Dillon,drama,58,male,us,3
+Kieran Culkin,indie,39,male,us,3
+Matthew Perry,comedy,52,male,ca,3
+Kate Beckinsale,action,48,female,gb,3
+James Franco,comedy,43,male,us,3
+Michelle Pfeiffer,drama,63,female,us,3
+Amanda Seyfried,musical,36,female,us,2
+Liam Hemsworth,action,32,male,au,2
+Tracee Ellis Ross,comedy,49,female,us,2
+Christopher Walken,drama,79,male,us,2
+Keira Knightley,drama,37,female,gb,2
+Owen Wilson,comedy,53,male,us,2
+Jaden Smith,drama,23,male,us,2
+Constance Wu,romantic comedy,40,female,us,2
+Katherine Heigl,drama,43,female,us,2
+Emily Deschanel,drama,45,female,us,2
+David Boreanaz,fantasy,52,male,us,2
+Alicia Silverstone,comedy,45,female,us,2
+Mandy Moore,drama,37,female,us,2
+Raven-Symon\351,comedy,36,female,us,2
+Vin Diesel,action,54,male,us,2
+Cole Sprouse,drama,29,male,us,2
+Dylan Sprouse,drama,29,male,us,2
+Claire Danes,drama,42,female,us,2
+Hugh Grant,romantic comedy,61,male,gb,2
+Katie Holmes,drama,43,female,us,2
+Charlie Sheen,comedy,57,male,us,2
+James Van Der Beek,drama,45,male,us,2
+Paul Giamatti,drama,55,male,us,2
+Denise Richards,drama,50,female,us,2
+Pierce Brosnan,action,68,male,gb,2
+Tara Reid,sci-fi,46,female,us,2
+Jenna Fischer,comedy,47,female,us,2
+Rainn Wilson,comedy,56,male,us,2
+Peter Sarsgaard,indie,51,male,us,2
+John Malkovich,indie,68,male,us,1
+Tommy Wiseau,comedy,66,male,pl,1
+Jennifer Love Hewitt,drama,42,female,us,1
+Carrot Top,comedy,56,male,us,1
+Roseanne Barr,comedy,69,female,us,1
+Rosie O'Donnell,comedy,59,female,us,1
+Steven Seagal,action,69,male,us,1
+Meghan Markle,drama,40,female,us,1
+Lena Dunham,drama,35,female,gb,1
+Tia Mowry,comedy,43,female,us,1
+Tamera Mowry,comedy,43,female,us,1
+Brendan Fraser,comedy,53,male,us,1
+Mr. T,action,69,male,us,1
+Daniel Baldwin,drama,61,male,us,1
+Tim Roth,indie,60,male,gb,1
+Parker Posey,indie,53,female,us,1
+Anne Hathaway,drama,39,female,us,5
+Will Ferrell,comedy,54,male,us,4
+Nicole Kidman,drama,54,female,au,5
+Emily Blunt,drama,38,female,gb,4
+Daniel Craig,action,53,male,gb,4
+Lin-Manuel Miranda,musical,42,male,us,4
+Michelle Rodriguez,action,43,female,us,3
+Sarah Jessica Parker,comedy,56,female,us,4
+Kim Cattrall,comedy,65,female,ca,3
+Priyanka Chopra,Bollywood,39,female,in,4
+Shah Rukh Khan,Bollywood,56,male,in,4
+Salman Khan,Bollywood,56,male,in,4
+Akshay Kumar,Bollywood,54,male,in,4
+Hrithik Roshan,Bollywood,48,male,in,4
+Ajay Devgan,Bollywood,52,male,in,4
+Deepika Padukone,Bollywood,36,female,in,4
+Kareena Kapoor Khan,Bollywood,41,female,in,4
+Katrina Kaif,Bollywood,38,female,in,4
+Anushka Sharma,Bollywood,33,female,in,4

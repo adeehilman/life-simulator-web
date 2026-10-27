@@ -1,0 +1,37 @@
+String,Moved With Sector,Min Delta,Max Delta
+"The company received an award for ""Outstanding Achievement in <Growth/Finance/Sales/Revenue Generation>"" this year. ",,80,100
+The company experienced significantly increased profits after a new CEO took over and fired a handful of <corrupt/unethical/self-serving> top executives.,,65,100
+The company's growth rate skyrocketed this year.,,50,100
+The company outperformed every metric this year.,,50,100
+The company experienced record profits in line with a booming year for the <sector>.,x,50,100
+The company generated more revenue than expected this year.,,40,100
+The company acquired one of its competitors and grew <return-absolute> in profit this year.,,30,100
+"The company released <two/three/four> new products this year, increasing revenue by <return>.",,10,35
+The company's holdings grew <return> this year.,,0.01,100
+This company and others in the <sector> saw marginal growth this year.,x,0.01,5
+The company's profit margin grew <return> this year.,,0.01,100
+"Due to an increase in consumers' interest in the <sector>, companies across the board experienced profit growth.",x,0.01,100
+The company boosted its presence this year.,,0.01,25
+Exponential economic growth resulted in gains among companies in the <sector>.,x,20,100
+The company lost some of its momentum this year.,,-10,-0.01
+The company took a hit in profit this year.,,-100,-0.01
+The company took a hit in profit this year and fell <return-absolute>.,,-15,-0.01
+The company laid off <one-third/one-half> of its workers to cut costs yet still reported a net loss.,,-25,-0.01
+The company struggled this year.,,-100,-0.01
+"The company underwent a hostile takeover by one of its shareholders, causing its value to destabilize.",,-25,-0.01
+The company experienced a decline in profits due to a supply chain disruption affecting the <sector>.,x,-25,-0.01
+The company suffered losses in the <first/second> and <third/fourth> quarters this year.,,-50,-0.01
+"The company's latest ventures flopped, resulting in a net loss of <return-absolute> this year.",,-50,-0.01
+Revenue plummeted after TMZ exposed a C-suite sex scandal within the company.,,-50,-0.01
+The company's profits tanked after the CEO made seriously offensive statements <in an interview/on a podcast/on social media>.,,-65,-0.01
+This company and many others in the <sector> suffered losses this year.,x,-100,-0.01
+The company is rumored to declare bankruptcy soon.,,-100,-50
+The company reported a loss in profits this year.,,-100,-0.01
+The company fell behind its projected revenue goals this year.,,-100,-0.01
+"Due to hyperinflation in the <sector>, the company suffered a net loss of <return-absolute> this year.",x,-100,-0.01
+"The company reported a decline in goods and services rendered this year, resulting in a net loss of <return-absolute>.",,-100,-0.01
+The company's gross profit margin fell <return-absolute> this year.,,-100,-0.01
+The company underperformed across every metric this year.,,-100,-50
+Poor economic growth resulted in losses among companies in the <sector>.,x,-100,-0.01
+"The company experienced diminished returns on several of its own investments, decreasing its stock's value by <return-absolute>.",,-100,-15
+The company reported a decline in consumer interest this year.,,-100,-0.01

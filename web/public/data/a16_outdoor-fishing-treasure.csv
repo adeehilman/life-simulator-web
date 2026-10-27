@@ -1,0 +1,22 @@
+Name,List Item Name,Uses Indefinite Article,Uses Definite Article,Plural,Min Value,Max Value,Can Be Refurbished,Appreciates,Location,Commonness Score,Emoji String
+"10,000-year-old obsidian knife",Mesolithic knife,x,,,10000,100000000,x,x,lake,1,"outdoor-10,000-year-old-obsidian-knife"
+ancient arrowhead,arrowhead,x,,,150,5000,,x,"lake, river",5,outdoor-ancient-arrowhead
+antique chamber pot,antique chamber pot,x,,,100,150,x,x,river,4,outdoor-antique-chamber-pot
+bottle of Pappy Van Winkle,expensive bourbon,x,,,1000,55000,,x,lake,1,outdoor-bottle-of-pappy-van-winkle
+chunk of ambergris,ambergris,,,,1000,100000,,,ocean,2,outdoor-chunk-of-ambergris
+dinosaur bone,dinosaur bone,x,,,1000,20000,,x,"lake, river, ocean",3,outdoor-dinosaur-bone
+discarded wedding ring,wedding ring,x,,,200,6000,x,x,"lake, river, ocean",4,outdoor-discarded-wedding-ring
+first-generation iPhone,old iPhone,x,,,200,3000,,,"lake, river",3,outdoor-first-generation-iPhone
+freshwater pearl,freshwater pearl,x,,,450,3000,,x,river,4,outdoor-freshwater-pearl
+lace mankini,lace mankini,x,,,100,350,x,x,river,3,outdoor-lace-mankini
+mammoth tusk,Mammoth tusk,x,,,200000,500000,x,x,"lake, river",1,outdoor-mammoth-tusk
+message in a bottle,message in a bottle,x,,,100,600,,,ocean,4,outdoor-message-in-a-bottle
+old coin,old coin,x,,,5,100,,x,"lake, river, ocean",5,outdoor-old-coin
+orange sea glass,orange sea glass,,,x,40,100,,,ocean,5,outdoor-orange-sea-glass
+pirates' stash of doubloons,pirate treasure,x,,,2000,15000,,x,ocean,2,outdoor-pirates-stash-of-doubloons
+purple seashell bra,seashell bra,x,,,500000,1000000,x,x,ocean,1,outdoor-purple-seashell-bra
+rubber boot,rubber boot,x,,,10,20,,,"lake, river, ocean",5,outdoor-rubber-boot
+scale of the Loch Ness Monster,cryptid scale,x,,,50000,100000,,x,lake,1,outdoor-scale-of-Loch-Ness-Monster
+sea sponge wearing pants,clothed sponge,x,,,50,1000,,,ocean,1,outdoor-sea-sponge-wearing-pants
+Titanic Diamond,blue diamond necklace,,x,,2500000,500000000,x,x,ocean,1,outdoor-Titanic-Diamond
+vintage beer bottle,old beer bottle,x,,,10,200,,x,"lake, river, ocean",5,outdoor-vintage-beer-bottle

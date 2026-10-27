@@ -1,0 +1,188 @@
+{
+  "target": "BitLife 3.25.3 / com.candywriter.bitlife",
+  "generatedAt": "2026-10-26",
+  "rules": [
+    {
+      "id": "content.csv.decrypt",
+      "rule": "965 base64 -enc TextAssets decrypt to CSV data",
+      "source": ["tools/decrypt_all.py", "out/decrypted/", "web/public/data/"],
+      "status": "verified"
+    },
+    {
+      "id": "model.life",
+      "rule": "Life schema contains 318 parsed fields",
+      "source": ["out/il2cpp/dump.cs", "tools/dump_schema.py", "out/schema/types.ts"],
+      "status": "verified"
+    },
+    {
+      "id": "rng.system-random",
+      "rule": "DataHub.GetRandomNumber routes through one static Mono System.Random",
+      "source": ["out/REPORT_MECHANICS.md", "out/il2cpp/dump.cs", "web/src/rng.ts"],
+      "status": "static-verified"
+    },
+    {
+      "id": "stats.impact-table",
+      "rule": "Impact scores clamp to -6..6 and map to -100,-50,-30,-16,-8,-4,[tunable],4,8,16,30,50,100",
+      "source": ["out/REPORT_MECHANICS.md", "web/src/stats.ts", "web/src/core.test.ts"],
+      "status": "static-verified"
+    },
+    {
+      "id": "stats.clamp",
+      "rule": "Stat writes clamp float values to 0..100 and negative impact is ignored through age 4",
+      "source": ["out/REPORT_MECHANICS.md", "web/src/stats.ts", "web/src/core.test.ts"],
+      "status": "static-verified"
+    },
+    {
+      "id": "age.pipeline",
+      "rule": "Life.IncrementAge orders simulation, UI, then Genesis memory snapshot",
+      "source": ["out/ghidra/decompiled_14methods.c", "out/REPORT_MECHANICS.md"],
+      "status": "static-verified"
+    },
+    {
+      "id": "scenario.formats",
+      "rule": "Scenario supports legacy and designer formats; designer has 54 headers and up to four choice routes/impact/action fields",
+      "source": ["out/il2cpp/dump.cs", "out/ghidra/decompiled_14methods.c", "out/data_index.json"],
+      "status": "partially-verified"
+    },
+    {
+      "id": "scenario.selection",
+      "rule": "ValidateAndSetScenario uses tier/deck structures and queue processing, not only a uniform random CSV row",
+      "source": ["out/ghidra/decompiled_14methods.c", "out/ghidra/fun_resolution_14methods.json"],
+      "status": "static-verified"
+    },
+    {
+      "id": "web.csv-parser",
+      "rule": "Web parser preserves quoted commas, escaped quotes, and multiline quoted fields",
+      "source": ["web/src/csv.ts", "web/src/core.test.ts"],
+      "status": "test-verified"
+    },
+    {
+      "id": "web.content-copy",
+      "rule": "Web build contains 965 CSV tables and 16,347 copied sprite/texture/font files",
+      "source": ["out/web_coverage.json", "out/asset_index.json", "web/public/data/", "web/public/assets/"],
+      "status": "build-verified"
+    },
+    {
+      "id": "web.persistence",
+      "rule": "Versioned JSON save envelope supports IndexedDB autosave and import/export migration",
+      "source": ["web/src/persistence.ts", "web/src/core.test.ts"],
+      "status": "test-verified"
+    },
+    {
+      "id": "scenario.eligibility",
+      "rule": "Web scenario eligibility applies age, gender, country, and visible stat gates; deck/tier queue semantics remain unimplemented",
+      "source": ["out/REPORT_SCENARIO_ENGINE.md", "web/src/engine/scenario.ts", "web/src/core.test.ts"],
+      "status": "partially-verified"
+    },
+    {
+      "id": "scenario.weighting",
+      "rule": "Commonness Score is used as a non-negative row weight; zero-weight rows are not selected",
+      "source": ["web/src/engine/scenario.ts", "web/src/core.test.ts"],
+      "status": "test-verified"
+    },
+    {
+      "id": "audio.catalog",
+      "rule": "418 successfully extracted WAV files are copied and playable through web audio helper; one explicit web age-up event mapping exists, while 17 FMOD failures and APK trigger mapping remain",
+      "source": ["web/public/audio/_index.json", "web/src/audio.ts", "web/src/App.tsx", "web/src/core.test.ts"],
+      "status": "partially-verified"
+    },
+    {
+      "id": "domains.typed",
+      "rule": "Typed loaders exist for careers, countries, diseases, and relationship scenarios; full domain coverage pending",
+      "source": ["web/src/data/domains.ts", "out/data_index.json"],
+      "status": "partially-verified"
+    },
+    {
+      "id": "age.pipeline.hooks",
+      "rule": "Web annual pipeline exposes and tests simulation -> UI -> memory hook order",
+      "source": ["out/REPORT_MECHANICS.md", "web/src/engine/life.ts", "web/src/core.test.ts"],
+      "status": "test-verified"
+    },
+    {
+      "id": "mechanics.batch20",
+      "rule": "20 target addresses decompiled successfully; six added targets remain insufficient for new exact mechanics rules due unresolved function boundaries/types",
+      "source": ["out/ghidra/decompiled_20methods.c", "out/REPORT_MECHANICS_20METHODS.md"],
+      "status": "partially-verified"
+    },
+    {
+      "id": "scenario.designer-metadata",
+      "rule": "Compiler preserves raw designer impacts, advanced logic, route, currency cost, age-up flag, and blueprint payload; known simple comparison gates evaluate conservatively",
+      "source": ["out/il2cpp/dump.cs", "web/src/engine/scenario.ts", "web/src/core.test.ts"],
+      "status": "test-verified"
+    },
+    {
+      "id": "scenario.effect-coverage",
+      "rule": "Decrypted corpus contains 102 authored impact domains; generic domainState retains unsupported numeric effects when present and persistence preserves them, but typed domain semantics remain pending",
+      "source": ["out/scenario_effect_coverage.json", "web/src/engine/actions.ts", "web/src/engine/life.ts", "web/src/persistence.ts", "web/src/core.test.ts"],
+      "status": "partially-verified"
+    },
+    {
+      "id": "scenario.domain-registry",
+      "rule": "Generated registry enumerates all 102 authored impact domains with source file/column counts and conservative categories",
+      "source": ["out/scenario_effect_coverage.json", "web/src/engine/domain-registry.ts", "web/src/core.test.ts"],
+      "status": "test-verified"
+    },
+    {
+      "id": "apk.oracle.capture",
+      "rule": "Read-only ADB capture method verified against connected BitLife package; current device package is version 3.26.0/versionCode 1069, so captured frames are baseline-only and not target 3.25.3 fixtures",
+      "source": ["tools/oracle_capture.py", "tools/oracle_ocr.py", "out/oracle/bitlife-3.26.0-baseline/capture.json", "out/oracle/bitlife-3.26.0-baseline/device_state.txt", "out/oracle/bitlife-3.26.0-baseline/logcat.txt", "out/oracle/bitlife-3.26.0-baseline/fixture_sequence.json", "out/oracle/bitlife-3.26.0-baseline/ocr_fixture.json", "out/oracle/bitlife-3.26.0-baseline/ocr_fixture_002.json"],
+      "status": "partially-verified"
+    },
+    {
+      "id": "apk.private.audit",
+      "rule": "Magisk root enabled for read-only selected-path audit; ATH_DATA decodes as auth/session JSON and raw value was discarded; no plaintext gameplay save found in selected private files",
+      "source": ["out/oracle/private-3.26.0/private_audit_redacted.json"],
+      "status": "partially-verified"
+    },
+    {
+      "id": "apk.corpus.scenario-match",
+      "rule": "Visible 3.26.0 Physical Development content matches target 3.25.3 universal scenario row 117; Vaccination is a candidate version delta and is not assumed equivalent",
+      "source": ["tools/match_oracle_scenarios.py", "out/oracle/bitlife-3.26.0-baseline/scenario_matches.json", "out/decrypted/a16_dumb-scenarios-universal.csv"],
+      "status": "partially-verified"
+    },
+    {
+      "id": "web.rng.snapshot",
+      "rule": "MonoRandom exposes exact seed-array/index/draw-count snapshot and restore; Life persistence stores and restores rngState",
+      "source": ["web/src/rng.ts", "web/src/engine/life.ts", "web/src/persistence.ts", "web/src/App.tsx", "web/src/core.test.ts"],
+      "status": "test-verified"
+    },
+    {
+      "id": "web.annual.trace",
+      "rule": "Annual simulation returns consumed RNG draws and tested hook order is simulation, UI, then memory",
+      "source": ["web/src/engine/life.ts", "web/src/core.test.ts"],
+      "status": "test-verified"
+    },
+    {
+      "id": "genesis.native-schema",
+      "rule": "Native metadata exposes BluePrintType, GenesisFilter, and MATH_OPERATOR surfaces used by the web interpreter",
+      "source": ["out/il2cpp/dump.cs", "web/src/model/enums.ts", "web/src/model/Game_Genesis_BluePrints.ts", "web/src/model/Genesis_Entities.ts"],
+      "status": "static-verified"
+    },
+    {
+      "id": "web.genesis-interpreter",
+      "rule": "Genesis filters evaluate typed operators and the state interpreter transactionally applies vars/entities/transient objects/collections/slots/feature containers; unsupported BlueprintTypes are explicit diagnostics",
+      "source": ["web/src/engine/genesis.ts", "web/src/core.test.ts"],
+      "status": "test-verified"
+    },
+    {
+      "id": "frida.root-attach",
+      "rule": "Frida 17.24.3 client/server run with server UID 0 and attach to the installed BitLife 3.26.0 process",
+      "source": ["out/oracle/frida-3.26.0/setup_evidence.json", "out/oracle/frida-3.26.0/probe_events.json"],
+      "status": "verified"
+    },
+    {
+      "id": "frida.native-module-loading",
+      "rule": "Installed APK contains ARM64 libil2cpp.so and libunity.so, but neither was mapped in the attached WSA process during the probe window; no RVA hook was installed",
+      "source": ["out/oracle/frida-3.26.0/setup_evidence.json", "out/oracle/frida-3.26.0/module_watch.json"],
+      "status": "blocked"
+    }
+  ],
+  "knownGaps": [
+    "Exact scenario condition/blueprint/action interpreter is not complete.",
+    "145 FUN references in the 14-method output remain unresolved by script.json.",
+    "17 AudioClip failures remain undecoded and music trigger mapping is absent.",
+    "UI layout and navigation are not yet mapped against APK screens/prefabs.",
+    "29 loose IAP containers remain unresolved.",
+    "Runtime parity fixtures against the APK are not yet collected."
+  ]
+}

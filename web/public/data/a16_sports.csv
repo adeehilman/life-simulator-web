@@ -1,0 +1,8 @@
+Sport,Fame Score,Season Games,Tie Odds,Max Win Percent,Min Age,Records Include Ties,Has Draft,Draft Rounds,Male Draft League,Female Draft League,Male Min Salary,Male Max Salary,Female Min Salary,Female Max Salary,Ball Bracket,Stadium Bracket,Field Bracket,Referee Bracket,Game Bracket
+football,5,16,250,100,21,,x,7,1000,,"$510,000","$50,000,000",,,football,stadium,field,official,game
+basketball,5,82,0,80,18,,x,2,2000,2100,"$893,310","$45,000,000","$120,000","$2,175,000",basketball,arena,court,referee,game
+baseball,4,162,0,72,18,,x,5,3000,,"$563,500","$45,000,000",,,baseball,park,field,umpire,game
+hockey,3,82,0,75,18,,x,7,4000,,"$650,000","$16,000,000",,,puck,arena,rink,official,game
+soccer,5,38,4,100,16,x,,,,,"$500,000","$50,000,000","$80,000","$900,000",soccer ball,stadium,pitch,referee,match
+rugby,3,25,200,100,18,x,,,,,"$50,000","$750,000",,,rugby ball,stadium,pitch,referee,match
+volleyball,5,40,0,100,18,,x,5,,7000,,,"$1,000,000","$50,000,000",volleyball,arena,court,official,match

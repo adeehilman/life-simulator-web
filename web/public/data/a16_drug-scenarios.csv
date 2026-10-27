@@ -1,0 +1,68 @@
+Condition,Scenario,CTA,Yes Choice,No Choice,Specific Drug
+School,"While on your lunch break, an older kid offers you <drug>.",What will you do?,Why not?,Not a chance,
+School,"Your teacher notices you are easily distracted, and offers you <drug>.",What will you do?,I'll take it before I forget,"Wait, what?","ritalin, adderall"
+School,Your school janitor comes up to you and offers you and your friends <drug>.,What will you do?,"Sure, as long as it's clean","No thanks, Mr. Clean",
+School,You just went to the school nurse with a headache and the nurse offers you <drug>.,What will you do?,"Sure, if it'll help",I'll stick with water,
+School,Your chemistry teacher asks you if you want to test out his newest batch of <drug>.,What will you do?,If it will strenghten our bond\u2026,Get outta here,"cocaine, methamphetamine, oxycodone, ecstasy, GHB, ketamine, PCP, morphine, crack cocaine"
+School,Your dance teacher approaches you before class and tells you that dance is more fun with <drug>.,What will you do?,"Absolutely, I'm no wallflower",I'll sit this one out,"ecstasy, cocaine, acid, magic mushrooms, methamphetamine, crack cocaine"
+School,"Your jazz band teacher offers you <drug>, and says all the jazz greats used it.",What will you do?,That's music to my ears,Sounds like a train wreck,"marijuana, magic mushrooms, acid, mescaline"
+School,"While at school, another student offers you <drug> to help you stay up all night studying for an exam.",What will you do?,That'll make the grade,"No thanks, coffee will do","methamphetamine, ritalin, adderall, cocaine"
+School,A cheerleader at your school asks you if you would like to try some of her <drug>.,What will you do?,Gimme a hit! Right! Now!,I'd literally die,
+School,"During class, the teacher's pet whispers in your ear and offers you <drug>.",What will you do?,Don't mind if I do,"No way, brown-noser",
+School,"Before school, a nerd offers you <drug>.",What will you do?,"Definitely, dork!",Get lost dweeb!,
+None,"<circumstance-public>, a homeless man offers you <drug>.",What will you do?,"Sure, and here is a dollar","Beat it, dude!",
+None,"While at a coffee shop, the barista offers you <drug>.",What will you do?,Serve it up,I'll stick with a mocha,
+None,"You go to the doctor for a splinter, and he offers you a prescription for <drug>.",What will you do?,Write it up doc,I'll try an aspirin,"oxycodone, morphine, sleeping pills, valium, ritalin, xanax, adderall, vicodin, cough syrup"
+None,"While on a plane, the flight attendant offers all of the passengers <drug>.",What will you do?,As long as the pilot is sober,"No, I'll just take a nap","oxycodone, opium, valium, xanax, vicodin, sleeping pills"
+None,"While at the library, the librarian whispers that if you can keep your voice down, she has <drug> for you.",What will you do?,"Sure, I can use my quiet voice","No, I'm here for a biography",
+None,"While at a museum, an employee offers you <drug> and tells you it will make the art more interesting.",What will you do?,Sounds fun,"No, it's interesting enough as is","magic mushrooms, marijuana, opium, acid"
+None,Your friends have all started doing <drug> and ask you if you'd like to try it.,What will you do?,Why not?,I don't think so,
+None,"Your friend asks you if you want to get swol, and offers you <drug>.",What will you do?,Gimme the juice,I'm not pumped about that,anabolic steroids
+None,A veterinarian offers you <drug> for you and your cat.,What will you do?,We'd like that,Just enough for the cat please,ketamine
+None,"While at <musician-indefinite> concert, someone offers you <drug>.",What will you do?,You don't have to ask me twice,"No, I'd like to remember this",
+None,Your mailman offers you some <drug>.,What will you do?,Where do I sign for it?,Just my postcards please,
+None,Your hairdresser offers you some <drug>.,What will you do?,Let's get wild,That won't cut it,
+None,"While in the grocery store checkout line, a clerk offers you some <drug>.",What will you do?,Bag it up,Just the broccoli,
+None,A stockbroker offers you some <drug>.,What will you do?,I'll invest in that,Too risky,cocaine
+None,A rideshare driver offers you some <drug>.,What will you do?,Let's do it,This is my stop,
+None,"While at the circus, a clown offers you some <drug>.",What will you do?,You put a smile on my face,That's not funny,
+None,"While walking through the park, a mom pushing a stroller offers you some <drug>.",What will you do?,Thanks mom!,Keep on walking,
+None,"While out for a walk, a junkie offers you <drug>.",What will you do?,I'd hit that,Crack is whack!,crack cocaine
+None,A football player you know offers to share his <drug> with you.,What will you do?,Let's juice,I'll punt on that,anabolic steroids
+None,A local musician offers you <drug>.,What will you do?,Sounds dope,Not my genre,
+None,A chef asks you if you'd like him to cook you up some <drug>.,What will you do?,"Sure, compliments to the chef",I'll stick with a salad,methamphetamine
+None,"While at a pow wow, a Native American offers you <drug>.",What will you do?,If it's okay with the chief,Maybe next time,mescaline
+None,"While at the beach, a surfer offers you some <drug>.",What will you do?,Sure thing bro,"No, that sounds gnarly",marijuana
+None,"While out for a walk, a hippy offers you some <drug>.",What will you do?,"Sure, I'm a free spirit",Peace out man!,"marijuana, magic mushrooms, acid, mescaline"
+None,"While at the gym, a weightlifter says you look like you could use some <drug>.",What will you do?,Pump me up bro!,"No, I'll just hit up the eliptical",anabolic steroids
+None,"While at the church, a nun offers you some <drug>.",What will you do?,"Sure, I'm a sinner",Thou art a sinner!,
+None,"While in confession, a priest offers you some <drug>.",What will you do?,I'll confess to that,Thou art a sinner!,
+None,"While out for a walk, a monk offers you some <drug>.",What will you do?,If it'll help me attain nirvana,I'll stick with meditation,
+None,"While out walking, an old grandma offers you some <drug>.",What will you do?,"Sure thing, granny","You're kidding, right?",
+None,"While out walking, an old grandpa offers you some <drug>.",What will you do?,"Sure thing, gramps","You're kidding, right?",
+None,"While walking downtown, a pimp offers you some <drug>.",What will you do?,Hell yeah!,"No thank you, sir",
+None,"While walking downtown, a drug dealer offers you some <drug>.",What will you do?,Hell yeah!,"No thank you, sir",
+None,"While walking downtown, a prostitute offers you some <drug>.",What will you do?,Sure thing sugar lips!,No thank you ma'am,
+Prison,"While hanging out in the prison yard, another inmate asks you if you'd like a hit of <drug>.",What will you do?,Hit me,Get away from me,
+Prison,"A fellow inmate asks you if you want  to get swol, and offers you some <drug>.",What will you do?,Gimme the juice,I'm not pumped about that,anabolic steroids
+Prison,"While lying down in your cell at the end of the day, your cellmate offers you some <drug>.",What will you do?,Anything to make the time pass,I'm trying to get my life together,
+Prison,"While hanging out in the prison yard, a guard offers you some <drug>.",What will you do?,"Sir, yes sir!",I'm tryin' to keep it clean,
+Prison,"While sitting in the prison mess hall, another inmate offers you some <drug>.",What will you do?,Hell yeah!,Hell no!,
+Club,"While at the club, someone in the bathroom offers you <drug>.",What will you do?,"Sure, dancing will be better","No, this club is creepy",
+Club,"While at the club, the bartender offers you <drug>.",What will you do?,Serve it up,Check please,
+Club,"While at the club, the bouncer offers you <drug>.",What will you do?,Sure thing beefy,No way buffy,
+Club,"While at the club, a cocktail server offers you <drug>.",What will you do?,Serve it up,Check please,
+Club,"While at the club, the DJ offers you some <drug>.",What will you do?,I'll drop that,Go scratch yourself,
+Club,"While at the club, a go go dancer offers you some <drug>.",What will you do?,I'll take it,I'm here for the eye candy,
+Club,"While at the club, a stranger offers you some <drug>.",What will you do?,What's the worst that could happen?,I don't talk to strangers,
+Club,"While at the club, another patron asks you if you'l like to try <drug>.",What will you do?,Thanks for sharing,"Pound sand, dude!",
+None,"While at a house party, your friend's brother asks you if you'd like to try <drug>.",What will you do?,You don't have to twist my arm,I think I'll pass,
+Job,Your supervisor offers you some <drug> after a meeting.,What will you do?,Let's do this,"Sorry, I have some things to work on",
+Job,Your co-worker asks you if you would like to try <drug>.,What will you do?,Why didn't you ask sooner?,Maybe another time,
+Job,A co-worker asks you if you want to drop some <drug> before going into a meeting.,What will you do?,Sounds fun,You're trippin',acid
+Job,A person you work with asks you if you would like to go do <drug> on your lunch break.,What will you do?,You don't have to ask me twice,"No thanks, I brought my lunch",
+Job,A co-worker tells you he spiked the punch with <drug> at a work party.,What will you do?,Let's roll,I'll stick with water,
+Job,"You find some <drug> in your desk drawer at work, with a note saying, ""You look like you could use this!"".",What will you do?,I can definitely use this,Throw it away,
+Job,"Your supervisor says it is obvious that everyone looks stressed, and offers the entire team <drug>.",What will you do?,"Sure, I'm a team player",I'll work through it,"marijuana, oxycodone, opium, valium, xanax, vicodin"
+Job,"Your co-worker asks you if you want to get swol, and offers you some <drug>.",What will you do?,Gimme the juice,I'm not pumped about that,anabolic steroids
+Job,Your co-worker asks you if you'd like to do some <drug> at the holiday party.,What will you do?,Let it snow!,Maybe next year,cocaine

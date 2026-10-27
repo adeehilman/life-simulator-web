@@ -1,0 +1,37 @@
+{
+  "oracleVersion": "3.26.0",
+  "package": "com.candywriter.bitlife",
+  "versionCode": 1069,
+  "device": "127.0.0.1:58526",
+  "architecture": {
+    "device": "x86_64",
+    "packagePrimaryCpuAbi": "arm64-v8a",
+    "split": "split_config.arm64_v8a.apk",
+    "translation": "WSA/Houdini"
+  },
+  "frida": {
+    "clientVersion": "17.24.3",
+    "serverVersion": "17.24.3",
+    "serverUid": 0,
+    "serverUser": "root",
+    "attachPid": 26952,
+    "attachStatus": "verified"
+  },
+  "nativeTarget": {
+    "libil2cpp": {
+      "presentInInstalledNativeDir": true,
+      "sizeBytes": 106514720,
+      "mappedInAttachedProcess": false
+    },
+    "libunity": {
+      "presentInInstalledNativeDir": true,
+      "sizeBytes": 23579024,
+      "mappedInAttachedProcess": false
+    }
+  },
+  "probeArtifacts": [
+    "out/oracle/frida-3.26.0/probe_events.json",
+    "out/oracle/frida-3.26.0/module_watch.json"
+  ],
+  "interpretation": "Frida root setup and process attach are verified. Native Unity/IL2CPP loading is not verified in the current WSA ARM64-on-x86_64 runtime; no RVA hook was installed and no gameplay/RNG state was mutated."
+}

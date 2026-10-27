@@ -1,0 +1,488 @@
+Animal,Type,Commonness Score,Other Person Involved,Sentence
+Bird,Fluke,1,x,<pronoun> died from heat exhaustion after <person> inadvertently left <him/her> outside on a hot summer day.
+Bird,Fluke,1,x,<pronoun> died from hypothermia after <person> accidentally left <him/her> outside on a cold night.
+Bird,Fluke,1,x,<pronoun> died after <person> took <him/her> to a party where <he/she> accidentally ingested some <cocaine/methamphetamine/oxycodone/heroin/opium/MDMA/GHB/ketamine/PCP/mescaline/morphine/valium/sleeping pills/vicodin/crack> and suffered an overdose.
+Bird,Fluke,1,x,<pronoun> died after <person> accidentally left <him/her> in the car on a very <hot/cold> day.
+Bird,Fluke,2,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Bird,Fluke,1,,<pronoun> died from dehydration after <his/her> water bottle malfunctioned.
+Bird,Fluke,1,,<pronoun> suddenly died when a <friend/neighbor/family member> accidentally <sat/stepped> on <him/her>.
+Bird,Fluke,2,,<pronoun> died after choking on <a chew toy/a seed/chewing gum/bird food/a piece of banana/a piece of bread>.
+Bird,Fluke,2,,<pronoun> died after ingesting some <pills/plants/chemicals/cleaning supplies/medicine/rat poison/insecticide/antifreeze> that had been left out.
+Bird,Fluke,2,,<pronoun> was electrocuted after chewing through an electrical cord.
+Bird,Fluke,2,,<pronoun> escaped from home and was eaten by <a coyote/an owl/an eagle/an alligator/a crocodile/a snake/a cougar/a hawk/a wolf/a cat/a dog>.
+Bird,Fluke,2,,<pronoun> died from intestinal issues after eating <a piece of onion/salt/apple seeds/mushrooms/beans>.
+Bird,Fluke,2,,<pronoun> died from chocolate poisoning after <he/she> ate some chocolate <cookies/candy/cake/fudge>.
+Bird,Fluke,2,,"<pronoun> sipped on <alcohol> during a party and died from alcohol poisoning, putting a damper on an otherwise lit party."
+Bird,Natural,2,,<pronoun> died suddenly after having a surprise heart attack.
+Bird,Fluke,3,,<pronoun> flew into <a window/a glass door/a wall/a ceiling fan/a mirror/a fire/a pot of boiling water> and died.
+Bird,Natural,5,,<pronoun> died of natural causes.
+Bird,Natural,5,,<pronoun> died of complications from old age.
+Bird,Natural,5,,<pronoun> died while sleeping peacefully.
+Cat,Fluke,1,x,<pronoun> died from heat exhaustion after <person> inadvertently left <him/her> outside on a hot summer day.
+Cat,Fluke,1,x,<pronoun> died from hypothermia after <person> accidentally left <him/her> outside on a cold night.
+Cat,Fluke,1,x,<pronoun> died after <person> took <him/her> to a party where <he/she> accidentally ingested some <cocaine/methamphetamine/oxycodone/heroin/opium/MDMA/GHB/ketamine/PCP/mescaline/morphine/valium/sleeping pills/vicodin/crack> and suffered an overdose.
+Cat,Fluke,2,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Cat,Fluke,2,x,<pronoun> died after <person> accidentally left <him/her> in the car on a very <hot/cold> day.
+Cat,Fluke,1,,<pronoun> died after <he/she> fell into a <toilet/bathtub/pool/lake/stream/river/pond/canal> and was unable to escape.
+Cat,Fluke,1,,<pronoun> fell <out of a window/off a deck/off a roof> and died.
+Cat,Fluke,1,,<pronoun> died after licking a poisonous frog.
+Cat,Fluke,1,,<pronoun> died after running into <a table/a tree/a parked car/a wall/a pole/a window/a glass door/a mirror>.
+Cat,Fluke,1,,<pronoun> died after peeing on an electric fence.
+Cat,Fluke,1,,<pronoun> climbed up into the engine area of a <car/truck> and died when the engine was started.
+Cat,Fluke,2,,<pronoun> died after choking on <aluminum foil/a cork/cellophane/string/yarn/a rubber band/a child's toy/a cat toy/a feather/dental floss/toy stuffing/a hair tie>.
+Cat,Fluke,2,,<pronoun> died after ingesting some <pills/plants/chemicals/cleaning supplies/medicine/rat poison/insecticide/antifreeze> that had been left out.
+Cat,Fluke,2,,<pronoun> died after getting into a street fight with another cat.
+Cat,Fluke,2,,<pronoun> was electrocuted after chewing through an electrical cord.
+Cat,Fluke,2,,<pronoun> died after being attacked by <a bear/a lion/a tiger/a hyena/a coyote/an owl/an eagle/an alligator/a crocodile/a snake/a cougar/a hawk/a wolf/a dog/a larger cat>.
+Cat,Fluke,2,,<pronoun> died after <he/she> got <his/her> head stuck in a <bag/food container> and suffocated.
+Cat,Fluke,2,,"<pronoun> sipped on <alcohol> during a party and died from alcohol poisoning, putting a damper on an otherwise lit party."
+Cat,Natural,2,,<pronoun> died suddenly after having a surprise heart attack.
+Cat,Fluke,3,,<pronoun> wandered into the wrong alley where <he/she> was attacked and killed by a gang of territorial cats.
+Cat,Fluke,3,,<pronoun> died from intestinal issues after eating <onion/garlic/bones/raw dough/grapes/raisins/raw eggs>.
+Cat,Fluke,3,,<pronoun> died from food poisoning after eating rancid <fish/pork/beef/chicken/meat/shrimp> that <he/she> got out of the trash.
+Cat,Fluke,3,,<pronoun> died from chocolate poisoning after <he/she> ate some chocolate <cookies/candy/cake/fudge>.
+Cat,Fluke,4,,<pronoun> got run over by a car and died.
+Cat,Natural,5,,<pronoun> died of natural causes.
+Cat,Natural,5,,<pronoun> died of complications from old age.
+Cat,Natural,5,,<pronoun> died while sleeping peacefully.
+Dog,Fluke,1,x,<pronoun> died from heat exhaustion after <person> inadvertently left <him/her> outside on a hot summer day.
+Dog,Fluke,1,x,<pronoun> died from hypothermia after <person> accidentally left <him/her> outside on a cold night.
+Dog,Fluke,1,x,<pronoun> died after <person> took <him/her> to a party where <he/she> accidentally ingested some <cocaine/methamphetamine/oxycodone/heroin/opium/MDMA/GHB/ketamine/PCP/mescaline/morphine/valium/sleeping pills/vicodin/crack> and suffered an overdose.
+Dog,Fluke,2,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Dog,Fluke,2,x,<pronoun> died after <person> accidentally left <him/her> in the car on a very <hot/cold> day.
+Dog,Fluke,1,,<pronoun> was killed after sustaining serious injuries in a street fight with another dog.
+Dog,Fluke,1,,<pronoun> drowned after <he/she> fell into a <pool/lake/stream/river/pond/canal> and was unable to escape.
+Dog,Fluke,1,,<pronoun> fell <out of a window/off a deck/down a flight of stairs> and died.
+Dog,Fluke,1,,<pronoun> died after licking a poisonous frog.
+Dog,Fluke,1,,<pronoun> died after running into <a table/a tree/a parked car/a wall/a pole/a window/a glass door/a mirror/a fence>.
+Dog,Fluke,1,,<pronoun> died after peeing on an electric fence.
+Dog,Fluke,2,,<pronoun> died after choking on <a chew toy/a steak/a chicken bone/dog food/a dog bone/a hot dog/an ear of corn/rocks/plastic wrap/a burrito/a dildo/a vibrator/hard candy/dirty panties/a used condom/dog feces>.
+Dog,Fluke,2,,<pronoun> died after ingesting some <pills/plants/chemicals/cleaning supplies/medicine/rat poison/insecticide/antifreeze> that had been left out.
+Dog,Fluke,2,,<pronoun> was electrocuted after chewing through an electrical cord.
+Dog,Fluke,2,,<pronoun> died after being attacked by <a bear/a lion/a tiger/a hyena/a coyote/an owl/an eagle/an alligator/a crocodile/a snake/a cougar/a hawk/a wolf/a larger dog>.
+Dog,Fluke,2,,<pronoun> died after <he/she> got <his/her> head stuck in a <bag/food container> and suffocated.
+Dog,Fluke,2,,<pronoun> guzzled <alcohol> during a party while no one was looking and died from alcohol poisoning.
+Dog,Fluke,2,,"<pronoun> died after a chain accidentally got tangled around <his/her> neck, suffocating <him/her> instantly."
+Dog,Natural,2,,<pronoun> died after having a surprise heart attack.
+Dog,Fluke,3,,<pronoun> got run over by a car and died.
+Dog,Fluke,3,,<pronoun> died from intestinal issues after eating <garlic/onion/an avocado/grapes/raisins/apple seeds/nuts/raw eggs/cheese/a sock/a bone/a rock/a chew toy>.
+Dog,Fluke,3,,<pronoun> died from chocolate poisoning after <he/she> ate some chocolate <cookies/candy/cake/fudge>.
+Dog,Fluke,3,,<pronoun> died from food poisoning after eating rancid <fish/pork/beef/chicken/meat/shrimp> that <he/she> got out of the trash.
+Dog,Natural,4,,<pronoun> found a quiet place <at home/in the yard/behind the house> and died peacefully.
+Dog,Natural,5,,<pronoun> died of natural causes.
+Dog,Natural,5,,<pronoun> died of complications from old age.
+Dog,Natural,5,,<pronoun> died while sleeping peacefully.
+Fish,Fluke,3,x,<pronoun> died after <person> failed to change the water in the tank.
+Fish,Fluke,3,x,<pronoun> died after <person> failed to clean the tank as <he/she> promised to.
+Fish,Fluke,3,x,<pronoun> died after <person> overfed <him/her>.
+Fish,Fluke,1,,"<pronoun> died when a <friend/neighbor/family member> brought over their cat, and the cat ate <him/her>."
+Fish,Fluke,2,,<pronoun> died after the water temperature in <his/her> tank became too warm.
+Fish,Fluke,2,,<pronoun> died after the water temperature in <his/her> tank became too cold.
+Fish,Fluke,2,,<pronoun> died from chemical poisoning after <cleaning chemicals/chemicals/chlorine/air pollutants> got into the tank.
+Fish,Fluke,2,,<pronoun> died after being too stressed out.
+Fish,Fluke,3,,<pronoun> died after the tank's filter broke and <his/her> water became unbalanced.
+Fish,Fluke,4,,<pronoun> died from <ammonia/nitrite/nitrate> poisoning after <his/her> water became unbalanced.
+Fish,Natural,5,,<pronoun> died of natural causes.
+Fish,Natural,5,,<pronoun> died of complications from old age.
+Fish,Natural,5,,<pronoun> died while swimming peacefully.
+Rodent,Fluke,1,x,<pronoun> died from heat exhaustion after <person> inadvertently left <him/her> outside on a hot summer day.
+Rodent,Fluke,1,x,<pronoun> died from hypothermia after <person> accidentally left <him/her> outside on a cold night.
+Rodent,Fluke,1,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Rodent,Fluke,2,x,<pronoun> died after <person> accidentally left <him/her> in the car on a very <hot/cold> day.
+Rodent,Fluke,2,x,<pronoun> died after <person> took <him/her> to a party where <he/she> accidentally ingested some <cocaine/methamphetamine/oxycodone/heroin/opium/MDMA/GHB/ketamine/PCP/mescaline/morphine/valium/sleeping pills/vicodin/crack> and suffered an overdose.
+Rodent,Fluke,1,,<pronoun> died after <he/she> fell into a <toilet/bathtub/pool/sink/bucket of water> and was unable to escape.
+Rodent,Fluke,1,,<pronoun> fell <out of a window/off a deck/down a flight of stairs> and died.
+Rodent,Fluke,1,,<pronoun> died after running into <a table/a wall/a pole/a window/a glass door/a mirror>.
+Rodent,Fluke,1,,<pronoun> died instantly when a <friend/neighbor/family member> accidentally <sat/stepped> on <him/her>.
+Rodent,Fluke,1,,<pronoun> died when <he/she> was sucked into the robotic vacuum.
+Rodent,Fluke,1,,<pronoun> died after climbing into a floor fan.
+Rodent,Fluke,2,,<pronoun> died after choking on <a seed/a nut/fluffy bedding material/substrate/wood/a stone/candy>.
+Rodent,Fluke,2,,<pronoun> died from intestinal issues after eating <beans/candy/nuts/onion/garlic/apple seeds>.
+Rodent,Fluke,2,,<pronoun> died after ingesting some <pills/plants/chemicals/cleaning supplies/medicine/rat poison/insecticide/antifreeze> that had been left out.
+Rodent,Fluke,2,,<pronoun> died from dehydration after <his/her> water bottle malfunctioned.
+Rodent,Fluke,2,,<pronoun> was electrocuted after chewing through an electrical cord.
+Rodent,Fluke,2,,<pronoun> escaped from home and was eaten by <an owl/an eagle/a falcon/a hawk/a cat/a dog/a snake/a fox/a skunk/a jackal/a dingo>.
+Rodent,Fluke,2,,<pronoun> died from chocolate poisoning after <he/she> ate some chocolate <cookies/candy/cake/fudge>.
+Rodent,Natural,2,,<pronoun> died after having a fear-related heart attack.
+Rodent,Fluke,3,,<pronoun> escaped from the house and was killed after being run over by a car.
+Rodent,Natural,5,,<pronoun> died of natural causes.
+Rodent,Natural,5,,<pronoun> died of complications from old age.
+Rodent,Natural,5,,<pronoun> died while sleeping peacefully.
+Rabbit,Fluke,1,x,<pronoun> died from heat exhaustion after <person> inadvertently left <him/her> outside on a hot summer day.
+Rabbit,Fluke,1,x,<pronoun> died from hypothermia after <person> accidentally left <him/her> outside on a cold night.
+Rabbit,Fluke,1,x,<pronoun> died after <person> took <him/her> to a party where <he/she> accidentally ingested some <cocaine/methamphetamine/oxycodone/heroin/opium/MDMA/GHB/ketamine/PCP/mescaline/morphine/valium/sleeping pills/vicodin/crack> and suffered an overdose.
+Rabbit,Fluke,2,x,<pronoun> died after <person> accidentally left <him/her> in the car on a very <hot/cold> day.
+Rabbit,Fluke,3,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Rabbit,Fluke,1,,<pronoun> died after <he/she> fell into a <toilet/bathtub/pool/lake/stream/river/pond/canal> and was unable to escape.
+Rabbit,Fluke,1,,<pronoun> fell <out of a window/off a deck/down a flight of stairs> and died.
+Rabbit,Fluke,1,,<pronoun> died after overdosing on carrots.
+Rabbit,Fluke,1,,<pronoun> died after running into <a table/a tree/a parked car/a wall/a pole/a window/a glass door/a mirror>.
+Rabbit,Fluke,1,,<pronoun> escaped from home and was killed by a hunter.
+Rabbit,Fluke,1,,<pronoun> died from dehydration after <his/her> water bottle malfunctioned.
+Rabbit,Fluke,2,,<pronoun> escaped from home and was killed after being run over by a car.
+Rabbit,Fluke,2,,<pronoun> died after choking on <rabbit food/a pellet/a carrot/hay/lettuce/veggies/fluffy bedding material>.
+Rabbit,Fluke,2,,<pronoun> died from intestinal issues after eating <a stone/cookies/an avocado/cereal/walnuts/meat/a potato>.
+Rabbit,Fluke,2,,<pronoun> died after ingesting some <pills/plants/chemicals/cleaning supplies/medicine/rat poison/insecticide/antifreeze> that had been left out.
+Rabbit,Fluke,2,,<pronoun> was electrocuted after chewing through an electrical cord.
+Rabbit,Fluke,2,,<pronoun> escaped from home and was eaten by <a cougar/a leopard/a dingo/a coyote/an eagle/a falcon/a hawk/an owl/a large snake/a wolf/a fox/a cat/a dog>.
+Rabbit,Fluke,2,,<pronoun> died after <he/she> got <his/her> head stuck in a <bag/food container> and suffocated.
+Rabbit,Fluke,2,,<pronoun> died from chocolate poisoning after <he/she> ate some chocolate <cookies/candy/cake/fudge>.
+Rabbit,Fluke,2,,<pronoun> sipped on some <alcohol> that had been left out and died from alcohol poisoning.
+Rabbit,Natural,2,,<pronoun> died suddenly after having a fear-related heart attack.
+Rabbit,Natural,5,,<pronoun> died of natural causes.
+Rabbit,Natural,5,,<pronoun> died of complications from old age.
+Rabbit,Natural,5,,<pronoun> died while sleeping peacefully.
+Snake,Fluke,1,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Snake,Fluke,2,x,<pronoun> died after <person> accidentally left <him/her> in the car on a very <hot/cold> day.
+Snake,Fluke,1,,<pronoun> died instantly when a <friend/neighbor/family member> accidentally <sat/stepped> on <him/her>.
+Snake,Fluke,1,,<pronoun> got out of the house and was killed by a scared neighbor who didn't realize it was a pet.
+Snake,Fluke,1,,<pronoun> escaped <his/her> enclosure and climbed up the chimney where <he/she> died when a fire was started.
+Snake,Fluke,2,,<pronoun> slithered up into the engine area of a <car/truck> and died when the engine was started.
+Snake,Fluke,2,,<pronoun> escaped from home and was killed by <a bear/a lion/tiger/a hyena/a coyote/an eagle/an alligator/a crocodile/another snake/a cougar/a hawk/a wolf>.
+Snake,Fluke,2,,<pronoun> died when <his/her> heat lamp broke and <he/she> couldn't regulate <his/her> temperature.
+Snake,Fluke,1,,<pronoun> died when choking on a mouse that was too fat.
+Snake,Fluke,3,,<pronoun> escaped from the house and was killed after being run over by a car.
+Snake,Natural,5,,<pronoun> died of natural causes.
+Snake,Natural,5,,<pronoun> died of complications from old age.
+Snake,Natural,5,,<pronoun> died while sleeping peacefully.
+Horse,Natural,5,,<pronoun> died of natural causes.
+Horse,Natural,5,,<pronoun> died of complications from old age.
+Horse,Natural,5,,<pronoun> died while sleeping peacefully.
+Horse,Fluke,1,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Horse,Fluke,1,,<pronoun> drowned after <he/she> fell into a <pool/lake/stream/river/pond/canal> and was unable to escape.
+Horse,Fluke,1,,<pronoun> died after running into <a tree/a parked car/a wall/a pole/a fence/a barn>.
+Horse,Fluke,1,,<pronoun> died after peeing on an electric fence.
+Horse,Fluke,2,,<pronoun> died after choking on <hay/feed/a corncob/a carrot/an apple/a rock/a stick/a horse treat>.
+Horse,Natural,2,,<pronoun> died after having a surprise heart attack.
+Horse,Fluke,3,,<pronoun> died after being hit by a car.
+Horse,Fluke,2,,<pronoun> died after getting bit by a poisonous snake.
+Horse,Fluke,2,,<pronoun> broke <his/her> neck and died after falling while jumping over a fence.
+Primate,Natural,5,,<pronoun> died of natural causes.
+Primate,Natural,5,,<pronoun> died of complications from old age.
+Primate,Natural,5,,<pronoun> died while sleeping peacefully.
+Primate,Fluke,1,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Primate,Fluke,1,,<pronoun> drowned after <he/she> fell into a <pool/lake/stream/river/pond/canal> and was unable to escape.
+Primate,Fluke,1,,<pronoun> fell <out of a window/off a deck/down a flight of stairs> and died.
+Primate,Fluke,1,,<pronoun> died after running into <a tree/a parked car/a wall/a pole/a fence/a barn>.
+Primate,Fluke,1,,<pronoun> died after peeing on an electric fence.
+Primate,Fluke,2,,<pronoun> died after choking on <an ear of corn/a rock/a burrito/a hot dog/a slice of pizza/a dildo/a vibrator/hard candy/dirty panties/a used condom/a banana/nuts/a fig/a bamboo stalk/an apple/a mushroom/a flower/a plant/an ice cream cone/a cheeseburger>.
+Primate,Fluke,2,,<pronoun> was electrocuted after chewing through an electrical cord.
+Primate,Natural,2,,<pronoun> died after having a surprise heart attack.
+Primate,Fluke,2,,<pronoun> died after getting bit by a poisonous snake.
+Primate,Fluke,1,,<pronoun> got out of the house and was killed by a scared neighbor who didn't realize it was a pet.
+Big Cat,Natural,5,,<pronoun> died of natural causes.
+Big Cat,Natural,5,,<pronoun> died of complications from old age.
+Big Cat,Natural,5,,<pronoun> died while sleeping peacefully.
+Big Cat,Fluke,1,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Big Cat,Fluke,1,,<pronoun> drowned after <he/she> fell into a <pool/lake/stream/river/pond/canal> and was unable to escape.
+Big Cat,Fluke,1,,<pronoun> died after <he/she> escaped and then ran into <a tree/a parked car/a wall/a pole/a fence>.
+Big Cat,Fluke,1,,<pronoun> died after peeing on an electric fence.
+Big Cat,Fluke,2,,<pronoun> died after choking on <a bone/meat/a carcass/food/horse meat/a bird/a mouse/a lizard/a rabbit>.
+Big Cat,Fluke,2,,<pronoun> was electrocuted after chewing through an electrical cord.
+Big Cat,Natural,2,,<pronoun> died after having a surprise heart attack.
+Big Cat,Fluke,1,,<pronoun> got out of the house and was killed by a scared neighbor who didn't realize it was a pet.
+Unicorn,Natural,5,,<pronoun> died of natural causes.
+Unicorn,Natural,5,,<pronoun> died of complications from old age.
+Unicorn,Natural,5,,<pronoun> died while sleeping peacefully.
+Unicorn,Fluke,1,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Unicorn,Fluke,1,,<pronoun> drowned after <he/she> fell into a <pool/lake/stream/river/pond/canal> and was unable to escape.
+Unicorn,Fluke,1,,<pronoun> died after running into <a tree/a parked car/a wall/a pole/a fence/a barn>.
+Unicorn,Fluke,1,,<pronoun> died after peeing on an electric fence.
+Unicorn,Fluke,2,,<pronoun> died after choking on <hay/feed/a corncob/a carrot/an apple/a rock/a stick/a dildo/a sex toy>.
+Unicorn,Natural,2,,<pronoun> died after having a surprise heart attack.
+Unicorn,Fluke,2,,<pronoun> died after being hit by a car.
+Unicorn,Fluke,1,,<pronoun> died after being bit by a poisonous snake.
+Unicorn,Fluke,1,,<pronoun> died after being struck by lightning.
+Unicorn,Fluke,1,,<pronoun> broke <his/her> neck and died after falling while jumping over a fence.
+Unicorn,Fluke,1,,<pronoun> was killed after being gored during a unicorn playdate.
+Unicorn,Fluke,1,,<pronoun> died after falling to <his/her> death when a wing broke mid-flight.
+Unicorn,Fluke,1,,<pronoun> flew into <a window/a glass door/an airplane/a tree/a building/a skyscraper/a tower/a mountain/a fence> and died.
+Unicorn,Fluke,1,,<pronoun> died after someone somewhere <told a lie/broke a promise>.
+Unicorn,Fluke,1,,<pronoun> died during a mating mishap.
+Goldfish,Natural,2,,<pronoun> was found floating in peace after <he/she> had one last swim.
+Big Cat,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Bird,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Cat,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Dog,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Goldfish,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Rodent,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Horse,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Primate,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Rabbit,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Snake,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Unicorn,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Dog,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Horse,Natural,3,,"<pronoun> fell while sleeping and died, after living a long happy life."
+Dog,Natural,5,,"<pronoun> passed from complications due to old age, after living a great doggone life."
+Rabbit,Natural,5,,"<pronoun> finally died due to natural causes, after living a long hoppy life."
+Big Cat,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Bird,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Cat,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Dog,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Goldfish,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Rodent,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Horse,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Primate,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Rabbit,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Snake,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Unicorn,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Cat,Natural,3,,<pronoun> was in the cradle as <he/she> died of natural causes.
+Big Cat,Natural,3,,<pronoun> succumbed to death after making a full rotation through the circle of life.
+Big Cat,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Bird,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Cat,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Dog,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Goldfish,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Rodent,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Horse,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Primate,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Rabbit,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Snake,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Unicorn,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Big Cat,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Bird,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Cat,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Dog,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Goldfish,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Rodent,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Horse,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Primate,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Rabbit,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Snake,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Unicorn,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Rabbit,Natural,2,,"<pronoun> passed in the night from old age, but will not be contributing <his/her> feet to an organ donor."
+Cat,Natural,5,,"<pronoun> completed <his/her> ninth life, and will now rest in peace."
+Big Cat,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Bird,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Cat,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Dog,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Goldfish,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Rodent,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Horse,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Primate,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Rabbit,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Snake,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Unicorn,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Snake,Natural,2,,"<pronoun> got confused in <his/her> old age, and constricted <himself/herself> to death."
+Unicorn,Natural,3,,<pronoun> finally ran out of <mojo/pixie dust/rainbow powers/magical powers> and died naturally.
+Primate,Natural,3,,<pronoun> fell out of a tree due to old age and died.
+Bird,Natural,2,,<pronoun> fell off <his/her> perch from old age and died.
+Big Cat,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Bird,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Cat,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Dog,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Goldfish,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Rodent,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Horse,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Primate,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Rabbit,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Snake,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Unicorn,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Rodent,Natural,2,,"<pronoun> died when <his/her> wheel stopped turning, due to old age."
+Big Cat,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Bird,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Cat,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Dog,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Goldfish,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Rodent,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Horse,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Primate,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Rabbit,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Snake,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Unicorn,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Big Cat,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Bird,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Cat,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Dog,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Rodent,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Horse,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Primate,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Rabbit,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Snake,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Unicorn,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Big Cat,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Bird,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Cat,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Dog,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Goldfish,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Rodent,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Horse,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Primate,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Rabbit,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Snake,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Unicorn,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Big Cat,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Bird,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Cat,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Dog,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Goldfish,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Rodent,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Horse,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Primate,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Rabbit,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Snake,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Unicorn,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Llama,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Llama,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Llama,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Llama,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Llama,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Llama,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Llama,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Llama,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Llama,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Llama,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Llama,Natural,5,,<pronoun> died of natural causes.
+Llama,Natural,5,,<pronoun> died of complications from old age.
+Llama,Natural,5,,<pronoun> died while sleeping peacefully.
+Llama,Fluke,1,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Llama,Fluke,1,,<pronoun> drowned after <he/she> fell into a <pool/lake/stream/river/pond/canal> and was unable to escape.
+Llama,Fluke,1,,<pronoun> died after running into <a tree/a parked car/a wall/a pole/a fence/a barn>.
+Llama,Fluke,1,,<pronoun> died after peeing on an electric fence.
+Llama,Fluke,2,,<pronoun> died after choking on <hay/feed/a corncob/a carrot/an apple/a rock/a stick/a treat>.
+Llama,Natural,2,,<pronoun> died after having a surprise heart attack.
+Llama,Fluke,3,,<pronoun> died after being hit by a car.
+Llama,Fluke,2,,<pronoun> died after getting bit by a poisonous snake.
+Llama,Fluke,5,,<pronoun> was killed by an aggressive <llama/alpaca> during a playdate.
+Llama,Fluke,4,,<pronoun> escaped from home and was eaten by <a coyote/a wolf/a mountain lion/a cougar/a puma/a leopard/an alligator/a crocodile>.
+Turtle,Natural,5,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Turtle,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Turtle,Natural,5,,"<pronoun> died when <his/her> clock finally expired, after taking <his/her> last breath."
+Turtle,Natural,5,,"<pronoun> perished from old age, after <his/her> time had finally come."
+Turtle,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Turtle,Natural,5,,"<pronoun> lived a great life, but sadly passed peacefully in the night."
+Turtle,Natural,5,,"<pronoun> perished after losing <his/her> last fight, against old age."
+Turtle,Natural,5,,"<pronoun> slipped away in <his/her> sleep, after living an extraordinary life."
+Turtle,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Turtle,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Turtle,Natural,5,,<pronoun> died of natural causes.
+Turtle,Natural,5,,<pronoun> died of complications from old age.
+Turtle,Natural,5,,<pronoun> died while sleeping peacefully.
+Turtle,Fluke,1,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Turtle,Fluke,4,,<pronoun> died after choking on <a carrot/a rock/a coin/food/gravel/a piece of apple>.
+Turtle,Natural,4,,<pronoun> died after having a surprise heart attack.
+Turtle,Fluke,3,,<pronoun> died after being hit by a car.
+Turtle,Fluke,4,,<pronoun> escaped from home and was eaten by <a vulture/a hawk/a falcon/an eagle/a crow/a raven/a raccoon/a fox/a weasel/a skunk/a crocodile/an alligator/a jaguar/a bobcat/a wolf>.
+Turtle,Fluke,4,,<pronoun> was killed after being attacked by a <dog/cat>.
+Turtle,Fluke,4,,<pronoun> died after getting flipped upside down and not being able to flip back over.
+Turtle,Fluke,3,,<pronoun> died after the filtration system in <his/her> enclosure broke and the water became contaminated.
+Turtle,Fluke,4,x,<pronoun> died after <person> overfed <him/her>.
+Turtle,Fluke,4,x,<pronoun> died after <person> failed to change <his/her> water.
+Turtle,Fluke,4,,<pronoun> died from a vitamin deficiency after <his/her> lighting system broke.
+Turtle,Fluke,4,,<pronoun> died when <his/her> heating lamp broke and <his/her> enclosure got too cold.
+Turtle,Fluke,5,,<pronoun> died from chemical poisoning after <cleaning chemicals/chemicals/chlorine/air pollutants> got into the enclosure.
+Komodo Dragon,Natural,5,,<pronoun> died of natural causes.
+Komodo Dragon,Natural,5,,<pronoun> died of complications from old age.
+Komodo Dragon,Natural,5,,<pronoun> died while sleeping peacefully.
+Komodo Dragon,Fluke,4,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Komodo Dragon,Fluke,3,,<pronoun> died after choking on <a rotisserie chicken/a turkey breast/a rump roast/a pork loin/a rack of ribs>.
+Komodo Dragon,Natural,4,,<pronoun> died after having a surprise heart attack.
+Komodo Dragon,Fluke,2,,<pronoun> died after being hit by a <tractor/tractor-trailer/big-rig/truck/steamroller/horse/car>.
+Komodo Dragon,Fluke,1,,<pronoun> died from chemical poisoning after escaping from <his/her> enclosure and drinking a bottle of <window cleaner/dish soap/hand sanitizer>.
+Komodo Dragon,Fluke,2,x,<pronoun> died after <person> overfed <him/her>.
+Komodo Dragon,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Komodo Dragon,Natural,5,,"<pronoun> passed from old age, after living <an extraordinary/a wild/an amazing/a thrilling> life."
+Komodo Dragon,Natural,5,,"<pronoun> lived a <blissful/fantastic/phenomenal/great/picturesque> life, but sadly passed away in the middle of <a nap/the night>."
+Komodo Dragon,Fluke,1,,<pronoun> died after accidentally piercing <his/her> own skull with <his/her> claws while trying to scratch an itch.
+Komodo Dragon,Natural,4,,"<pronoun> died when <his/her> clock finally expired, and <he/she> took <his/her> last breath."
+Komodo Dragon,Natural,4,x,"<pronoun> passed from old age in the middle of the night, and was found deceased by <person>."
+Komodo Dragon,Natural,4,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Komodo Dragon,Fluke,1,,<pronoun> died when a roleplayer from a nearby Renaissance fair mistook <him/her> for a prop and stabbed <him/her> with a sword.
+Sloth,Natural,5,,<pronoun> died of natural causes.
+Sloth,Natural,5,,<pronoun> died of complications from old age.
+Sloth,Natural,5,,<pronoun> died while sleeping peacefully.
+Sloth,Fluke,4,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Sloth,Fluke,2,,<pronoun> died from eating <his/her> food too quickly.
+Sloth,Fluke,1,,<pronoun> died after falling from <a rafter/a ceiling fan/a tree> without possessing the reflexes to brace for impact.
+Sloth,Fluke,1,,<pronoun> died after being carried off by a <bald eagle/vulture/pelican/barn owl>.
+Sloth,Natural,4,,<pronoun> died after having a surprise heart attack.
+Sloth,Fluke,3,,<pronoun> died after being hit by a <tractor/tractor-trailer/big-rig/truck/steamroller/horse/car>.
+Sloth,Natural,4,,"<pronoun> died when <his/her> clock finally expired, and <he/she> took <his/her> last breath."
+Sloth,Natural,4,x,<pronoun> passed from old age in the middle of the night and was found deceased by <person>.
+Sloth,Natural,4,x,<pronoun> passed from natural causes and was discovered by <person>.
+Sloth,Natural,4,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Sloth,Natural,5,,<pronoun> passed from old age after living <an extraordinary/a humdrum/a normal/an average/a restful/a relaxed> life.
+Sloth,Natural,5,,<pronoun> lived a <blissful/fantastic/phenomenal/great/picturesque> life but sadly passed away in the middle of <a nap/the night>.
+Sloth,Fluke,2,x,"<pronoun> died after <person> fell on <him/her>, unable to react in time to avoid the trajectory of the fall."
+Sloth,Fluke,4,,<pronoun> escaped from home and was eaten by <a vulture/a hawk/a falcon/an eagle/a fox/a weasel/a crocodile/an alligator/a bobcat/a wolf>.
+Sloth,Natural,5,,<pronoun> died after being too stressed to eat.
+Sloth,Fluke,3,,<pronoun> was killed after being attacked by a <dog/cat>.
+Skunk,Natural,4,,<pronoun> died after having a surprise heart attack.
+Skunk,Fluke,2,,<pronoun> died after blasting <him/her>self in the face with <his/her> own stink.
+Skunk,Fluke,3,,<pronoun> escaped from home and was eaten by <a vulture/a hawk/a falcon/an eagle/a fox/a weasel/a crocodile/an alligator/a bobcat/a wolf>.
+Skunk,Fluke,4,,<pronoun> was killed after being attacked by a <dog/cat>.
+Skunk,Natural,5,,<pronoun> died of natural causes.
+Skunk,Natural,5,,<pronoun> died of complications from old age.
+Skunk,Natural,5,,<pronoun> died while sleeping peacefully.
+Skunk,Natural,4,,"<pronoun> died when <his/her> clock finally expired, and <he/she> took <his/her> last breath."
+Skunk,Natural,4,x,"<pronoun> passed from old age in the middle of the night, and was found deceased by <person>."
+Skunk,Natural,4,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Skunk,Natural,5,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Skunk,Natural,4,,"<pronoun> passed from old age, after living <an extraordinary/a humdrum/a normal/an average/a restful/a relaxed/a stinky/a brilliant/a wonderful> life."
+Skunk,Fluke,1,,<pronoun> passed from being unable to tolerate <his/her> own smell any longer.
+Skunk,Fluke,3,,<pronoun> escaped from home and was eaten by <a vulture/a hawk/a falcon/an eagle/a fox/a weasel/a crocodile/an alligator/a bobcat/a wolf>.
+Skunk,Fluke,3,,<pronoun> died after being carried off by a <bald eagle/vulture/pelican/barn owl>.
+Skunk,Natural,2,,<pronoun> suddenly keeled over while scurrying around the living room..
+Platypus,Natural,5,,<pronoun> died of natural causes.
+Platypus,Natural,5,,<pronoun> died of complications from old age.
+Platypus,Natural,5,,<pronoun> died while sleeping peacefully.
+Platypus,Natural,5,,"<pronoun> died when <his/her> clock finally expired, and <he/she> took <his/her> last breath."
+Platypus,Natural,4,x,"<pronoun> passed from old age in the middle of the night, and was found deceased by <person>."
+Platypus,Natural,4,x,"<pronoun> passed from natural causes, and was discovered by <person>."
+Platypus,Natural,3,,"<pronoun> passed from old age, as the years finally caught up to <him/her>."
+Platypus,Natural,4,,"<pronoun> passed from old age, after living <an extraordinary/a humdrum/a normal/an average/a restful/a relaxed/a stinky/a brilliant/a wonderful> life."
+Platypus,Fluke,4,,<pronoun> died after being hit by a <car/truck>.
+Platypus,Fluke,3,,<pronoun> passed after diving into a pond and ramming headfirst into a rock.
+Platypus,Fluke,3,,<pronoun> was killed after being attacked by a <dog/cat>.
+Platypus,Fluke,1,,<pronoun> swam against the wrong end of a motorboat and died.
+Platypus,Natural,3,,<pronoun> died after not eating for <seven/eight/nine/ten> days.
+Platypus,Fluke,2,,<pronoun> died after diving into a pond and forgetting to come up for air.
+Platypus,Fluke,3,,<pronoun> died after escaping and running into oncoming traffic.
+Platypus,Fluke,1,,"<pronoun> perished when a scientist in a white lab coat vaporized <him/her>, thinking <he/she> was a secret agent."
+Platypus,Natural,3,,<pronoun> died when the sand in <his/her> biological hourglass ran out.
+Platypus,Fluke,3,,<pronoun> died after being carried off by a <bald eagle/vulture/pelican/barn owl>.
+Zebra,Natural,5,x,"<pronoun> passed from old age in the night, and was found deceased by <person>."
+Zebra,Natural,5,,"<pronoun> died when <his/her> clock finally expired, and <he/she> took <his/her> last breath."
+Zebra,Natural,5,,"<pronoun> perished from old age, as <his/her> time had finally come."
+Zebra,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Zebra,Natural,5,,<pronoun> lived a great life but sadly passed peacefully in the night.
+Zebra,Natural,5,,"<pronoun> perished after losing <his/her> last fight, the fight against old age."
+Zebra,Natural,5,,<pronoun> slipped away in <his/her> sleep after living an extraordinary life.
+Zebra,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Zebra,Natural,5,,<pronoun> passed from old age as the years finally caught up to <him/her>.
+Zebra,Natural,5,,<pronoun> died of natural causes.
+Zebra,Natural,5,,<pronoun> died of complications from old age.
+Zebra,Natural,5,,<pronoun> died while sleeping peacefully.
+Zebra,Fluke,1,x,<pronoun> died from dehydration after <person> forgot to give <him/her> water.
+Zebra,Fluke,4,,<pronoun> escaped from home and died after running into a <parked car/car/sinkhole>.
+Zebra,Fluke,3,,<pronoun> died after peeing on the electric fence around <his/her> enclosure.
+Zebra,Fluke,5,,<pronoun> died after choking on <hay/feed/a corncob/an apple/a stick/a treat/a turnip/a rutabaga/an eggplant>.
+Zebra,Fluke,3,,<pronoun> died after being hit by a car.
+Zebra,Fluke,4,,<pronoun> escaped from home and was eaten by <a coyote/a wolf/a mountain lion/a cougar/a puma/a leopard/an alligator/a crocodile>.
+Zebra,Fluke,2,,<pronoun> died after suffering a bite from a poisonous snake.
+Pangolin,Natural,5,x,<pronoun> passed from old age in the night and was found deceased by <person>.
+Pangolin,Natural,5,,"<pronoun> died when <his/her> clock finally expired, and <he/she> took <his/her> last breath."
+Pangolin,Natural,5,,<pronoun> perished from old age as <his/her> time had finally come.
+Pangolin,Natural,5,,<pronoun> died peacefully at home as <he/she> finally succumbed to old age.
+Pangolin,Natural,5,,<pronoun> lived a great life but sadly passed peacefully in the night.
+Pangolin,Natural,5,,"<pronoun> perished after losing <his/her> last fight, the fight against old age."
+Pangolin,Natural,5,,<pronoun> slipped away in <his/her> sleep after living an extraordinary life.
+Pangolin,Natural,5,,<pronoun> was laid to rest after passing from natural causes.
+Pangolin,Natural,5,,<pronoun> passed from old age as the years finally caught up to <him/her>.
+Pangolin,Natural,5,,<pronoun> died of natural causes.
+Pangolin,Natural,5,,<pronoun> died of complications from old age.
+Pangolin,Natural,5,,<pronoun> died while sleeping peacefully.
+Pangolin,Fluke,1,,<pronoun> died after some neighborhood kids mistook <him/her> for a soccer ball.
+Pangolin,Fluke,2,,<pronoun> died after rolling into a nearby pond and drowning.
+Pangolin,Fluke,1,,<pronoun> escaped from home and rolled right into the open jaws of <a crocodile/an alligator>.
+Pangolin,Fluke,1,,"<pronoun> perished after catching too much momentum while rolling down a hill, which caused <him/her> to crash into a <tree/boulder>."
+Pangolin,Fluke,2,,<pronoun> died after choking on a particularly large <ant/bug/termite/maggot>.
+Pangolin,Fluke,3,,<pronoun> was attacked by a <horse/dog/coyote/mountain lion/cougar/panther> and died.
+Pangolin,Fluke,3,,<pronoun> fell off of the top branch of a tree and died.
+Pangolin,Fluke,3,,<pronoun> got caught in a flash flood and drowned.
+Pangolin,Natural,5,,<pronoun> died after the stress of being in captivity finally caught up with <him/her>.
+Sloth,Natural,5,,<pronoun> died after the stress of being in captivity finally caught up with <him/her>.
+Platypus,Natural,5,,<pronoun> died after the stress of being in captivity finally caught up with <him/her>.
+Pangolin,Natural,5,,<pronoun> died after the stress of being in captivity finally caught up with <him/her>.
+Zebra,Natural,5,,<pronoun> died after the stress of being in captivity finally caught up with <him/her>.
+Komodo Dragon,Natural,5,,<pronoun> died after the stress of being in captivity finally caught up with <him/her>.

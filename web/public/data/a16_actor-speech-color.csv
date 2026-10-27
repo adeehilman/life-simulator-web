@@ -1,0 +1,51 @@
+Feedback Color,Min Impression,Max Impression,Min Smugness,Max Smugness,Min Length,Max Length
+Your speech was cut off at the end.,,,,,80,
+They cut your mic mid-sent--,,10,,,90,
+They booed you off-stage.,,10,90,,,
+Your castmates stood up and clapped for you.,50,,,,,
+They gave you a standing ovation.,80,,,,,
+There wasn't a dry eye in the audience.,90,,,10,,
+The audience cringed after you burst into tears for the <fourth/fifth/sixth/seventh/eighth> time during your speech.,,50,,10,70,
+Your speech started trending on Twitter <five/ten/fifteen> minutes after you delivered it.,,,,,,
+Your speech caused audience members to cringe.,,30,,,,
+Your speech made audience members uncomfortable.,,40,,,,
+The host had to physically drag you offstage to get you to stop talking.,,,50,,80,
+Your speech brought <num20-200> audience members to tears.,60,,,40,,
+You charmed the audience by stumbling through a gracious acceptance speech.,70,,,10,50,
+Your speech caused <num20-200> audience members to <give you the stink eye/roll their eyes/groan>.,,30,,,,
+The most <ludicrous/ridiculous> part of your speech became a meme on social media.,,50,70,,,
+Your <two/three/four/five>-word acceptance speech <flabbergasted/confused/bewildered/stunned> the audience.,,,,,,10
+Your short speech inspired nobody.,,10,80,,,10
+Your speech concluded to the sound of <thunderous/rapturous/deafening> applause.,60,,,,,
+You lost the audience halfway through your speech.,,50,25,,85,
+You noticed a number of audience members were rolling their eyes as you delivered your speech.,,35,85,,,
+The audience was awash in a sea of smiles and adulation.,90,,,,,
+Your speech was short and sweet and the audience loved it!,85,,,,,25
+Your speech was so inspiring the audience didn't want it to end.,80,,,20,75,
+The orchestra played you offstage before you could even get halfway through your speech.,,50,70,,85,
+The host made an immature joke about you finishing prematurely.,,,,,,10
+You charmed the audience and made the host blush.,80,,,10,20,50
+"Before you could finish your speech, the orchestra started playing 'Hit the Road Jack' and got the audience to sing along.",,30,50,,90,
+You noticed a number of audience members <glancing at their watches/looking at their cell phones/standing up to stretch/engaged in side conversations/yawning> as you delivered your speech.,,40,70,,80,
+"The host said ""what a <delightful person/breath of fresh air/ray of sunshine>"" as you walked off stage with your award in hand.",85,,,5,,
+"As you were ending your speech, the host made the audience laugh by pretending to have fallen asleep.",,40,,,90,
+You heard a few groans and some sighs coming from the audience as you were speaking.,,20,80,,25,75
+It was difficult discerning whether the audience was laughing with you or laughing at you.,,50,75,,25,
+You noticed a lot of audience members leaving their seats during your speech.,,35,80,,75,
+The audience jumped to their feet and began cheering in jubilation as you walked away from the podium.,90,,,10,25,75
+You noticed more than a few audience members wiping away tears as you were speaking.,50,,,50,,
+You noticed your co-star was tearing up as you were speaking.,50,,,50,,
+You questioned whether the microphone was working because nobody applauded at the end of your speech.,,25,75,,50,
+The audience loved the brevity of your speech while sitting through a very lengthy awards show.,85,,,,,15
+Your co-star jealously glared at you from the audience as you accepted your award on stage.,,,50,,,
+You questioned whether the microphone was working because nobody laughed at the jokes you made during your speech.,,40,20,70,20,
+You tripped on the stairs while walking up to the podium.,,,35,,,
+You questioned the audience's ability to intelligently appreciate the profundity of your speech.,,10,85,,25,75
+You noticed your co-star was blowing you a kiss during your speech.,70,,,50,,
+You noticed your co-star only gave your speech an indifferent golf clap.,,50,80,,,
+You had the audience in the palm of your hand from the moment you stepped on stage.,75,,,35,,
+"While giving your speech, someone in the audience screamed ""<we love you/marry me/do me>"" really loud.",80,,,35,,75
+"Midway through your speech, the audience started doing the wave.",75,,,50,25,
+"As your name was announced, the audience jumped to their feet and overwhelmed you with applause.",75,,,35,,
+Entertainment reporters said it was the best speech of the evening.,95,,,20,25,75
+Entertainment reporters said it was the worst speech of the evening.,,5,85,,75,

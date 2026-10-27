@@ -1,0 +1,83 @@
+Job,Company Type,Min Hourly Rate,Max Hourly Rate,Commonness Score,Tiring Score,Gender,Min Age,Max Age,Requires Driving License,Requires Vehicle,Requires Clear Criminal Record,Must Be Student,Min Intelligence,Min Health,Min Appearance,Min Happiness,Success Defining Attribute,Min Weekly Hours,Max Weekly Hours
+Admissions Assistant,University,$10 ,$20 ,2,2,,18,,,,x,x,20,,,,,8,30
+Amusement Park Attendant,Amusement Park,$8 ,$15 ,2,3,,16,,,,x,,,,,,,8,30
+Arcade Assistant,Mall,$8 ,$15 ,3,3,,16,,,,,,,,,,,8,30
+Armpit Sniffer,Small Business,$8 ,$15 ,1,3,,18,,,,,,,,,,,8,30
+Babysitter,Freelance,$8 ,$20 ,5,4,,13,50,,,,,,,,,Happiness,4,30
+Barista,Coffee Shop,$8 ,$20 ,4,3,,16,,,,x,,,,,20,,8,30
+Barnyard Sperm Extractor,Farm,$10 ,$20 ,1,5,,18,,,,,,,,,,,8,30
+Bellhop,Hotel,$10 ,$20 ,3,4,male,16,60,,,x,,,20,,,,8,30
+Beverage Cart Attendant,Corporate,$10 ,$30 ,1,3,female,21,45,x,,,,,,40,30,,8,30
+Bike Shop Mechanic,Bike Shop,$10 ,$20 ,2,4,,16,60,,,,,,,,,,8,30
+Bookkeeper,Corporate,$10 ,$20 ,3,2,,18,,,,x,,50,,,,,8,30
+Boutique Associate,Retailer,$8 ,$15 ,4,3,,16,,,,x,,,,20,20,,8,30
+Bowling Alley Assistant,Bowling Alley,$8 ,$15 ,3,3,,16,,,,,,,,,,,8,30
+Brand Ambassador,Corporate,$10 ,$25 ,2,4,,18,40,x,x,x,,,,40,20,,8,20
+Cafeteria Worker,University,$10 ,$15 ,2,4,,18,,,,,x,,,,,,8,30
+Camp Counselor,Small Business,$10 ,$15 ,4,5,,16,50,,,,,,20,,30,,8,30
+Campus Tour Guide,University,$10 ,$20 ,2,4,,18,25,,,,x,30,20,,30,,8,20
+Car Wash Attendant,Car Wash,$8 ,$15 ,4,4,,16,60,,,,,,,,,,8,30
+Caretaker,Freelance,$10 ,$20 ,3,4,,18,50,,,,,,,,,Discipline,8,30
+Caterer,Restaurant,$10 ,$20 ,3,4,,16,60,,,,,,,,,,8,30
+Chicken Sexer,Farm,$10 ,$30 ,1,4,,18,60,,,,,,,,,,8,30
+Collections Specialist,Corporate,$10 ,$25 ,4,1,,18,,,,x,,,,,,,8,30
+Concessions Attendant,Movie Theater,$8 ,$15 ,4,3,,16,,,,x,,,,,,,8,30
+Crossing Guard,Municipal,$8 ,$15 ,2,3,,18,,,,x,,,,,,,8,20
+Dance Instructor,Dance Company,$10 ,$25 ,3,4,,16,60,,,,,,40,,,,8,30
+Delivery Driver,Pizza Chain,$8 ,$20 ,3,2,,16,,x,x,,,,,,,,8,30
+Department Store Associate,Retailer,$10 ,$15 ,4,3,,16,,,,x,,,,20,20,,8,30
+Dog Walker,Freelance,$8 ,$25 ,4,4,,13,60,,,,,,,,,Health,6,20
+Donut Maker,Donut Shop,$8 ,$15 ,2,3,,16,,,,,,,,,,,8,30
+Doorman,Nightclub,$10 ,$20 ,3,3,,18,,,,,,,,,,,8,30
+Fish Monger,Fishery,$15 ,$25 ,1,4,,18,,,,,,,,,,,8,30
+Fitness Instructor,Gym,$10 ,$40 ,2,5,,18,50,,,x,,,90,90,20,,8,15
+Flower Shop Assistant,Florist,$8 ,$15 ,4,3,,16,,,,,,,,,20,,8,30
+Go-Go Dancer,Nightclub,$20 ,$40 ,1,5,female,18,30,,,,,,50,90,,,6,10
+Golf Caddie,Golf Course,$8 ,$15 ,1,5,male,14,30,,,,,,30,,20,,8,20
+Golf Shop Assistant,Golf Course,$10 ,$15 ,2,2,,16,,,,,,,,,,,8,30
+Grader,University,$10 ,$20 ,2,2,,18,,,,,x,30,,,,,8,30
+Grocery Bagger,Grocery Store,$8 ,$15 ,4,4,,16,,,,,,,,,,,8,30
+Grocery Store Stocker,Grocery Store,$10 ,$20 ,2,4,,16,60,,,,,,20,,,,8,30
+Guano Collector,Small Business,$8 ,$20 ,1,4,,18,60,,,,,,,,,,8,30
+Gym Receptionist,Gym,$8 ,$15 ,4,1,,16,,,,x,,,,20,20,,8,30
+Handyman,Freelance,$20 ,$40 ,3,4,,25,80,x,x,,,,,,,Intelligence,5,30
+Hotel Concierge,Hotel,$10 ,$20 ,2,2,,18,,,,x,,,,,30,,8,30
+Hotel Front Desk Clerk,Hotel,$10 ,$20 ,4,3,,18,,,,x,,20,,20,20,,8,30
+Ice Cream Scooper,Cafe,$8 ,$15 ,4,3,,16,,,,,,,,,,,8,30
+Lab Assistant,University,$15 ,$20 ,2,2,,18,,,,,x,50,,,,,8,30
+Laser Tag Assistant,Mall,$8 ,$15 ,3,3,,16,,,,,,,,,,,8,30
+Lawn Mower,Freelance,$10 ,$30 ,4,5,,14,60,,,,,,,,,Health,4,8
+Library Assistant,Library,$10 ,$15 ,2,2,,18,,,,x,x,20,,,,,8,30
+Lifeguard,Swimming Pool,$8 ,$20 ,4,4,,15,60,,,x,,,30,,,,8,30
+Mailroom Attendant,Municipal,$10 ,$20 ,2,4,,18,60,,,x,,,,,,,8,30
+Mall Kiosk Worker,Mall,$10 ,$20 ,3,3,,18,,,,,,,,,,,8,30
+Mall Santa,Mall,$20 ,$40 ,3,1,male,50,,,,x,,,,,,,10,30
+Mover,Small Business,$15 ,$25 ,4,5,,18,50,x,,,,,40,,,,8,30
+Movie Theater Cashier,Movie Theater,$8 ,$15 ,4,2,,16,,,,x,,,,,,,8,30
+Mystery Shopper,Corporate,$10 ,$25 ,2,1,,18,,,,x,,,,,,,6,10
+Newspaper Delivery Person,Newspaper,$8 ,$15 ,2,4,,13,,,,,,,20,,,,8,12
+Office Assistant,Corporate,$10 ,$20 ,4,3,,18,,,,x,,20,,,,,8,30
+Personal Trainer,Gym,$15 ,$40 ,2,5,,18,50,,,x,,,90,90,20,,8,20
+Pet Sitter,Freelance,$8 ,$20 ,3,2,,13,60,,,,,,,,,Health,12,30
+Pizza Maker,Pizza Chain,$8 ,$15 ,3,3,,16,,,,,,,,,,,8,30
+Pool Cleaner,Swimming Pool,$10 ,$30 ,4,4,,14,60,,,x,,,,,,,8,15
+Pool Towel Attendant,Hotel,$8 ,$15 ,1,3,,16,,,,x,,,,,,,8,30
+Product Tester,Corporate,$10 ,$20 ,2,3,,18,,,,x,,,,,,,8,20
+Research Assistant,University,$15 ,$25 ,2,2,,18,,,,,x,50,,,,,8,30
+Resident Assistant,University,$10 ,$20 ,2,2,,18,25,,,,x,20,,,,,8,30
+Sandwich Maker,Cafe,$8 ,$15 ,4,4,,16,60,,,,,,,,,,8,30
+School Bus Driver,Municipal,$10 ,$20 ,2,2,,25,,x,,x,,,,,,,8,25
+Secretary,Corporate,$15 ,$20 ,4,2,,18,,,,x,,20,,,,,8,30
+Sign Holder,Small Business,$8 ,$15 ,3,5,,14,60,,,,,,20,,,,8,30
+Social Media Manager,Small Business,$10 ,$30 ,2,1,,18,,,,,,20,,,,,8,20
+Street Sweeper,Municipal,$8 ,$15 ,1,4,,18,60,,,x,,,,,,,8,30
+Swim Instructor,Swimming Pool,$10 ,$20 ,3,5,,16,60,,,x,,,20,,20,,8,20
+Teacher's Aide,University,$10 ,$20 ,2,4,,21,,,,,x,70,,,20,,8,30
+Teaching Assistant,University,$10 ,$20 ,2,2,,18,,,,,x,70,,,,,8,30
+Tour Guide,Travel Agency,$10 ,$25 ,2,4,,18,60,,,x,,,20,,30,,8,30
+Tutor,Freelance,$15 ,$30 ,4,2,,15,80,,,,,,,,,Intelligence,6,30
+Usher,Hotel,$10 ,$20 ,3,3,,16,,,,x,,,,,,,8,30
+Valet,Hotel,$10 ,$20 ,4,4,,18,60,x,,x,,,,,,,8,30
+Video Game Tester,App Developer,$10 ,$20 ,2,1,,16,,,,,,,,,,,8,30
+Window Cleaner,Small Business,$8 ,$20 ,2,4,,18,60,,,,,,,,,,8,30
+Yoga Receptionist,Gym,$8 ,$15 ,3,1,,16,,,,x,,,,20,20,,8,30

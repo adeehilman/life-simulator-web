@@ -1,0 +1,60 @@
+List Item,Scenario,Past Tense Snippet,Present Tense Snippet,Hero Min Age,Hero Max Age,Hero Gender,Enjoyment Score,Respect Impact
+White water rafting,"While attending a red-carpet event, <celebrity> invites you on a white water rafting excursion.",went white water rafting,go white water rafting,18,,,5,5
+Bowling,"While attending a birthday party for <celebrity2>, <celebrity> invites you to go bowling with <him/her>.",went bowling,go bowling,18,,,3,3
+,"While at a formal event, <celebrity> asks you to do a shot with <him/her>.",did a shot,do a shot,21,,,3,-1
+Skinny dipping,"While at a black-tie event, <celebrity> asks if you want to go skinny dipping in the pool.",went skinny dipping,go skinny dipping,18,,,5,-3
+Hide-and-seek,"While enjoying tea with some other royals, <celebrity> asks if you want to go play hide-and-seek with <him/her>.",played hide-and-seek,play hide-and-seek,3,,,4,3
+,"While at a formal event, <celebrity> asks you to <line/salsa/tap/robot/swing/fire/pole/square/ballot/hip-hop> dance with <him/her>.",<rb> danced,<rb> dance,18,,,5,2
+Truth or Dare,"While attending a royal birthday party, <celebrity> asks you to play Truth or Dare.",played Truth or Dare,play Truth or Dare,18,,,5,-3
+Selfie,"While attending a ceremony, <celebrity> approaches you and asks to take a selfie with you.",took a selfie,take a selfie,5,,,3,1
+Flip the Switch Challenge,"While shooting the breeze with <celebrity> at a fancy function, <he/she> asks you to do the Flip the Switch Challenge with <him/her>.",did the Flip the Switch Challenge,do the Flip the Switch Challenge,12,,,5,1
+Grape picking,"While attending a world premier, <celebrity> invites you to pick wine grapes in France with <him/her> during the vendange.",picked wine grapes in France during the vendange,pick wine grapes in France,18,,,5,3
+,"While at a celebrity gala, <celebrity> asks if you'd like to tour <The Great Wall of China/the Pyramids of Giza/the Hanging Gardens of Babylon/the Bermuda Triangle/Easter Island/Phuket, Thailand/Amsterdam's ""red light district""/Patagonia> with <him/her>.",toured <rb>,tour <rb>,21,,,5,3
+Cliff diving,"While attending a world premier, <celebrity> invites you to go cliff diving in Hawaii with <him/her>.",went cliff diving in Hawaii,go cliff diving in Hawaii,21,,,5,3
+Crab fishing,"While attending a world premier, <celebrity> asks if you'd like to go crab fishing in the Bering Sea with <him/her>.",went crab fishing in the Bering Sea,go crab fishing in the Bering Sea,21,,,5,3
+Hot-air balloon ride,"While attending a world premier, <celebrity> invites you to take a hot-air balloon ride over a volcano with <him/her>.",took a hot-air balloon ride over a volcano,take a hot-air balloon ride over a volcano,18,,,5,3
+Drive race cars,"While attending a world premier, <celebrity> invites you to race Bugattis through the Swiss Alps with <him/her>.",raced Bugattis through the Swiss Alps,race Bugattis through the Swiss Alps,21,,,5,3
+,"While attending a world premier, <celebrity> invites you to go panning for gold in the Yukon with <him/her>.",panned for gold in the Yukon,pan for gold in the Yukon,18,,,5,3
+,"While at a celebrity gala, <celebrity> asks if you'd be interested in sneaking into North Korea with <him/her>.",snuck into North Korea,sneak into North Korea,21,,,1,-3
+,"While at a celebrity gala, <celebrity> invites you to trek the Inca trail to Machu Picchu with <him/her>.",trekked the Inca Trail to Machu Picchu,trek the Inca Trail to Machu Picchu,21,,,5,3
+,"While at a celebrity gala, <celebrity> invites you to spend spring break in Ibiza with <him/her>.",spent spring break in Ibiza,spend spring break in Ibiza,18,,,5,-2
+Arm wrestling,"While at a celebrity gala, <celebrity> challenges you to arm wrestle <him/her>.",arm wrestled,arm wrestle,5,18,,5,1
+,"While at a celebrity gala, <celebrity> asks if you want to go raid the ice cream freezer with <him/her>.",raided the ice cream freezer,raid the ice cream freezer,5,18,,5,1
+,"While attending an international benefit concert, <celebrity> asks if you'd like to go backstage with <him/her> and meet <musician>.",met <musician> backstage,meet <musician> backstage,18,,,5,2
+,"While attending an international benefit concert, <celebrity> asks if you want to go backstage with <him/her> and prank <musician>'s <toilet/green room/buffet rider/backup wardrobe>.",pranked <musician>'s <rb>,prank <musician>'s <rb>,21,,,3,-4
+,"While attending an international benefit concert, <celebrity> asks if you're brave enough to slam dance in the mosh pit with <him/her>.",slam danced in the mosh pit,slam dance in the mosh pit,18,,,4,-3
+,"You're attending a ""Feed the Hungry"" fundraising event when <celebrity> pulls you aside to say all this talk of hunger is making <him/her> hungry and asks if you'd like to go grab a double cheeseburger with <him/her> at a local diner.",ate a double cheeseburger,eat a double cheeseburger,18,,,3,1
+,"While attending an outdoor fundraising event at night, <celebrity> asks if you would like to watch the International Space Station fly over with <him/her>.",watched the International Space Station fly over,watch the International Space Station fly over,8,,,3,2
+Breakdancing lesson,"While at a celebrity gala, <celebrity> tells you <he/she> wants to take breakdancing lessons and asks if you want to join the class with <him/her>.",took breakdancing lessons,take breakdancing lessons,10,,,3,2
+Concert,"While at a ""Raising the Awareness"" charity event, <celebrity> informs you <he/she> has tickets to an upcoming <musician> concert and asks if you'd like to join <him/her>.",went to <musician-indefinite> concert,go to <musician-indefinite> concert,18,,,4,3
+TikTok,"While attending a Hollywood ""who's who"" event, <celebrity> quickly approaches you asking if you'll record a TikTok with <him/her>.",recorded a TikTok,record a TikTok,15,,,3,2
+,"While enjoying a symphonic performance, someone slips you a hand-written note from <celebrity> inviting you to a ""private little shindig"" at <his/her> place after the show.",partied,attend a private party,21,,,5,1
+,"While enjoying a midtown stroll, <celebrity> pops out of a production van and offers you a vodka shot as a camera crew records the event.",took a shot of vodka on camera,take a shot of vodka on camera,21,,,2,-3
+,"While strolling through the royal gardens, you notice someone parachuting down from the sky headed in your direction. The person lands right next to you, and you quickly realize it's <celebrity>. <he/she> enthusiastically asks if you'd like to participate in a celebrity questionnaire.",participated in a celebrity questionnaire,participate in a celebrity questionnaire,18,,,1,1
+'Call of Duty',"While attending a celebrity gala, <celebrity> approaches you and asks if you'd like to join <his/her> 'Call of Duty: Warzone' squad'.",played 'Call of Duty: Warzone',play 'Call of Duty: Warzone',10,,,4,-1
+Workout,"While attending a party at <celebrity2>'s giant estate, <celebrity> asks if you want to go <pump some iron/get jacked/hit the weights/do some cardio/do some bench presses> in their state-of-the-art fitness center.",worked out,work out,16,80,,1,4
+Miniature golf,You receive a text message from <celebrity> asking if you want to go miniature golfing.,went miniature golfing,go miniature golfing,6,,,3,2
+Watch TV,<celebrity> calls you and asks you if you want to watch <'Game of Thrones'/'The Crown'/'The Tudors'/'The Windsors'/'Downton Abbey'/'The Princess Bride'/'Reign'/'Braveheart'/'The King's Speech'/'A Royal Affair'/'The Duchess'/'Marie Antoinette'/'The King'/'King Arthur'/'Cinderella'/'The Princess Diaries'/'Lord of the Rings'/'Aladdin'/'Emperor'> on TV with <him/her>.,watched <rb>,watch <rb>,14,,,2,1
+Build a fort,<celebrity> calls and asks if you want to come over and build a fort.,built a fort,build a fort,5,14,,4,2
+Nerf gun fight,"You get a call from <celebrity> saying <he/she> would love to challenge you to a Nerf gun war, adding that <he/she> hopes to blast you in the face.",had a Nerf gun fight,have a Nerf gun fight,5,,,5,1
+Drum circle,<celebrity> calls to ask if you'd like to participate in a drum circle at a full moon beach party.,participated in a drumming circle,participate in a drumming circle,18,,,4,-1
+Rap battle,"You're relaxing at a celebrity shindig after the <Academy Awards/Grammy Awards/Golden Globes/MTV Video Awards/ESPY Awards/Emmy Awards/Soul Train Awards/American Music Awards/Critics Choice Awards/BET Hip Hop Awards>, when <celebrity> challenges you to a rap battle.",had a rap battle,have a rap battle,18,,,3,1
+Watch game,"While mingling with the stars at a pool party, <celebrity> invites you to watch <a basketball/a baseball/a hockey/a football> game with <him/her>.",watched <rb> game,watch <rb> game,18,,,2,2
+Watch match,"While mingling with the stars at a pool party, <celebrity> invites you to watch <a boxing/a soccer/a UFC/a cricket/a rugby> match with <him/her>.",watched <rb> match,watch <rb> match,18,,,2,2
+Tag,"While attending a New Year's party at <celebrity2>'s house, <celebrity> asks you to play tag with <him/her>.",played tag,play tag,3,12,,4,2
+Movie premiere,<celebrity> just called to invite you to join <him/her> for a movie premiere event.,attended a movie premiere,attend a movie premiere,18,,,3,1
+BitLife,"While attending a politician's wedding, <celebrity> asks you to play BitLife with <him/her>.",played BitLife,play BitLife,17,,,5,5
+Hopscotch,"While attending the funeral of a politician, <celebrity> invites you to go outside and play hopscotch.",played hopscotch,play hopscotch,3,12,,3,3
+Board game,<celebrity> invites you over to play <Monopoly/Scrabble/Twister/Operation/chess/checkers/Risk/Connect Four/Candy Land/Trivial Pursuit/Backgammon/Pictionary/Apple to Apples/Yahtzee/Jenga/Dungeons & Dragons/Cranium/Battleship/Clue/Settlers of Catan/Cards Against Humanity> with <him/her>.,played <rb>,play <rb>,18,,,2,3
+Play house,"While attending a party at <celebrity2>'s house, <celebrity> invites you to play house with <him/her>.",played house,play house,3,12,,2,3
+Golf,<celebrity> calls to say that <he/she> and some friends are going golfing and asks if you would like to join them.,went golfing,go golfing,18,,,4,1
+Cornhole,"While mingling with friends at a celebrity BBQ, <celebrity> invites you to play cornhole with <him/her>.",played cornhole,play cornhole,16,,,4,3
+Cards,<celebrity> just called asking if you'd like to come over and play <cards/Poker/Go Fish/Hearts/Crazy Eights/Euchre/Spades/War/cribbage/Old Maid> with <him/her> and <his/her> friends.,played cards,play cards,18,,,2,3
+Ping pong,"While hosting an event at your home, <celebrity> challenges you to a game of ping pong.",played ping pong,play ping pong,8,,,2,3
+Shooting range,<celebrity> invites you to go pop off some rounds at a shooting range.,went to a shooting range,go to a shooting range,18,,,3,-2
+Drive-in movie,<celebrity> calls and asks if you'd like to go to a drive-in movie theater with <him/her>.,went to a drive-in movie,go to a drive-in movie,18,,,3,1
+Go-Karts,You just got an email from <celebrity> inviting you to join <him/her> for some fun at the go-kart track.,raced go-karts,race go-karts,10,,,5,1
+Fitness class,<celebrity> shows up at your door asking if you want to go a <Zumba/yoga/pilates/spinning/CrossFit/boxing/kickboxing/pole dancing/water aerobics> class with <him/her>.,took a <rb> class,take a <rb> class,18,,,1,4
+Coffee,<celebrity> invites you get <a Mocha Frappuccino/a Blonde Vanilla Latte/a Caramel Macchiato/a White Chocolate Mocha/a S'mores Frappuccino/a Nitro Cold Brew/an Iced Chai Tea Latte/a Matcha Lemonade/a hot chocolate/a cup of coffee/an espresso> with <him/her> at Starbucks.,had <rb>,get <rb>,14,,,3,2
+Ride bikes,<celebrity> asks if you want to come over to <his/her> house and ride bicycles.,rode bicycles,ride bicycles,4,,,2,4
+Video games,<celebrity> invites you over to <his/her> house to play <PS4/PS5/Nintendo/Xbox/Atari/Super Nintendo/Sega Genesis/GameCube/NES/Nintendo Switch/Wii U> games with <him/her>.,played video games,play video games,5,,,4,1

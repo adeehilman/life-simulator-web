@@ -1,0 +1,51 @@
+Index,Organization,Gender,Letters,Min Smarts,Min Looks,Min Popularity,Popularity Score,Nickname,Motto
+1,Alpha Chi Omega,female,AX\u03a9,80,60,40,2,Alpha Chi,Together let us seek the heights
+2,Alpha Delta Pi,female,A\u0394\u03a0,,50,60,3,AD Pi,We Live For Each Other
+3,Alpha Epsilon Phi,female,AE\u03a6,80,,60,3,AE Phi,"Many Hearts, One Purpose"
+4,Alpha Kappa Alpha,female,AKA,80,80,90,5,AKA,By Culture and by Merit
+5,Alpha Omicron Pi,female,AO\u03a0,,,60,3,AO Pi,Inspire Ambition
+6,Alpha Phi,female,A\u03a6,,60,80,4,A Phi,Union hand in hand
+7,Chi Omega,female,X\u03a9,,50,60,3,Chi O,Hellenic Culture & Christian Ideals
+8,Delta Delta Delta,female,\u0394\u0394\u0394,,90,80,4,Tri Delt,Let us steadfastly love one another
+9,Delta Gamma,female,\u0394\u0393,,90,90,5,DG,Do Good
+10,Delta Sigma Theta,female,\u0394\u03a3\u0398,80,80,80,4,Delta,Intelligence is the Torch of Wisdom
+11,Delta Zeta,female,\u0394Z,60,20,80,4,DZ,"Behold the turtle, for it is only when he sticks his neck out will he get anywhere"
+12,Gamma Phi Beta,female,\u0393\u03a6B,,70,60,3,Gamma Phi,Founded On A Rock
+13,Kappa Alpha Theta,female,\u039a\u0391\u0398,90,80,80,4,Theta,Leading Women
+14,Kappa Delta,female,K\u0394,,90,90,5,KD,"Let us strive for that which is honorable, beautiful and highest"
+15,Kappa Delta Chi,female,K\u0394X,80,80,80,4,KD Chi,"Leading with Integrity, United through Service"
+16,Kappa Kappa Gamma,female,KK\u0393,,90,90,5,Kappa,Dream Boldly. Live Fully.
+17,Pi Beta Phi,female,\u03a0B\u03a6,80,90,90,5,Pi Phi,Pi Beta Phi
+18,Sigma Delta Tau,female,\u03a3\u0394T,80,80,80,4,Sig Delt,One Hope of Many People
+19,Sigma Kappa,female,\u03a3K,90,80,60,3,Sig Kap,"One Heart, One Way"
+20,Sigma Sigma Sigma,female,\u03a3\u03a3\u03a3,70,60,60,3,Tri Sig,Faithful Unto Death
+21,Zeta Phi Beta,female,Z\u03a6B,70,70,80,4,Zeta Phi,"A community-conscious, action-oriented organization"
+22,Zeta Tau Alpha,female,ZTA,90,70,60,3,Zeta,Seek the Noblest
+23,Alpha Epsilon Pi,male,AE\u03a0,90,,60,3,AE Pi,Developing Leadership for the Jewish Community
+24,Alpha Phi Alpha,male,A\u03a6A,90,70,80,4,Alpha,"First of All, Servants of All, We Shall Transcend All"
+25,Alpha Sigma Phi,male,A\u03a3\u03a6,90,,20,1,Alpha Sig,"The cause is hidden, the results well-known"
+26,Alpha Tau Omega,male,AT\u03a9,,,40,2,ATO,"To know no north, no south, no east, no west, but to know man as man"
+27,Beta Theta Pi,male,B\u0398\u03a0,,,40,2,Beta,Men of principle
+28,Delta Chi,male,\u0394X,90,80,90,5,D Chi,"Promoting friendship, developing character, advancing justice, assisting in the acquisition of a sound education"
+29,Delta Kappa Epsilon,male,\u0394KE,90,,60,3,Deke,"Friends from the Heart, Forever"
+30,Delta Tau Delta,male,\u0394T\u0394,,80,90,5,DTD,Labor for the Beautiful and the Good
+31,Kappa Alpha Psi,male,KA\u03a8,80,80,90,5,Kappa,Achievement in Every Field of Human Endeavor
+32,Kappa Sigma,male,K\u03a3,,70,90,5,Kappa Sig,Brothers in the Heart Forever
+33,Lambda Chi Alpha,male,\u039bXA,,,80,4,Lambda Chi,A lifetime of true brotherhood
+34,Lambda Theta Phi,male,\u039b\u0398,80,80,80,4,Lambda,Chivalry Above Self
+35,Omega Psi Phi,male,\u03a9\u03a8\u03a6,80,70,90,5,Omega,Friendship is essential to the soul
+36,Phi Beta Sigma,male,\u03a6B\u03a3,80,,80,4,Sigma,Culture for service and service for humanity
+37,Phi Delta Theta,male,\u03a6\u0394\u0398,90,,80,4,Phi Delt,One Man is No Man
+38,Phi Gamma Delta,male,\u03a6\u0393\u0394,70,,60,3,Fiji,"Friendship, the sweetest influence"
+39,Phi Kappa Psi,male,\u03a6K\u03a8,,,20,1,Phi Psi,"United by friendship, Sustained by honor, And led by truth, We live and we flourish"
+40,Pi Kappa Alpha,male,\u03a0KA,,,80,4,Pike,"Scholars, Leaders, Athletes, and Gentlemen"
+41,Pi Kappa Phi,male,\u03a0K\u03a6,,,60,3,Pi Kapp,Nothing shall ever tear us asunder
+42,Pi Lambda Phi,male,\u03a0\u039b\u03a6,80,,60,3,Pi Lam,Not Four Years But a Lifetime
+43,Sigma Alpha Epsilon,male,\u03a3AE,,70,90,5,SAE,Phi Alpha
+44,Sigma Chi,male,\u03a3X,,90,90,5,Sig,In This Sign You Shall Conquer
+45,Sigma Nu,male,\u03a3N,,,80,4,Sig Nu,"Love, Honor, Truth"
+46,Sigma Phi Epsilon,male,\u03a3\u03a6E,,,80,4,Sig Ep,Building Balanced Men
+47,Sigma Pi,male,\u03a3\u03a0,,70,40,2,Sig Pi,"Progress, man's distinctive mark alone, Not God's, and not the beasts'; God is, they are. Man partly is and wholly hopes to be"
+48,Tau Epsilon Phi,male,TE\u03a6,90,,60,3,TEP,"Friendship, Chivalry, Service"
+49,Tau Kappa Epsilon,male,TKE,80,,80,4,Teke,Better Men for a Better World
+50,Theta Chi,male,\u0398X,70,,60,3,T Chi,An Assisting Hand

@@ -1,0 +1,121 @@
+Animal,Gender Specific Emoji?,Breed,Breed Plural,Compatible Habitats,Maturity Age,Average Lifespan,Cool Score,Food Chain Hierarchy,Aggression Score,Danger Score,Breeding Likelihood,Lays Eggs,Rare,Hat,Maximum Animal Value,Minimum Annual Cost Per Animal,Maximum Annual Cost Per Animal,Commonness Score
+Snake,,basilisk,basilisks,reptile room,5,45,5,5,5,4,1,,x,,1500000,50000,75000,1
+Bird,,cockatrice,cockatrices,"temperate, rainforest, savanna, aviary",2,100,5,2,1,1,1,x,x,,750000,10000,30000,1
+Bird,,dodo,dodos,aviary,3,20,5,1,1,1,1,x,x,,2500000,1000,5000,1
+Reptile,,dragon,dragons,"temperate, rainforest, savanna, desert, reptile room",4,100,5,5,5,5,1,x,x,,5000000,50000,75000,1
+Bird,,griffin,griffins,"temperate, aviary",5,50,5,5,4,3,1,,x,,1500000,50000,75000,1
+Fox,,kitsune,kitsunes,temperate,7,75,5,3,2,1,1,,x,,1000000,15000,30000,1
+Pegasus,,pegasus,pegasi,"temperate, aviary, savanna",5,50,5,3,1,1,1,,x,,2000000,50000,75000,1
+Bird,,phoenix,phoenixes,"aviary, desert, temperate, rainforest",4,250,5,5,2,2,1,x,x,x,2000000,50000,75000,1
+Big Cat,,sabertooth tiger,sabertooth tigers,"savanna, desert, rainforest",4,25,5,5,5,5,1,,x,,2000000,50000,75000,1
+Unicorn,,unicorn,unicorns,"temperate, rainforest, savanna",2,250,5,4,1,1,1,,x,x,2000000,50000,75000,1
+Elephant,,woolly mammoth,woolly mammoths,arctic,10,70,5,3,3,2,1,,x,,2000000,50000,75000,1
+Primate,x,candykiller,candykillers,"arctic, temperate, savanna, desert, rainforest",8,70,5,5,5,5,1,,x,,2000000,50000,75000,1
+Primate,,yeti,yetis,arctic,15,100,5,4,3,3,1,,x,,2000000,50000,75000,1
+Elephant,x,African elephant,African elephants,savanna,10,70,5,3,4,5,2,,,,450000,40000,60000,5
+Bird,,African grey parrot,African grey parrots,aviary,5,75,2,1,4,2,4,x,,,20000,1000,4000,4
+Turtle,,African spurred tortoise,African spurred tortoises,reptile room,15,100,3,2,1,2,4,x,,,42000,1500,4000,3
+Rodent,,agouti,agoutis,temperate,2,15,2,2,1,1,4,,,,2000,700,1500,2
+Big Cat,x,albino lion,albino lions,savanna,3,23,5,5,5,5,3,,,x,500000,15000,20000,1
+Bird,x,albino peacock,albino peacocks,aviary,3,40,3,1,2,1,5,x,,x,20000,1000,5000,1
+Turtle,,Aldabra giant tortoise,Aldabra giant tortoises,reptile room,25,120,3,2,1,2,4,x,,,500000,2000,5000,2
+Reptile,x,alligator,alligators,reptile room,10,80,3,5,4,5,4,x,,,100000,5000,15000,3
+Snake,,anaconda,anacondas,reptile room,4,27,3,4,3,3,3,x,,,65000,2000,5000,4
+Deer,x,antelope,antelopes,savanna,5,20,3,2,1,2,3,,,,10000,3000,6000,3
+Fox,x,Arctic fox,Arctic foxes,arctic,1,14,5,3,2,3,4,,,,10000,2000,5000,3
+Wolf,x,Arctic wolf,Arctic wolves,arctic,2,20,3,5,4,4,4,,,,100000,5000,10000,3
+Pangolin,,armadillo,armadillos,desert,1,20,3,2,1,1,3,,,,5000,1000,3000,3
+Primate,,aye-aye,aye-ayes,nocturnal house,3,24,3,2,2,1,2,,,,100000,5000,10000,2
+Bird,x,bald eagle,bald eagles,aviary,5,40,5,4,5,5,3,x,,,100000,3000,7000,2
+Snake,,ball python,ball pythons,reptile room,3,25,3,3,2,2,4,x,,,2200,1000,3000,3
+Bird,,barn owl,barn owls,nocturnal house,1,20,3,5,3,4,4,x,,,10000,1000,3000,4
+Reptile,,bearded dragon,bearded dragons,reptile room,2,10,4,2,1,1,4,x,,,5000,800,2000,3
+Rodent,,beaver,beavers,temperate,3,19,2,2,2,2,4,,,,5000,2000,4000,3
+Big Cat,x,Bengal tiger,Bengal tigers,savanna,4,20,5,5,5,5,4,,,x,200000,15000,20000,3
+Snake,,black mamba,black mambas,reptile room,6,15,3,4,4,5,3,x,,x,10000,1000,3000,3
+Snake,,boa constrictor,boa constrictors,reptile room,4,30,3,4,3,3,4,x,,,3500,1000,3000,4
+Turtle,,box turtle,box turtles,reptile room,8,35,3,2,1,2,4,x,,,2700,500,1500,2
+Snake,,Burmese python,Burmese pythons,reptile room,4,23,5,4,3,3,4,x,,,6000,1000,3000,3
+Camel,,camel,camels,desert,5,50,1,2,2,2,4,,,,40000,5000,10000,3
+Rodent,,capybara,capybaras,rainforest,1,10,4,2,1,1,4,,,,10000,2000,5000,4
+Big Cat,,caracal,caracals,desert,2,17,4,3,4,3,4,,,,50000,10000,20000,2
+Bird,,cassowary,cassowaries,aviary,4,50,5,4,5,5,3,x,,,50000,5000,10000,2
+Reptile,,chameleon,chameleons,reptile room,1,10,4,2,1,1,4,x,,,5000,1000,3000,3
+Big Cat,x,cheetah,cheetahs,savanna,2,15,4,4,4,5,3,,,,500000,15000,20000,4
+Primate,x,chimpanzee,chimpanzees,rainforest,11,60,4,2,4,3,3,,,,500000,10000,20000,4
+Rodent,,chinchilla,chinchillas,nocturnal house,1,15,3,2,1,1,4,,,,3000,800,2000,3
+Big Cat,x,cougar,cougars,temperate,3,20,4,4,4,5,4,,,,100000,15000,20000,3
+Wolf,x,coyote,coyotes,"temperate, desert",1,20,2,4,3,4,4,,,,7500,3000,6000,3
+Reptile,x,crocodile,crocodiles,reptile room,10,70,3,5,4,5,4,x,,,100000,5000,15000,3
+Deer,x,deer,deer,temperate,2,14,1,2,1,2,4,,,,10000,3000,7000,4
+Rodent,,degu,degus,temperate,1,9,2,2,2,1,4,,,,2500,700,1500,2
+Turtle,,desert tortoise,desert tortoises,reptile room,20,80,4,2,1,2,4,x,,,6700,500,1500,2
+Bird,,elf owl,elf owls,nocturnal house,1,10,3,3,1,2,3,x,,,5000,1000,3000,2
+Deer,x,elk,elk,arctic,2,20,2,3,2,3,4,,,,50000,4000,8000,3
+Bird,x,emu,emus,savanna,3,28,2,3,3,3,4,x,,,50000,3000,7000,5
+Fox,,fennec fox,fennec foxes,desert,1,14,5,3,2,2,4,,,,10000,2000,5000,2
+Bird,,flamingo,flamingos,aviary,4,50,5,1,2,1,3,x,,x,5000,2000,5000,5
+Snake,,Gaboon viper,Gaboon vipers,reptile room,5,20,3,3,3,5,3,x,,,7000,1000,3000,2
+Deer,x,gazelle,gazelles,savanna,2,15,3,2,1,2,3,,,,10000,3000,6000,3
+Reptile,,Gila monster,Gila monsters,reptile room,3,30,4,3,3,3,3,x,,,50000,1000,3000,3
+Giraffe,x,giraffe,giraffes,savanna,4,27,5,2,1,1,3,,,x,400000,15000,25000,4
+Primate,x,gorilla,gorillas,rainforest,9,50,5,3,4,5,3,,,,600000,30000,70000,3
+Bird,,great crested grebe,great crested grebes,aviary,2,15,5,1,1,1,3,x,,,5000,2000,5000,2
+Snake,,green tree python,green tree pythons,reptile room,2,20,5,3,2,3,4,x,,,3000,1000,3000,4
+Bear,x,grizzly bear,grizzly bears,temperate,5,25,3,4,4,5,4,,,,500000,15000,75000,4
+Bird,,harpy eagle,harpy eagles,aviary,4,45,3,4,5,5,3,x,,,80000,4000,8000,3
+Hippo,x,hippopotamus,hippopotamuses,savanna,8,40,2,4,5,5,3,,,,600000,20000,40000,4
+Deer,x,ibex,ibexes,desert,2,20,3,2,1,2,3,,,,50000,4000,8000,3
+Reptile,,iguana,iguanas,reptile room,2,20,2,2,2,1,4,x,,,2000,1000,3000,4
+Big Cat,x,jaguar,jaguars,"savanna, rainforest",3,15,3,4,4,5,4,,,,500000,15000,20000,5
+Kangaroo,x,kangaroo,kangaroos,temperate,2,20,3,2,4,4,4,,,,10000,3000,6000,3
+Rodent,,kangaroo rat,kangaroo rats,desert,1,5,2,1,1,1,4,,,,2000,500,1000,3
+Snake,,king cobra,king cobras,reptile room,6,20,5,3,5,5,4,x,,,50000,1000,15000,3
+Bird,,kiwi,kiwis,aviary,2,50,4,1,1,1,2,x,,,50000,3000,6000,1
+Koala,,koala,koalas,temperate,2,20,3,2,1,2,3,,,,50000,5000,10000,3
+Reptile,,Komodo dragon,Komodo dragons,savanna,8,30,3,5,4,5,3,x,,,200000,15000,30000,1
+Primate,,lemur,lemurs,rainforest,1,20,3,2,2,2,3,,,,10000,3000,6000,5
+Big Cat,x,leopard,leopards,"savanna, desert, rainforest",2,23,3,4,4,5,4,,,,500000,10000,20000,3
+Big Cat,x,lion,lions,savanna,3,23,5,5,5,5,4,,,x,250000,15000,20000,3
+Big Cat,x,lynx,lynxes,temperate,2,24,4,4,4,5,4,,,,50000,15000,20000,3
+Primate,,macaque,macaques,rainforest,5,30,3,2,3,3,4,,,,50000,4000,8000,5
+Bird,,macaw,macaws,aviary,5,60,5,1,4,2,4,x,,,20000,1000,5000,2
+Primate,,mandrill,mandrills,rainforest,6,30,4,2,4,5,3,,,x,100000,6000,12000,3
+Meerkat,,meerkat,meerkats,savanna,1,12,4,3,2,1,4,,,,10000,2000,4000,5
+Deer,x,moose,moose,arctic,3,20,2,3,4,3,3,,,,75000,5000,10000,3
+Bird,,motmot,motmots,aviary,2,20,3,1,2,1,3,x,,,10000,1000,3000,3
+Primate,x,orangutan,orangutans,rainforest,11,55,3,2,2,4,3,,,,500000,15000,30000,4
+Bird,,ostrich,ostriches,savanna,3,70,4,3,3,4,4,x,,,50000,4000,8000,4
+Bear,x,panda bear,panda bears,temperate,5,20,5,2,2,1,2,,,x,500000,500000,1000000,1
+Pangolin,,pangolin,pangolins,nocturnal house,2,20,3,2,1,1,2,,,,100000,5000,10000,2
+Bird,,parrot,parrots,aviary,3,60,4,1,3,2,4,x,,,1000,1000,5000,4
+Bird,x,peacock,peacocks,aviary,3,40,3,1,2,1,5,x,,x,5000,1000,5000,5
+Bird,,penguin,penguins,arctic,5,30,5,2,2,2,4,x,,,10000,5000,15000,3
+Bird,,peregrine falcon,peregrine falcons,aviary,3,25,4,4,4,5,3,x,,,100000,2000,5000,2
+Platypus,,platypus,platypuses,temperate,2,17,3,3,2,2,2,x,,,500000,6000,12000,2
+Bear,x,polar bear,polar bears,arctic,4,30,4,5,4,5,3,,,,600000,20000,50000,2
+Rodent,,porcupine,porcupines,nocturnal house,2,20,3,2,2,2,3,,,,7500,1000,3000,3
+Rodent,,prairie dog,prairie dogs,temperate,2,8,3,1,1,2,4,,,,1500,700,1500,3
+Fox,,red fox,red foxes,temperate,1,12,2,3,2,2,4,,,,5000,2000,5000,3
+Red Panda,,red panda,red pandas,temperate,1,15,5,2,2,1,3,,,x,100000,6000,12000,2
+Deer,x,reindeer,reindeer,arctic,2,15,3,2,2,2,4,,,,30000,3000,7000,2
+Rhino,x,rhinoceros,rhinoceri,temperate,7,40,4,2,4,5,3,,,,600000,20000,50000,2
+Bird,,scarlet macaw,scarlet macaws,aviary,4,75,4,1,4,3,4,x,,x,20000,1000,4000,5
+Pinniped,,sea lion,sea lions,arctic,5,30,4,3,3,4,4,,,,100000,5000,15000,2
+Pinniped,x,seal,seals,arctic,6,35,3,3,2,3,4,,,,100000,5000,15000,3
+Bird,,secretary bird,secretary birds,savanna,3,19,3,5,5,4,3,x,,,70000,3000,6000,2
+Bird,,shoebill,shoebills,aviary,4,35,3,2,1,4,2,x,,,50000,3000,6000,2
+Big Cat,x,Siberian tiger,Siberian tigers,arctic,4,20,5,5,5,5,4,,,x,600000,15000,20000,1
+Sloth,,sloth,sloths,rainforest,3,25,4,2,1,1,3,,,,70000,3000,6000,3
+Primate,,slow loris,slow lorises,nocturnal house,2,25,3,2,2,1,3,,,,10000,2000,5000,2
+Big Cat,x,snow leopard,snow leopards,arctic,3,25,4,5,3,5,4,,,,500000,10000,20000,1
+Bird,,snowy owl,snowy owls,nocturnal house,3,28,3,5,3,4,3,x,,,50000,2000,5000,3
+Primate,,squirrel monkey,squirrel monkeys,rainforest,3,25,2,2,2,2,4,,,,10000,2000,5000,4
+Pig,x,tapir,tapirs,rainforest,4,35,3,2,2,3,3,,,,40000,6000,12000,2
+Bird,,toucan,toucans,aviary,2,25,4,2,3,2,4,x,,,10000,2000,5000,3
+Bat,,vampire bat,vampire bats,nocturnal house,1,20,3,2,3,1,4,,,,5000,500,5000,3
+Pinniped,,walrus,walruses,arctic,7,45,3,3,3,3,3,,,,500000,20000,40000,1
+Otter,x,otter,otters,temperate,3,20,5,3,2,1,4,,,,10000,4000,8000,5
+Pig,x,warthog,warthogs,savanna,2,18,2,2,3,3,4,,,,10000,3000,7000,4
+Wolf,x,wolf,wolves,temperate,2,16,3,5,4,4,4,,,,90000,5000,10000,3
+Zebra,x,zebra,zebras,savanna,2,40,4,2,3,4,3,,,x,420000,5000,15000,5

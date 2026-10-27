@@ -1,0 +1,48 @@
+Reason,Abbreviated Reason,Snippet,Max Looks,Max Smarts,Min Craziness,Commonness Score
+abusive parents,abusive parents,whose birth parents were abusive,,,70,5
+abusive single father,abusive parent,whose single father was abusive,,,70,2
+abusive single mother,abusive parent,whose single mother was abusive,,,70,4
+child abandoned,child abandoned,who was abandoned by <his/her> birth parents,,,,3
+child abandoned for bad behavior,child abandoned,who was abandoned due to <his/her> bad behavior,,,60,2
+child abandoned for craziness,child abandoned,who was abandoned due to <his/her> crazy ways,,,80,2
+child abandoned for looks,child abandoned,who was abandoned due to <his/her> unpleasant physical appearance,30,,,1
+child abandoned for stupidity,child abandoned,who was abandoned due to <his/her> lack of intelligence,,30,,1
+child found on doorstep,child abandoned,who was found on the doorstep of a fire station,,,,2
+mentally unstable parents,unfit parents,whose birth parents were mentally unstable,,,60,4
+mentally unstable single mother,unfit parent,whose single mother was a mentally unstable parent,,,60,4
+neglectful parents,unfit parents,whose birth parents were neglectful,,,60,4
+neglectful single mother,unfit parent,whose single mother was a neglectful parent,,,60,4
+parents died in a fire,lost parents,whose birth parents died in a fire,,,,2
+parents died in a shootout,lost parents,whose birth parents died in a shootout,,,50,2
+parents died in an orgy gone wrong,lost parents,whose birth parents died in an orgy gone wrong,,,80,1
+parents died of infectious disease,lost parents,whose birth parents died of a rare infectious disease,,,,1
+parents died while procreating,lost parents,whose birth parents died while procreating,,,70,1
+parents had addiction issues,unfit parents,whose birth parents had serious addiction issues,,,70,5
+parents had financial issues,unfit parents,whose birth parents had serious financial problems,,,,4
+parents had health issues,unfit parents,whose birth parents had serious health problems,,,,3
+parents had religious challenges,religious reasons,whose birth parents couldn\u2019t possess a baby for religious reasons,,,50,3
+parents imprisoned,parents imprisoned,whose birth parents were imprisoned,,,70,5
+parents in rehab,unfit parents,whose birth parents are in rehab,,,80,5
+parents killed in a bar fight,lost parents,whose birth parents were killed in a bar fight,,,,1
+parents killed in a gang fight,lost parents,whose birth parents were killed in a gang fight,,,80,1
+parents killed in car crash,lost parents,whose birth parents were killed in a car crash,,,,3
+parents killed in combat,lost parents,whose birth parents were killed in combat,,,,2
+parents killed in motorcycle accident,lost parents,whose birth parents were killed in a motorcycle accident,,,,2
+parents killed in natural disaster,lost parents,whose birth parents were killed in a natural disaster,,,,1
+parents killed in plane crash,lost parents,whose birth parents were killed in a plane crash,,,,1
+parents killed in terrorist attack,lost parents,whose birth parents were killed in a terrorist attack,,,,1
+parents murdered,lost parents,whose birth parents were murdered,,,80,2
+single father had addiction issues,unfit parent,whose single father had serious addiction issues,,,70,2
+single father had financial issues,unfit parent,whose single father had serious financial problems,,,,1
+single father had health issues,unfit parent,whose single father had serious health problems,,,,1
+single father imprisoned,parent imprisoned,whose single father was imprisoned,,,70,2
+single father killed in car crash,lost parent,whose single father was killed in a car crash,,,,2
+single father murdered,lost parent,whose single father was murdered,,,80,2
+single mother had addiction issues,unfit parent,whose single mother had serious addiction issues,,,70,5
+single mother had financial issues,unfit parent,whose single mother had serious financial problems,,,,5
+single mother had health issues,unfit parent,whose single mother had serious health problems,,,,3
+single mother imprisoned,parent imprisoned,whose single mother was imprisoned,,,70,4
+single mother killed in car crash,lost parent,whose single mother was killed in a car crash,,,,4
+single mother murdered,lost parent,whose single mother was murdered,,,80,4
+unfit single mother,unfit parent,whose single mother was an unfit parent,,,50,5
+unfit teen parents,unfit parents,whose birth parents were unfit teens,,,50,3

@@ -1,0 +1,29 @@
+Snippet,Log Refusal Snippet,Log Snippet,Agree Performance Impact,Refuse Performance Impact,Commonness Score
+cluck like a chicken,cluck like a chicken,clucked like a chicken,-2,2,1
+pole dance,pole dance,pole danced,-3,3,1
+shimmy with all of your might,shimmy with all of my might,shimmied with all of my might,1,-1,1
+drop it like it's hot,drop it like it's hot,dropped it like it's hot,1,-1,2
+put on <a stylish/a chic/a modern/an outdated/a contemporary/a vintage> outfit and deliver a convincing speech about why their brand is the best,wear <rb> and deliver a promotional speech,wore <rb> and delivered a promotional speech,5,-5,4
+put on a <hotdog/skimpy nurse's uniform/skimpy police officer/go-go dancer> costume and deliver a convincing speech about why their brand is best,wear <rb> and deliver a promotional speech,wore <rb> and delivered a promotional speech,2,-2,3
+let them measure every inch of your body,have my measurements taken,had my measurements taken,5,-5,5
+take an impromptu topless photo,take an impromptu topless photo,took an impromptu topless photo,1,-2,3
+walk in a straight line,walk in a straight line,walked in a straight line,2,2,5
+read lines from a teleprompter while they film you,read lines from a teleprompter on camera,read lines from a teleprompter on camera,4,-4,4
+strut your stuff while wearing <granny panties/a diaper/ten-inch high heels/a 1980's disco outfit/ridiculously high platform shoes>,strut my stuff wearing <rb>,modeled in <rb>,-3,3,3
+shake a Shake Weight,shake a Shake Weight,shook a Shake Weight,-2,2,1
+squeal like a pig,squeal like a pig,squealed like a pig,-2,3,3
+grovel on your knees,grovel on my knees,groveled on my knees,-2,3,2
+twerk,twerk,twerked,-1,2,2
+play air <guitar/drums>,play air <rb>,played air <rb>,2,-2,2
+pretend to <cry/be deeply offended/be terrified/be aghast>,pretend to <rb>,pretended to <rb>,3,-1,3
+simulate <masterbation/a sexual act>,simulate <rb>,simulated <rb>,-4,4,2
+throw a childish temper tantrum,throw a childish temper tantrum,threw a childish temper tantrum,-1,1,2
+pretend you have to pee really bad,pretend I had to pee really bad,pretended to have to pee really bad,3,-2,2
+say something nice about <celebrity>,say something nice about <celebrity>,said something nice about <celebrity>,3,-3,1
+demonstrate your <downward dog/Warrior I/Warrior II/triangle/child's/tree/mountain/cobra/cat-cow/bridge/camel/chair/plank/corpse> pose,demonstrate a yoga pose,demonstrated a yoga pose,2,-2,3
+jog in place while wearing a <camper's backpack/heavy backpack>,jog in place while wearing <rb>,jogged in place while wearing <rb>,2,-1,2
+jog in place while wearing a <low-cut top/tight pair of leggings>,jog in place while wearing <rb>,jogged in place while wearing <rb>,-2,3,1
+do a practice walk on a makeshift runway,perform a practice walk on a makeshift runway,performed a practice walk on a makeshift runway,2,-2,2
+demonstrate your runway walk while wearing a <stylish/chic/contemporary/vintage> outfit,demonstrate my runway walk,demonstrated my runway walk,3,-3,4
+pose for a test shot by <standing and staring straight at the camera/turning to one side/slightly turning away from the camera in a three-quarter turn/sitting in an office chair and smiling/leaning against a wall/walking in place/running in place/crossing your arms/putting your hand on your hip/tilting your head slightly towards a light/popping your hip/arching your back in an exaggerated stance/playing with your hair/glancing over your shoulder at the camera/lounge on the floor/lounge on a couch>,pose for a test shot,posed for a test shot,4,-4,5
+pose for a test shot by <pretending to punch one of the interns/pretending to kick one of the interns/lying spread eagle on your back/mocking one of the interns/shaming a cat/shaming a dog>,pose for a test shot,posed for a test shot,-4,3,3

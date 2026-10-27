@@ -1,0 +1,63 @@
+Genre,Theme,Base Popularity Impact,Match Popularity Impact
+bardcore,Medieval,-1,2
+sea shanty,pirate,1,3
+Baroque pop,Roman,-3,3
+J-rock,anime,1,3
+synthwave,outer space,1,2
+Vaudeville,circus,-1,2
+bubblegum pop,Hollywood,-3,2
+jazz,speakeasy,1,3
+opera,Roman,-1,2
+neoclassical,Roman,1,3
+Caesarwave,Roman,1,3
+Colosseumcore,Roman,-1,2
+centurion ska,Roman,-3,3
+pantheon pop,Roman,-3,3
+imperial lounge,Roman,1,2
+kawaiicore,anime,1,3
+J-pop,anime,-1,2
+otaku trap,anime,1,2
+final bossa nova,anime,-2,3
+weeb-hop,anime,1,3
+Dragon Ball zydeco,anime,-2,2
+hokage hip hop,anime,-1,3
+magical girl death metal,anime,1,3
+calypso,pirate,1,2
+nautical folk,pirate,-1,3
+flamenco,pirate,1,2
+Celtic folk rock,pirate,-2,2
+ska,pirate,1,3
+reggae,pirate,1,2
+jazz,speakeasy,1,3
+blues,speakeasy,1,3
+swing,speakeasy,-1,2
+burlesque jazz,speakeasy,-2,3
+bebop,speakeasy,1,3
+big band,speakeasy,-3,1
+boogie-woogie,speakeasy,-2,1
+polka,circus,-3,2
+bossa nova,circus,1,2
+chanson,circus,-1,2
+ragtime,circus,-2,3
+psychedelic rock,circus,1,3
+carnival samba,circus,-1,2
+Gregorian,Medieval,-3,1
+Celtic,Medieval,-3,2
+folk,Medieval,1,2
+troubadour,Medieval,-1,3
+neofolk,Medieval,1,3
+dungeon synthwave,Medieval,-2,2
+darkwave folk,Medieval,1,3
+extraterrestrial dance music,outer space,1,3
+deep space house,outer space,-2,2
+futuristic jazz,outer space,1,3
+techno,outer space,1,2
+cosmic disco,outer space,-3,2
+space rock,outer space,-1,3
+wee-woo trance,outer space,1,2
+art pop,Hollywood,1,3
+rock 'n' roll,Hollywood,-1,3
+disco funk,Hollywood,-2,2
+glam metal,Hollywood,-1,3
+blockbuster house,Hollywood,-1,2
+red carpet r&b,Hollywood,1,2

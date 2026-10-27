@@ -1,0 +1,12 @@
+Method,Feedback Snippet,Log Version Snippet,Success Score,Can Be Punished
+Hang out at their club,hanging out at their club for <num10-100> straight days,hanging out at their club for <num10-100> straight days,4,
+Wait tables,waiting tables at their restaurant for <three/four/five> months and giving them a percentage of your tips each shift,waiting tables at their restaurant for <rb> months and giving them a percentage of my tips each shift,4,
+Offer to do favors,doing menial tasks for them for <num10-100> days,doing menial tasks for them for <num10-100> days,4,
+Deliver packages,delivering packages and asking no questions for <two/three/four/five/six> months,delivering packages and asking no questions for <rb> months,4,
+Chauffeur them around town,chauffeuring their members around town whenever they needed a driver,chauffeuring their members around town whenever they needed a driver,4,
+Provide alibis,providing alibis whenever the police asked about shady activity in the vicinity,providing alibis whenever the police asked about shady activity in the vicinity,4,
+Wash cars,washing Family members' cars in the parking lots of their popular hangouts,washing Family members' cars in the parking lots of their popular hangouts,3,x
+Relay messages,relaying messages between captains and their associates for <two/three/four> months,relaying messages between captains and their associates for <rb> months,3,
+Do yard work,doing yard work for <a captain/the underboss> every week for <two/three> months,doing yard work for <rb1> every week for <rb2> months,2,x
+Deliver baked goods,baking an array of sweets and treats for members of the Family for <one month/two months>,baking an array of sweets and treats for members of the Family for <rb>,2,x
+Ask straight-out,asking to join every day for a month,asking to join every day for a month,1,x

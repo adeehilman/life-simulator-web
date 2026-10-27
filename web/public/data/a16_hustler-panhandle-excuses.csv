@@ -1,0 +1,121 @@
+Condition,Excuse,Commonness Score,Sympathy Score
+child,<he/she> feels responsible for us being poor.,1,5
+child,<he/she> needs to work to earn <his/her> keep.,1,5
+default,Gimme a dollar and I'll make you holler.,1,1
+default,I'm broke af.,1,3
+default,I love the fresh air.,1,1
+default,My wife is pregnant.,1,5
+default,My secretary stole everything.,1,3
+default,A prostitute screwed me.,1,1
+default,I assaulted a miner.,1,1
+default,Bet it all on a cock fight.,1,1
+default,My flatulence keeps me jobless.,1,1
+default,I don't understand the question.,1,1
+default,I have a panhandling fetish.,1,1
+default,I get off on the sympathy.,1,1
+default,"I'm, like, totally broke.",1,1
+default,My coin purse is empty.,1,1
+default,I handle more than just pans.,1,1
+default,It's my dharma.,1,3
+default,I was born a panhandling prodigy.,1,2
+default,I'm a hustler.,1,1
+pet,<he/she> finds the best food for us.,1,4
+pet,<he/she> doesn't mind my smell.,1,2
+pet,<he/she> helps me catch rats to eat.,1,5
+child,<he/she> has lice and can't go to school.,2,5
+child,<he/she>'d rather help the family raise money.,2,5
+child,<he/she> dumpster dives for our food.,2,4
+child,<he/she> was born for this.,2,5
+child,It's <his/her> punishment for acting up.,2,2
+default,I don't remember where I live.,2,4
+default,I flew too close to the sun.,2,2
+default,You don't want to know.,2,2
+default,I'm addicted to it.,2,1
+default,I love interacting with people.,2,1
+default,My wife took everything.,2,3
+default,My husband took everything.,2,3
+default,I'm broke as a joke.,2,3
+default,I'm a panhandler by choice.,2,1
+default,I wouldn't get paid to strip.,2,1
+default,I feel at home on the streets.,2,1
+default,I spent too much time on Reddit.,2,5
+default,I'm too dumb to work.,2,2
+default,I'm allergic to work.,2,1
+default,My parole officer sucks.,2,3
+default,I bought a timeshare.,2,5
+pet,I rescued <him/her> yesterday.,2,4
+pet,<he/she> guards my stash.,2,4
+pet,<he/she> scares stupid people off.,2,1
+child,<he/she>'s earning <his/her> keep.,3,1
+child,<his/her> smell distracts <his/her> classmates.,3,3
+child,<he/she> gets bullied for being poor.,3,5
+child,<he/she> needs money for a tutor.,3,1
+child,<he/she> is mute.,3,3
+child,<he/she> has a rare disease.,3,5
+child,<he/she>'s in training.,3,2
+child,<he/she> loves it out here.,3,4
+default,Life made me its punching bag.,3,3
+default,Give me money and I'll tell you.,3,1
+default,I'm a people person.,3,1
+default,The danger excites me.,3,1
+default,I don't want to work.,3,1
+default,I don't like working.,3,1
+default,I can't get a job.,3,1
+default,No one is hiring.,3,1
+default,My dementia keeps me jobless.,3,4
+default,I got the rug pulled from under me.,3,4
+default,I lost it all in a bet.,3,1
+default,I'm not good for anything else.,3,3
+default,I'm bad at life.,3,3
+default,I don't know how to do anything.,3,2
+default,I'm allergic to responsibility.,3,1
+default,I'm throwing myself a pity party.,3,1
+default,I'm not a normal person.,3,1
+default,It's because the voices tell me to.,3,4
+default,I got no skills to pay the bills.,3,4
+pet,<he/she> is the only thing that loves me.,3,5
+pet,<he/she> bites nosy pedestrians.,3,2
+pet,<he/she> helps me scavenge for food.,3,5
+pet,People say <he/she>'s cute and give me money.,3,3
+pet,People see <him/her> and smile.,3,3
+child,I need money for <his/her> surgery.,4,3
+child,<he/she> likes being out here.,4,2
+child,<he/she> can't read or go to school.,4,3
+child,I can't afford <his/her> school lunch.,4,5
+child,I can't afford <his/her> school supplies.,4,4
+child,<he/she> won't go to school.,4,1
+child,<he/she> needs an expensive surgery.,4,5
+default,My landlord evicted me.,4,3
+default,I'm an alcoholic.,4,1
+default,I'm no good at anything.,4,2
+default,I have hungry kids at home.,4,5
+default,I have hungry cats at home.,4,5
+default,I have hungry dogs at home.,4,5
+default,No one likes me.,4,3
+default,I lost it all in a fire.,4,4
+default,I lost it all in a flood.,4,4
+default,I lost it all in a bad business deal.,4,2
+default,I'm out on parole.,4,2
+default,I'm a convicted felon.,4,2
+default,I'm paying off my bail bondsman.,4,2
+pet,<he/she> guards my cash.,4,4
+pet,<he/she>'s my emotional support pet.,4,5
+child,<he/she> is starving.,5,4
+child,None of your business.,5,1
+child,<he/she> doesn't need an education.,5,1
+default,I lost it all in a typhoon.,5,5
+default,I need surgery.,5,4
+default,I lost my home.,5,3
+default,My family died and left me poor.,5,5
+default,I can't keep a job.,5,1
+default,I'm poor.,5,2
+default,The bank repossessed everything.,5,3
+default,I can't afford rent.,5,4
+default,I made bad decisions.,5,2
+default,I owe a debt to society.,5,2
+default,None of your business.,5,1
+pet,<he/she> needs life-saving surgery.,5,5
+pet,<he/she> is all I have.,5,5
+pet,<he/she> keeps me company.,5,4
+pet,<he/she> guards me.,5,2
+pet,None of your business.,5,1

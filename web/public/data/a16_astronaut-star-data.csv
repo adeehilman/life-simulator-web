@@ -1,0 +1,11 @@
+Name,Classification,Color,Mass,Diameter,Planets in Orbit
+Sun,Main Sequence,Yellow,1,1,8
+Betelgeuse,Supergiant,Red,14.98,1000,0
+Rigel,Supergiant,Blue,23.02,78,0
+Proxima Centauri,Main Sequence,Red,0.0121,0.14,1
+Vega,Main Sequence,Blue,2.13,2.3,1
+Antares,Supergiant,Red,14.98,700,0
+Canopus,Supergiant,White,84.15,71,0
+Arcturus,Giant,Orange,1.08,25,0
+PSR J0108-1431,Neutron Star,Blue,0.653,0.0003,0
+PSR B1257+12,Neutron Star,Blue,0.704,0.0003,4

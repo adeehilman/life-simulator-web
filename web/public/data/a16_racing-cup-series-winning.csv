@@ -1,0 +1,4 @@
+Cup Type,Min Bronze Winnings,Max Bronze Winnings,Min Silver Winnings,Max Silver Winnings,Min Gold Winnings,Max Gold Winnings,Min Platinum Winnings,Max Platinum Winnings
+circuit,25000,65000,60000,200000,300000,1000000,1500000,5000000
+demolition,35000,75000,80000,300000,700000,1750000,2000000,6500000
+street,45000,150000,175000,500000,750000,2500000,3000000,10000000

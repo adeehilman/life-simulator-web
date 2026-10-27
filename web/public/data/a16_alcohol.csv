@@ -1,0 +1,40 @@
+Name,Emoji,Indefinite,Singular,Plural,Club,Bar
+gin,drink1,gin,a glass of gin,gin,,x
+vodka,drink2,vodka,a vodka shot,vodka,x,
+whiskey,drink3,whiskey,a whiskey on the rocks,whiskey,x,x
+tequila,drink4,tequila,a tequila shot,tequila,x,x
+rum,drink5,rum,a glass of rum,rum,x,x
+wine,drink6,,a glass of wine,wine,,x
+cognac,drink7,cognac,a glass of cognac,cognac,,x
+beer,drink8,,a beer,beer,x,x
+scotch,drink9,scotch,a scotch on the rocks,scotch,,x
+bourbon,drink10,bourbon,a bourbon on the rocks,bourbon,x,x
+brandy,drink11,brandy,a snifter of brandy,brandy,,x
+lager,drink12,,a pint of lager,lager,,x
+alize,drink13,,a glass of Alize,Alize,x,
+craft beer,drink14,,a craft beer,craft beer,,x
+bloody mary,drink15,,a bloody mary,bloody marys,,x
+margarita,drink16,,a margarita,margaritas,,x
+white russian,drink17,,a white russian,white russians,x,x
+gin tonic,drink18,,a gin & tonic,gin & tonics,,x
+rum coke,drink19,,a rum & coke,rum & cokes,x,x
+martini,drink20,,an extra dry martini,extra dry martinis,x,x
+negroni,drink21,,a barrel-aged negroni,barrel-aged negronis,,x
+mojito,drink22,,a mojito,mojitos,,x
+daquiri,drink23,,a daiquiri,daiquiris,,x
+red bull vodka,drink24,,a Red Bull vodka,Red Bull vodkas,x,
+mai tai,drink25,,a mai tai,mai tais,x,x
+moscow mule,drink26,,a Moscow mule,Moscow mules,x,x
+cosmopolitan,drink27,,a cosmopolitan,cosmopolitans,x,x
+whiskey sour,drink28,,a whiskey sour,whiskey sours,,x
+pina colada,drink29,,a pina colada,pina coladas,x,x
+long island ice tea,drink30,,a long island ice tea,long island ice teas,x,
+appletini,drink31,,an appletini,appletinis,x,x
+lemon drop,drink32,,a lemon drop,lemon drops,x,
+tequila sunrise,drink33,,a tequila sunrise,tequilla sunrises,x,x
+singapore sling,drink34,,a Singapore sling,Singapore slings,x,x
+mimosa,drink35,,a mimosa,mimosas,,x
+strawberry daiquiri,drink36,,a strawberry daiquiri,strawberry daiquiris,x,x
+manhattan,drink37,,a manhattan,manhattans,,x
+bahama mama,drink38,,a bahama mama,bahama mamas,x,x
+champagne,drink39,champagne,a glass of champagne,champagne,x,

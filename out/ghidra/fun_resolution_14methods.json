@@ -1,0 +1,600 @@
+{
+  "source": "out/ghidra/decompiled_14methods.c",
+  "uniqueFunReferences": 147,
+  "resolvedCount": 2,
+  "unresolvedCount": 145,
+  "resolved": [
+    {
+      "address": "0x017A1BD8",
+      "name": "DataHub$$GetRandomMafiaDumbScenario",
+      "signature": "DataDumbScenarioMafia_o* DataHub__GetRandomMafiaDumbScenario (const MethodInfo* method);"
+    },
+    {
+      "address": "0x01D15F1C",
+      "name": "SimThirdPersonScript$$set_AgeAtLastJobStart",
+      "signature": "void SimThirdPersonScript__set_AgeAtLastJobStart (SimThirdPersonScript_o* __this, int32_t value, const MethodInfo* method);"
+    }
+  ],
+  "unresolved": [
+    {
+      "address": "0x00D98384",
+      "name": null
+    },
+    {
+      "address": "0x00D98A08",
+      "name": null
+    },
+    {
+      "address": "0x00D98E30",
+      "name": null
+    },
+    {
+      "address": "0x00D98EEC",
+      "name": null
+    },
+    {
+      "address": "0x00D99150",
+      "name": null
+    },
+    {
+      "address": "0x00D9C908",
+      "name": null
+    },
+    {
+      "address": "0x0101F410",
+      "name": null
+    },
+    {
+      "address": "0x0101F51C",
+      "name": null
+    },
+    {
+      "address": "0x0101F668",
+      "name": null
+    },
+    {
+      "address": "0x0101FA24",
+      "name": null
+    },
+    {
+      "address": "0x0102EFFC",
+      "name": null
+    },
+    {
+      "address": "0x0105AA50",
+      "name": null
+    },
+    {
+      "address": "0x0105CCA8",
+      "name": null
+    },
+    {
+      "address": "0x0105DA7C",
+      "name": null
+    },
+    {
+      "address": "0x0105DB90",
+      "name": null
+    },
+    {
+      "address": "0x01064660",
+      "name": null
+    },
+    {
+      "address": "0x010646B0",
+      "name": null
+    },
+    {
+      "address": "0x01065924",
+      "name": null
+    },
+    {
+      "address": "0x01077B58",
+      "name": null
+    },
+    {
+      "address": "0x012A93A0",
+      "name": null
+    },
+    {
+      "address": "0x013B51E4",
+      "name": null
+    },
+    {
+      "address": "0x013BCEC8",
+      "name": null
+    },
+    {
+      "address": "0x015D49F4",
+      "name": null
+    },
+    {
+      "address": "0x01786018",
+      "name": null
+    },
+    {
+      "address": "0x017A0B4C",
+      "name": null
+    },
+    {
+      "address": "0x017A1788",
+      "name": null
+    },
+    {
+      "address": "0x017A1E34",
+      "name": null
+    },
+    {
+      "address": "0x017A2B80",
+      "name": null
+    },
+    {
+      "address": "0x017A35FC",
+      "name": null
+    },
+    {
+      "address": "0x01A4E1F8",
+      "name": null
+    },
+    {
+      "address": "0x01A4E348",
+      "name": null
+    },
+    {
+      "address": "0x01AC8CC8",
+      "name": null
+    },
+    {
+      "address": "0x01AD9680",
+      "name": null
+    },
+    {
+      "address": "0x01AD9C14",
+      "name": null
+    },
+    {
+      "address": "0x01AD9D5C",
+      "name": null
+    },
+    {
+      "address": "0x01AD9F1C",
+      "name": null
+    },
+    {
+      "address": "0x01ADA1C0",
+      "name": null
+    },
+    {
+      "address": "0x01B51E94",
+      "name": null
+    },
+    {
+      "address": "0x01B780C8",
+      "name": null
+    },
+    {
+      "address": "0x01B7AA54",
+      "name": null
+    },
+    {
+      "address": "0x01B8AB7C",
+      "name": null
+    },
+    {
+      "address": "0x01B8C918",
+      "name": null
+    },
+    {
+      "address": "0x01B9E854",
+      "name": null
+    },
+    {
+      "address": "0x01BA8890",
+      "name": null
+    },
+    {
+      "address": "0x01BA92D0",
+      "name": null
+    },
+    {
+      "address": "0x01BAFD10",
+      "name": null
+    },
+    {
+      "address": "0x01BB45B0",
+      "name": null
+    },
+    {
+      "address": "0x01BC6598",
+      "name": null
+    },
+    {
+      "address": "0x01C93DCC",
+      "name": null
+    },
+    {
+      "address": "0x01CA86E0",
+      "name": null
+    },
+    {
+      "address": "0x01D08764",
+      "name": null
+    },
+    {
+      "address": "0x01D0DAB4",
+      "name": null
+    },
+    {
+      "address": "0x01D14E7C",
+      "name": null
+    },
+    {
+      "address": "0x01D18C0C",
+      "name": null
+    },
+    {
+      "address": "0x01D1C640",
+      "name": null
+    },
+    {
+      "address": "0x01D20174",
+      "name": null
+    },
+    {
+      "address": "0x01D23070",
+      "name": null
+    },
+    {
+      "address": "0x01D3D610",
+      "name": null
+    },
+    {
+      "address": "0x01D42534",
+      "name": null
+    },
+    {
+      "address": "0x01D8EB50",
+      "name": null
+    },
+    {
+      "address": "0x01D8EBFC",
+      "name": null
+    },
+    {
+      "address": "0x01D931E8",
+      "name": null
+    },
+    {
+      "address": "0x01D93220",
+      "name": null
+    },
+    {
+      "address": "0x01D9359C",
+      "name": null
+    },
+    {
+      "address": "0x01D951AC",
+      "name": null
+    },
+    {
+      "address": "0x01D96174",
+      "name": null
+    },
+    {
+      "address": "0x01D967B4",
+      "name": null
+    },
+    {
+      "address": "0x01D987A4",
+      "name": null
+    },
+    {
+      "address": "0x01F76FD4",
+      "name": null
+    },
+    {
+      "address": "0x01F7E348",
+      "name": null
+    },
+    {
+      "address": "0x01F7F518",
+      "name": null
+    },
+    {
+      "address": "0x01F80D88",
+      "name": null
+    },
+    {
+      "address": "0x01F8250C",
+      "name": null
+    },
+    {
+      "address": "0x01F83354",
+      "name": null
+    },
+    {
+      "address": "0x01F84A64",
+      "name": null
+    },
+    {
+      "address": "0x02018748",
+      "name": null
+    },
+    {
+      "address": "0x02134320",
+      "name": null
+    },
+    {
+      "address": "0x0213706C",
+      "name": null
+    },
+    {
+      "address": "0x02137468",
+      "name": null
+    },
+    {
+      "address": "0x021374CC",
+      "name": null
+    },
+    {
+      "address": "0x0213750C",
+      "name": null
+    },
+    {
+      "address": "0x021375EC",
+      "name": null
+    },
+    {
+      "address": "0x0213791C",
+      "name": null
+    },
+    {
+      "address": "0x0213F708",
+      "name": null
+    },
+    {
+      "address": "0x0213F724",
+      "name": null
+    },
+    {
+      "address": "0x02140D5C",
+      "name": null
+    },
+    {
+      "address": "0x02142204",
+      "name": null
+    },
+    {
+      "address": "0x02142894",
+      "name": null
+    },
+    {
+      "address": "0x02143B50",
+      "name": null
+    },
+    {
+      "address": "0x02143D5C",
+      "name": null
+    },
+    {
+      "address": "0x02143E2C",
+      "name": null
+    },
+    {
+      "address": "0x02147700",
+      "name": null
+    },
+    {
+      "address": "0x0214796C",
+      "name": null
+    },
+    {
+      "address": "0x0215410C",
+      "name": null
+    },
+    {
+      "address": "0x0220B2EC",
+      "name": null
+    },
+    {
+      "address": "0x02358098",
+      "name": null
+    },
+    {
+      "address": "0x024C3528",
+      "name": null
+    },
+    {
+      "address": "0x02565674",
+      "name": null
+    },
+    {
+      "address": "0x02565794",
+      "name": null
+    },
+    {
+      "address": "0x02565A6C",
+      "name": null
+    },
+    {
+      "address": "0x02565AF4",
+      "name": null
+    },
+    {
+      "address": "0x02565BBC",
+      "name": null
+    },
+    {
+      "address": "0x02565DA4",
+      "name": null
+    },
+    {
+      "address": "0x02565E2C",
+      "name": null
+    },
+    {
+      "address": "0x02565EB4",
+      "name": null
+    },
+    {
+      "address": "0x02565F6C",
+      "name": null
+    },
+    {
+      "address": "0x02565FF4",
+      "name": null
+    },
+    {
+      "address": "0x02566890",
+      "name": null
+    },
+    {
+      "address": "0x02566F9C",
+      "name": null
+    },
+    {
+      "address": "0x02567354",
+      "name": null
+    },
+    {
+      "address": "0x025673DC",
+      "name": null
+    },
+    {
+      "address": "0x025674B4",
+      "name": null
+    },
+    {
+      "address": "0x025693F0",
+      "name": null
+    },
+    {
+      "address": "0x0257D0BC",
+      "name": null
+    },
+    {
+      "address": "0x0268300C",
+      "name": null
+    },
+    {
+      "address": "0x02683508",
+      "name": null
+    },
+    {
+      "address": "0x03536964",
+      "name": null
+    },
+    {
+      "address": "0x03C384E8",
+      "name": null
+    },
+    {
+      "address": "0x03C38838",
+      "name": null
+    },
+    {
+      "address": "0x03C875B4",
+      "name": null
+    },
+    {
+      "address": "0x03DA6840",
+      "name": null
+    },
+    {
+      "address": "0x03DA6844",
+      "name": null
+    },
+    {
+      "address": "0x04199548",
+      "name": null
+    },
+    {
+      "address": "0x04199D54",
+      "name": null
+    },
+    {
+      "address": "0x0419A9E4",
+      "name": null
+    },
+    {
+      "address": "0x0464F828",
+      "name": null
+    },
+    {
+      "address": "0x046526C8",
+      "name": null
+    },
+    {
+      "address": "0x0465F908",
+      "name": null
+    },
+    {
+      "address": "0x0465F96C",
+      "name": null
+    },
+    {
+      "address": "0x04661EC4",
+      "name": null
+    },
+    {
+      "address": "0x04662824",
+      "name": null
+    },
+    {
+      "address": "0x04662BA0",
+      "name": null
+    },
+    {
+      "address": "0x04662BF0",
+      "name": null
+    },
+    {
+      "address": "0x04662C44",
+      "name": null
+    },
+    {
+      "address": "0x04664390",
+      "name": null
+    },
+    {
+      "address": "0x04666814",
+      "name": null
+    },
+    {
+      "address": "0x0476F85C",
+      "name": null
+    },
+    {
+      "address": "0x04776538",
+      "name": null
+    },
+    {
+      "address": "0x047DE608",
+      "name": null
+    },
+    {
+      "address": "0x047EECF8",
+      "name": null
+    },
+    {
+      "address": "0x0501A190",
+      "name": null
+    },
+    {
+      "address": "0x05040220",
+      "name": null
+    },
+    {
+      "address": "0x050473F8",
+      "name": null
+    },
+    {
+      "address": "0x050621BC",
+      "name": null
+    },
+    {
+      "address": "0x05069D8C",
+      "name": null
+    }
+  ]
+}

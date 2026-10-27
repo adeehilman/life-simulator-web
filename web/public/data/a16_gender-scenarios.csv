@@ -1,0 +1,29 @@
+Scenario,Log Version,Gender,Min Age,Max Age,Transgender Identity,Other Identity,Student,Both Parents Alive
+You have recently been identifying more as a female than a male.,I have been identifying more as a female than a male lately.,male,,,x,,,
+You have recently been identifying more as a male than a female.,I started identifying more as a male than a female.,female,,,x,,,
+You've been feeling confused about whether you should be wearing men's or women's clothing.,I was confused about whether I should be wearing men's or women's clothing.,both,15,,,x,,
+You've been feeling confused about whether you should be wearing boy's or girl's clothing.,I was confused about whether I should be wearing boy's or girl's clothing.,both,,14,,x,,
+"While using a public restroom, you begin to feel some confusion about which bathroom you should actually be using.",I was confused about which bathroom I should be using.,both,,,,x,,
+"While getting dressed in a men's locker room, you begin to feel like you might be more comfortable changing in the women's locker room.",I felt out of place getting dressed in a men's locker room.,male,16,,x,,,
+"While getting dressed in a women's locker room, you begin to feel like you might be more comfortable changing in the men's locker room.",I felt out of place getting dressed in a women's locker room.,female,16,,x,,,
+You've been thinking a lot lately about what it would be like if you were born a girl.,I kept thinking about what it would be like if I were born a girl.,male,,,x,,,
+You've been thinking a lot lately about what it would be like if you were born a boy.,I kept thinking about what it would be like if I were born a boy.,female,,,x,,,
+"You've recently been invited to attend a formal event, and you keep fantasizing how wonderful it would be to show up wearing a beautiful gown.",I fantasized about wearing a beautiful gown to a formal event.,male,18,,x,,,
+"You've recently been invited to attend a formal event, and you keep fantasizing how wonderful it would be to show up wearing a handsome tuxedo.",I fantasized about wearing a handsome tuxedo to a formal event.,female,18,,x,,,
+"When nobody is home, you've been having fun sneaking into your mother's vanity and trying on all her makeup.",I sneaked into my mother's vanity and tried on all her makeup.,male,,18,x,,,x
+"When nobody is home, you've been sneaking into your father's personal-care belongings to practice shaving like a man.",I sneaked into my father's personal-care belongings and practiced shaving like a man.,female,,18,x,,,x
+"Your mother says she needs to buy new underwear for you and asks if you prefer boxers or briefs. You tell her you don't care, but what you really wanted to say is girl's panties.",I was afraid to tell my mother that I wanted to wear girl's panties.,male,,18,x,,,x
+"Your mother says she needs to buy new underwear for you and asks what style you prefer. You tell her you don't care, but what you wanted to say is men's boxer briefs.",I was afraid to tell my mother that I wanted to wear men's boxer briefs.,female,,18,x,,,x
+"You hate that your body is starting to grow breasts, and you spend considerable effort trying to hide your nascent development.",I spent considerable effort trying to hide my developing breasts.,female,,16,x,,,
+"You hate that your voice is deepening, and that hair is starting to grow all over your body.","I hated it when hair started growing all over my body, and my voice started deepening.",male,,16,x,,,
+"Instead of paying attention to your math teacher, you keep looking at all the boys in your class, wishing you had muscles like them.","I kept looking at all the boys in my class, wishing I had muscles like them.",female,,,x,,x,
+"Instead of paying attention to your math teacher, you keep looking at all the girls in your class, wishing you had a body like theirs.","I kept looking at all the girls in my class, wishing I had a body like theirs.",male,,,x,,x,
+"The theater department at your school will be performing the play ""Romeo and Juliet"" and is currently holding open auditions. You can't decide whether you'd prefer to be Romeo or Juliet.",I wanted to audition for a play at our school but couldn't decide whether I wanted to be Romeo or Juliet.,both,,,,x,x,
+You think it's stupid that there is a boy's bathroom and a girl's bathroom because gender isn't one thing or the other.,I thought it was stupid for there to be gender-based bathrooms.,both,15,,,x,,
+"Lately, you've been feeling like Jazz Jennings has become the most beautiful person in the world.",I started feeling like Jazz Jennings had become the most beautiful person in the world.,both,18,,,x,,
+"You feel uncomfortable when someone refers to you as a ""he"" or a ""him"".",I felt uncomfortable when someone referred to me using gender-based pronouns.,male,,,,x,,
+"You feel uncomfortable when someone refers to you as a ""she"" or a ""her"".",I felt uncomfortable when someone referred to me using gender-based pronouns.,female,,,,x,,
+"Whenever you think of being married in the future, you always imagine that you are the bride.",I imagined myself as the bride if I ever got married in the future.,male,,,x,,,
+"Whenever you think of being married in the future, you always imagine that you are the groom.",I imagined myself as the groom if I ever got married in the future.,female,,,x,,,
+"Whenever you hear people talking about sex, it kinda grosses you out.",I got grossed out whenever I heard others talking about sex.,both,16,,,x,,
+"Most of your friends are having sex already, but you have no desire to be with anyone in that way","Even though most of my friends were having sex, I had no desire to be with anyone in that way.",both,21,,,x,,

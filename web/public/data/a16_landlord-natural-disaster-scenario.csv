@@ -1,0 +1,32 @@
+Type,Scenario,Impact Score,Can Demolish,House Type Blacklist
+Hurricanes,A Category <num1-2> hurricane swept through <property-city> and damaged your <house-type> at <address>. ,3,,
+Hurricanes,A Category <num3-5> hurricane swept through <property-city> and damaged your <house-type> at <address>.,5,x,
+Hurricanes,"A Category <num1-5> hurricane named ""Hurricane <random-first-name>"" knocked a <car/bus/stop sign/cow/tree/trailer/horse> into your <house-type> at <address>.",4,x,"condo, loft"
+Floods,"<Torrential/Heavy> rains caused flash floods across <property-city>, causing structural damage to your <house-type> at <address>.",4,x,"condo, houseboat, loft"
+Floods,"An intense rainfall event caused flash flooding, resulting in damage to the walls and flooring in your <house-type> at <address>.",3,,"condo, houseboat, loft"
+Floods,"A severe thunderstorm caused water to rise in low-lying areas, resulting in damage to your <house-type> at <address>.",2,,"condo, houseboat, loft"
+Earthquakes,"A devastating earthquake struck <property-city>, resulting in severe damage to your <house-type> at <address>.",5,x,houseboat
+Earthquakes,"A magnitude 1 earthquake struck <property-city>, resulting in the destruction of a single <window/roof shingle> on your <house-type> at <address>.",1,,"houseboat, loft, condo"
+Earthquakes,Seismic activity in <property-city> caused considerable damage to your <house-type> at <address>.,3,,
+Landslides,A landslide brought down your <house-type> at <address>.,5,,"houseboat, loft, condo"
+Landslides,A massive landslide swept away a portion of your <house-type> at <address> in <property-city>.,4,,"houseboat, loft, condo"
+Landslides,<Rocks/Mud/Debris> buried a portion of your <house-type> at <address> in <property-city> following a heavy rainstorm.,3,,"houseboat, loft, condo"
+Volcanic Eruptions,"A volcanic eruption triggered a massive landslide in <property-city>, which buried your <house-type> at <address>.",5,x,
+Volcanic Eruptions,"A nearby volcano just erupted in <property-city>, causing molten rocks to crash into your <house-type> at <address>.",5,x,
+Volcanic Eruptions,"A nearby volcano just erupted in <property-city>, creating a <surge of lava/powerful shockwave/massive surge in seismic activity>, which has damaged your <house-type> at <address>.",4,x,
+Cyclones,"A cyclone ripped through <property-city>, tearing the <roof/front door> off of your <house-type> at <address>.",4,,"condo, loft"
+Cyclones,"A cyclone tore through <property-city> and demolished your <house-type> at <address>, which was directly in its path.",5,x,
+Cyclones,A cyclone blew through <property-city> and ripped the paneling off your <house-type> at <address>.,3,,"houseboat, condo, loft"
+Tsunamis,"A massive tsunami just struck <property-city>, causing severe damage to your <house-type> at <address>.",4,x,"condo, loft"
+Tsunamis,"The high tide from a tsunami made its way into your <house-type> at <address>, causing damage to the interior.",2,,"condo, loft"
+Tsunamis,"A tsunami just <slammed/wrecked/leveled> <downtown/half of> <property-city>, wiping out your <house-type> at <address>.",5,x,
+Avalanches,"An avalanche just tore through <property-city>, damaging your <house-type> at <address>.",3,,"condo, loft"
+Avalanches,"An avalanche just <hurtled/swept/raced/roared> down a mountain near your <house-type> at <address> in <property-city>, causing severe damage to the building's structure.",3,x,"condo, loft, houseboat"
+Avalanches,An avalanche just buried your <house-type> at <address> in <property-city> beneath a mountain of snow.,5,x,
+Avalanches,"A <thrill-seeking snowboarder/group of heli skiers> caused an avalanche that slammed into your <house-type>, causing significant foundational damage.",4,,houseboat
+Tornados,A tornado just blew through <property-city> and dropped a <witch/house/cow/trailer/scarecrow/lion/tin man/ton of yellow bricks/windmill/street lamp> on your <house-type> at <address>.,3,,
+Tornados,A tornado just ripped through <property-city> and <tore the roof off/smashed out all the windows> at your <house-type> on <address>.,3,,
+Tornados,A tornado just ejected your <house-type> at <address> from the face of the Earth.,5,x,
+Typhoons,A typhoon just blew through <property-city> causing heavy rains that completely flooded your <house-type> at <address>.,5,x,"houseboat, condo, loft"
+Typhoons,A typhoon just blew through <property-city> and dropped a <Sun Bear/Clouded Leopard/Draco Lizard/motorcycle/food-vender cart> on your <house-type> at <address>.,3,,
+Typhoons,A typhoon just ripped through <property-city> and <tore the roof off/smashed out all the windows/collapsed a wall> at your <house-type> on <address>.,3,,

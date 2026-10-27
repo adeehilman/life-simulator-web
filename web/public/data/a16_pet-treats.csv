@@ -1,0 +1,490 @@
+Animal,Treat,Enjoyment Score
+Big Cat,a steak,4
+Big Cat,a filet mignon steak,4
+Big Cat,a Porterhouse steak,4
+Big Cat,a ribeye steak,4
+Big Cat,a T-bone steak,4
+Big Cat,a hot dog,4
+Big Cat,a cheeseburger,4
+Big Cat,a chipmunk,5
+Big Cat,some ground beef,4
+Big Cat,a squirrel,5
+Big Cat,some ham,4
+Big Cat,a rabbit,5
+Big Cat,a turkey,5
+Big Cat,a chicken,5
+Big Cat,a rat,5
+Big Cat,a small deer,5
+Big Cat,a fish,5
+Big Cat,a stinky beaver,3
+Big Cat,a gopher,5
+Big Cat,a chinchilla,5
+Big Cat,a goose,5
+Big Cat,a duck,5
+Big Cat,grass,1
+Big Cat,hay,1
+Big Cat,lettuce,1
+Big Cat,a sweet potato,2
+Big Cat,a carrot,2
+Big Cat,a lemon,1
+Big Cat,a lime,1
+Big Cat,an orange,1
+Bird,some bird feed,4
+Bird,some peanut butter and crackers,5
+Bird,some crackers,4
+Bird,some corn,4
+Bird,some sunflower seeds,4
+Bird,some nuts,4
+Bird,some peanuts,4
+Bird,some popcorn,4
+Bird,some kale,3
+Bird,some celery,3
+Bird,some green beans,3
+Bird,some carrots,3
+Bird,some bread,5
+Bird,some broccoli,3
+Bird,some banana,4
+Bird,some mango,4
+Bird,some cooked beans,3
+Bird,some apple,4
+Bird,some quinoa,2
+Bird,a fruit stick treat,5
+Bird,some flax seeds,4
+Bird,a sausage,1
+Bird,some liver,1
+Bird,some monkey brain,1
+Cat,some beef,5
+Cat,some chicken,5
+Cat,some turkey,5
+Cat,some deli meat,5
+Cat,some corn,3
+Cat,some rice,3
+Cat,some couscous,3
+Cat,some bread,4
+Cat,some tuna,5
+Cat,some tuna juice,5
+Cat,some eggs,5
+Cat,some cucumber,3
+Cat,some cantaloupe,3
+Cat,some broccoli,2
+Cat,some asparagus,2
+Cat,some cheese,4
+Cat,some fish,5
+Cat,some spinach,2
+Cat,some oatmeal,2
+Cat,some pumpkin,3
+Cat,some apples,3
+Cat,some blueberries,3
+Cat,some peas,2
+Cat,some cat treats,4
+Cat,a hairball control cat treat,3
+Cat,some liver,5
+Cat,a cat meat stick,5
+Cat,some steak,5
+Cat,an organic cat treat,3
+Cat,a chicken-flavored cat treat,4
+Cat,a beef-flavored cat treat,4
+Cat,a fish-flavored cat treat,4
+Cat,a pork-flavored cat treat,4
+Cat,a turkey-flavored cat treat,4
+Cat,some dry cat food,3
+Cat,some canned cat food,4
+Cat,a lemon,1
+Cat,a chili pepper,1
+Cat,a lime,1
+Cat,an orange,1
+Dog,a dental dog treat,3
+Dog,a fish-flavored dog treat,4
+Dog,a jerky treat,4
+Dog,a chicken-flavored dog treat,4
+Dog,a hot dog,5
+Dog,a bone,4
+Dog,a dog biscuit,3
+Dog,a grain-free dog treat,2
+Dog,some peanut butter,4
+Dog,a pork-flavored dog treat,4
+Dog,a cheeseburger,5
+Dog,a turkey-flavored dog treat,4
+Dog,a peanut butter-filled hoof dog treat,4
+Dog,a beef-flavored dog treat,4
+Dog,some beef,5
+Dog,some chicken,5
+Dog,some turkey,5
+Dog,some deli meat,5
+Dog,some corn,3
+Dog,some rice,3
+Dog,some couscous,2
+Dog,some bread,4
+Dog,some tuna,5
+Dog,some tuna juice,5
+Dog,some eggs,5
+Dog,some cucumber,2
+Dog,some cantaloupe,2
+Dog,some broccoli,2
+Dog,some asparagus,2
+Dog,some cheese,5
+Dog,some fish,5
+Dog,some spinach,2
+Dog,some banana,3
+Dog,some oatmeal,2
+Dog,some pumpkin,2
+Dog,some apples,2
+Dog,some blueberries,3
+Dog,some peas,2
+Dog,some cat treats,4
+Dog,some steak,5
+Dog,some carrots,2
+Dog,some green beans,2
+Dog,some yogurt,3
+Dog,a sweet potato,3
+Dog,an apple,3
+Dog,some watermelon,3
+Dog,a T-bone steak,5
+Dog,a rib eye steak,5
+Dog,a filet mignon steak,5
+Dog,a couple of large meaty breasts,5
+Dog,a Porterhouse steak,5
+Dog,a sirloin steak,5
+Dog,a juicy foot-long wiener,5
+Dog,a big fat sausage,5
+Dog,some dry dog food,3
+Dog,some canned dog food,4
+Dog,a lemon,1
+Dog,a chili pepper,1
+Dog,some grass,1
+Dog,some cranberries,1
+Dog,some kale,1
+Fish,a kernel of corn,3
+Fish,a pea,3
+Fish,a piece of brine shrimp,5
+Fish,a small piece of lettuce,3
+Fish,a small piece of spinach,3
+Fish,a small piece of kale,3
+Fish,a small piece of chard,3
+Fish,a few grains of cooked rice,4
+Fish,a small piece of broccoli,3
+Fish,a piece of grape,3
+Fish,a piece of cucumber,3
+Fish,a small piece of an orange,3
+Fish,a piece of watermelon,3
+Fish,some fish flakes,4
+Fish,some fish pellets,4
+Fish,a bloodworm,5
+Fish,a tadpole,5
+Fish,a worm,5
+Fish,some algae,4
+Fish,a fly,5
+Horse,some apple,4
+Horse,some carrots,4
+Horse,some raisins,4
+Horse,some grapes,4
+Horse,some bananas,4
+Horse,some strawberries,4
+Horse,some cantaloupe,4
+Horse,some watermelon,4
+Horse,some celery,2
+Horse,some snow peas,2
+Horse,some sunflower seeds,3
+Horse,some sugar cubes,5
+Horse,some grass,2
+Horse,some hay,2
+Horse,some oats,2
+Horse,some barley,2
+Horse,some corn,3
+Horse,some wheat,2
+Horse,some milo,2
+Horse,some horse cookies,5
+Horse,some apple-flavored horse treats,4
+Horse,some carrot-flavored horse treats,4
+Horse,peppermint horse treats,4
+Horse,some coconut,3
+Horse,some grapefruit,3
+Horse,some apricot,3
+Horse,some plum,3
+Horse,some echinacea,1
+Horse,some nutmeg,1
+Horse,some coriander,1
+Horse,a cheeseburger,1
+Llama,some broccoli,3
+Llama,some sweet potatoes,4
+Llama,some carrots,4
+Llama,some apples,4
+Llama,some grass,2
+Llama,some hay,2
+Llama,an alfalfa pellet,2
+Llama,some grapes,4
+Llama,some rose petals,3
+Llama,some pear,4
+Llama,some plum,4
+Llama,some cherries,4
+Llama,a raspberry vine,3
+Llama,a blackberry vine,3
+Llama,some strawberries,4
+Llama,some bananas,4
+Llama,some squash,3
+Llama,a horse cookie,5
+Llama,some peanuts,3
+Llama,some raisins,4
+Llama,a cheeseburger,1
+Llama,a hot dog,1
+Llama,a chili pepper,1
+Primate,a mango,4
+Primate,an apple,4
+Primate,a papaya,4
+Primate,some grapes,4
+Primate,a banana,4
+Primate,a carrot,3
+Primate,a cucumber,2
+Primate,some onions,1
+Primate,some cauliflower,2
+Primate,a tomato,2
+Primate,a hard boiled egg,4
+Primate,some yogurt,3
+Primate,some rice,3
+Primate,some sunflower seeds,4
+Primate,some pumpkin seeds,4
+Primate,some almonds,4
+Primate,some walnuts,4
+Primate,some peanuts,4
+Primate,some blueberries,4
+Primate,some celery,2
+Primate,a bell pepper,2
+Primate,a monkey biscuit,5
+Primate,some pecans,4
+Primate,some chestnuts,4
+Primate,some macadamia nuts,4
+Primate,some pistachios,4
+Primate,some coconut,4
+Primate,some chickpeas,2
+Primate,some kidney beans,3
+Primate,some black beans,3
+Primate,some pinto beans,3
+Primate,a soda,5
+Primate,some milk,3
+Primate,a vanilla spiced latte,5
+Primate,some potato chips,5
+Primate,some nachos,5
+Primate,a candy bar,5
+Primate,some baby food,3
+Primate,a black coffee,1
+Primate,some escargot,1
+Primate,a lemon,1
+Primate,a lime,1
+Primate,an olive,1
+Rabbit,some basil,4
+Rabbit,some bok choy,4
+Rabbit,some broccoli,4
+Rabbit,some carrots,5
+Rabbit,some celery,4
+Rabbit,some clover,4
+Rabbit,some collard greens,4
+Rabbit,some hay,4
+Rabbit,some kale,4
+Rabbit,some watercress,4
+Rabbit,some mint,4
+Rabbit,some lettuce,4
+Rabbit,some dill,4
+Rabbit,some rabbit pellets,4
+Rabbit,some strawberries,4
+Rabbit,some banana,4
+Rabbit,some apple,4
+Rabbit,some chamomile,3
+Rabbit,some clover,4
+Rabbit,some lavender,3
+Rodent,some broccoli,3
+Rodent,some cauliflower,2
+Rodent,some kale,2
+Rodent,some cucumber,2
+Rodent,some celery,2
+Rodent,some bok choy,2
+Rodent,some sweet potatoes,4
+Rodent,some carrot,4
+Rodent,some apple,4
+Rodent,some banana,4
+Rodent,some pear,4
+Rodent,some peach,4
+Rodent,some sunflower seeds,4
+Rodent,some pumpkin seeds,4
+Rodent,some watermelon,4
+Rodent,some cooked beans,3
+Rodent,some plums,4
+Rodent,some strawberries,4
+Rodent,some cantaloupe,3
+Snake,a frog,5
+Snake,a mouse,5
+Snake,a rat,5
+Snake,a hamster,5
+Snake,a gerbil,5
+Snake,a guinea pig,5
+Snake,a lizard,5
+Snake,a cricket,3
+Snake,a cockroach,3
+Snake,a grasshopper,3
+Snake,a gecko,5
+Snake,a newt,5
+Snake,a skink,5
+Snake,a chameleon,5
+Snake,a salamander,5
+Snake,a goldfish,5
+Snake,a bird,5
+Snake,a sparrow,5
+Snake,some bird eggs,4
+Snake,some kale,1
+Snake,some asparagus,1
+Snake,some grass,1
+Snake,a lemon,1
+Turtle,a freeze dried cricket,5
+Turtle,some dried shrimp,4
+Turtle,some apple,4
+Turtle,some lettuce,3
+Turtle,some blueberries,4
+Turtle,some corn,3
+Turtle,some ground beef,4
+Turtle,some chicken,4
+Turtle,some pork,4
+Turtle,a live goldfish,5
+Turtle,a guppy,5
+Turtle,a cricket,5
+Turtle,some cucumber,2
+Turtle,a grasshopper,5
+Turtle,a spider,5
+Turtle,an earthworm,5
+Turtle,some turtle pellets,3
+Turtle,some canned turtle food,3
+Turtle,some kale,3
+Turtle,some lettuce,3
+Turtle,some meatloaf,1
+Turtle,a slice of pizza,1
+Turtle,some cheese,1
+Unicorn,a lollipop,5
+Unicorn,some cotton candy,5
+Unicorn,some candy corn,5
+Unicorn,some grass,2
+Unicorn,some hay,2
+Unicorn,some oats,2
+Unicorn,a sugar cube,5
+Unicorn,some magical mushrooms,5
+Unicorn,a rainbow donut,5
+Unicorn,a piece of rainbow cake,5
+Unicorn,some jelly beans,5
+Unicorn,a rainbow cookie,5
+Unicorn,some sugar plums,3
+Unicorn,some arctic poppies,3
+Unicorn,some marigolds,3
+Unicorn,some white orchids,3
+Unicorn,a vanilla spiced latte,5
+Unicorn,some pussy willow,5
+Unicorn,some rosebuds,3
+Unicorn,a tulip,3
+Unicorn,a black coffee,1
+Unicorn,some kale,1
+Unicorn,some asparagus,1
+Unicorn,a lemon,1
+Komodo Dragon,a turkey leg,4
+Komodo Dragon,a chicken thigh,3
+Komodo Dragon,a live mouse,5
+Komodo Dragon,a live rat,5
+Komodo Dragon,a hard-boiled egg,2
+Komodo Dragon,some cottage cheese,1
+Komodo Dragon,some chicken nuggets,3
+Komodo Dragon,a banana,1
+Komodo Dragon,some blueberries,1
+Komodo Dragon,some watermelon rinds,1
+Komodo Dragon,some pumpkin seeds,1
+Komodo Dragon,some iceberg lettuce,1
+Komodo Dragon,some lighter fluid,1
+Komodo Dragon,some cayenne pepper,2
+Komodo Dragon,some red pepper flakes,2
+Komodo Dragon,a pan-seared tuna steak,4
+Komodo Dragon,some charcoal,1
+Komodo Dragon,some cow intestines,4
+Sloth,some eucalyptus leaves,5
+Sloth,a ficus branch,3
+Sloth,a mango,4
+Sloth,a papaya,4
+Sloth,some ice cubes,3
+Sloth,some celery,5
+Sloth,some cabbage,4
+Sloth,some arugula,3
+Sloth,some mung bean sprouts,3
+Sloth,some alfalfa sprouts,4
+Sloth,a strawberry,2
+Sloth,a peach,2
+Sloth,some deli meat,1
+Sloth,a slice of bologna,1
+Sloth,a chunk of grapefruit,1
+Sloth,a lemon wedge,1
+Sloth,some nuts,1
+Sloth,some peanut brittle,1
+Sloth,some pecans,1
+Sloth,some cashews,1
+Skunk,a fishstick,3
+Skunk,a cod fillet,3
+Skunk,some crickets,5
+Skunk,some grasshoppers,5
+Skunk,a maggot,5
+Skunk,some grapes,4
+Skunk,a handful of blueberries,4
+Skunk,an apple,4
+Skunk,a strawberry,4
+Skunk,a handful of sunflower seeds,3
+Skunk,some frog legs,3
+Skunk,a hard-boiled egg,3
+Skunk,some peanuts,2
+Skunk,some crushed almonds,2
+Skunk,a stinkbug,5
+Skunk,a tomato,1
+Skunk,a chicken nugget,1
+Skunk,a chicken tender,1
+Skunk,a blade of grass,1
+Skunk,a bamboo shoot,1
+Skunk,a daffodil,1
+Zebra,some horse treats,4
+Zebra,some hay,5
+Zebra,some apple,3
+Zebra,a sugar cube,5
+Zebra,some basil,2
+Zebra,a turnip,3
+Zebra,some cantaloupe,3
+Zebra,some celery,5
+Zebra,some snow peas,5
+Zebra,an ear of sweet corn,4
+Zebra,a Zebra Cake,5
+Zebra,some wheat,3
+Zebra,a handful of oats,4
+Zebra,some granola,4
+Zebra,some trail mix,4
+Zebra,some freshly-cut grass,5
+Zebra,some barley,5
+Zebra,some sunflower seeds,3
+Zebra,a turkey sub,2
+Zebra,a bay leaf,1
+Zebra,a sprig of dill,1
+Zebra,a pickle,3
+Platypus,a yabby,5
+Platypus,a crayfish,5
+Platypus,some mealworms,5
+Platypus,a butterfly shrimp,4
+Platypus,a live goldfish,3
+Platypus,some bloodworms,4
+Platypus,some brine shrimp,5
+Platypus,a guppy,5
+Platypus,some tadpoles,2
+Platypus,some seaweed,1
+Platypus,some fish eggs,2
+Platypus,a spicy salmon roll,1
+Platypus,some shrimp tempura,3
+Platypus,some spinach,1
+Platypus,a fish fillet sandwich,3
+Pangolin,some fire ants,5
+Pangolin,a handful of termites,5
+Pangolin,some crickets,5
+Pangolin,a chocolate-covered cricket,2
+Pangolin,some grasshoppers,3
+Pangolin,some escargot,4
+Pangolin,a snail,3
+Pangolin,a banana,1
+Pangolin,some kiwi fruit,2
+Pangolin,some grapes,1
+Pangolin,some sesame seeds,1
+Pangolin,some beetle larvae,4

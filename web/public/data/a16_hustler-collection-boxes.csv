@@ -1,0 +1,56 @@
+Item,Panhandler,Performer,Panhandler Effectiveness Score,Performer Effectiveness Score
+empty beer can,x,,1,
+empty milk jug,x,,1,
+makeup bag,x,,1,
+fake Gucci bag,x,,1,
+animal skull,x,,1,
+DivaCup,x,,1,
+empty soup can,x,,2,
+tattered picnic basket,x,,2,
+cast-iron skillet,x,,2,
+plastic bag,x,,2,
+ceramic bowl,x,,2,
+duffel bag,x,x,2,1
+metal pail,x,,2,
+rusty bucket,x,x,2,2
+venti Starbucks cup,x,x,2,1
+pillow case,x,,2,
+fake human skull,x,x,2,1
+baseball cap,x,x,3,4
+coffee canister,x,,3,
+dingy burlap sack,x,,3,
+crusty tupperware container,x,x,5,4
+empty Gatorade bottle,x,,3,
+paper bag,x,,3,
+old McDonald's cup,x,,3,
+briefcase,x,x,3,3
+Sailor Moon lunch box,x,x,3,4
+hub cap,x,,3,
+theater popcorn container,x,,3,
+lace front wig,x,x,3,1
+broken purse,x,,4,
+dirty bookbag,x,,4,
+plastic bowl,x,,4,
+raggedy knit cap,x,x,4,4
+trick-or-treat bucket,x,,4,
+old sour cream container,x,,4,
+rotisserie chicken container,x,,4,
+instrument case,,x,,5
+broken water bong,x,,5,
+Happy Meal box,x,,3,
+empty MacBook Pro box,x,,1,
+garbage can lid,x,x,3,4
+leather cowboy boot,x,,3,
+red Solo cup,x,x,1,1
+yellow Solo cup,x,x,5,5
+gas station soda cup,x,x,3,3
+dog bowl,x,x,4,3
+top hat,,x,,2
+bowler hat,,x,,4
+decorative vase,,x,,2
+tip jar,,x,,4
+cookie jar,,x,,3
+glass fishbowl,,x,,3
+clothes hamper,,x,,1
+bong,,x,,1
+shoe box,,x,,4

@@ -1,0 +1,82 @@
+{
+  "oracleVersion": "3.26.0",
+  "corpusVersion": "3.25.3",
+  "filesScanned": 965,
+  "visibleScenarios": [
+    {
+      "oracleStep": "age-up-to-1",
+      "title": "Physical Development",
+      "bodyFragment": "You're starting to discover what your little body can do",
+      "prompt": "What will you do?",
+      "choices": [
+        "Crawl across the floor",
+        "Grab <parent-possessive> hair",
+        "Hold a ball",
+        "Stand up in the crib",
+        "Surprise me!"
+      ]
+    },
+    {
+      "oracleStep": "age-up-to-2",
+      "title": "Vaccination",
+      "bodyFragment": "Your mother is taking you to the doctor's office",
+      "prompt": "How will you behave?",
+      "choices": [
+        "Try to stay calm",
+        "Throw a tantrum",
+        "Bite her",
+        "Surprise me!"
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "oracle": {
+        "oracleStep": "age-up-to-1",
+        "title": "Physical Development",
+        "bodyFragment": "You're starting to discover what your little body can do",
+        "prompt": "What will you do?",
+        "choices": [
+          "Crawl across the floor",
+          "Grab <parent-possessive> hair",
+          "Hold a ball",
+          "Stand up in the crib",
+          "Surprise me!"
+        ]
+      },
+      "corpusMatch": {
+        "file": "out/decrypted/a16_dumb-scenarios-universal.csv",
+        "row": 117,
+        "score": 14,
+        "signals": {
+          "title": true,
+          "bodyFragment": true,
+          "prompt": true,
+          "choiceHits": 4
+        },
+        "rowPreview": [
+          "142",
+          "",
+          "2",
+          "",
+          "",
+          "",
+          "x",
+          "both",
+          "x",
+          "",
+          "Childhood",
+          "Physical Development",
+          "You're starting to discover what your little body can do, and <parent> is encouraging you to perform one of your favorite moves.",
+          "What will you do?",
+          "Stand up in the crib",
+          "I practiced standing up in the crib for <parent>."
+        ]
+      }
+    }
+  ],
+  "interpretation": [
+    "A match proves visible content exists in the extracted corpus, not runtime selection/RNG parity.",
+    "No match is a version/content delta candidate and requires manual review."
+  ]
+}

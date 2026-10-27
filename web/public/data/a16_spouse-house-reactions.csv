@@ -1,0 +1,66 @@
+Scenario,Log Version,Min Appreciation,Max Appreciation,Multiple Children,Too Many Houses,Is Cheap,Is Expensive,Is Big,Is Small,Is Poor Condition,Is Haunted,Prepurchase Rejection,Prepurchase Acceptance
+<he/she> says it's hideous.,<lover> complained that our new <house> is hideous.,,20,,,,,,,x,,x,
+<he/she> says it's too <big/much home/large>.,<lover> said our new <house> is too <rb>.,,60,,,,,x,,,,x,
+<he/she> says it's too <fancy/extravagant/lavish/gaudy/expensive>.,<lover> said our new <house> is too <rb>.,,60,,,,x,,,,,x,
+<he/she> says it's <dated/outdated/antiquated/archaic/too old/out-of-date/out-of-style/trash/garbage/rubbish>.,<lover> said our new <house> is <rb>.,,20,,,x,,,,x,,x,
+<he/she> says that the neighborhood is <bad/questionable/ghetto/rundown/destitute/slummy/undesirable>.,<lover> said our new <house> is in a <rb> neighborhood.,,20,,,x,,,,x,,x,
+<he/she> says it's going to be a money pit.,<lover> said that our new <house> will be a money pit.,,40,,,,,,,x,,x,
+<he/she> says it's not a good market for buying a house.,<lover> said our new <house> was not a good idea considering the state of the market.,,60,,,,,,,,,x,
+<he/she> says the <floor plan/layout/design> sucks.,<lover> complained that the <rb> of our new <house> sucks.,,30,,,,,,,,,x,
+<he/she> says the house has been poorly maintained.,<lover> complained that our new <house> had been poorly maintained.,,60,,,,,,,x,,x,
+<he/she> says the house needs too much work.,<lover> complained that our new <house> needs too much work.,,60,,,,,,,x,,x,
+<he/she> says the house is in <a bad/a terrible/an awful/an inconvenient> location.,<lover> complained that our new <house> is in <rb> location.,,30,,,x,,,,,,x,
+<he/she> says that it's too far away from everything.,<lover> said that our new <house> is too far away from everything.,,60,,,,,,,,,x,
+<he/she> says that it was poorly built.,<lover> said our new <house> was poorly built.,,30,,,x,,,,,,x,
+<he/she> says that the house isn't <his/her> style.,<lover> said our new <house> is not <his/her> style.,,60,,,,,,,,,x,
+<he/she> says it will cost way too much to maintain.,<lover> said our new <house> will cost too much to maintain.,,60,,,,,x,,,,x,
+<he/she> says that <he/she> hates the colors.,<lover> said <he/she> hates the colors of our new <house>.,,20,,,,,,,,,x,
+<he/she> says <he/she> doesn't like the <kitchen/garage/bathrooms/living room>.,<lover> said <he/she> doesn't like the <rb> in our new <house>.,,30,,,,,,,,,x,
+<he/she> says the <roof/air conditioner/furnace/plumbing> is in bad condition.,<lover> said the <rb> in our new <house> is in bad condition.,,60,,,,,,,x,,x,
+<he/she> says it's not <fancy/extravagant/lavish/gaudy/expensive> enough.,<lover> said our new <house> is not <rb> enough.,,60,,,,,,,,,x,
+<he/she> says that the street traffic is way too <busy/loud>.,<lover> said our new <house> is on a street that's too <rb>.,,60,,,,,,,,,x,
+<he/she> says there isn't enough storage space.,<lover> said our new <house> doesn't have enough storage space.,,60,,,,,,x,,,x,
+<he/she> says the schools in the area are <terrible/awful/horrendous/atrocious>.,<lover> said the schools near our new <house> are <rb>.,,30,x,,x,,,,,,x,
+<he/she> says it <has a creepy vibe/has bad energy/feels haunted/feels spooky/has supernatural energy/feels occupied/has spine-chilling energy>.,<lover> said our new <house> <rb>.,,10,,,,,,,,x,x,
+<he/she> says you're <a fool/an idiot/selfish/crazy/an imbecile/a moron/a jackass/selfish/narcissistic/self-centered/egocentric/ridiculous> for buying a home without consulting <him/her> first.,<lover> said I was <rb> for buying our new <house> without consulting <him/her> first.,,10,,,,,,,,,,
+<he/she> called you <insult>.,<lover> called me <insult> for buying our new <house>.,,10,,,,,,,,,,
+<he/she> says it's not big enough for the family.,<lover> said that our new <house> isn't big enough for our family.,,60,x,,,,,x,,,x,
+<he/she> says it's too <tiny/small/little/cramped>.,<lover> said that our new <house> is too <rb>.,,40,,,,,,x,,,x,
+<he/she> says that you're <a fool/an idiot/crazy/an imbecile/a moron/a jackass/a dumbass> for buying a haunted house.,<lover> said that I was <rb> for buying our <house>.,,20,,,,,,,,x,,
+<he/she> asks if you bought a haunted house just to <scare the kids to death/traumatize the children/torment the family>.,<lover> asked if I bought our new <house> just to <rb>.,,30,x,,,,,,,x,,
+<he/she> asks if you honestly expect <him/her> to live in a house that other people have lived in before.,<lover> asked if I honestly expected <him/her> to live in our new <house> after other people had lived there.,,20,,,,,,,x,,x,
+<he/she> sarcastically congratulates you for buying the worst house on the market.,"<lover> sarcastically congratulated me for buying our new <house>, adding that it was the worst house on the market.",,10,,,x,,,x,x,x,,
+<he/she> asks if you are trying to compensate for something with a house this large.,<lover> asked if I was trying to compensate for something by buying our humongous new <house>.,,60,,,,,x,,,,x,
+<he/she> asks where the kids are supposed to sleep.,<lover> asked me where the kids are going to sleep in our new <house>.,,60,x,,,,,x,,,x,
+<he/she> asks who is going to do all the cleaning in your enormous new home.,<lover> asked me who is going to clean our enormous new <house>.,,60,,,,,x,,,,,
+<he/she> says <he/she> wishes it was more expensive.,<lover> said <he/she> wished our new <house> was more expensive.,,60,,,,,,,,,x,
+<he/she> says it's a perfect home to raise a family.,<lover> loves our new <house>.,85,,,,,,x,,,,,x
+<he/she> says that it's <gorgeous/delightful/beautiful/lovely/super cute/charming>.,<lover> said that our new <house> is <rb>.,80,,,,,x,,,,,,x
+<he/she> says that it's just <right/perfect>.,<lover> said that our new <house> is just <rb>.,90,,,,,x,,,,,,x
+<he/she> says <he/she> loves how <fancy/extravagant/lavish/gaudy/expensive> it is.,<lover> said <he/she> loves how <rb> our new <house> is.,70,,,,,x,,,,,,x
+<he/she> says the house is in <the perfect/an awesome/an amazing/a terrific/a sweet/the ideal> neighborhood.,<lover> said that our new <house> is in <rb> neighborhood.,80,,,,,x,,,,,,x
+<he/she> says that it was a great time to buy the house.,<lover> said that it was a great time to buy our new <house>.,60,,,,,,,,,,,
+<he/she> says it has the perfect <floor plan/layout/design>.,<lover> said our new <house> has the perfect <rb>.,70,,,,,,,,,,,x
+<he/she> says the house seems to be in <pristine/ideal/amazing/awesome/perfect/excellent> condition.,<lover> said our new <house> seems to be in <rb> condition.,70,,,,,x,,,,,,x
+<he/she> says the house is in <a very convenient/the perfect/the ideal/a great/a fantastic> location.,<lover> said our new <house> is in <rb> location.,70,,,,,,,,,,,x
+<he/she> says <he/she> loves the <kitchen/garage/bathroom/garden/yard/living room>.,<lover> said <he/she> loves the <rb> in our new <house>.,60,,,,,,,,,,,x
+<he/she> says that <he/she> loves the colors.,<lover> said that <he/she> loves the colors of our new <house>.,60,,,,,,,,,,,x
+<he/she> says that it's just what you needed.,<lover> said our new <house> is just what we needed.,80,,,,,,,,,,,
+<he/she> says the schools in the area are <fantastic/the best/great/tremendous>.,<lover> said that the schools near our new <house> are <rb>.,70,,,,,x,,,,,,x
+<he/she> says that you are so <sweet/thoughtful/considerate/kind/attentive/caring/smart/brilliant/resourceful/wise> for finding such an amazing home.,<lover> said that I am <rb> for finding us our new <house>.,90,,,,,x,,,,,,x
+<he/she> says it looks <nice/good/fine>.,<lover> said our new <house> looks <rb>.,60,70,,,,,,,,,,x
+<he/she> says <he/she> can't wait to see what kind of <interesting/crazy/scary/spooky/creepy/eerie> <ghosts/ghouls/spirits/phantoms/specters> you'll encounter.,<lover> said <he/she> couldn't wait to encounter <rb1> <rb2> in our new <house>.,60,,,,,,,,,x,,x
+<he/she> says that <he/she> is very grateful for the new house despite it being <little/small/tiny/teeny>.,<lover> said that <he/she> is very grateful for our new <house> even though it is <rb>.,70,,,,,,,x,,,,
+<he/she> says that <he/she> is very appreciative for the new house even though it's <old/in poor condition/deteriorated/broken-down>.,<lover> said that <he/she> is very appreciative for our new <house> even though it is <rb>.,70,,,,x,,,,x,,,
+<he/she> says that <he/she> is very appreciative for the new house despite it being haunted.,<lover> said that <he/she> is very appreciative for our new <house> even though it is haunted.,70,,,,,,,,,x,,
+"<he/she> says it may not be much to look at, but <he/she> is proud that it's ours.",<lover> said <he/she> is proud to own our new <house> even though it's not much to look at.,70,,,,x,,,x,x,,,
+<he/she> says <he/she> can't wait to christen the toilet.,<lover> said that <he/she> couldn't wait to christen the toilet in our new <house>.,60,,,,,,,,,,,x
+<he/she> says that you are making all of <his/her> dreams come true.,<lover> said that I am making all of <his/her> dreams come true after buying our new <house>.,80,,,,,x,x,,,,,x
+"<he/she> says it needs some work, but can't wait to <do DIY projects in/rehab/modernize/remodel/work on/renovate> it with you.",<lover> said <he/she> couldn't wait to <rb> our new <house> with me.,70,,,,x,,,,x,,,x
+<he/she> says that it <is just fine/is fine/is okay/will do/will work/is acceptable>.,<lover> said that our new <house> <rb>.,60,70,,,,,,,,,,x
+<he/she> says you made a great investment.,<lover> said I made a great investment in buying our new <house>.,70,,,,,,,,,,,
+<he/she> says <he/she> can't wait to go <Chip Gaines/Joanna Gaines/Bob Villa/Christina Anstead/Property Brothers/Nicole Curtis> on it.,<lover> said that <he/she> couldn't wait to go <rb> on our new <house>.,60,,,,x,,,,x,,,x
+<he/she> asks you how many houses you need.,<lover> asked me how many houses we need after I bought our new <house>.,,60,,x,,,,,,,x,
+<he/she> says you already have too many houses.,<lover> said we already have too many houses when I bought our new <house>.,,50,,x,,,,,,,x,
+<he/she> asks if you're becoming a slum lord.,<lover> asked me if I was becoming a slum lord after I bought our new <house>.,,,,x,x,,,,x,,x,
+<he/she> asks if you're addicted to buying houses.,<lover> asked me if I was addicted to buying houses after I purchased our new <house>.,,50,,x,,,,,,,x,

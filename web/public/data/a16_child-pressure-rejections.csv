@@ -1,0 +1,34 @@
+Feedback Scenario,Log Version,Min Age,Max Age,Commonness Score
+<child> told you to leave <him/her> alone.,<child> told me to leave <him/her> alone.,,,5
+<child> told you to buzz off.,<child> told me to buzz off.,10,,3
+<child> told you to get a life.,<child> told me to get a life.,10,,3
+<child> told you to get real.,<child> told me to get real.,10,,3
+"<child> said if you really cared about <him/her>, you wouldn't be nagging <him/her> right now.",<child> told me to stop nagging <him/her> if I really cared about <him/her>.,13,,3
+<child> called you <insult>.,<child> called me <insult> for nagging <him/her>.,12,,5
+<child> told you <he/she> doesn't love you anymore.,<child> told me <he/she> doesn't love me anymore because I nagged <him/her>.,,,1
+<child> told you that you're <his/her> least favorite parent.,<child> told me I'm <his/her> least favorite parent.,,,1
+<child> told you to get bent.,<child> told me to get bent.,13,,1
+<child> told you to get lost.,<child> told me to get lost.,8,,3
+<child> told you to check yourself before you wreck yourself.,<child> told me to check myself before I wreck myself.,13,,4
+<child> told you to mind your own <beeswax/business>.,<child> told me to mind my own <rb>.,,,4
+<child> told you to stay out of <his/her> life.,<child> told me to stay out of <his/her> life.,13,,3
+<child> told you it's <his/her> life and <he/she>'ll do whatever <he/she> wants with it.,<child> told me it's <his/her> life and <he/she> will do what <he/she> wants with it.,10,,3
+"<child> said ""whatever"".","<child> said ""whatever"" after I nagged <him/her>.",13,,5
+<child> told you that <he/she> hates you.,<child> told me <he/she> hates me after I nagged <him/her>.,,,3
+<child> told you to stop trying to control <him/her> all the time.,<child> told me to stop trying to control <him/her>.,13,,3
+<child> told you to get off <his/her> <back/nuts>.,<child> told me to get off <his/her> <rb>.,13,,3
+<child> told you to let <him/her> live <his/her> life the way <he/she> wants.,<child> told me to let <him/her> live <his/her> own life.,13,,3
+<child> threatened to run away from home if you didn't leave <him/her> alone.,<child> threatened to run away from home if I kept nagging <him/her>.,10,17,4
+<child> threatened to never speak to you again if you didn't leave <him/her> alone.,<child> threatened to never speak to me again if I didn't stop nagging <him/her>.,18,,3
+<child> told you <he/she> can't handle the pressure of your expectations.,<child> told me I expect too much from <him/her>.,18,,3
+<child> told you that you're annoying <him/her>.,<child> told me that my nagging annoyed <him/her>.,13,,3
+<child> told you to quit being a nag.,<child> called me a nag.,13,,3
+<child> told you that you're a killjoy.,<child> called me a killjoy.,18,,3
+<child> told you to stop being mean.,<child> told me to stop being mean.,,10,3
+<child> told you to stop bullying <him/her>.,<child> told me to stop bullying <him/her>.,,10,2
+<child> called you a meanie.,<child> called me a meanie.,,10,3
+<child> told you <he/she> doesn't like you very much.,<child> told me <he/she> doesn't like me because I nagged <him/her>.,,10,3
+"<child> told you your nose belongs on your face, not in <his/her> business.",<child> told me to get my nose out of <his/her> business.,18,,1
+"<child> recited a poem for you that went ""Twinkle twinkle little snitch; mind your business, nosey bitch"".",<child> told me to mind my own business.,18,,1
+"<child> looked at you and said ""You know you're allowed to not have an opinion about my life, right?"".",<child> told me to keep my opinions about <his/her> life to myself.,18,,1
+"<child> asked if <he/she> could pour you a fresh cup of ""mind your own business"".",<child> told me to mind my own business.,18,,1

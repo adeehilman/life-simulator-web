@@ -1,0 +1,2 @@
+ITEM_ID,Name,Description,Emoji,Feedback,Succes,Log,Can Be Added,Unique
+BACKEND_SIGNUP,Money Bag,instantly receive $50000,money-bag,This bag of money immediately adds $50000 to your active character's bank balance.,You found $50000 in a money bag! Lucky you!,I found a bag of money containing $50000.,FALSE,TRUE

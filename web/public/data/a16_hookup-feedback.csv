@@ -1,0 +1,154 @@
+Condition,Feedback,Hero Gender,Partner Gender,Min Regret,Max Regret,Clean
+,You have a hard time walking straight the next day.,female,male,0,100,
+,You smoke your first cigarette after you finish.,both,both,0,50,
+,You tell everyone you know the next day.,both,both,0,50,x
+,You go home smelling like fish.,male,female,80,100,
+,You go home smelling like sweaty testicles.,female,male,80,100,
+,You get a call from his girlfriend the next day.,female,male,50,100,x
+,You get a call from her boyfriend the next day.,male,female,50,100,x
+,She tells you that she loves you.,male,female,50,100,x
+,He tells you that he loves you.,female,male,50,100,x
+,You told her that you love her.,male,female,0,20,x
+,You told him that you love him.,female,male,0,20,x
+,"She tells you she will call you, but never does.",male,female,20,100,x
+,"He tells you he will call you, but never does.",female,male,20,100,x
+,"You tell her you will call her, but never do.",male,female,50,100,x
+,"You tell him you will call him, but never do.",female,male,50,100,x
+,You feel like you own the world.,both,both,0,30,x
+,She tells you that you owe her $200.,male,female,90,100,
+,You go out drinking afterwards to celebrate.,both,both ,0,20,
+,You go out drinking afterwards in shame.,both,both,80,100,
+,You sneak away after he falls asleep.,female,male,70,100,x
+,You sneak away after she falls asleep.,male,both,70,100,x
+,"After you finish, she asks if you would like to read religious passages.",male,female,70,100,
+,"After you finish, he asks if you would like to read religious passages.",female,male,70,100,
+,"After you finish, she asks you if you would like to get married.",male,female,80,100,
+,"After you finish, he asks you if you would like to get married.",female,male,80,100,
+,He tells you he has to work early and starts yawning.,female,male,50,100,x
+,She tells you she has to work early and starts yawning.,male,female,50,100,x
+,She asks you if she can move in.,male,female,80,100,x
+,He asks you if he can move in.,female,male,80,100,x
+,She asks if this makes you a couple.,male,female,70,100,x
+,He asks if this makes you a couple.,female,male,70,100,x
+,She tells you she can't wait to introduce you to her friends.,male,female,70,100,x
+,He tells you he can't wait to introduce you to his friends.,female,male,70,100,x
+,She tells you that you weren't as bad as she expected.,male,female,40,100,x
+,He tells you that you weren't as bad as he expected.,female,male,40,100,x
+,She tells you that she doesn't use birth control.,male,female,80,100,x
+,You take the morning after pill.,female,male,50,100,
+,You hope he impregnated you.,female,male,0,30,
+,She tells you she hopes that you impregnated her.,male,female,80,100,
+,You walk around with a pep in your step the next day.,both,both,0,30,x
+,Your friends say that you look more relaxed the next day.,both,both,0,50,x
+,You buy a pregnancy test the next day.,female,male,0,100,x
+,He tells you that you were better than all of your friends.,female,male,30,80,
+,She tells you that you were better than all of your friends.,male,female,30,80,
+,She tells you that she hasn't been with anyone as small as you.,male,female,80,100,
+,She tells you that she has never been with anyone as big as you.,male,female,0,20,
+,You feel a little itchy the next day.,both,both,80,100,
+,"He asks, ""What's your name again?"" afterwards.",both,male,50,100,
+,"She asks, ""What's your name again?"" afterwards.",both,female,50,100,
+,He tells you after that he is married.,female,male,50,100,x
+,She tells you after that she is married.,male,female,50,100,x
+,He asks if he can keep your underwear.,female,male,0,100,
+,He tells you that he recorded it and asks if you'd like a copy of it.,female,male,50,100,
+,She tells you that she recorded it and asks if you'd like a copy of it.,male,female,50,100,
+,"Afterwards, he challenges you to a game of chess.",female,male,0,100,x
+,"Afterwards, she challenges you to a game of chess.",male,female,0,100,x
+,"Afterwards, he invites you to play video games.",female,male,0,100,x
+,"Afterwards, she invites you to play video games.",male,female,0,100,x
+,"Afterwards, she says you should get tattoos of each other's names.",male,female,70,100,x
+,"Afterwards, he says you should get tattoos of each other's names.",female,male,70,100,x
+,She told you that you can call her mommy.,male,female,30,100,
+,He told you that you can call him daddy.,female,male,30,100,
+,You find out he is into bondage.,female,male,0,100,
+,You find out she is into bondage.,male,female,0,100,
+,You find out he is into crossdressing.,female,male,50,100,
+,His dog licked you during intercourse.,female,male,30,100,
+,Her dog licked you during intercourse.,male,female,30,100,
+,He farted during sex.,female,male,70,100,
+,She farted during sex.,male,female,70,100,
+,You broke the bed.,both,both,0,50,
+,He started talking politics during sex.,female,male,70,100,
+,She started talking politics during sex.,male,female,70,100,
+,He told you about his grandmother during sex.,female,male,80,100,
+,She told you about her grandmother during sex.,male,female,80,100,
+,He fell asleep while having sex.,female,male,50,100,
+,She fell asleep while having sex.,male,female,50,100,
+,She asked you if that's all you've got.,male,female,50,100,
+,Her child walked in during intercourse.,male,female,70,100,
+,His child walked in during intercourse.,female,male,70,100,
+,Her roommate walked in on you during intercourse.,male,female,50,100,
+,His roommate walked in on you during intercourse.,female,male,50,100,
+,Her mother walked in on you during intercourse.,male,female,50,100,
+,His mother walked in on you during intercourse.,female,male,50,100,
+,You learned that he lives in his mother's basement.,female,male,50,100,x
+,You got a concussion from banging your head on the headboard.,both,both,70,100,
+,You threw out your back giving her the best you've got.,male,female,0,100,
+,He told everyone about it on social media the next day.,female,male,50,100,x
+,She told everyone about it on social media the next day.,male,female,50,100,x
+,He told you afterwards that he was a virgin.,female,male,20,100,
+,She told you afterwards that she was a virgin.,male,female,20,100,
+,You discovered that she doesn't shave.,male,female,50,100,
+Fame,He secretly filmed your encounter and it went viral on the internet the next day.,both,male,90,100,
+Fame,She secretly filmed your encounter and it went viral on the internet the next day.,both,female,90,100,
+Fame,He secretly filmed it and threatened to sell it to TMZ.,both,male,90,100,
+Fame,She secretly filmed it and threated to sell it to TMZ.,both,female,90,100,
+Fame,Pics of your underwear went viral on the internet the next day.,both,both,80,100,x
+Fame,You get a call from your agent the next day telling you that he just saw a video on the internet of you having sex.,both,both,80,100,
+Fame,You wake up in the morning and all of her friends are there.,both,female,50,100,x
+Fame,You wake up in the morning and all of his friends are there.,both,male,50,100,x
+Fame,She told you she hopes you just made a celebrity baby.,male,female,80,100,
+Fame,She said she expected bigger things from a big shot like you.,male,female,50,100,
+Fame,She told you her prayers have been answered.,both,female,0,100,x
+Fame,He told you his prayers have been answered.,both,male,0,100,x
+Fame,She told you after you finish that she is now seeing lots of stars.,both,female,0,100,
+Fame,He told you after you finish that he is now seeing lots of stars.,both,male,0,100,
+Fame,She tells you she now feels like a star herself.,both,female,0,100,x
+Fame,He tells you he now feels like a star himself.,both,male,0,100,x
+Fame,She asked you if this now makes her a celebrity.,both,female,0,100,x
+Fame,He asked you if this now makes him a celebrity.,both,male,0,100,x
+Fame,She asked if you are going to introduce her to your connections now.,both,female,50,100,x
+Fame,He asked if you are going to introduce him to your connections now.,both,male,50,100,x
+Fame,She asked if you have any other celebrity friends she can sleep with.,both,female,30,100,
+Fame,He asked if you have any other celebrity friends he can sleep with.,both,male,30,100,
+Fame,She told you she expected a celebrity like you to be much bigger.,male,female,80,100,
+Fame,He told you he expected a celebrity like you to be much bigger.,male,male,80,100,
+Fame,She told you she expected a big shot like you to be much better.,both,female,80,100,
+Fame,He told you he expected a big shot like you to be much better.,both,male,80,100,
+Fame,She told you that you weren't nearly as powerful as she thought.,male,female,80,100,
+Fame,He told you that you weren't nearly as powerful as he thought.,male,male,80,100,
+Fame,She asked you what you want to call the celebrity baby you just made.,male,female,90,100,
+Fame,She asked for your autograph when you finished.,both,female,30,100,x
+Fame,He asked for your autograph when you finished.,both,male,30,100,x
+Fame,She asked when she can meet your agent.,both,female,30,100,x
+Fame,He asked when he can meet your agent.,both,male,30,100,x
+Fame,She asked you to take a selfie with her so she has proof.,both,female,50,100,x
+Fame,He asked you to take a selfie with her so he has proof.,both,male,50,100,x
+Fame,You took a moment to realize how much you appreciate your fans.,both,both,0,30,x
+Fame,"She told you that she has always admired you, but now loves you.",both,female,50,100,x
+Fame,"He told you that he has always admired you, but now loves you.",both,male,50,100,x
+Fame,You no longer question who your number one fan is.,both,both,0,100,x
+Fame,During intercourse she couldn't stop talking about your work.,both,female,30,100,
+Fame,During intercourse he couldn't stop talking about your work.,both,male,30,100,
+Fame,She asked you if she should contact you or your personal assistant to schedule the next meeting.,both,female,30,100,x
+Fame,He asked you if he should contact you or your personal assistant to schedule the next meeting.,both,male,30,100,x
+Fame,You had to have your security guard escort her out.,both,female,70,100,x
+Fame,You had to have your security guard escort him out.,both,male,70,100,x
+Fame,She told you next time she'll bring all of her girlfriends to join in.,both,female,0,100,
+Fame,He told you next time he'll bring all of his friends to join in.,both,male,0,100,
+Fame,You reflect in amazement at what a fan will do to please a celebrity.,both,both,0,20,
+,She tells you she used to be a man.,both,female,0,100,x
+,He told you he used to be a woman.,both,male,0,100,x
+,She asked you if you think she is a slut.,both,female,30,100,
+,He asked you if you think he is a slut.,both,male,30,100,
+,She asked you when she can expect to see you again.,both,female,30,100,x
+,He asked you when he can expect to see you again.,both,male,30,100,x
+,She cried as you parted ways.,both,female,30,100,x
+,He cried as you parted ways.,both,male,30,100,x
+,He posted pictures of your naked body on social media the next day.,both,male,80,100,
+,She posted pictures of your naked body on social media the next day.,both,female,80,100,
+,He told everyone that you have a small penis on social media.,male,male,90,100,
+,He told everyone that you have a huge vagina on social media.,female,male,90,100,
+,She told everyone that you have a small penis on social media.,male,female,90,100,
+,You immediately go to get tested for an STD.,both,both,0,100,

@@ -1,0 +1,28 @@
+Drug,Nicknames,Addictiveness Score,Overdose Likeliness Score,Commonness Score,Health Damage Score,Enlightment Likeliness Score,Drug Test,Illegal,Club Drug,VIP Club Drug
+cocaine,blow|nose candy,4,4,3,3,0,x,x,,x
+marijuana,cannabis|weed|pot|reefer|hash,1,0,5,1,2,x,x,,
+methamphetamine,meth|speed|crank,3,3,3,5,0,x,x,x,
+magic mushrooms,,0,0,2,0,4,,x,,x
+acid,LSD|liquid acid,0,0,2,1,2,x,x,x,x
+oxycodone,,3,2,4,3,0,,,,
+heroin,smack,5,5,3,5,0,x,x,x,x
+opium,,4,1,1,3,0,x,x,,
+ecstasy,MDMA|molly,0,0,3,1,5,x,x,,x
+GHB,,1,2,2,1,0,,x,x,
+ketamine,special k,1,3,2,3,0,x,x,x,
+PCP,angel dust|sherm,0,4,2,4,0,x,x,x,
+salvia,,2,0,1,2,0,x,,,
+mescaline,peyote,0,0,1,0,5,x,,,x
+nitrous oxide,laughing gas,0,0,2,1,0,,x,x,x
+anabolic steroids,gym candy,0,0,2,3,0,,,,
+morphine,,4,2,3,3,0,,x,x,
+sleeping pills,,3,0,3,1,0,,,,
+valium,,2,0,3,2,0,,,,
+ritalin,,0,0,4,0,0,,,,
+xanax,,0,0,4,0,0,,,,
+adderall,,2,0,4,0,0,,,,
+vicodin,,3,1,4,2,0,,,,
+crack cocaine,,5,2,1,5,0,x,x,x,
+cough syrup,codeine|sizzurp|purple drank,3,1,2,2,0,,,,
+alcohol,,2,0,5,2,0,,,,
+cigarettes,,4,0,4,3,0,,,,

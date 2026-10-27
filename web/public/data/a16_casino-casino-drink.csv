@@ -1,0 +1,57 @@
+Beverage Type,Uses Indefinite Article,Drink Has Alcohol,Drink Quality,Happiness Impact
+Bloody Mary,x,x,3,2
+tap water,,,1,2
+sparkling water,,,2,2
+vintage cocktail,x,x,4,3
+frou-frou drink,x,x,2,3
+ice-cold beer,x,x,3,3
+IPA on tap,x,x,4,4
+Manhattan,x,x,4,3
+Cosmopolitan,x,x,3,3
+bottle of Champagne,x,x,5,4
+100 point bottle of Bordeaux,x,x,5,4
+Whiskey Sour,x,x,3,3
+glass of white zinfandel,x,x,1,1
+glass of sparkling rose,x,x,2,2
+glass of chardonnay,x,x,3,2
+glass of pinot noir,x,x,4,3
+Last Word,x,x,5,5
+can of light beer,x,x,1,-2
+shot of Don Julio 1942,x,x,5,5
+Margarita,x,x,3,3
+Gin & Tonic with lime,x,x,3,3
+bottle of Sprite,x,,2,1
+bottle of Coke,x,,2,1
+bottle of Pocari Sweat,x,,4,3
+hot cocoa with marshmallows,,,3,5
+black coffee,,,2,1
+coconut water,,,2,1
+Jungle Juice,,x,3,4
+Soju,,x,3,2
+hot Sake,,x,3,3
+glass of milk,x,,4,-1
+glass of chocolate milk,x,,5,3
+Old Fashioned,x,x,3,3
+shot of tequila ,x,x,3,3
+Slippery Nipple,x,x,5,5
+Mojito,x,x,3,4
+Rum Coke,x,x,3,3
+Pina Colada,x,x,3,3
+Dirty Martini,x,x,3,3
+Sex on the Beach,x,x,4,4
+local craft brew,x,x,4,3
+Mai Tai,x,x,3,3
+Long Island Iced Tea,x,x,3,2
+Napa Valley Cabernet,x,x,5,4
+Caipirinha,x,x,3,3
+Negroni,x,x,3,3
+prune juice,,,1,-3
+carrot juice,,,1,-2
+strawberry soda,x,,2,2
+Paloma,x,x,3,3
+Dickens Cider,x,x,4,5
+Virgin Daiquiri,x,,2,1
+Virgin Mary,x,,2,1
+Virgin Sangria,x,,2,1
+apple juice,,,1,-2
+grape juice,,,1,-2

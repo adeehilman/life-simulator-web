@@ -1,0 +1,345 @@
+Condition,Animal,Scenario,Log Version,Craziness Score,Pet Gender,Pet Talks,Hero Gender,Hero Min Age,Hero Max Age,Clean
+,Big Cat,"While you are trying to feed <pet>, <he/she> suddenly bites your hand, but luckily doesn't do much damage.",<pet> bit me while feeding <him/her>.,5,,,,18,,x
+,Big Cat,It's <num1-5>am and you just woke up to <pet> <roaring/purring/playing/hissing/wailing/crying/growling/yowling/groaning/grunting>.,<pet> woke me up in the middle of the night <rb1>.,3,,,,12,,x
+,Big Cat,"<pet> just licked his <penis/dong/donger/wiener/schlong/member/phallus/pecker/peter/johnson/shaft/willy/genitalia/genitals/gonads/nuts/privates/testes/private parts/nutsack/balls/bollocks/family jewels/nads/cojones>, and then licked your <mouth/face/tongue/lips>.",<pet> licked his <rb1> and then licked my <rb2>.,5,male,,,18,,
+,Big Cat,<pet> just licked her <kitty/vagina/vaginer/vajayjay/beaver/lady garden/flower/bits/cooter/pooter/greasy beaver> and then licked your <mouth/face/tongue/lips>.,<pet> licked her <rb1> and then licked my <rb2>.,5,female,,,18,,
+,Big Cat,<pet> just licked <his/her> <bottom/anus/butt/backside/behind/rump/rear/bum> and then licked your <face/mouth/tongue/lips>.,<pet> licked <his/her> <rb1> and then licked my <rb2>.,4,,,,18,,
+Child,Big Cat,<pet> just licked <his/her> <bottom/anus/butt/backside/behind/rump/rear/bum> and then licked <child-possessive> <face/mouth/tongue/lips>.,<pet> licked <his/her> <rb1> and then licked <child-possessive> <rb2>.,5,,,,18,,
+,Big Cat,<pet> is trying to <bite/scratch/attack/pounce on/claw> you when you try to open <his/her> cage.,<pet> tried to <rb1> me when I tried to open <his/her> cage.,3,,,,18,,x
+,Big Cat,<pet> is lunging at you every time you get near <his/her> cage.,<pet> lunged at me when I went near <his/her> cage.,2,,,,14,,x
+,Big Cat,<pet> got out of the cage and it has taken <num10-59> minutes to get <him/her> back into the cage.,It took me <num10-59> minutes to get <pet> back in the cage.,5,,,,18,,x
+,Big Cat,<pet> ate some <Viagra/Cialis/Levitra/penis enlargement pills/erection medication> and has had <a boner/a hard-on/a woody/a stiffy/an erection/wood> all week.,<pet> ate some <rb1> and had <rb2> all week.,5,male,,,18,,
+,Bird,<pet> just called you <insult>.,<pet> called me <insult>.,4,,x,,12,,x
+,Bird,<pet> is pecking at your <penis/dong/donger/wiener/schlong/member/phallus/pecker/peter/johnson/shaft/willy> after mistaking it for a worm.,<pet> mistook my <rb1> for a worm and tried to eat it.,5,,,male,18,,
+,Bird,<pet> just landed on your erect <penis/dong/donger/wiener/schlong/member/phallus/pecker/peter/johnson/shaft/willy/boner/hard-on/stiffy/woody/wood> after confusing it for a perch.,<pet> landed on my erect <rb1> after confusing it for a perch.,5,,,male,18,50,
+Lover,Bird,<pet> just called <lover> <insult>.,<pet> called <lover> <insult>.,4,,x,,14,,x
+Male Lover,Bird,<pet> just bit <lover> after hearing him call you <insult>.,<pet> bit <lover> after hearing him call me <insult>.,4,,,,14,,x
+Female Lover,Bird,<pet> just bit <lover> after hearing her call you <insult>.,<pet> bit <lover> after hearing her call me <insult>.,4,,,,14,,x
+Child,Bird,<child> just tried to pick up <pet> and got bit.,<pet> bit <child>.,1,,,,18,,x
+,Bird,It's <num1-5>am and you just woke up to <pet> <cawing/screeching/singing/tweeting/shrieking/crying/chirping/whistling/squawking/playing>.,<pet> woke me up in the middle of the night <rb1>.,3,,,,12,,x
+,Bird,"While playing with <pet>, <he/she> <bit/clawed/scratched> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> <rb1> my <rb2>.,3,,,,18,,x
+,Bird,"While you are trying to feed <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,1,,,,6,,x
+,Cat,<pet> ate some <Viagra/Cialis/Levitra/penis enlargement pills/erection medication> and has had <a boner/a hard-on/a woody/a stiffy/an erection/wood> all week.,<pet> ate some <rb1> and had <rb2> all week.,5,male,,,18,,
+,Cat,"<pet> just licked his <penis/dong/donger/wiener/schlong/member/phallus/pecker/peter/johnson/shaft/willy/genitalia/genitals/gonads/nuts/privates/testes/private parts/nutsack/balls/bollocks/family jewels/nads/cojones>, and then licked your <mouth/face/tongue/lips>.",<pet> licked his <rb1> and then licked my <rb2>.,4,male,,,18,,
+,Cat,"While you are getting out of the shower, <pet> starts clawing your <penis/dong/donger/wiener/schlong/member/phallus/pecker/peter/johnson/shaft/willy> after mistaking it for a very small baby snake.",<pet> clawed my <rb1> after mistaking it for a very small baby snake.,5,,,male,18,,
+Female Lover,Cat,"<lover> just called <pet> <insult>, resulting in her getting bit by the cat.",<pet> bit <lover>.,5,,,,14,,x
+Male Lover,Cat,"<lover> just called <pet> <insult>, resulting in him getting bit by the cat.",<pet> bit <lover>.,5,,,,14,,x
+Female Lover,Cat,<pet> just bit <lover> after she called you <insult>.,<pet> bit <lover> after hearing her call me <insult>.,4,,,,14,,x
+Male Lover,Cat,<pet> just bit <lover> after he called you <insult>.,<pet> bit <lover> after hearing him call me <insult>.,4,,,,14,,x
+,Cat,<pet> just licked her <kitty/vagina/vaginer/vajayjay/beaver/lady garden/flower/bits/cooter/pooter/greasy beaver> and then licked your <mouth/face/tongue/lips>.,<pet> licked her <rb1> and then licked my <rb2>.,4,female,,,18,,
+Child,Cat,<pet> just hurt <child> while playing too rough.,<pet> hurt <child> while playing too rough.,2,,,,18,,x
+Child,Cat,<pet> just licked <his/her> <bottom/anus/butt/backside/behind/rump/rear/bum> and then licked <child-possessive> <face/mouth/tongue/lips>.,<pet> licked <his/her> <rb1> and then licked <child-possessive> <rb2>.,3,,,,18,,
+,Cat,<pet> gifted you by leaving a dead <bird/rat/mouse/squirrel/chipmunk/snake/weasel/fish/lizard> on your pillow.,<pet> left a dead <rb1> on my pillow.,3,,,,6,,x
+,Cat,<pet> got out of the house and it has taken <num10-59> minutes to get <him/her> back into the house.,It took me <num10-59> minutes to get <pet> back in the house.,2,,,,12,,x
+,Cat,You just discovered <pet> drinking <milk/lemonade/chocolate milk/juice/water/grape soda> out of your <cup/glass/mug>.,<pet> drank my <rb1>.,3,,,,6,,x
+,Cat,<pet> just ate the food off of your plate while you were not looking.,<pet> ate the food off of my plate while I wasn't looking.,3,,,,6,,x
+,Cat,<pet> just ate the meat that was defrosting on the counter.,<pet> ate the meat that was defrosting on the counter.,3,,,,18,,x
+,Cat,<pet> just came into the house and tracked <mud/dirt> everywhere.,<pet> tracked <rb1> into the house.,2,,,,18,,x
+,Cat,<pet> just got startled and <bit/scratched/clawed> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.,<pet> got startled and <rb1> my <rb2>.,4,,,,18,,x
+,Cat,<pet> just licked <his/her> <bottom/anus/butt/backside/behind/rump/rear/bum> and then licked your <face/mouth/tongue/lips>.,<pet> licked <his/her> <rb1> and then licked my <rb2>.,4,,,,18,,
+,Cat,<pet> just ripped your <blinds/curtains/drapes/window coverings> to shreds by clawing them.,<pet> shredded my <rb1>.,3,,,,18,,x
+,Cat,<pet> just sprayed on your <pillow/mattress/comforter/bed/toilet/clothes/couch/sofa/door/rug/carpet>.,<pet> sprayed on my <rb1>.,3,,,,18,,x
+,Cat,<pet> just tried using your <face/back/arm/leg/foot/chair/table/couch/sofa/bed/furniture/antique cabinet/dresser/door/wall/computer/pants/carpet/curtains/drapes> as a scratching post.,<pet> tried using my <rb1> as a scratching post.,3,,,,18,,x
+,Cat,<pet> won't stop rubbing against you while you are busy.,<pet> wouldn't stop rubbing against me while I was busy.,1,,,,12,,x
+,Cat,It's <num1-5>am and you just woke up to <pet> <licking your face/climbing on your face/lying on your head>.,<pet> woke me up in the middle of the night.,1,,,,12,,x
+,Cat,It's <num1-5>am and you just woke up to <pet> <meowing/purring/trilling/growling/hissing/yowling/screaming/caterwauling/playing>.,<pet> woke me up in the middle of the night.,1,,,,12,,x
+,Cat,"While playing with <pet>, <he/she> <bit/clawed/scratched> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> <rb1> my <rb2>.,3,,,,18,,x
+,Cat,"While you are relaxing on the couch, <pet> is trying to climb on you to get your attention.",<pet> climbed on me while I was relaxing on the couch.,1,,,,6,,x
+,Cat,You are enjoying <breakfast/lunch/dinner/a snack> and <pet> is begging for food.,<pet> begged for food while I was eating <rb1>.,2,,,,12,,x
+,Cat,You come home to discover that <pet> <ripped up/shredded/destroyed/ruined> your favorite sofa.,<pet> <rb1> my favorite sofa.,4,,,,18,,x
+,Cat,You just came home to discover that <pet> <pooped/crapped/took a dump/left a steamy pile/left a turd> on your pillow instead of <his/her> litter box.,<pet> <rb1> on my pillow.,4,,,,12,,
+,Cat,You just caught <pet> climbing on the furniture.,<pet> climbed on the furniture.,1,,,,18,,x
+,Cat,You just caught <pet> sleeping on clean laundry.,<pet> fell asleep on my clean laundry.,1,,,,18,,x
+,Cat,You just found <pet> walking on the countertop.,I found <pet> walking on the countertop.,1,,,,18,,x
+,Cat,You just got home after a long day and discovered <pet> got into the garbage and scattered trash everywhere.,<pet> got into the garbage and scattered trash everywhere.,4,,,,18,,x
+,Cat,You just noticed that <pet> threw up all over your rug.,<pet> threw up on my rug.,2,,,,18,,x
+,Cat,You just walked in to discover <pet> peeing on <the carpet/a rug/the toilet/the couch/a chair/a table/a houseplant/the wall/a dresser/a bed/an antique cabinet/a toothbrush/the countertop/a shoe/a computer>.,<pet> peed on <rb1>.,3,,,,18,,x
+,Cat,You just walked into the living room to find <pet> eating your plant.,I found <pet> eating my plant.,4,,,,18,,x
+,Cat,"While throwing a party, you discover <pet> drinking <alcohol> out of a shot glass.",I caught <pet> drinking <alcohol>.,4,,,,21,,
+,Cat,"<pet> just got the lid off of your great-great-grandfather's urn and sneezed into it, spreading ashes all over <everything/everyone/the house>.","<pet> got the lid off of my great-great-grandfather's urn and sneezed into it, spreading ashes all over <rb1>.",5,,,,18,,x
+,Cat,"While looking you directly in the eye, <pet> just pushed a <book/computer/phone/vase/plant/cup/mug/glass> off of a shelf.",<pet> pushed a <rb1> off of a shelf while looking me in the eye.,4,,,,16,,x
+,Cat,You just discovered that <pet> took your <socks/underwear> and put them in the toilet.,<pet> took my <rb1> and put them in the toilet.,4,,,,16,,x
+,Cat,You just found <pet> having a <shag/one-night-stand/romp/go/screw/shag/bang/bonk/hump/quickie> with the neighbor's cat.,<pet> had a <rb1> with the neighbor's cat.,4,,,,18,,
+,Cat,"You just found <pet> chasing a piece a yarn that <he/she> ate and pooped out, but has not yet fully passed.","<pet> chased a piece a yarn that <he/she> ate and pooped out, but hadn't fully passed.",5,,,,16,,
+,Cat,You just found <pet> shredding your <num10-50> page tax document.,<pet> shredded my <num10-50> page tax document.,5,,,,18,,x
+,Cat,You just woke up with a half-dead mouse in your mouth that <pet> placed there.,<pet> placed a half-dead mouse in my mouth while I was sleeping.,5,,,,12,,
+,Cat,"<pet> has been eating <his/her> food so fast that <he/she> has been vomiting it back into <his/her> bowl, before continuing to eat it.","<pet> ate <his/her> food so fast that <he/she> threw it up into <his/her> bowl, before continuing to eat it.",4,,,,16,,
+,Cat,You just watched <pet> shred <a roll of toilet paper/a roll of paper towels> and get it everywhere.,<pet> shredded <rb1> and got it everywhere.,3,,,,18,,x
+,Cat,You just found <pet> licking the butter.,<pet> licked the butter.,4,,,,14,,x
+,Cat,<pet> has been stealing your <underwear/socks> and putting them in the litter box.,<pet> stole my <rb1> and put them in the litter box.,4,,,,16,,x
+,Cat,You just discovered that <pet> pooped on the floor and the robot vacuum smeared it everywhere.,<pet> pooped on the floor and the robot vacuum smeared it everywhere.,5,,,,14,,
+Student,Dog,<pet> just ate your <favorite toy/crayons/coloring book/video game/candy bar/lollipop/ice cream cone/cookie/fruit snacks/bubble gum/stuffed animal/teddy bear/homework/kite/board game/puzzle>.,<pet> ate my <rb1>.,3,,,,6,12,x
+,Dog,<pet> ate some <Viagra/Cialis/Levitra/penis enlargement pills/erection medication> and has had <a boner/a hard-on/a woody/a stiffy/an erection/wood/the red lipstick> all week.,<pet> ate some <rb1> and had <rb2> all week.,5,male,,,18,,
+,Dog,<pet> is trying to hump another dog.,<pet> tried to hump another dog.,3,male,,,14,,x
+,Dog,<pet> is trying to hump your leg.,<pet> tried to hump my leg.,3,male,,,14,,x
+,Dog,<pet> just licked his <penis/dong/donger/wiener/schlong/member/phallus/pecker/peter/johnson/shaft/willy/genitalia/genitals/gonads/nuts/privates/testes/private parts/nutsack/balls/bollocks/family jewels/nads/cojones> and then licked your <mouth/face/tongue/lips>.,<pet> licked his <rb1> and then licked my <rb2>.,3,male,,,18,,
+Lover,Dog,<pet> just <sniffed/smelled/licked> your <anus/buttocks/butt/butt crack/rectum/bottom/backside/rump/fanny/derriere/posterior/tush> while you were engaging in <doggystyle/rear-entry/frombe> intercourse.,<pet> <rb1> my <rb2> while I was engaging in <rb3> intercourse.,5,,,male,18,60,
+Lover,Dog,<pet> just chewed up your <penis pump/sex toy/condoms/sex whip/sex doll/Viagra/Cialis/Levitra/penis enlargement pills/erection medication>.,<pet> chewed up my <rb1>.,5,,,male,40,,
+,Dog,"While you are getting out of the shower, <pet> starts boxing your testicles like a speed bag.",<pet> boxed my testicles like a speed bag when I got out of the shower naked.,5,,,male,18,,
+Male Lover,Dog,"<lover> just called <pet> <insult>, resulting in him getting bit by the dog.",<pet> bit <lover>.,5,,,,14,,x
+Female Lover,Dog,"<lover> just called <pet> <insult>, resulting in her getting bit by the dog.",<pet> bit <lover>.,5,,,,14,,x
+Female Lover,Dog,<pet> just bit <lover> after she called you <insult>.,<pet> bit <lover> after hearing her call me <insult>.,4,,,,14,,x
+Male Lover,Dog,<pet> just bit <lover> after he called you <insult>.,<pet> bit <lover> after hearing him call me <insult>.,4,,,,14,,x
+,Dog,<pet> just licked her <kitty/vagina/vaginer/vajayjay/beaver/lady garden/flower/bits/cooter/pooter/greasy beaver> and then licked your <mouth/face/tongue/lips>.,<pet> licked her <rb1> and then licked my <rb2>.,3,female,,,18,,
+,Dog,<pet> just chewed up your <dildo/vibrator/sex toy/condoms/butt plug/sex whip/nipple clamps/sex doll/anal beads>.,<pet> chewed up my <rb1>.,5,,,female,18,,
+,Dog,You just discovered <pet> <chewed on/buried/licked/ate> your <dirty/wet/salty/seasoned/bloody/soiled/stained/filthy/skid-marked> <thong/g-string/panties/crotchless panties/granny panties/period panties/underpants/underwear/knickers>.,<pet> <rb1> my <rb2> <rb3>.,4,,,female,18,50,
+,Dog,You just found <pet> chewing on your <tampon/maxi pad/sanitary napkin/sanitary pad/sanitary towel/menstrual pad> that <he/she> got out of the trash.,<pet> ate my <rb1> that <he/she> got out of the trash.,4,,,female,14,50,x
+Child,Dog,<pet> just hurt <child> while playing too rough.,<pet> hurt <child> while playing too rough.,3,,,,18,,x
+Child,Dog,<pet> just licked <his/her> <bottom/anus/butt/backside/behind/rump/rear/bum> and then licked <child-possessive> <face/mouth/tongue/lips>.,<pet> licked <his/her> <rb1> and then licked <child-possessive> <rb2>.,3,,,,18,,x
+Child,Dog,<pet> just swallowed <child-possessive> favorite toy.,<pet> ate <child-possessive> favorite toy.,4,,,,18,,x
+Job,Dog,"While at the office on ""Bring Your Dog To Work Day"", <pet> <peed on the floor/pooped on the floor/bit a coworker/lunged at a manager/ate someone's lunch/ran through the office/jumped on a desk/fornicated with another dog/threw up on the floor/farted all day/drank someone's coffee/drooled in someone's coffee/caused a coworker to have an allergy attack>.","I brought <pet> to the office on ""Bring Your Dog To Work Day"" and <he/she> <rb1>.",5,,,,18,,x
+,Dog,<pet> got out of the house and it has taken <num10-59> minutes to get <him/her> back into the house.,It took me <num10-59> minutes to get <pet> back in the house.,2,,,,12,,x
+,Dog,<pet> is barking excessively at a <cat/dog/man/woman/boy/girl/bird/car/mail carrier/truck/motorcycle/person/runner/bird> <he/she> <saw/heard> outside.,<pet> barked excessively at a <rb1> <he/she> <rb2> outside.,1,,,,12,,x
+,Dog,<pet> is drinking your <milk/lemonade/chocolate milk/juice/water/fruit drink/grape soda> from your <cup/glass/mug>.,<pet> drank my <rb1>.,3,,,,6,20,x
+,Dog,<pet> is jumping up onto your <friends/neighbors> as they enter your home.,<pet> jumped on my <rb1>.,2,,,,12,,x
+,Dog,<pet> is nipping at the mail carrier as he attempts to deliver a package to your home.,<pet> nipped at the mail carrier.,4,,,,12,,x
+,Dog,<pet> is nipping at your <friends/neighbors> as they enter your home.,<pet> nipped at my <rb1>.,4,,,,12,,x
+,Dog,<pet> just ate the food off of your plate while you were not looking.,<pet> ate the food off of my plate while I was not looking.,3,,,,6,,x
+,Dog,<pet> just ate the meat that was defrosting on the counter.,<pet> ate the meat that was defrosting on the counter.,4,,,,18,,x
+,Dog,<pet> just brought a dead <bird/rat/mouse/squirrel/chipmunk/snake/weasel/rabbit> that <he/she> killed into the house.,<pet> killed a <rb1> and brought it into the house.,4,,,,12,,x
+,Dog,<pet> just came into the house and tracked <mud/dirt> everywhere.,<pet> tracked <rb1> into the house.,2,,,,18,,x
+,Dog,<pet> just drooled into the beverage you just made.,<pet> drooled into my beverage.,4,,,,12,,x
+,Dog,<pet> just dug a hole under the fence and got out of your yard.,<pet> got out of the yard after digging a hole under the fence.,4,,,,14,,x
+,Dog,<pet> just licked <his/her> <bottom/anus/butt/backside/behind/rump/rear/bum> and then licked your <face/mouth/tongue/lips>.,<pet> licked <his/her> <rb1> and then licked my <rb2>.,4,,,,18,,x
+,Dog,<pet> just ripped your <blinds/curtains/drapes/window coverings> to shreds by clawing them.,<pet> shredded my <rb1>.,3,,,,18,,x
+,Dog,<pet> just tried eating a <hot dog/slice of pizza/cheeseburger/burrito/sandwich/chicken leg/taco/gyro> right out of your hand.,<pet> tried eating a <rb1> right out of my hand.,4,,,,6,,x
+,Dog,It's <num1-5>am and you just woke up to <pet> <howling/whining/crying/barking/playing>.,<pet> woke me up in the middle of the night.,2,,,,12,,x
+,Dog,It's <num1-5>am and you just woke up to <pet> <licking your face/climbing on your face/lying on your head>.,<pet> woke me up in the middle of the night.,2,,,,12,,x
+,Dog,"While at a dog-friendly restaurant, <pet> <peed on the floor/pooped on the floor/bit the server/lunged at the manager/ate someone's food/ran through the restaurant/jumped on a table/fornicated with another dog/threw up on the floor/farted throughout the meal/drank someone's beer>.",I brought <pet> to a dog-friendly restaurant and <he/she> <rb1>.,5,,,,21,,x
+,Dog,"While playing with <pet>, <he/she> <bit/clawed/scratched> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> <rb1> my <rb2>.,3,,,,18,,x
+,Dog,"While walking <pet>, you see <him/her> eat some <poop/turds/excrement/dung/dog droppings/feces/crap>.",<pet> ate some <rb1> during a walk.,2,,,,12,,
+,Dog,"While you are relaxing on the couch, <pet> is trying to climb on you to get your attention.",<pet> climbed on me while I was relaxing on the couch.,1,,,,6,,x
+,Dog,"While you are walking <pet>, <he/she> keeps pulling on the leash.",<pet> pulled on the leash during a walk.,1,,,,12,,x
+,Dog,"While you are walking <pet>, <he/she> lunges at <another dog/a child/another person>.",<pet> lunged at <rb1>.,3,,,,12,,x
+,Dog,You are enjoying <breakfast/lunch/dinner/a snack> and <pet> is begging for food.,<pet> begged for food while I was eating <rb1>.,1,,,,12,,x
+,Dog,You come home to discover that <pet> <ripped up/shredded/destroyed/ruined> your favorite sofa.,<pet> <rb1> my favorite sofa.,4,,,,18,,x
+,Dog,You just came home at the end of a long day to discover that <pet> chewed up your <shoes/hat/remote control/tablet/phone/charger/jeans/underwear/shirt/jacket/pillow/comforter/mattress/sunglasses/hat>.,<pet> chewed up my <rb1>.,3,,,,18,,x
+,Dog,You just came home to discover that <pet> <pooped/crapped/took a dump/left a steamy pile/left a turd/defecated> on your pillow.,<pet> <rb1> on my pillow.,5,,,,6,,
+,Dog,You just caught <pet> climbing on the furniture.,<pet> climbed on the furniture.,1,,,,18,,x
+,Dog,You just caught <pet> drinking out of the toilet.,<pet> drank out of the toilet.,2,,,,14,,x
+,Dog,You just got home after a long day and discovered <pet> got into the garbage and scattered trash everywhere.,<pet> got into the garbage and scattered trash everywhere.,4,,,,18,,x
+,Dog,You just put on <musician> and <pet> <started barking/started howling/started growling/started whining/peed on the speakers/started chewing the speakers/tried to hide/tried to run away/defecated on the floor>.,<pet> <rb1> when I played <musician>.,5,,,,12,,x
+,Dog,You just saw <pet> digging a huge hole in the yard.,<pet> dug a hole in the yard.,1,,,,18,,x
+,Dog,You just saw <pet> dragging <his/her> butt on your new <rug/carpet>.,<pet> dragged <his/her> butt on my new <rb1>.,3,,,,18,,x
+,Dog,You just walked in to discover <pet> peeing on <the carpet/a rug/the toilet/the couch/a chair/a table/a houseplant/the wall/a dresser/a bed/an antique cabinet/a toothbrush/the countertop/a shoe/a computer>.,<pet> peed on <rb1>.,3,,,,18,,x
+,Dog,You just went into your yard to discover that <pet> dug a hole under the fence.,<pet> dug a hole under the fence.,4,,,,14,,x
+,Dog,You see <pet> rolling in <feces/excrement/poop/crap/dung/turds/droppings>.,<pet> rolled in <rb1>.,2,,,,12,,
+,Dog,You walk in to see <pet> drinking <water/milk/coffee/juice/tea> out of your <cup/glass/mug>.,<pet> drank <rb1> out of my <rb2>.,3,,,,21,,x
+,Dog,You're having <friends/family/neighbors> over and <pet> won't stop sniffing the <crotches/butt cracks/intergluteal clefts/groin areas/perineums> of your guests.,I had <rb1> over and <pet> wouldn't stop sniffing the <rb2> of my guests.,3,,,,18,,
+,Dog,"While throwing a party, you discover <pet> drinking <alcohol> out of a shot glass.",I caught <pet> drinking <alcohol>.,4,,,,21,,
+,Dog,"<pet> just got the lid off of your great-great-grandfather's urn and sneezed into it, spreading ashes all over <everything/everyone/the house>.","<pet> got the lid off of my great-great-grandfather's urn and sneezed into it, spreading ashes all over <rb1>.",5,,,,14,,x
+,Dog,You just found <pet> having a <shag/one-night-stand/romp/go/screw/shag/bang/bonk/hump/quickie> with the neighbor's dog.,<pet> had a <rb1> with the neighbor's dog.,3,,,,18,,
+,Dog,"<pet> has been eating <his/her> food so fast that <he/she> has been vomiting it back into <his/her> bowl, before continuing to eat it.","<pet> ate <his/her> food so fast that <he/she> threw it up into <his/her> bowl, before continuing to eat it.",4,,,,16,,
+,Dog,You just observed <pet> shred <a roll of toilet paper/a roll of paper towels> and get it everywhere.,<pet> shredded <rb1> and got it everywhere.,3,,,,18,,x
+,Dog,You just found <pet> licking the butter.,<pet> licked the butter.,4,,,,14,,x
+,Dog,"While having a party, <pet> pooped on the floor and ate it in front of your guests.",<pet> pooped on the floor and ate it in front of my guests during a party.,5,,,,18,,
+,Dog,<pet> just stole a little girl's ice cream at the park.,<pet> stole a little girl's ice cream at the park.,5,,,,16,,x
+,Dog,<pet> has been barking at <his/her> <bottom/bum/rear-end/anus/backside/butt/tush/fanny/rump/posterior/rear> every time <he/she> farts audibly.,<pet> barked at <his/her> <rb1> after farting audibly.,4,,,,16,,
+,Dog,<pet> just broke the internet by chewing up your <modem/router>.,<pet> broke the internet by chewing up my <rb1>.,4,,,,16,,x
+,Dog,<pet> keeps spitting out the sausages the little old lady next door keeps giving <him/her>.,<pet> spit out the sausages the little old lady next door gave <him/her>.,5,,,,18,,x
+,Dog,"While relaxing in the bathtub, <pet> jumped in with you.",<pet> jumped into the bathtub with me.,4,,,,12,,x
+,Dog,You just discovered that <pet> pooped on the floor and the robot vacuum smeared it everywhere.,<pet> pooped on the floor and the robot vacuum smeared it everywhere.,5,,,,14,,
+,Dog,You just discovered <pet> ate a bottle of glitter and left sparkly piles of poop all over the house.,<pet> ate a bottle of glitter and left sparkly piles of poop all over the house.,5,,,,16,,
+,Dog,You just found <pet> trying to bathe in the toilet.,<pet> tried to bathe in the toilet.,4,,,,16,,x
+,Dog,<pet> keeps walking in front of the fan facing you every time <he/she> farts.,<pet> kept walking in front of the fan facing me after farting.,5,,,,14,,
+,Dog,<pet> just bit your hand when you tried to pet another dog.,<pet> bit my hand when I tried to pet another dog.,4,,,,14,,x
+,Dog,<pet> just peed on another dog while playing at the dog park.,<pet> peed on another dog while playing at the dog park.,3,,,,18,,x
+,Dog,You just discovered that <pet> dug up your garden.,<pet> dug up my garden.,3,,,,18,,x
+,Dog,<pet> is growling at your <friends/neighbors> as they enter your home.,<pet> growled at my <rb1>.,3,,,,12,,x
+,Horse,"While you are trying to feed <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,2,,,,12,,x
+,Horse,"While playing with <pet>, <he/she> <bit/kicked> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> <rb1> my <rb2>.,3,,,,18,,x
+,Horse,It's <num1-5>am and you just woke up to <pet> <snorting/neighing/squealing/nickering/roaring/grunting/groaning/playing/trotting>.,<pet> woke me up in the middle of the night <rb1>.,3,,,,12,,x
+Child,Horse,<pet> just hurt <child> while playing too rough.,<pet> hurt <child> while playing too rough.,2,,,,18,,x
+,Horse,<pet> just got startled and <bit/kicked> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.,<pet> got startled and <rb1> my <rb2>.,4,,,,18,,
+,Horse,<pet> just bucked you off while riding <him/her>.,<pet> bucked me off while riding <him/her>.,3,,,,14,,x
+Male Lover,Horse,<pet> just bit <lover> after hearing him call you <insult>.,<pet> bit <lover> after hearing him call me <insult>.,4,,,,14,,x
+Female Lover,Horse,<pet> just bit <lover> after hearing her call you <insult>.,<pet> bit <lover> after hearing her call me <insult>.,4,,,,14,,x
+Child,Horse,<pet> just bit <child> while being fed.,<pet> bit <child> while being fed.,4,,,,18,,x
+,Horse,<pet> is not letting you <saddle/mount/get on/ride/shoe/bridle/brush> <him/her>.,<pet> wouldn't let me <rb1> <him/her>.,2,,,,14,,x
+,Horse,<pet> got out and it has taken <num10-59> minutes to get <him/her> back into the stable.,It took me <num10-59> minutes to get <pet> back in the stable.,3,,,,16,,x
+,Horse,<pet> ate some <Viagra/Cialis/Levitra/penis enlargement pills/erection medication> and has had <a boner/a hard-on/a woody/a stiffy/an erection/wood> all week.,<pet> ate some <rb1> and had <rb2> all week.,5,male,,,18,,
+,Primate,You just walked into the living room to find <pet> eating your plant.,I found <pet> eating my plant.,4,,,,18,,x
+,Primate,You just walked into the bathroom to see <pet> using your toothbrush.,<pet> used my toothbrush.,4,,,,12,,x
+,Primate,You just walked in to find <pet> masturbating in your bed.,<pet> masturbated in my bed.,5,,,,18,,
+,Primate,You just walked in to discover <pet> using your <penis pump/sex doll/fleshlight>.,I walked in to discover <pet> using my <rb1>.,5,male,,male,18,,
+,Primate,You just walked in to discover <pet> using your <dildo/vibrator/sex toy/nipple clamps/sex doll>.,<pet> was using my <rb1>.,5,female,,female,18,,
+,Primate,You just walked in to discover <pet> peeing on <the carpet/a rug/the toilet/the couch/a chair/a table/a houseplant/the wall/a dresser/a bed/an antique cabinet/a toothbrush/the countertop/a shoe/a computer>.,<pet> peed on <rb1>.,3,,,,18,,x
+,Primate,You just walked in to discover <pet> hanging from the <ceiling/rafters/ceiling fan>.,I discovered <pet> hanging from the <rb1>.,4,,,,14,,x
+,Primate,You just noticed that <pet> threw up all over your rug.,<pet> threw up on my rug.,2,,,,18,,x
+,Primate,You just got home after a long day and discovered <pet> got into the garbage and scattered trash everywhere.,<pet> got into the garbage and scattered trash everywhere.,4,,,,18,,x
+,Primate,You just discovered <pet> drinking <milk/lemonade/chocolate milk/juice/water/grape soda> out of your <cup/glass/mug>.,<pet> drank my <rb1>.,4,,,,6,,x
+,Primate,You just caught <pet> sleeping on clean laundry.,<pet> fell asleep on my clean laundry.,3,,,,18,,x
+,Primate,You just caught <pet> climbing on the furniture.,<pet> climbed on the furniture.,1,,,,18,,x
+,Primate,You just came home to find <pet> wearing your <bra/panties/thong/g-string/chemise/lingerie/teddy/corset/bustier>.,I came home to find <pet> wearing my <rb1>.,5,,,female,18,,x
+,Primate,You are walking with <pet> and <he/she> keeps <farting/burping/peeing/pooping/crapping/defecating/masturbating> in front of people.,<pet> kept <rb1> in front of people during a walk.,5,,,,18,,
+,Primate,You are showing <family members/neighbors/friends> <pet> and <he/she> suddenly throws <crap/turds/poop/feces/excrement> on them.,<pet> threw <rb2> on my <rb1>.,3,,,,18,,
+,Primate,You are enjoying <breakfast/lunch/dinner/a snack> and <pet> is begging for food.,<pet> begged for food while I was eating <rb1>.,2,,,,12,,x
+,Primate,You are eating <breakfast/lunch/dinner> and <pet> won't stop <masturbating/farting/burping>.,<pet> wouldn't stop <rb2> while I was eating.,4,,,,18,,
+,Primate,"While you are trying to feed <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,1,,,,14,,x
+,Primate,"While you are relaxing on the couch, <pet> is trying to climb on you to get your attention.",<pet> climbed on me while I was relaxing on the couch.,1,,,,6,,x
+,Primate,"While throwing a party, you discover <pet> drinking <alcohol> out of a shot glass.",I caught <pet> drinking <alcohol>.,4,,,,21,,
+,Primate,"While playing with <pet>, <he/she> <bit/clawed/scratched/punched/slapped/kicked/poked> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> <rb1> my <rb2>.,4,,,,18,,x
+,Primate,"While looking at you and grinning, <pet> just called you <insult> in sign language.",<pet> called me <insult> using sign language.,5,,,,14,,x
+,Primate,It's <num1-5>am and you just woke up to <pet> <tickling your feet/pulling on your arm/climbing on you/getting into bed>.,<pet> woke me up in the middle of the night.,3,,,,12,,x
+,Primate,It's <num1-5>am and you just woke up to <pet> <screaming/grunting/roaring/growling/playing/hooting/burping/farting/drumming/clapping/snapping/howling/babbling/chattering/whooping/masturbating/squeaking/clapping/panting/puking/throwing up/vomiting>.,<pet> woke me up in the middle of the night <rb1>.,3,,,,12,,
+,Primate,"<pet> just touched his <penis/dong/donger/wiener/schlong/member/phallus/pecker/peter/johnson/shaft/willy/genitalia/genitals/gonads/nuts/privates/testes/private parts/nutsack/balls/bollocks/family jewels/nads/cojones>, and then touched your <mouth/face/tongue/lips>.",<pet> touched his <rb1> and then touched my <rb2>.,4,male,,,18,,
+,Primate,<pet> just touched her <kitty/vagina/vaginer/vajayjay/beaver/lady garden/flower/bits/cooter/pooter/greasy beaver> and then touched your <mouth/face/tongue/lips>.,<pet> touched her <rb1> and then touched my <rb2>.,4,female,,,18,,
+Child,Primate,<pet> just touched <his/her> <bottom/anus/butt/backside/behind/rump/rear/bum> and then touched <child-possessive> <face/mouth/tongue/lips>.,<pet> touched <his/her> <rb1> and then touched <child-possessive> <rb2>.,3,,,,18,,
+,Primate,<pet> just took your <phone/money/sex toy/jewelry/watch/tablet/iPad/laptop/medicine> and hid it.,<pet> hid my <rb1>.,4,,,,18,,
+Child,Primate,<pet> just took <child-possessive> toy and won't give it back.,<pet> took <child-possessive> toy and wouldn't give it back.,3,,,,18,,x
+,Primate,<pet> just threw <crap/turds/poop/feces/excrement> at you.,<pet> threw <rb1> at me.,3,,,,12,,
+Lover,Primate,<pet> just threw <crap/turds/poop/feces/excrement> at <lover>.,<pet> threw <rb1> at <lover>.,3,,,,14,,
+Lover,Primate,<pet> just smacked your butt while you are having sex with <lover>.,<pet> smacked my butt while I was having sex with <lover>.,5,,,,18,,
+,Primate,<pet> just ripped down your <blinds/curtains/drapes/window coverings> by hanging on them.,<pet> ruined my <rb1>.,3,,,,18,,x
+Child,Primate,<pet> just pulled your hair.,<pet> pulled my hair.,4,,,,12,,x
+Child,Primate,<pet> just pulled <child-possessive> hair.,<pet> pulled <child-possessive> hair.,4,,,,18,,x
+,Primate,<pet> just picked a booger and wiped it on you.,<pet> picked a booger and wiped it on me.,4,,,,14,,x
+,Primate,<pet> just laughed at you when <he/she> saw you naked.,<pet> laughed at me when <he/she> saw me naked.,5,,,,18,,x
+Child,Primate,<pet> just hurt <child> while playing too rough.,<pet> hurt <child> while playing too rough.,3,,,,18,,x
+,Primate,<pet> just got startled and <bit/clawed/scratched/punched/slapped/kicked/poked> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.,<pet> got startled and <rb1> my <rb2>.,4,,,,18,,
+,Primate,<pet> just came into the house and tracked <mud/dirt> everywhere.,<pet> tracked <rb1> into the house.,4,,,,18,,x
+Lover,Primate,<pet> just called <lover> <insult> using sign language.,<pet> called <lover> <insult> using sign language.,5,,,,14,,x
+Male Lover,Primate,<pet> just bit <lover> after hearing him call you <insult>.,<pet> bit <lover> after hearing him call me <insult>.,4,,,,14,,x
+Female Lover,Primate,<pet> just bit <lover> after hearing her call you <insult>.,<pet> bit <lover> after hearing her call me <insult>.,4,,,,14,,x
+,Primate,<pet> just ate the meat that was defrosting on the counter.,<pet> ate the meat that was defrosting on the counter.,3,,,,18,,x
+,Primate,<pet> just ate the food off of your plate while you were not looking.,<pet> ate the food off of my plate while I wasn't looking.,3,,,,6,,x
+,Primate,<pet> is <looking/smiling/grinning/gazing/staring/gazing/smirking> at you while <masturbating/spanking his monkey/choking his chicken/beating off/buffing the banana/wanking/wanking off/rubbing one out/spanking/spanking off/beating his meat/fapping/whacking it/whacking off>.,<pet> was <rb1> at me while <rb2>.,5,male,,,18,,
+,Primate,<pet> is <looking/smiling/grinning/gazing/staring/gazing/smirking> at you while <masturbating/diddling/rubbing one out/rubbing one off/flicking the pearl/jilling off/buffing the muffin/jacking the box/flicking the bean/tickling her fancy/tickling the bean/ladybating>.,<pet> was <rb1> at me while <rb2>.,5,female,,,18,,
+,Primate,<pet> got out of the cage and it has taken <num10-59> minutes to get <him/her> back into the cage.,It took me <num10-59> minutes to get <pet> back in the cage.,3,,,,16,,x
+,Primate,<pet> ate some <Viagra/Cialis/Levitra/penis enlargement pills/erection medication> and has had <a boner/a hard-on/a woody/a stiffy/an erection/wood> all week.,<pet> ate some <rb1> and had <rb2> all week.,5,male,,,18,,
+,Primate,You just put on <musician> and <pet> <started crying/broke the speakers/turned it off/tried to escape the house/started grunting/started squeaking/started hooting/started howling/peed on the speakers/started throwing poop>.,<pet> <rb1> when I played <musician>.,5,,,,12,,x
+,Rabbit,<pet> ate some <Viagra/Cialis/Levitra/penis enlargement pills/erection medication> and has had <a boner/a hard-on/a woody/a stiffy/an erection/wood> all week.,<pet> ate some <rb1> and had <rb2> all week.,5,male,,,18,,
+Child,Rabbit,<child> just tried to pick up <pet> and got bit.,<pet> bit <child>.,1,,,,18,,x
+,Rabbit,<pet> got out of the house and it has taken <num10-59> minutes to get <him/her> back into the house.,It took me <num10-59> minutes to get <pet> back in the house.,4,,,,12,,x
+,Rabbit,<pet> just came into the house and tracked <mud/dirt> everywhere.,<pet> tracked <rb1> into the house.,3,,,,18,,x
+,Rabbit,<pet> just kicked you when you tried to pick <him/her> up.,<pet> kicked me when I tried to pick <him/her> up.,2,,,,12,,x
+,Rabbit,"While playing with <pet>, <he/she> <bit/clawed/scratched> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> <rb1> my <rb2>.,3,,,,18,,x
+,Rabbit,"While you are trying to feed <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,1,,,,6,,x
+,Rabbit,You just came home to discover that <pet> <pooped/crapped/took a dump/left a steamy pile/left a turd/defecated> on <the carpet/a rug> instead of <his/her> tray.,<pet> <rb1> on <rb2>.,5,,,,18,,
+,Rabbit,You just discovered that <pet> has chewed through <his/her> cage.,<pet> chewed through <his/her> cage.,4,,,,12,,x
+,Rabbit,You just found <pet> chewing on your <couch/sofa/chair/bed/rug/carpet/drapes/curtains>.,<pet> chewed on my <rb1>.,3,,,,18,,x
+,Rabbit,You just caught <pet> trying to dig a hole in your carpet.,<pet> tried to dig a hole in my carpet.,2,,,,18,,x
+,Rabbit,You just caught <pet> digging a huge hole in the yard.,<pet> dug a hole in the yard.,3,,,,18,,x
+,Rodent,<pet> ate some <Viagra/Cialis/Levitra/penis enlargement pills/erection medication> and has had <a boner/a hard-on/a woody/a stiffy/an erection/wood> all week.,<pet> ate some <rb1> and had <rb2> all week.,5,male,,,18,,
+Child,Rodent,<child> just tried to pick up <pet> and got bit.,<pet> bit <child>.,1,,,,18,,x
+,Rodent,<pet> got out of <his/her> cage and it has taken <num2-59> minutes to find <him/her>.,<pet> got out of <his/her> cage for <num2-59> minutes.,3,,,,12,,x
+,Rodent,<pet> got out of the house and it has taken <num10-59> minutes to get <him/her> back into the house.,It took me <num10-59> minutes to get <pet> back in the house.,2,,,,12,,x
+,Rodent,It's <num1-5>am and you just woke up to <pet> playing loudly in <his/her> cage.,<pet> woke me up in the middle of the night.,2,,,,12,,x
+,Rodent,"While allowing <pet> to play outside of <his/her> cage, <he/she> hid from you <in a drawer/in the cabinets/behind the cabinets/in the walls/in a bookcase/in the dishwasher/behind the washing machine/behind the dryer/in the fireplace/behind the toilet/in a dresser/in the couch/in a bed/in a laundry basket/in a shoe/under the couch/under a bed/in a closet/in a plant>.",<pet> hid <rb1> from me.,3,,,,14,,x
+,Rodent,"While playing with <pet>, <he/she> <bit/clawed/scratched> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> <rb1> my <rb2>.,3,,,,18,,x
+,Rodent,"While you are trying to feed <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,1,,,,6,,x
+,Rodent,You just caught <pet> climbing on the furniture.,<pet> climbed on the furniture.,3,,,,18,,x
+,Rodent,You just discovered that <pet> has chewed through <his/her> cage.,<pet> chewed through <his/her> cage.,4,,,,12,,x
+,Rodent,You just found <pet> chewing on your <couch/sofa/chair/bed/rug/carpet/drapes/curtains/phone/tablet/laptop/towel/shoes/shirt/jeans>.,<pet> chewed on my <rb1>.,3,,,,18,,x
+,Rodent,You just found <pet> with some <coins/AirPods/pills/vitamins/paperclips/screws/string/earrings/rings/jewelry> in <his/her> cheeks.,<pet> hid some <rb1> in <his/her> cheeks.,5,,,,12,,x
+,Snake,<pet> is striking at your <penis/dong/donger/wiener/schlong/member/phallus/pecker/peter/johnson/shaft/willy> because <he/she> has mistaken it for a very small baby snake.,<pet> mistook my <rb1> for a very small baby snake and tried to eat it.,5,,,male,18,,
+Child,Snake,<child> just tried to pick up <pet> and got bit.,<pet> bit <child>.,1,,,,18,,x
+Child,Snake,You observe <pet> stalking <child>.,<pet> stalked <child>.,4,,,,18,,x
+,Snake,<pet> got out of <his/her> enclosure and it has taken <num10-59> minutes to find <him/her>.,It took me <num10-59> minutes to find <pet> after <he/she> escaped from <his/her> enclosure.,3,,,,12,,x
+,Snake,<pet> got out of the house and it has taken <num10-59> minutes to get <him/her> back into the house.,It took me <num10-59> minutes to get <pet> back in the house.,4,,,,12,,x
+,Snake,<pet> just bit a <friend/family member/neighbor> while being handled.,<pet> bit a <rb1> while being handled.,2,,,,12,,x
+,Snake,"While allowing <pet> to play outside of <his/her> enclosure, <he/she> hid <in a drawer/in the cabinets/behind the cabinets/in the walls/in a bookcase/in the dishwasher/in the washing machine/in the dryer/in the fireplace/behind the toilet/in a dresser/in the bathtub/in the couch/in the bed/in the laundry basket>.",<pet> hid <rb1>.,3,,,,14,,x
+,Snake,"While lying on the ground, <pet> lies next to you as if <he/she> is sizing you up for a meal.",<pet> lied next to me to size me up for a meal.,4,,,,12,,x
+,Snake,"While playing with <pet>, <he/she> bit your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> bit my <rb1>.,3,,,,18,,x
+,Snake,"While you are trying to feed <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,1,,,,6,,x
+,Unicorn,You just discovered <pet> threw up rainbow colored vomit all over your house.,<pet> threw up rainbow colored vomit all over my house.,5,,,,14,,x
+,Unicorn,You just discovered <pet> defecated rainbow colored diarrhea all over your house.,<pet> defecated rainbow colored diarrhea all over my house.,5,,,,14,,x
+,Unicorn,"While you are trying to feed <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,1,,,,12,,x
+,Unicorn,"While playing with <pet>, <he/she> <bit/kicked> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> <rb1> my <rb2>.,3,,,,18,,x
+,Unicorn,It's <num1-5>am and you just woke up to <pet> <snorting/neighing/squealing/nickering/roaring/grunting/groaning/playing/trotting/flying>.,<pet> woke me up in the middle of the night <rb1>.,3,,,,12,,x
+Child,Unicorn,<pet> just hurt <child> while playing too rough.,<pet> hurt <child> while playing too rough.,2,,,,18,,x
+,Unicorn,<pet> just got startled and <bit/kicked/gored> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.,<pet> got startled and <rb1> my <rb2>.,4,,,,18,,
+,Unicorn,<pet> just bucked you off while riding <him/her>.,<pet> bucked me off while riding <him/her>.,3,,,,14,,x
+Male Lover,Unicorn,<pet> just bit <lover> after hearing him call you <insult>.,<pet> bit <lover> after hearing him call me <insult>.,4,,,,14,,x
+Female Lover,Unicorn,<pet> just bit <lover> after hearing her call you <insult>.,<pet> bit <lover> after hearing her call me <insult>.,4,,,,14,,x
+,Unicorn,<pet> is not letting you <saddle/mount/get on/ride/shoe/bridle/brush> <him/her>.,<pet> wouldn't let me <rb1> <him/her>.,2,,,,14,,x
+,Unicorn,<pet> got out and it has taken <num10-59> minutes to get <him/her> back into the cage.,It took me <num10-59> minutes to get <pet> back in the cage.,3,,,,16,,x
+,Unicorn,<pet> ate some <Viagra/Cialis/Levitra/penis enlargement pills/erection medication> and has had <a boner/a hard-on/a woody/a stiffy/an erection/wood> all week.,<pet> ate some <rb1> and had <rb2> all week.,5,male,,,18,,
+,Llama,"While you are trying to feed <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,2,,,,12,,x
+,Llama,"While playing with <pet>, <he/she> <bit/kicked> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> <rb1> my <rb2>.,3,,,,18,,x
+Child,Llama,<pet> just hurt <child> while playing too rough.,<pet> hurt <child> while playing too rough.,2,,,,18,,x
+,Llama,<pet> just got startled and <bit/kicked> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.,<pet> got startled and <rb1> my <rb2>.,4,,,,18,,
+Male Lover,Llama,<pet> just bit <lover> after hearing him call you <insult>.,<pet> bit <lover> after hearing him call me <insult>.,4,,,,14,,x
+Female Lover,Llama,<pet> just bit <lover> after hearing her call you <insult>.,<pet> bit <lover> after hearing her call me <insult>.,4,,,,14,,x
+Child,Llama,<pet> just bit <child> while being fed.,<pet> bit <child> while being fed.,4,,,,18,,x
+,Llama,<pet> got out and it has taken <num10-59> minutes to get <him/her> back into the stable.,It took me <num10-59> minutes to get <pet> back in the stable.,3,,,,16,,x
+,Llama,<pet> ate some <Viagra/Cialis/Levitra/penis enlargement pills/erection medication> and has had <a boner/a hard-on/a woody/a stiffy/an erection/wood> all week.,<pet> ate some <rb1> and had <rb2> all week.,5,male,,,18,,
+,Llama,<pet> just spit on your face.,<pet> spit on my face.,2,,,,12,,x
+Child,Llama,<pet> just spit on <child-possessive> face.,<pet> spit on <child-possessive> face.,2,,,,18,,x
+Lover,Llama,<pet> just spit on <lover-possessive> face.,<pet> spit on <lover-possessive> face.,2,,,,14,,x
+,Llama,It's <num1-5>am and you just woke up to <pet> <humming/screaming/clucking/snorting/grumbling/orgling/playing>.,<pet> woke me up in the middle of the night <rb1>.,3,,,,12,,x
+,Llama,<pet> just licked your face.,<pet> licked my face.,2,,,,12,,x
+Child,Llama,<pet> just licked <child-possessive> face.,<pet> licked <child-possessive> face.,2,,,,18,,x
+Lover,Llama,<pet> just licked <lover-possessive> face.,<pet> licked <lover-possessive> face.,2,,,,14,,x
+,Llama,<pet> is being stubborn and will not move.,<pet> refused to move.,2,,,,14,,x
+Child,Turtle,<child> just tried to pick up <pet> and got bit.,<pet> bit <child>.,1,,,,12,,x
+,Turtle,<pet> got out of the house and it has taken <num10-59> minutes to find <him/her>.,It took me <num10-59> minutes to find <pet>.,3,,,,12,,x
+,Turtle,<pet> got out of <his/her> enclosure and it has taken <num2-59> minutes to find <him/her>.,<pet> got out of <his/her> enclosure for <num2-59> minutes.,4,,,,12,,x
+,Turtle,"While playing with <pet>, <he/she> bit your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.",<pet> bit my <rb1>.,3,,,,18,,
+,Turtle,"While you are trying to feed <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,1,,,,12,,x
+,Turtle,You just caught <pet> trying to dig a hole in your carpet while playing outside of <his/her> enclosure.,<pet> tried to dig a hole in my carpet.,1,,,,18,,x
+,Turtle,You just caught <pet> digging a huge hole in the yard.,<pet> dug a hole in the yard.,1,,,,18,,x
+,Turtle,It's <num1-5>am and you just woke up to <pet> <playing/hissing/grunting/hooting/clucking>.,<pet> woke me up in the middle of the night.,2,,,,12,,x
+,Turtle,<pet> just bit your <penis/dong/donger/wiener/schlong/member/phallus/pecker/peter/johnson/shaft/willy> after mistaking it for a worm.,<pet> bit my <rb1>.,5,,,male,18,,
+,Turtle,You just discovered that <pet> <pooped/crapped/took a dump/left a steamy pile/left a turd/defecated> on <the carpet/a rug/the floor> while playing outside of <his/her> enclosure.,<pet> <rb1> on <rb2>.,3,,,,14,,
+,Turtle,<pet> just peed on the carpet while playing outside of <his/her> enclosure.,<pet> peed on the carpet.,3,,,,14,,x
+,Komodo Dragon,<pet> just walked into your <kitchen/living room/den/bedroom/bathroom> and dropped a dead <opossum/crow/raven/turkey> on the floor in front of you.,<pet> brought a dead <rb2> into the house.,3,,,,18,,
+,Komodo Dragon,<pet> just stuck <his/her> tongue up your <left/right> nostril as you were <taking a nap/sleeping/soaking in the tub>.,<pet> stuck <his/her> tongue up my nose.,4,,,,18,,
+,Komodo Dragon,"While feeding <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,5,,,,18,,
+,Komodo Dragon,"While playing with <pet>, <he/she> suddenly bites your <nose/nipple/mouth/hand/finger/foot/butt cheek/cheek/ear/face/mouth/upper lip/bottom lip/leg/thigh/throat>.",<pet> bit my <rb> while playing with <him/her>.,5,,,,18,,
+,Komodo Dragon,<pet> got out of <his/her> cage and it has taken <num2-59> minutes to find <him/her>.,<pet> got out of <his/her> cage for <num2-59> minutes.,3,,,,18,,
+,Komodo Dragon,You just discovered <pet> got <his/her> bacteria-infested drool all over your <Xbox controller/PlayStation 5 controller/Nintendo Switch/favorite jacket/favorite pants/favorite pair of shoes>. ,<pet> tainted my <rb> with <his/her> drool.,2,,,,18,,
+Child,Komodo Dragon,<child> tried to pick up <pet> and got bit.,<pet> bit <child>.,3,,,,18,,
+Lover,Komodo Dragon,<lover> tried to pick <pet> up and got bit.,<pet> bit <lover>.,3,,,,18,,
+,Komodo Dragon,You just caught <pet> sleeping on clean laundry.,<pet> slept on some clean laundry.,1,,,,18,,
+,Komodo Dragon,<pet> is trying to <bite/claw at/snap at> you while you're trying to open its cage.,<pet> tried to <rb> me when I tried to open <his/her> cage.,5,,,,18,,
+,Skunk,<pet> just walked up and sprayed you while you were <sleeping/taking a nap/snoozing on the couch/playing BitLife/shampooing the carpet>.,<pet> sprayed me while I was <rb>.,3,,,,18,,
+Child,Skunk,<child> tried to pet <pet> and got <bit/sprayed>.,<pet> <rb> <child>.,4,,,,18,,
+,Skunk,<pet> sprayed your <body-part> just as you stepped out of the shower.,<pet> sprayed me after a shower.,3,,,,18,,
+Lover,Skunk,<lover> tried to pet <pet> and got <bit/sprayed>.,<pet> <rb> <lover>.,4,,,,18,,
+,Skunk,You just discovered <pet> rolling around in a basket of <clean laundry/freshly-laundered towels/freshly-cleaned laundry>.,<pet> tainted my <rb> with <his/her> scent.,2,,,,18,,
+,Skunk,"While playing with <pet>, <he/she> bit your <nose/nipple/mouth/hand/finger/foot/butt cheek/cheek/ear/face/mouth/upper lip/bottom lip/leg/thigh/throat>.",<pet> bit my <rb> while playing with <him/her>.,3,,,,18,,
+,Skunk,"While playing with <pet>, <he/she> became startled and accidentally sprayed you.",<pet> accidentally sprayed me during playtime.,1,,,,18,,
+,Skunk,<pet> just licked you in the face.,<pet> licked me in the face.,1,,,,18,,
+,Skunk,<pet> just sprayed you as you're about to walk out the door to meet <friend> for <brunch/breakfast/coffee/lunch/dinner/a movie>.,<pet> sprayed me in protest of my leaving <him/her> at home.,2,,,,18,,
+,Skunk,You just found <pet> chewing on your <sofa/carpet/chair/bed/rug/drapes/phone/tablet/laptop case/towel/Switch controller/PS5 controller/computer mouse/computer cables>.,<pet> chewed on my <rb>.,3,,,,18,,
+,Sloth,<pet> is taking too long to get into <his/her> cage.,<pet> took too long to get into <his/her> cage.,1,,,,18,,
+,Sloth,<pet> won't come when you call <him/her>.,<pet> refused to come when called.,2,,,,18,,
+,Sloth,You just caught <pet> slowly climbing up the back of the <couch/armchair/computer desk>.,<pet> climbed up the back of the <rb>.,3,,,,18,,
+,Sloth,<pet> just defecated on the <living room/bedroom> floor while hanging from the ceiling fan.,<pet> defecated on the floor while hanging from a ceiling fan.,5,,,,18,,
+,Sloth,"While playing with <pet>, <he/she> clawed your <nose/nipple/mouth/hand/finger/foot/butt cheek/big toe/mouth/upper lip/bottom lip/leg/thigh/throat/ear lobe>.",<pet> clawed my <rb> during playtime.,4,,,,18,,
+,Sloth,You notice <pet> eating <his/her> dinner too quickly.,<pet> ate <his/her> dinner too quickly.,4,,,,18,,
+,Sloth,You just found <pet> climbing the <lamp/grandfather clock> in the front room.,<pet> climbed on the <rb> in the front room.,5,,,,18,,
+,Sloth,<pet> escaped from <his/her> cage and hid in your <sock drawer/underwear drawer/washing machine/clothes dryer/dishwasher/couch/kitchen cabinet/refrigerator/bathtub>.,<pet> escaped from <his/her> cage and hid from me.,2,,,,18,,
+,Sloth,You discovered <pet> sleeping on your <pillow/bed/couch/desk chair/laptop>.,<pet> slept on my <rb>.,2,,,,18,,
+,Sloth,<pet> ate some <espresso grinds/coffee grinds> and zoomed around for <num2-59> minutes before crashing on the <kitchen/living room/dining room> floor.,<pet> ate some <rb> and got the zoomies.,5,,,,18,,
+,Zebra,<pet> just bucked you off of <his/her> back while you were riding <him/her>.,<pet> bucked me off of <him/her>.,5,,,,18,,
+,Zebra,<pet> just kicked you in the <stomach/groin/chest/nipple/arm/shoulder/leg/thigh> as you attempted to <saddle/mount/ride/get on/brush/bridle> <him/her>.,<pet> kicked me in the <rb>.,5,,,,18,,
+,Zebra,"While you are trying to feed <pet>, <he/she> suddenly bites your hand.",<pet> bit me while feeding <him/her>.,3,,,,18,,
+Child,Zebra,<child> tried to <pet/brush/groom> <pet> and got <kicked/bit>.,<pet> <rb2> <child>.,4,,,,18,,
+Lover,Zebra,<lover> tried to <pet/brush/groom> <pet> and got <kicked/bit>.,<pet> <rb2> <lover>.,4,,,,18,,
+,Zebra,<pet> is refusing to get into <his/her> stable.,<pet> refused to be stabled.,3,,,,18,,
+,Zebra,<pet> got out and it has taken <num10-59> minutes to get <him/her> back into the stable.,It took me <num10-59> minutes to get <pet> back in the stable.,4,,,,18,,
+,Zebra,You feel <pet> snacking on your hair as you are grooming <him/her>.,<pet> snacked on my hair during a grooming session.,2,,,,18,,
+,Zebra,<pet> just got startled and <bit/kicked> your <breast/nipple/arm/hand/finger/foot/butt cheek/cheek/ear/face/nose/mouth/tongue/genitals/neck/stomach/leg/thigh/throat>.,<pet> kicked me in the <rb>.,1,,,,18,,
+,Zebra,<pet> just charged at you from the other side of the enclosure!,<pet> charged at me.,5,,,,18,,
+,Pangolin,<pet> just licked you in the <nostril/face>.,<pet> licked me in the <rb>.,2,,,,18,,
+,Pangolin,<pet> escaped from <his/her> cage and hid <inside the laundry basket/between the couch cushions/behind the refrigerator/under the couch/under the bed/behind the computer desk/beneath a pile of clean laundry>.,<pet> hid from me <rb>.,1,,,,18,,
+,Pangolin,<pet> just slapped your <face/chest/breast/groin/leg/thigh/shin/butt cheek/ear/throat> with <his/her> tail.,<pet> slapped me in the <rb> with <his/her> tail.,4,,,,18,,
+,Pangolin,<pet> just rammed your ankle at full-speed.,<pet> rolled into me.,5,,,,18,,
+,Pangolin,"While trying to feed <pet>, <he/she> suddenly claws your hand.",<pet> clawed my hand while feeding <him/her>.,5,,,,18,,
+,Pangolin,"While playing with <pet>, <he/she> suddenly sticks <his/her> tongue inside your <ear/nostril>.",<pet> stuck <his/her> tongue inside my <rb> during playtime.,3,,,,18,,
+,Pangolin,"As soon as you stepped out of the shower, <pet> started scraping <his/her> scales across your bare skin.",<pet> scraped <his/her> sharp scales across my bare skin.,4,,,,18,,
+,Pangolin,You just found <pet> chewing on your <couch/sofa/chair/bed/rug/carpet/drapes/curtains/phone/tablet/laptop/towel/shoes/shirt/jeans>.,<pet> chewed on my <rb>.,3,,,,18,,
+,Pangolin,"<pet> just rolled into a ball around your favorite <silk scarf/pair of undies/t-shirt/satin pillowcase>, shredding it to bits.",<pet> shredded my favorite <rb> to bits.,4,,,,18,,
+Lover,Pangolin,"Just as things are heating up between the sheets with <lover>, <pet> suddenly slips into the bed between the two of you and refuses to move.",<pet> blocked me from getting some action with <lover>.,3,,,,18,,
+Lover,Platypus,"Just as you slip into the bathtub with <lover>, <pet> dives in between you, completely disrupting your plans of intimacy.",<pet> blocked me from getting some action with <lover>.,3,,,,18,,
+,Platypus,You just got a knock on the door from an angry neighbor saying <pet> is swimming in her birdbath.,<pet> went for a swim in my neighbor's birdbath.,2,,,,18,,
+,Platypus,You just caught <pet> burrowing into <the bed mattress/the sofa cushion/the overstuffed chair/the carpet> using <his/her> sharp claws.,<pet> burrowed into <rb> with <his/her> sharp claws.,4,,,,18,,
+,Platypus,"You just caught <pet> burrowing into <the flower bed/the garden/the front lawn>, shredding all vegetation along the way. ","<pet> burrowed into <rb>, shredding all vegetation along the way.",3,,,,18,,
+,Platypus,"<pet> just woke you up making noise at 2am, and it's the <third/fourth/fifth> time it's happened this week.",<pet> woke me up at 2am for the <rb> time in a row.,2,,,,18,,
+Child,Platypus,<pet> nearly scared <child> to death by sneaking into <his/her> bedroom at 2am and making weird noises.,<pet> nearly scared <child> to death by sneaking in <his/her> room at 2am.,3,,,,18,,
+,Platypus,You just got an angry phone call from your neighbors saying <pet> snuck into their house and ate <a/two/three/five/seven> goldfish out of their aquarium.,<pet> snuck into the neighbor's house and ate <rb> goldfish out of their aquarium.,4,,,,18,,
+Child,Platypus,You got up early to take <child> fishing for the first time but quickly discover <pet> has eaten all your bait worms.,<pet> ate all my fishing bait worms.,2,,,,18,,
+,Platypus,"You just tried cuddling with <pet>, but <he/she> wasn't in the mood to be cuddled and poked you with <his/her> stinger spur.",<pet> poked me with <his/her> stinger spur.,4,,,,18,,
+Lover,Platypus,"You've prepared a romantic dinner for <lover> when suddenly <pet> jumps on the table and <drinks your wine/eats your food/knocks over the candle, nearly starting a fire/spills wine in your lap/poops>.",<pet> disrupted a romantic dinner I prepared for <lover>.,3,,,,18,,

@@ -1,0 +1,23 @@
+Location,String,Commonness Score,Risk Score
+Ditch,in a ditch,5,3
+Woods,in the woods,5,1
+Landfill,in a landfill,3,2
+Old Shed,in an old shed,4,1
+Abandoned Building,in an abandoned building,3,2
+Unmarked Grave,in an unmarked grave,1,1
+Lake,by the lake,4,1
+Alley,in an alleyway,3,5
+Construction Site,in a construction site,4,5
+Dumpster,in a dumpster,5,5
+River,in the river,2,3
+Slaughterhouse,in a slaughterhouse,1,4
+Frat House,behind a frat house,2,3
+Sorority House,behind a sorority house,2,3
+Car Dealer,inside a <car-type> on the dealership floor,2,2
+Bike Path,along a bike path in the woods,4,3
+Tree,under an old oak tree,3,2
+Fountain,in a fountain at a local park,3,5
+Hiking Trail,along a hiking trail,3,2
+Manhole,down a manhole,2,4
+Junkyard,in a junkyard,3,1
+Pond,in a pond,3,3

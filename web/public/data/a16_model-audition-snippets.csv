@@ -1,0 +1,61 @@
+Snippet,Hero Gender,Min Attitude,Max Attitude,Min Poise,Max Poise,Min Quirkiness,Max Quirkiness,Difficulty Score
+be as graceful as a <swan/gazelle>,,,40,60,100,,10,1
+be whimsical and fun,,,40,,40,60,100,1
+<turn up/bring> the <heat/intensity/attitude>,,80,100,,50,,40,1
+be <super intense/fierce/aggressive>,,70,100,,50,,40,1
+feel free to be weird,,,50,,50,30,100,1
+be as unique as possible,,,100,,100,,100,1
+channel a <TikTok/YouTube/Twitter> influencer who's modeling for the first time,,,30,,30,,100,1
+let loose,,,100,,100,,100,1
+compel everyone in the room to want to know more about you,,,50,70,100,,50,1
+make everyone in the room laugh out loud,,,50,,50,70,100,1
+be a rebel,,50,100,,50,,50,1
+"give them ""Bond Girl"" realness",female,50,100,50,100,,50,1
+<channel/evoke/embody/emulate/exude> the essence of a <touch-starved/coy/boundary-defying/weird/lively/creepily unhinged/cerebral/completely innocent/delightfully eccentric/kooky/lovestruck/starstruck/composed/raging/poised/grief-stricken/shy/thoughtful/spunky/gross/confident/grossed-out/depressed/stressed-out> <random-person>,,,100,,100,,100,1
+be the best you that you can be,,,100,,100,,100,2
+channel Scar from 'The Lion King',,70,100,60,100,,10,2
+channel a sassy <cat/raven/parrot/fox>,,50,100,50,100,,10,2
+give them dominatrix energy,female,50,100,,40,,10,2
+channel the essence of a <seasoned assassin/midnight vigilante/cat burglar/panther/wandering ronin>,,,50,50,100,,10,2
+show everyone you're <in charge/the HBIC/the person in charge/capable of taking charge/assertive>,,70,100,,100,,100,2
+"give them <Snow White/Little Red Riding Hood/Cinderella/The Little Mermaid>, but like <she's at a frat party/she's at a kegger/she's 'gone wild'/she's at a Super Sweet 16/if she was feral/if she went nuts>",female,,10,,50,50,100,3
+give them big <Regina George/Heather Chandler/Blair Waldorf/Sharpay Evans/queen bee> energy,female,70,100,20,50,0,10,3
+channel <Miranda Priestly/Catwoman/Scarlett O'Hara/Olivia Pope/Annalise Keating/Morticia Addams>,female,50,100,50,100,,100,3
+channel a sexy <vampire/crypt-keeper/zombie/mummy>,,50,100,0,10,70,100,4
+channel <kooky/unpredictable/unhinged/super extra/over-the-top/dramatic> <cartoon villain/Disney villain/mad scientist> meets <savvy/suave/charismatic/elegant/worldly/grounded> <socialite/playboy>,female,,40,50,100,70,100,4
+channel <Linda Evangelista/Grace Jones/Cindy Crawford/Gisele Bundchen/Naomi Campbell/Christy Turlington/Adriana Lima/Kate Moss/Tyra Banks> meets <Luna Lovegood/Phoebe Buffay/Helena Bonham Carter/Bjork/Marge Simpson/Kathy Bates>,female,50,100,0,20,50,100,5
+channel <Denzel Washington/Tom Ford/Tyson Beckford/Giorgio Armani/Cristiano Ronaldo> meets <Zoolander/Tim Burton/Sacha Baron Cohen/Gomez Addams/Jeff Goldblum/Owen Wilson/Carson Kressley>,male,50,100,0,10,50,100,5
+channel big <gym bro/macho man/alpha male/gym rat/alpha jock/tight end> energy,male,50,100,0,5,70,100,5
+channel <Miss Piggy/Daisy Duck/Squidward Tentacles> set to <100/1000>,,80,100,,100,,100,5
+"channel a baby <giraffe/gazelle/deer> trying to walk for the first time, but make it <graceful/chic/classy/elegant>",,,100,30,70,50,100,4
+"give them ""model in the streets, freak in the sheets"" energy",,30,70,,20,30,80,5
+give them <modest/humble> high school <cheerleader/prom queen/homecoming queen> energy,female,20,70,,100,,100,3
+evoke a strong sense of leadership,,,50,50,100,,100,2
+be <cool/confident/charismatic/suave/sophisticated>,,,50,50,100,,100,1
+channel the energy of <Daffy Duck/Jim Carrey/Amy Schumer/Conan O'Brien> driving a getaway car,,,25,,50,65,100,3
+be a man of mystery,male,60,100,70,100,,35,3
+appear to be sarcastically offended,,,65,,40,65,100,4
+channel the cat that ate the canary,,75,100,30,80,,50,3
+channel a British Royal being coronated,,,35,75,100,,15,5
+assume the posture of a <world leader/corporate CEO/presidential candidate/self-made billionaire/military general>,,65,100,25,75,,40,4
+display an affect of <anger/resentment/greed/rage/extreme jealousy/bitterness>,,65,100,,15,,35,5
+strike a <funny/silly/kooky> <disco/80s/polka/mosh-pit/ballroom/ballet/hip hop> dance move,,50,100,,25,75,100,2
+be the bearer of <bad/tragic/horrible> news,,,35,75,100,,10,4
+<break down in tears/cry like a baby/begin sobbing> over a glass of <spilled/spilt> milk,,,45,,30,70,100,2
+channel the energy of a <ripped/shredded> bodybuilder,male,75,100,,65,,35,2
+assume the demeanor of a 1950's librarian,female,20,60,65,100,,30,3
+assume the demeanor of a maitre d' at a fine-dining restaurant,male,20,60,70,100,,20,2
+be a bratty teenager,,75,100,,25,,45,2
+give off serious nepo baby vibes,,75,100,35,85,,50,4
+be the life of the party,,,50,,30,50,100,3
+give them as much attitude as possible,,,100,,50,,50,1
+be as quirky as possible,,,50,,50,50,100,1
+be as elegant and poised as possible,,,50,50,100,,50,1
+serve a lot of attitude and nothing else,,50,100,,10,,10,1
+quirk it up,,,50,,50,50,100,1
+give them as much attitude as possible and nothing else,,50,100,,10,,10,1
+give them nothing but elegance and grace,,,50,,100,,50,1
+give a whole lot of attitude and a little bit of quirkiness,,50,100,,50,,30,1
+"be quirky, but be graceful about it, and don't show attitude",,,30,40,100,40,100,1
+show them you're not afraid to be quirky and weird,,,50,,50,50,100,1
+show them you can balance a book on your head and look fierce while doing it,,50,100,50,100,,50,1

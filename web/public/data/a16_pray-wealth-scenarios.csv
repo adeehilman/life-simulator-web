@@ -1,0 +1,21 @@
+Scenario,Log Version,Positive,Negative,Commonness Score
+You opened your mailbox and discovered a check from the BitLife devs for <value>.,I found a check from the BitLife devs for <value> inside my mailbox.,x,,2
+You found <value> underneath a <blueberry/blackberry/mulberry/gooseberry> bush.,I found <value> underneath a <rb> bush.,x,,4
+A BitLife dev in a limousine just pulled up and handed you an oversized check for <value>.,I received <value> from a BitLife dev in a limousine.,x,,2
+A <Shiba Inu/dalmatian/Siberian husky/German shepherd/corgi> wearing a DogLife <sweater/collar/jersey> just laid <value> at your feet and bowed.,I received <value> from a <rb> wearing a DogLife <rb2>.,x,,5
+"<circumstance-public>, the clouds above you parted and dropped <value> into your hands.",I received <value> from above after praying to the BitLife devs.,x,,4
+"<circumstance-public>, you found a <velvet bag/paper bag/plastic bag/sack> containing <value>.","<circumstance-public>, I found <value> in a <rb>.",x,,5
+"<circumstance-public>, a <man/woman> wearing a 'BitLife' <hoodie/sweater/jacket/baseball cap> hands you <value> and whispers, ""<We love our Bitizens/From the BitLife devs, with love>"".","<circumstance-public>, I received <value> from a <rb> wearing a BitLife <rb2>.",x,,5
+"A hot air balloon carrying <two/three/four> BitLife devs just landed in front of you! They handed you <value>, then flew away.",I received <value> from the BitLife devs.,x,,1
+"Just as you finished praying, a money tree sprouted at your feet and dropped <value> in your lap before withering as quickly as it grew.",I received <value> from a money tree.,x,,1
+"Just as you stopped praying, a helicopter bearing the BitLife logo appeared overhead and dropped a package containing <value>.",I received <value> from the BitLife devs.,x,,3
+"Just as you finished praying, the BitLife mascot appeared and handed you <value>.",I received <value> from the BitLife mascot.,x,,1
+Your bank called to let you know that some funds from your account were appropriated by local authorities.,Authorities confiscated <value> from my bank account after I cursed the BitLife devs.,,x,5
+"While you were cursing the BitLife devs, a hacker accessed your bank account and stole some of your money!",I lost <value> to a hacker after cursing the BitLife devs.,,x,3
+"Your bank called to notify you that they withdrew some of your funds to pay their new ""<ugly/troll> tax"" fee.","My bank withdrew <value> from my account to pay their ""<rb> tax"".",,x,3
+"As you finished cursing the BitLife devs, an invisible hand came out of nowhere and swiped some funds from your bank account.",An invisible hand snatched <value> from my bank account.,,x,5
+A representative from your bank just called to thank you for a charitable donation you made in aid of hungry BitLife devs.,I unknowingly made a charitable donation of <value> to starving BitLife devs.,,x,1
+"After running errands, you discover your wallet is missing! You check your bank account and find someone has used your card to withdraw funds.",I lost my wallet and discovered someone stole <value> from my bank account.,,x,3
+"As you finish uttering your curse to the BitLife devs, the witch doctor appears, waves his totem around, and makes off with some funds from your bank account.",The witch doctor stole <value> from my bank account after I cursed the BitLife devs.,,x,3
+"As you finish cursing the BitLife devs, a <mob boss/mobster/mafioso/crime lord> smoking a cigar appears, whispers, ""That's gonna cost ya,"" and forces you to give him some money.",A <rb> stole <value> from me after I cursed the BitLife devs.,,x,3
+"As you finished cursing the BitLife devs, an invisible hand came out of nowhere and smacked you so hard you felt it in your bank account.",I cursed the BitLife devs and an invisible hand smacked me so hard that <value> fell out of my bank account.,,x,1

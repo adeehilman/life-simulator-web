@@ -1,0 +1,137 @@
+Feedback,Professional Score,Current,Future,Market Trend,Sector Trend
+"Based on market trends, the <market-singular> market appears to be in a bubble",5,x,,bubble,
+<market-singular> market values are exploding right now,5,x,,bubble,
+The kind of exponential growth the <market-singular> market is seeing right now indicates a bubble,5,x,,bubble,
+The <market-singular> market is dominating right now,5,x,,bubble,
+I'm preparing for <market-singular> values to skyrocket,4,,x,bubble,
+The <market-singular> market is really taking off,5,,x,bubble,
+The <market-singular> market is showing big returns with no end in sight,5,,x,bubble,
+"The <market-singular> is currently outperforming all expectations, but keep your eye on it",5,,x,bubble,
+"Significant short-term gain opportunities exist in the <market-singular> market, but be prepared to pull out if it starts to dip",5,,x,bubble,
+The <market-singular> market is struggling to make headway, ,x,,collapse,
+Focus on other opportunities while the <market-singular> market falters,4,,x,collapse,
+I'm getting rid of all of my <market-plural> because they're not performing as they should,1,x,,downward,
+The <market-singular> market is underperforming right now,4,x,,downward,
+Dividends are not what they used to be in the <market-singular> market,4,x,,downward,
+The economic growth of the <market-singular> market has stunted,4,x,,downward,
+Prices in the <market-singular> market are plummeting due to <recession/an economic downturn/record inflation>,4,x,,downward,
+I've got a bad feeling about <market-plural>,1,x,x,"downward, collapse",
+I've heard now's the time to pull out of <market-plural>,2,x,,"downward, collapse",
+My advisor is telling me to avoid <market-plural>,3,x,x,"downward, collapse",
+The thought of investing in <market-plural> right now gives me anxiety,3,x,x,"downward, collapse",
+I'm avoiding <market-plural> right now,3,x,,"downward, collapse",
+<market-plural> do not look appealing right now,3,x,,"downward, collapse",
+<market-plural> are weak right now,3,x,,"downward, collapse",
+The <market-singular> market is bearish,5,x,x,"downward, collapse",
+"Based on my math along with experts' projections, I'm getting rid of my <market-plural> as soon as possible",5,x,x,"downward, collapse",
+I'm selling all my <market-plural> right now,3,,x,"downward, collapse",
+I'm selling my <market-plural> while they're still worth something,3,,x,"downward, collapse",
+I'm selling my <market-plural> before they ruin me,4,,x,"downward, collapse",
+The <market-singular> market is heading into rough waters,2,,x,"downward, collapse",
+The captains of industry in the <market-singular> market are about to go down with their ships,2,,x,"downward, collapse",
+The <market-singular> market is spiraling down the drain,2,,x,"downward, collapse",
+Investors in the <market-singular> market are headed for a rude awakening,2,,x,"downward, collapse",
+I think <market-plural> look like safe investments,1,x,x,stable,
+<market-plural> look <normal/like a sure thing/dependable/secure/steady>,2,x,x,stable,
+I'm safely investing my cash in the <market-singular> market,3,x,,stable,
+The <market-singular> market looks like it's in a good place right now,3,x,,stable,
+"There's nothing volatile going on in the <market-singular> market right now, so I'd put my money there if I were you",3,x,,stable,
+The <market-singular> market is your safest bet for now,3,x,,stable,
+Current market trends indicate the <market-singular> market to be the most secure destination for investment funds,5,x,,stable,
+"Currently, the <market-singular> market is the ideal place to invest for stability",5,x,,stable,
+I can say with certainty that <market-plural> are among the safest investments right now,5,x,,stable,
+I'm noticing very little price fluctuation in the <market-singular> market at the moment,5,x,,stable,
+The <market-singular> market will stabilize soon,4,,x,stable,
+<market-plural> will be the most stable investment in the near future,4,,x,stable,
+I'm confident investing in <market-plural> is the safest thing I can do with my money,4,,x,stable,
+I expect the <market-singular> market to stabilize soon,4,,x,stable,
+All market trends indicate the <market-singular> market will stabilize in the near future,5,,x,stable,
+"Based on the <market-singular> market's history, I believe it will stabilize sooner rather than later",5,,x,stable,
+"Based on the trajectory of the <market-singular> market values, I believe they will stabilize as soon as next year",5,,x,stable,
+"If you want an investment that's virtually risk-free, you'll pour your money into the <market-singular> market",5,,x,stable,
+The <market-singular> market looks like it's bouncing back after a slow season,1,x,,upward,
+It looks like <market-plural> are the safest investment for the foreseeable future,5,x,x,upward,
+"I'm diversifying my portfolio by purchasing <market-plural>, which are performing well now",5,x,,upward,
+Current economic trends suggest <market-plural> are the safest investments,5,x,,upward,
+Low inflation is strengthening the <market-singular> market,5,x,,upward,
+The <market-singular> market is on the rise,3,x,,upward,
+I'm purchasing as many <market-plural> as I can,3,,x,upward,
+I'm optimistic about the future of the <market-singular> market,4,,x,upward,
+All current <market projections/economic trends/signs> indicate the future of the <market-singular> market is bright,4,,x,upward,
+<market-singular> values are going to be strong next year,4,,x,upward,
+My advisor is telling me to buy <market-plural>,3,x,x,"upward, bubble",
+The <market-singular> market is looking to be in great shape,2,,x,"upward, bubble",
+I'm dumping all of my cash in the <market-singular> market,2,,x,"upward, bubble",
+I'm putting as much money as I can in the <market-singular> market,2,,x,"upward, bubble",
+I feel like the <market-singular> market is going to boom soon,2,,x,"upward, bubble",
+I've got a good feeling about <market-plural>,1,x,x,"upward, stable, bubble",
+I've heard now's the time to invest in <market-plural>,2,x,,"upward, stable, bubble",
+<market-plural> are the most secure investment right now,4,x,,"upward, stable, bubble",
+I'm not wasting my money on investing in anything other than the <market-singular> market right now,3,x,,bubble,
+"The <sector> is showing incredible returns, but my instincts say it might be a bubble",5,x,,,bubble
+You should look to the booming <sector> for serious some short-term gains,5,x,,,bubble
+The <sector> has been outperforming all other sectors by a wide margin,5,x,,,bubble
+"The <sector> has been on fire, but I'm not sure how much longer that will last",5,x,,,bubble
+"The <sector> is currently performing beyond expectations, but keep your eye on it",5,,x,,bubble
+The <sector> appears to be in a <boom/euphoria> phase of a bubble,5,,x,,bubble
+High market prices with elevated trading volume indicate lucrative <sector> opportunities for the savvy investor,5,,x,,bubble
+Significant short-term gain opportunities exist in the <sector> but be prepared to pull out if it starts to dip,5,,x,,bubble
+Some very poor decisions made by key companies in the <sector> have made it <a barren wasteland/a real no-man's land/a financial minefield> for investors,4,x,,,collapse
+"With demand at an all-time low, investors in the <sector> are seeing abysmal returns",4,x,,,collapse
+The current economy is not favorable toward companies in the <sector>,4,x,,,downward
+Companies within the <sector> are at a disadvantage this year,4,x,,,downward
+I've got a bad feeling about the <sector>,1,x,x,,"downward, collapse"
+Word on the street is the <sector>'s having a hard time bouncing back,2,x,x,,"downward, collapse"
+I've heard now's the time to pull out of the <sector>,2,x,,,"downward, collapse"
+All of the <sector> stocks are in trouble,3,x,x,,"downward, collapse"
+Our economic health makes me nervous for the <sector>,5,x,x,,"downward, collapse"
+I'm not considering options in the <sector> right now,5,x,,,"downward, collapse"
+The <sector>'s overall rate of return is <bleak/not looking good/suboptimal>,4,x,,,"downward, collapse"
+"Whatever you do, avoid the <sector> at all costs as return rates are at an all-time low",4,x,,,"downward, collapse"
+The <sector>'s bad right now because of the economy,1,,,,"downward, collapse"
+I'm selling my <sector> shares before they <ruin/destroy/negatively impact> my portfolio,4,,x,,"downward, collapse"
+The <sector> ain't beating speculation,1,x,x,,"downward, stable"
+The <sector> looks steady,2,x,,,stable
+<sector> prices are looking stable right now,4,x,,,stable
+I think the <sector> is the <least risky/most secure/most stable> investment at the moment,4,x,,,stable
+The <sector> is one of the safest places in the market for your money,4,x,,,stable
+"Based on how the market is trending, I believe the <sector> offers some of the safest investment opportunities",5,x,,,stable
+Now is a good time to anchor your portfolio with investments in the <sector>,5,x,,,stable
+"Don't expect huge returns coming from the <sector> right now, but it will be stable",5,x,,,stable
+The <sector> looks like it'll be solid for a while,2,,x,,stable
+I'm not worried about the immediate future of the <sector>,2,,x,,stable
+The <sector> is going to be the least risky for a while,2,,x,,stable
+The <sector> will be be chill for a while,2,,x,,stable
+"There's an increasing global demand for services the <sector> provides, so the market should stabilize soon",4,,x,,stable
+I see very little deviation on the horizon for the <sector>,4,,x,,stable
+The <sector> will reliably yield positive returns in the foreseeable future,4,,x,,stable
+Companies in the <sector> are doing whatever they can to ensure the sector's stability in the near future,4,,x,,stable
+You can count on the <sector> for a more stabilizing element in your portfolio,5,,x,,stable
+All indicators suggest the <sector> will continue to be a steady performer ,5,,x,,stable
+"If you're looking to avoid a bumpy market ride, get into the <sector> right now ",5,,x,,stable
+The <sector> is currently on par with bond returns with limited upside potential,5,,x,,stable
+I'm optimistic about the <sector>,3,x,x,,"stable, upward"
+I think the <sector> looks good,1,x,,,upward
+My <sector> investments have made my portfolio a powerhouse,4,x,,,upward
+Economic trends are swinging in the <sector>'s favor,5,x,,,upward
+"I'm noticing the <sector> is experiencing rapid, exponential growth",5,x,,,upward
+"The <sector> looks promising now, but even more so in the future",5,,x,,upward
+"Institutional investors are increasingly bullish in the <sector>, which tells me it's a smart buy",5,,x,,upward
+Now would be a good time to invest strongly in the <sector> ,5,,x,,upward
+You should consider weighting no less than <num15-25>% of your portfolio in <sector> investments,5,,x,,upward
+My life coach says I should invest in the <sector>,1,x,x,,"upward, bubble"
+The <sector> is giving me life,1,x,,,"upward, bubble"
+I'm a big fan of what's happening in the <sector>,2,x,,,"upward, bubble"
+I'm focusing my investments on the <sector>,4,x,x,,"upward, bubble"
+My current investment strategy revolves around purchasing as much stock in the <sector> as I can,4,x,x,,"upward, bubble"
+Only a fool wouldn't invest in the <market-singular> market right now,3,x,,"upward, bubble",
+The <market-singular> market is hot right now,3,x,,"upward, bubble",
+The <market-singular> market is a literal gold mine right now,3,x,,"upward, bubble",
+Business is booming in the <sector>,3,x,,,"upward, bubble"
+I'm investing in the <sector> right now,3,,x,,"upward, bubble"
+The <sector> is about to pop,2,,x,,"upward, bubble"
+The <sector> will be a beast next year,2,,x,,"upward, bubble"
+"We're going to see the <sector> take off, mark my words",2,,x,,"upward, bubble"
+I'm excited for what's about to go down in the <sector>,2,,x,,"upward, bubble"
+I've got a good feeling about the <sector>,1,x,x,,"upward, stable, bubble"
+I've heard now's the time to invest in the <sector>,2,x,,,"upward, stable, bubble"

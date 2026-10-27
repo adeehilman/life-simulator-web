@@ -1,0 +1,18 @@
+Scenario Title,Item String,Short Name,Feedback Color String,Is Alcohol,Health Impact,Happiness Impact,Willpower Impact,Commonness Score
+Whiskey Flask,flask containing whiskey,whiskey,You stumbled through the next leg of your hike due to the effects of the alcohol.,x,-2,2,-1,3
+Water,plastic bottle filled with murky water,contaminated water,You spent <an hour/half an hour/a couple of hours> <succumbing to projectile vomiting/dealing with explosive diarrhea/doubled-over on the side of the trail> after drinking it.,,-2,-2,-1,5
+Water,bottle of pure water,water,It's the most refreshed you've felt in the past few <days/hours>.,,2,2,1,5
+Water,canteen containing spring water,spring water,There's a spring in your step encouraging you to trek a little longer than usual.,,2,2,2,4
+Trail Brew,half-full can of IPA,stale beer,Every bad decision you've ever made flashed before your eyes in a matter of seconds.,x,-3,-3,-2,3
+Juice Pouch,plastic pouch containing some old fruit punch,old juice,"It tasted like every childhood dream you forgot, which slowed down the pace of your hike.",,-1,1,,4
+Coffee,thermos full of hot coffee,hot coffee,"It put a little extra pep in your step, allowing you to hit the next trail marker faster than expected.",,3,3,2,5
+Champagne,unopened bottle of Champagne,Campagne,Your hike had a little extra <panache/sparkle/glamour> for a few hours.,x,2,4,2,1
+Soda,"faded, unopened can of soda",old soda,"You don't know what you expected it to taste like, but <penny water/expired cough syrup/rusted rainwater/dandruff and molasses/burnt licorice/dusty caramel/syrupy mop water/ashtray cola/ash water/runny syrup> wasn't it.",,-1,-2,-1,3
+Juice,bottle containing hot orange juice,hot orange juice,You immediately regretted brushing your teeth.,,1,-2,,4
+Hard Cider,bottle of hard cider,hard cider,The hard cider somehow made the rest of the day's trek easier.,x,-1,3,2,2
+Juice,bottle of orange juice,orange juice,You felt a surge of energy propel you forward for an hour.,,1,2,1,3
+Juice,bottle of prune juice,prune juice,"You had to stop to clean out your system a time or two, but it was worth it.",,2,-1,2,1
+Sparkling Water,bottle full of sparkling water,sparkling water,"The rest of your trek was, in a word, bubbly.",,3,3,3,4
+Iced Coffee,thermos full of watered-down iced coffee,iced coffee,You spent the next few minutes of your hike disappointed that there wasn't a <decent coffee shop/Starbucks/cafe> nearby.,,-1,-2,,4
+Iced Coffee,bottle of iced coffee,iced coffee,There was a little extra pep in your step for the next hour of your hike.,,1,2,,3
+THC-infused Beverage,can of THC-infused seltzer,THC seltzer,The remainder of your hike was filled with wonderment and awe as you gazed upon breathtaking panoramic views in harmony with the gentle sounds of nature.,x,2,3,,3

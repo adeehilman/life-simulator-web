@@ -1,0 +1,27 @@
+Scenario,Risk Score,Commonness Score
+You threatened to expel <communard>.,1,5
+You threatened to write <communard-possessive> name in the commune's Burn Book.,1,5
+You told <communard> <he/she> is treading on dangerous ground.,3,3
+You told <communard> <he/she>'s about to discover what happens to dissenters.,4,3
+You told <communard> that not being a model citizen could make life difficult for <him/her>.,5,2
+You told <communard> <he/she> is lucky you're not punishing <him/her>.,4,3
+You told <communard> <he/she> is going to learn a hard lesson if <he/she> stays on the dark path <he/she> is treading.,2,3
+You told <communard> <his/her> actions will eventually only bring <him/her> <pain/heartache/suffering/anguish/terror/dread/guilt/remorse>.,2,5
+"You swore to <communard> that if <he/she> kept it up, <he/she>'d be expelled from the commune in no time flat.",3,5
+You warned <communard> that <his/her> time with the commune is swiftly running out.,5,2
+You told <communard> that <he/she> needs to be more subservient to the will of the commune.,4,2
+You told <communard> <a cautionary tale/the story> of a <dog/cat/llama> that went astray and fell off of a cliff to its death.,1,5
+You told <communard> <a cautionary tale/the story> of a <puppy/kitten/child/baby llama/baby fox> who disobeyed <his/her> <mother/father> and <fell ill/died/became injured> as a result.,1,5
+You told <communard> <he/she>'ll fall in line if <he/she> knows what's good for <him/her>.,3,3
+You told <communard> <he/she> needs to be taught a lesson.,3,3
+You told <communard> <he/she> needs to act with what's best for the commune in mind.,1,4
+You told <communard> <he/she> is a fool to think <he/she> knows better than you.,4,3
+You told <communard> a <cautionary tale/story> about a little <boy/girl> who ventured down a dark path in the forest and was eaten by a <werewolf/rabid dog/wolf/bear/leopard/panther/Tyrannosaurus rex/bloodthirsty sloth>.,3,5
+You warned <communard> not to become a burden.,2,4
+You told <communard> you have ways of permanently dealing with dissenters.,5,1
+You told <communard> a story about a dandelion seed that got caught in a gust of wind and landed in <a bonfire/the crater of a volcano/a stream of lava/a pool of lava> and <burst into flames/incinerated>.,4,3
+You warned <communard> not to incur your wrath.,3,3
+You told <communard> <he/she> disappointed you.,1,5
+You told <communard> to invest <his/her> time in studying the ways of the commune before it's too late.,2,4
+You told <communard> not to incur the wrath of <totem>.,1,5
+"You told <communard> if <he/she> messes with the bull, <he/she>'ll get the horns",2,4

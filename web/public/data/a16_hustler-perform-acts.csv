@@ -1,0 +1,11 @@
+Act,Act Person,Difficulty Score,Money Score,Danger Score,Danger Body Parts,Danger Verbs
+breakdancing,breakdancer,4,3,1,"ankle, wrist","broke, twisted, fractured"
+magic,magician,4,5,,,
+sword swallowing,sword swallower,5,5,5,"lung, esophagus","punctured, pierced, sliced"
+mime,mime,3,4,2,"wrist, arm, leg, ankle, foot","broke, fractured"
+fire eating,fire eater,5,5,5,"lips, mouth, teeth, throat, cheek","burnt, scorched, singed"
+living statue,living statue,1,2,2,"back, neck",sprained
+juggling,juggler,2,2,1,"head, hand, foot, shoulder, arm, finger, wrist","hit, bruised"
+ventriloquist,ventriloquist,3,3,1,finger,"sprained, broke"
+puppeteer,puppeteer,2,3,1,finger,"sprained, broke"
+flatulist,flatulist,5,1,3,"anus, sphincter, rectum","ruptured, tore, blew out"

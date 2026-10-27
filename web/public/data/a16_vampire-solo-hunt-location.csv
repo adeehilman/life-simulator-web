@@ -1,0 +1,30 @@
+Location,String Version,Animal Appearance Likelihood,Human Appearance Likelihood,Vampire Appearance Likelihood,Commonness Score
+a local park,at a local park,1,2,3,5
+a night club,in a night club,3,1,2,5
+an abandoned factory,in an abandoned factory,3,2,1,4
+a sex dungeon,inside a sex dungeon,3,1,2,2
+a dark forest,in a dark forest,3,1,2,4
+a grocery store,at a grocery store,3,1,2,3
+a fast food restaurant,at a fast food restaurant,3,1,2,2
+a haunted lake,at a haunted lake,1,3,2,3
+a hiking trail,on a hiking trail,2,1,3,5
+a zoo,at a zoo,1,2,3,3
+a winery,at a winery,3,1,2,4
+an abandoned mine,in an abandoned mine,2,3,1,4
+a proctologist's office,at a proctologist's office,3,1,2,1
+a museum,inside a museum,3,1,2,3
+a strip club,inside a strip club,3,1,2,5
+a mountain resort,at a mountain resort,1,2,3,3
+a dairy farm,on a dairy farm,1,2,3,4
+a campsite,at a campsite,5,2,1,3
+a game studio,at a game studio,2,4,1,1
+a bathhouse,in a bathhouse,3,1,2,2
+a nude beach,on a nude beach,2,1,3,1
+an animal shelter,at an animal shelter,1,2,3,5
+an internet cafe,at an internet cafe,3,1,2,3
+a hematology conference,at a hematology conference,3,1,2,2
+a concert hall,inside a concert hall,3,1,2,5
+a baseball stadium,at a baseball stadium,3,1,2,3
+a shady alley,down a shady alley,2,3,1,5
+a fashion show,at a fashion show,3,1,2,2
+a burlesque show,at a burlesque show,3,1,2,2

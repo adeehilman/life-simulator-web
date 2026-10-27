@@ -1,0 +1,20 @@
+Rank,Status,Air Force Longhand,Air Force Shorthand,Army Longhand,Army Shorthand,Coast Guard Longhand,Coast Guard Shorthand,Marines Longhand,Marines Shorthand,Navy Longhand,Navy Shorthand,Salary Average,Stress Score,Minimum Military Years,Minimum Intelligence,Minimum Discipline,Minimum Karma,Minimum Health
+E1,Enlisted,Airman Basic,Airman,Private,Private,Seaman Recruit,Seaman,Private,Private,Seaman Recruit,Seaman,"$19,200 ",3,0,0,0,0,30
+E2,Enlisted,Airman,Airman,Private Second Class,Private,Seaman Apprentice,Seaman,Private First Class,Private,Seaman Apprentice,Seaman,"$21,516 ",3,1,0,0,0,30
+E3,Enlisted,Airman First Class,Airman,Private First Class,Private,Seaman,Seaman,Lance Corporal,Lance Corporal,Seaman,Seaman,"$24,070 ",3,3,0,10,0,30
+E4,Enlisted,Senior Airman,Airman,Specialist,Specialist,Petty Officer Third Class,Petty Officer,Corporal,Corporal,Petty Officer Third Class,Petty Officer,"$27,747 ",3,5,0,20,0,30
+E5,Enlisted,Staff Sergeant,Sergeant,Sergeant,Sergeant,Petty Officer Second Class,Petty Officer,Sergeant,Sergeant,Petty Officer Second Class,Petty Officer,"$33,066 ",3,7,0,30,0,30
+E6,Enlisted,Technical Sergeant,Sergeant,Staff Sergeant,Sergeant,Petty Officer First Class,Petty Officer,Staff Sergeant,Staff Sergeant,Petty Officer First Class,Petty Officer,"$38,030 ",3,9,0,40,0,30
+E7,Enlisted,Master Sergeant,Sergeant,Sergeant First Class,Sergeant,Chief Petty Officer,Chief,Gunnery Sergeant,Gunnery Sergeant,Chief Petty Officer,Chief,"$48,256 ",3,11,0,50,50,40
+E8,Enlisted,Senior Master Sergeant,Sergeant,Master Sergeant,Sergeant,Senior Chief Petty Officer,Senior Chief,Master Sergeant,Master Sergeant,Senior Chief Petty Officer,Senior Chief,"$60,210 ",4,13,0,60,70,50
+E9,Enlisted,Chief Master Sergeant,Chief,Sergeant Major,Sergeant Major,Master Chief Petty Officer,Master Chief,Sergeant Major,Sergeant Major,Master Chief Petty Officer,Master Chief,"$77,384 ",5,17,0,70,95,60
+O1,Officer,Second Lieutenant,Lieutenant,Second Lieutenant,Lieutenant,Ensign,Ensign,Second Lieutenant,Lieutenant,Ensign,Ensign,"$41,121 ",4,0,20,50,0,30
+O2,Officer,First Lieutenant,Lieutenant,First Lieutenant,Lieutenant,Lieutenant Junior Grade,Lieutenant,First Lieutenant,Lieutenant,Lieutenant Junior Grade,Lieutenant,"$50,013 ",4,1,20,50,0,30
+O3,Officer,Captain,Captain,Captain,Captain,Lieutenant,Lieutenant,Captain,Captain,Lieutenant,Lieutenant,"$63,781 ",4,4,20,50,0,30
+O4,Officer,Major,Major,Major,Major,Lieutenant Commander,Commander,Major,Major,Lieutenant Commander,Commander,"$73,725 ",4,10,30,50,0,30
+O5,Officer,Lieutenant Colonel,Colonel,Lieutenant Colonel,Colonel,Commander,Commander,Lieutenant Colonel,Colonel,Commander,Commander,"$86,382 ",4,16,40,60,0,30
+O6,Officer,Colonel,Colonel,Colonel,Colonel,Captain,Captain,Colonel,Colonel,Captain,Captain,"$106,360 ",5,22,50,80,70,30
+O7,Officer,Brigadier General,General,Brigadier General,General,Rear Admiral Lower Half,Admiral,Brigadier General,General,Rear Admiral Lower Half,Admiral,"$126,270 ",5,24,80,90,80,40
+O8,Officer,Major General,General,Major General,General,Rear Admiral,Admiral,Major General,General,Rear Admiral,Admiral,"$148,768 ",5,26,90,95,90,50
+O9,Officer,Lieutenant General,General,Lieutenant General,General,Vice Admiral,Admiral,Lieutenant General,General,Vice Admiral,Admiral,"$179,611 ",5,27,95,95,95,60
+O10,Officer,General,General,General,General,Admiral,Admiral,General,General,Admiral,Admiral,"$186,996 ",5,28,98,98,99,60

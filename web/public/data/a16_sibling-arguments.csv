@@ -1,0 +1,192 @@
+Condition,Topic,Hero Gender,Hero Min Age,Hero Max Age,Sibling Gender,Sibling Min Age,Sibling Max Age,Controversy Score ,Clean
+Lover,the idea of her hooking up with <lover>,female,16,,female,16,,5,
+Lover,the idea of him hooking up with <lover>,male,16,,male,16,,5,
+Lover,<him/her> calling <lover> <insult>,both,14,,both,14,,4,
+Lover,<him/her> telling <lover> that <I/you> used to wet the bed,both,16,,both,16,,4,x
+Lover,<him/her> telling <lover> about the time that <I/you> crapped <my/your> pants,both,16,,both,16,,4,
+Lover,<him/her> telling <lover> about the time that <I/you> bled through <my/your> pants on <my/your> period,female,16,,both,16,,4,
+Lover,<him/her> telling <lover> about the time that <I/you> peed <my/your> pants,both,16,,both,16,,4,
+Lover,<him/her> telling <lover> about the time that <I/you> farted at the dinner table,both,16,,both,16,,4,
+Lover,<him/her> telling <lover> about the time that <I/you> farted in church,both,16,,both,16,,4,
+Lover,<him/her> telling <lover> about the time that <I/you> got <my/your> ball sack stuck in the zipper,male,16,,both,16,,4,
+Lover,<him/her> telling <lover> about the time that <I/you> got caught making love to the cherry pie,male,16,,both,16,,4,
+Lover,<him/her> telling <lover> about the time that <I/you> got caught making love to the family massager,female,16,,both,16,,4,
+Lover,<him/her> telling <lover> about how <I/you> never came out of the bathroom after the family got a detachable shower head,female,16,,both,16,,4,
+Lover,<him/her> telling <lover> about the time that <I/you> mistakenly superglued <my/your> hand to <my/your> penis,male,16,,both,16,,4,
+Lover,<him/her> telling <lover> about <my/your> colon cleanse gone wrong,both,16,,both,16,,4,
+Lover,<him/her> telling <lover> about how <I/you> often fart when <I/you> sneeze,both,16,,both,16,,4,
+Lover,<him/her> telling <lover> about the time that <he/she> caught <me/you> masturbating to anime,both,16,,both,16,,4,
+Lover,<him/her> telling <lover> about the time that <he/she> found <my/your> porn collection,both,16,,both,16,,4,
+Lover,her flirting with <lover>,female,14,,female,14,,4,x
+Lover,who has a hotter significant other,female,14,,female,14,,4,x
+Lover,who has a hotter significant other,male,14,,male,14,,4,x
+Parents,which one of <us/you> <our/your> parents love more,both,5,,both,5,,5,x
+Parents,whose turn it is to use the family iPad,both,2,12,both,2,12,2,x
+Parents,why <he/she> told <our/your> parents about <my/your> tramp stamp,female,16,,both,10,,3,
+Parents,why <he/she> told <our/your> parents about <my/your> belly button piercing,female,16,,both,10,,3,x
+Parents,why <he/she> told <our/your> parents about <my/your> nipple piercings,female,18,,female,10,,3,x
+Pet,which one of <us/you> the <pet-type> loves more,both,3,14,both,3,,2,x
+Pet,whose turn it is to play with the <pet-type>,both,3,14,both,1,12,2,x
+Pet,whose turn it is to feed the <pet-type>,both,3,14,both,3,12,2,x
+Sibling Spouse,<me/you> telling <sibling-spouse> that <he/she> used to wet the bed,both,16,,both,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about the time that <he/she> crapped <his/her> pants,both,16,,both,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about the time that she bled through her pants,both,16,,female,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about the time that <he/she> peed <his/her> pants,both,16,,both,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about the time that <he/she> farted at the dinner table,both,16,,both,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about the time that <he/she> farted in church,both,16,,both,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about the time that he got his ball sack stuck in the zipper,both,16,,male,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about the time that he got caught making love to the cherry pie,both,16,,male,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about the time that she got caught making love to the family massager,both,16,,female,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about how she never came out of the bathroom after the family got a detachable shower head,both,16,,female,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about the time that he mistakenly superglued his hand to his penis,both,14,,male,14,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about <his/her> colon cleanse gone wrong,both,16,,both,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about how <he/she> often farts when <he/she> sneezes,both,16,,both,16,,4,
+Sibling Spouse,<me/you> telling <sibling-spouse> about the time that <I/you> caught <him/her> masturbating to anime,both,16,,both,16,,4,
+,him hooking up with <my/your> friends,female,16,,male,16,,3,
+,her hooking up with <my/your> friends,male,16,,female,16,,3,
+,which one of <us/you> is a better student,both,6,18,both,6,18,3,x
+Parents,<our/your> parents' inheritance,both,18,,both,18,,4,x
+,who ate the last cookie,both,2,,both,2,,2,x
+,which one of <us/you> has better hair,both,10,,both,10,,2,x
+,which one of <us/you> has the best boobs,female,14,,female,14,,3,
+,which one of <us/you> has a bigger butt,female,14,,female,14,,4,
+,who's getting the top bunk when visiting <our/your> cousin's cabin,both,5,17,both,5,17,3,x
+,who should have the bigger room,both,5,18,both,5,18,3,x
+,which one of <us/you> is smarter,both,3,,both,3,,4,x
+,which one of <us/you> is better looking,both,5,,both,5,,4,x
+,which one of <us/you> is stronger,both,5,,both,5,,3,x
+,which one of <us/you> is a better singer,both,5,,both,5,,3,x
+,which one of <us/you> is a better athlete,both,5,,both,5,,3,x
+,who a certain toy belongs to,both,1,12,both,1,12,4,x
+,who gets to sit in the front seat,both,5,,both,5,,2,x
+,who got the better present,both,4,,both,4,,3,x
+,whose turn it is to play with the iPad,both,1,12,both,1,12,4,x
+,which one of <us/you> is a better artist,both,3,,both,3,,2,x
+,whose room is cleaner,both,5,15,both,5,15,2,x
+,whose turn it is to use the computer,both,3,,both,3,,2,x
+,whose turn it is to use the TV,both,2,,both,2,,2,x
+,whose turn it is to play BitLife on the family iPad,both,2,,both,2,,2,x
+,whose turn it is to use the bathroom,both,4,,both,4,,2,x
+,who started it,both,3,18,both,3,18,2,x
+,the best color,both,3,12,both,3,12,2,x
+,who is a faster runner,both,2,18,both,2,18,2,x
+,who is a faster swimmer,both,5,18,both,5,18,2,x
+,who gets to go first,both,2,18,both,2,18,2,x
+,which show <we/you> will watch,both,2,,both,2,,2,x
+,why <he/she> went into <my/your> room,both,3,18,both,3,18,2,x
+,why <he/she> used <my/your> toy,both,2,12,both,2,12,3,x
+,why <he/she> wore <my/your> clothes,both,3,,both,3,,3,x
+,<him/her> not sharing <his/her> candy with <me/you>,both,2,25,both,2,25,2,x
+,whether or not <he/she> used <my/your> sex swing,both,18,,both,18,,3,
+,whether or not <I/you> used <his/her> sex swing,both,18,,both,18,,3,
+,whether or not <he/she> had sex on <my/your> bed,both,18,,both,18,,4,
+,whether or not <I/you> had sex on <his/her> bed,both,18,,both,18,,4,
+,whether or not she used <my/your> sex toy,female,18,,female,18,,5,
+,whether or not he used <my/your> blow up sex doll,male,18,,male,18,,5,
+,whether or not <he/she> took my condoms,both,16,,both,16,,3,
+,her flirting with <my/your> friends,male,14,,female,14,,3,x
+,him flirting with <my/your> friends,female,14,,male,14,,3,x
+,which one of <us/you> is sluttier,female,16,,female,16,,4,
+,which one of <us/you> is more of a ladies man,male,16,,male,16,,3,x
+,whose farts smell worse,both,5,,both,5,,2,
+,which one of <us/you> has bigger balls,male,14,,male,14,,4,
+,which one of <us/you> has a bigger schlong,male,14,,male,14,,4,
+,which one of <us/you> has bigger boobs,female,14,,female,14,,3,
+,whose biceps are bigger,male,10,,male,10,,3,x
+,which one of <us/you> has had sex with more guys,female,18,,female,18,,4,
+,which one of <us/you> has had sex with more girls,male,18,,male,18,,3,
+,why <he/she> sold <my/your> toy online,both,10,13,both,10,13,5,x
+,why <I/you> sold <his/her> toy online,both,10,13,both,10,13,5,x
+,why <I/you> created a profile for <him/her> on an online dating app,both,18,,both,18,,3,x
+,why <he/she> created a profile for <me/you> on an online dating app,both,18,,both,18,,3,x
+,who is better at BitLife,both,17,,both,17,,5,x
+,which is the best Candywriter game,both,5,,both,5,,5,x
+,who looks younger,both,20,,both,20,,3,x
+,who looks older,both,6,,both,6,,3,x
+,whether or not <he/she> borrowed <my/your> lube,both,18,,both,18,,3,
+,whether or not <I/you> borrowed <his/her> lube,both,18,,both,18,,3,
+,whether or not <he/she> borrowed <my/your> penis pump,male,18,,male,18,,4,
+,whether or not <I/you> borrowed <his/her> penis pump,male,18,,male,18,,4,
+,<his/her> snoring,both,5,,both,5,,2,x
+,<my/your> snoring,both,5,,both,5,,2,x
+,"who is better, <musician> or <musician2>",both,8,,both,8,,2,x
+,<his/her> noisy eating,both,10,,both,10,,2,x
+,<him/her> eating with <his/her> mouth open,both,10,,both,10,,2,x
+,the money <I/you> owe <him/her>,both,8,,both,8,,4,x
+,the money <he/she> owes <me/you>,both,8,,both,8,,4,x
+,whose turn it is to take out the trash,both,5,18,both,5,18,2,x
+,"which is better, tampons or pads",female,14,,female,14,,2,x
+,the guy <we/you> both have a crush on,female,12,,female,12,,5,x
+,the girl <we/you> both have a crush on,male,12,,male,12,,5,x
+,who is more successful,both,18,,both,18,,4,x
+,how <his/her> masturbation session woke <me/you> up last night,both,13,,both,13,,2,
+,how <my/your> masturbation woke <him/her> up last night,both,13,,both,13,,2,
+,how <I/you> always leave the toilet seat up,male,5,,female,5,,2,x
+,how he always leaves the toilet seat up,female,5,,male,5,,2,x
+,how she borrowed <my/your> clitoral pump,female,18,,female,18,,5,
+,how she borrowed <my/your> nipple clamps,female,18,,female,18,,4,
+,how she borrowed <my/your> crotchless panties,female,18,,female,18,,4,
+,how she borrowed <my/your> earrings,female,12,,female,12,,3,x
+,how she borrowed <my/your> shoes,female,5,,female,5,,3,x
+,how she borrowed <my/your> dress,female,5,,female,5,,3,x
+,whether or not <he/she> has been snooping in <my/your> room,both,5,,both,5,,3,x
+,whether or not <I/you> have been snooping in <his/her> room,both,5,,both,5,,3,x
+,who is skinnier,female,14,,female,14,,5,x
+,who is fatter,both,16,,both,16,,5,x
+,how <he/she> borrowed and used <my/your> ball gag,both,18,,both,18,,4,
+,whether or not he used <my/your> fleshlight,male,18,,male,18,,5,
+,how he used up all <my/your> lotion,both,14,,male,12,,2,
+,who the hottest boy in school is,female,12,18,female,12,18,3,x
+,who the hottest girl in school is,male,12,18,male,12,18,3,x
+,which color is the prettiest,female,3,,female,3,,2,x
+,which flowers are the best,female,8,,female,8,,2,x
+,how <I/you> ate <his/her> leftovers,both,8,,both,8,,2,x
+,how <he/she> ate <my/your> leftovers,both,8,,both,8,,2,x
+,whose gifts are better,both,3,,both,3,,3,x
+,why <I/you> used <his/her> phone,both,10,,both,10,,3,x
+,why <he/she> used <my/your> phone,both,10,,both,10,,3,x
+,who is more wrinkly,both,40,,both,40,,3,x
+,whose turn it is to cook,both,18,,both,18,,2,x
+,whose boobs are saggier,female,30,,female,30,,3,
+,who is more bald,male,40,,male,40,,3,x
+,who exaggerates more,both,15,,both,15,,3,x
+,who has better hearing,both,60,,both,60,,2,x
+,who has better vision,both,30,,both,30,,2,x
+,who can throw a ball further,male,5,30,male,5,30,3,x
+,who can jump higher,male,5,30,male,5,30,3,x
+,who has a better memory,both,60,,both,60,,2,x
+,who is a better cook,both,18,,both,18,,2,x
+,who is better at karate chops,male,5,12,male,5,12,2,x
+,who can handle spicier food,both,12,,both,12,,2,x
+,how he took the rest of <my/your> penis enhancement pills,male,18,,male,18,,4,
+,how <he/she> read <my/your> diary,both,10,,both,10,,4,x
+,how <I/you> read <his/her> diary,both,10,,both,10,,4,x
+,how <he/she> used up all the hot water,both,5,,both,5,,2,x
+,how <I/you> used up all the hot water,both,5,,both,5,,2,x
+,how <he/she> used <my/your> razor,both,13,,both,13,,3,x
+,how <I/you> used <his/her> razor ,both,13,,both,13,,3,x
+,how he used <my/your> razor to shave his balls,both,14,,male,18,,4,
+,how she used <my/your> razor to shave her cooter,both,14,,female,18,,4,
+,how <I/you> used <his/her> razor to shave <my/your> balls,male,18,,both,14,,4,
+,how <I/you> used <his/her> razor to shave <my/your> cooter,female,18,,both,14,,4,
+,how he used the last melon for masturbation,both,16,,male,18,,3,
+,how she used the last cucumber for masturbation,both,16,,female,18,,3,
+,how <he/she> teases <me/you> about wetting the bed,both,3,12,both,3,12,4,x
+,how <I/you> tease <him/her> about wetting the bed,both,3,12,both,3,12,4,x
+,how <he/she> used to wet the bed,both,12,,both,12,,4,x
+,how <I/you> used to wet the bed,both,12,,both,12,,4,x
+,who is the worse driver,both,16,,both,16,,2,x
+,why <he/she> cheated in the poker tournament at the retirement community,both,65,,both,65,,3,x
+,why <I/you> cheated in the poker tournament at the retirement community,both,65,,both,65,,3,x
+,why <he/she> cheated at bingo at the retirement community,both,65,,both,65,,3,x
+,why <I/you> cheated at bingo at the retirement community,both,65,,both,65,,3,x
+,why <I/you> told everyone at the retirement coummunity about <his/her> STD,both,65,,both,65,,5,
+,what he was offering the ladies at the retirement community in exchange for hard candy,both,65,,male,65,,4,
+,why he is sleeping with all the ladies at the retirement community,both,65,,male,65,,5,
+,why she is sleeping with all the men at the retirement community,both,65,,female,65,,5,
+,why <he/she> is distributing <drug-illegal> at the retirement community,both,65,,both,65,,5,x
+,why he brought a prostitute to the retirement community,both,65,,male,65,,5,
+,why he keeps asking the nurses at the retirement community to examine his pecker,both,65,,male,65,,5,
+,why she keeps flashing all the men at the retirement community,both,65,,female,65,,5,
+,who has better hard candy,both,65,,both,65,,4,x
+,who has more gray hair,both,40,,both,40,,2,x

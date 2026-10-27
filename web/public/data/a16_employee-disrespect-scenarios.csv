@@ -1,0 +1,38 @@
+Scenario,Log Version,Can Be Reaction,Can Be Push,Score
+<employee> told you that you suck in front of a bunch of people.,<employee> told me that I suck in front of a bunch of people.,x,x,4
+<employee> questioned your authority in the middle of a meeting.,<employee> questioned my authority during a meeting.,,x,5
+<employee> said your opinion isn't relevant to the way <he/she> does <his/her> job.,<employee> said my opinion isn't relevant to <him/her>.,x,,5
+<employee> let the elevator door close on you.,<employee> failed to hold the elevator door open for me.,,x,1
+<employee> interrupted you while you were telling a story during a meeting.,<employee> interrupted me as I was telling a story during a meeting.,,x,2
+<employee> ruined the punch line of a favorite joke you were telling at a company party.,<employee> ruined the punch line of my favorite joke.,,x,2
+<employee> just called you <insult> during a meeting.,<employee> called me <insult> during a meeting.,,x,5
+You overheard <employee> call you <insult> while chatting with another employee.,I overheard <employee> call me <insult> during a conversation with another employee.,,x,5
+<employee> just poured coffee all over your desk.,<employee> poured coffee all over my desk.,x,x,5
+You discovered <employee> changed your computer's desktop background to a pornographic image.,I discovered <employee> changed my computer desktop background to a pornographic image.,,x,5
+You overheard <employee> telling another employee it'll be a miracle if you don't run this company into the ground with your poor leadership.,I overheard <employee> tell another employee that I'm running the company into the ground.,,x,4
+You overheard <employee> tell another employee that everyone thinks you're <insult>.,I overheard <employee> tell another employee that everyone thinks I'm <insult>.,,x,3
+"<employee> just bumped into you and didn't say ""excuse me"".","<employee> bumped into me and didn't say ""excuse me"".",,x,1
+<employee> shouted obscenities at you in front of your entire staff.,<employee> shouted obscenities at me in front of my entire staff.,x,x,4
+<employee> just flipped you the bird.,<employee> flipped me the bird.,x,x,3
+<employee> just gave you a pat on the behind.,<employee> patted me on the behind.,,x,5
+<employee> just cropdusted your office.,<employee> cropdusted my office.,,x,4
+<employee> just belched out loud and blew it in your general direction.,<employee> belched out loud and then blew it in my general direction.,x,x,3
+"<employee> invited everyone to a barbecue party in <his/her> backyard, except you.","<employee> invited everyone to a barbecue party in <his/her> backyard, except me.",,x,2
+You\u2019re in the middle of instructing <employee> on an important process when <he/she> suddenly pulls out <his/her> cell phone and <starts texting a friend/starts scrolling through Instagram/accepts a Facebook friend request/takes a selfie>.,<employee> suddenly started messing around on <his/her> cell phone as I was attempting to instruct <him/her> on an important process.,,x,4
+You overheard <employee> tell a co-worker <he/she> thinks you're <horrendous/hideous/ugly/stupid/gross>.,<employee> told a co-worker <he/she> thinks I'm <rb>.,,x,3
+"You offered <employee> a hug one morning, but <he/she> refused.",<employee> refused to hug me one morning.,,x,1
+"Just as you began telling a story, <employee> rolled <his/her> eyes, sighed, and said ""<Not this/Hope this is a new story/No one cares/This is torture/I'm reporting you to HR for torturing your employees/This story sucks already/End me now/I'd rather be working than listening to this/Here we go again>"".",<employee> disrespected me as I began telling a story.,,x,4
+<employee> ignored you.,<employee> ignored me.,x,,1
+<employee> told you <he/she> hopes <your mouth always tastes like toothpaste mixed with orange juice/you step on a LEGO whenever you get up in the middle of the night to pee/your socks always fall into your shoes/you never figure out how to fold a fitted sheet/you go bald/you remain celibate for the rest of your life/your only love interest is a furry/your mother realizes what a mistake she made/you defecate in your pants during your next meeting/you manage to figure out a way to speak without spewing so much crap/you find a way to make your face not look like a deflated balloon/you sit in gum/you manage to pull your own head out of your butt/you find a way to make your face not look like it met the wrong end of a weed whacker/you always misplace your office keys/always misplace your wallet/you someday recognize your own ineptitude/you someday recognize your own irrelevance>.,<employee> <verbally assaulted/roasted> me.,x,x,4
+<employee> yawned and walked away as you were speaking to <him/her>.,<employee> yawned and walked away from me while I was speaking to <him/her>.,x,,2
+<employee> altered a photo of you to make <you look like you kissed a baboon's butt/you look like you made out with a cheap stripper/you look like you participated in a BDSM orgy/it look like you slept naked on a mattress in an alley/it look like you slept naked in a dumpster/it look like you cuddled with a panhandler on the street/it look like you made out with an elderly prostitute/you look like a 'My Little Pony' cosplayer/you look like one of the Jellicle Cats from 'Cats'/you look like Hank Hill/you look like Bobby Hill/you look like you enjoyed eating an olive loaf with your bare hands/you look like you ate mustard pasta with your bare hands/you look like you had an STD/you look like you had herpes> and posted it around the building.,<employee> posted an altered photo of me around the building in a deliberate attempt at character assassination.,,x,4
+"<employee> threatened to slap you with a lawsuit if you didn't give <him/her> <an extra week of paid vacation/a hug/a smooch/a raise/a promotion/an extended lunch break/an extra day off this week/four-day weekends> ""just because"".",<employee> threatened me with a baseless lawsuit.,,x,4
+<employee> prank called your office phone from <his/her> desk.,<employee> prank called my office.,,x,2
+<employee> called you <insult> and walked away.,<employee> called me <insult>.,x,,3
+<employee> talked over you so that <he/she> could have the last word.,<employee> tried to talk over me.,x,,3
+<employee> stuck <his/her> foot out to trip you as you walked past <him/her>.,<employee> tried to trip me.,,x,4
+<employee> questioned your leadership skills in front of everyone.,<employee> criticized my leadership in front of everyone.,x,x,3
+<employee> told you <he/she> is surprised you haven't yet <completely sunk the company/ruined the company/royally screwed the company> with your terrible leadership.,<employee> criticized my leadership in front of everyone.,x,x,3
+<employee> stuck <his/her> tongue out at you.,<employee> stuck <his/her> tongue out at me.,x,x,1
+<employee> wasted <num15-45> minutes of your time by talking your ear off about <his/her> <life/day/morning/afternoon/evening/weekend/dog/cat/weekend/misadventures in dating/family problems/drinking problem/gym routine/money troubles/favorite television show/favorite movie/favorite Broadway musical/favorite type of weather/commute>.,<employee> wasted my time with small talk.,,x,2
+You overheard <employee> tell a co-worker <he/she> thinks you smell like <moth balls/paint thinner/manure/bear scat/old books/a ripe armpit/a rotten cabbage/a wet fart/a dirty diaper/mildew/dumpster juice/pond water/burnt toast/an alcoholic/roadkill>.,<employee> told a co-worker <he/she> thinks I smell like <rb>.,,x,2

@@ -1,0 +1,39 @@
+Strategy,Hero Gender,Effectiveness Score,Police Risk Score,Theft Risk Score,Confrontation Risk Score
+ask for money in a traffic median,,4,2,1,3
+pass out on the street,,2,2,5,1
+shake collection box at pedestrians,,3,2,3,2
+flash pedestrians,female,4,5,3,2
+rush up to pedestrians,,1,3,1,4
+shout at pedestrians,,2,5,2,4
+walk between cars in heavy traffic,,4,3,3,2
+sit next to an ATM,,3,4,2,3
+walk around a grocery store parking lot,,3,3,3,4
+sit next to a dumpster,,5,1,5,3
+approach winners outside of a casino,,5,4,3,2
+approach seniors at a BINGO hall,,3,1,2,2
+sit in front of a church on Sunday,,4,1,1,1
+approach fans outside a sporting event,,2,3,4,4
+sit outside of a laundromat in dirty clothes,,4,1,2,2
+approach fisherman at a lake,,2,2,1,2
+stand outside the lottery headquarters,,2,3,2,2
+approach patrons leaving a brothel,,5,2,2,2
+approach customers at a gas station pump,,4,2,1,3
+approach diners on a restaurant patio,,2,2,1,2
+hang out outside of a halfway house,,1,1,5,4
+go to a packed convention center,,5,2,3,3
+go to an office building,,2,4,1,3
+wander through a free car show,,1,4,2,3
+sit in front of a luxury resort,,3,4,2,2
+sit outside an adult video store,,2,3,1,1
+hang around a dive bar,,3,2,2,3
+ask for change outside of a diner,,1,1,1,2
+wander around a parking garage,,2,2,1,1
+sit next to a vending machine,,4,1,2,2
+approach people leaving a concert,,3,1,2,4
+offer hugs,,5,3,3,3
+walk around a farmers market,,3,1,2,2
+stand at the finish line of a marathon,,1,4,2,5
+walk around a carnival,,3,2,5,3
+stand on a corner known for drug dealing,,1,4,5,4
+walk through the red-light district,,2,3,3,3
+sit in front of a bank,,2,5,2,3

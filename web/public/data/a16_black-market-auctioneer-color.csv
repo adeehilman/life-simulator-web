@@ -1,0 +1,44 @@
+String,Auction Category,Plural,Commonness Score
+they smell fresh,"fashion, sports memorabilia",x,1
+they're in <pristine/perfect/mint/excellent> condition,,x,5
+they're essential for any serious collector to own,,x,3
+they're an important piece of history,,x,2
+they're technically <priceless/invaluable>,,x,4
+they're in amazing condition for their age,,x,5
+their condition is consistent with their age,,x,1
+they've been <carefully/beautifully> preserved,,x,4
+they've got an important place in history,historical artifact,x,3
+<celebrity> once owned them,,x,3
+they've got stories to tell,,x,2
+they <exude/scream/embody> <opulence/luxury>,fashion,x,4
+they're a must-have for any serious collector,,x,3
+they're definitely <real/not replicas/not fake>,,x,2
+they're only on sale for a limited time,,x,4
+they've been restored to their former glory,"art, historical artifact, antiques",x,3
+it's in <pristine/perfect/mint/excellent> condition,,,5
+it's <unique/one-of-a-kind/special>,,,4
+it's never been used,"antiques, auto",,2
+it's <an incredible/a rare> find,,,5
+it's still got that new car smell,auto,,3
+it's definitely been touched by greatness,"historical artifact, fashion, antiques, art, sports memorabilia",,4
+it's an important piece of history,"historical artifact, art, antiques, fashion, sports memorabilia",,5
+it's technically invaluable,"historical artifact, art",,3
+it's barely been used,"antiques, auto, fashion, historical artifact",,5
+it's been restored to its former glory,"art, historical artifact, antiques",,3
+its condition is consistent with its age,"antiques, auto, historical artifact, sports memorabilia",,3
+it's in <amazing/impeccable/fantastic> condition for its age,"antiques, historical artifact",,3
+it's literally a masterpiece,art,,5
+it's vintage,"antiques, historical artifact",,3
+its design is stunning,"historical artifact, antiques, auto, fashion, art, gemstone",,3
+it's been <carefully/beautifully> preserved,"historical artifact, antiques, auto, fashion, art, sports memorabilia",,3
+<celebrity> once owned it,,,3
+it's got <a story to tell/history/character/personality/a certain je nais se quois>,,,4
+it screams <opulence/luxury>,"antiques, art, fashion, gemstone",,3
+it's a must-have for any serious collector,,,5
+it's definitely <not a replica/real/not a fake>,,,3
+it's only on sale for a limited time,,,3
+it's not every day you see something this valuable for sale,,,3
+its <clarity/cut/quality> is unparalleled,gemstone,,5
+it sparkles beautifully when it catches the light,gemstone,,3
+it's incredibly rare to see one this big,gemstone,,3
+it's not every day you see an uncut specimen such as this,gemstone,,1

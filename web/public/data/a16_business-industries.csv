@@ -1,0 +1,26 @@
+Industry,Country Whitelist,Country Blacklist,Product Launch Cost,Facility Name,Facility Name Plural,Max Facilities,Facility Setup Cost,Facility Annual Cost,Facility Employee Min,Facility Employee Max,Average Employee Salary
+brewery,,"af, dz, il, kw, lb, qa, sa, sy, ae",15000,brewery,breweries,500,100000,50000,6,25,35000
+adult toys,,"af, dz, kw, lb, qa, sa, sy, ae",15000,store,stores,500,100000,50000,5,10,30000
+marijuana dispensary,"ca, us, nl, uy",,15000,dispensary,dispensaries,500,100000,50000,3,15,30000
+robotics,,,1000000,plant,plants,200,5000000,2500000,50,250,80000
+food truck,,,2500,truck,trucks,500,75000,30000,2,5,25000
+beauty supply,,,100000,store,stores,500,50000,25000,5,15,30000
+car manufacturer,,,50000000,factory,factories,100,50000000,25000000,75,150,45000
+clothing outlet,,,75000,store,stores,500,150000,50000,5,15,35000
+coffeehouse,,,5000,cafe,cafes,500,200000,50000,3,8,35000
+consumer electronics,,,10000000,factory,factories,200,10000000,600000,30,75,100000
+dairy farm,,,50000,farm,farms,250,500000,500000,30,60,35000
+distillery,,"af, bd, ir, iq, kw, ma, pk, sa",100000,distillery,distilleries,200,500000,100000,10,15,50000
+footwear,,,50000,store,stores,500,200000,150000,5,15,30000
+gift shop,,,5000,shop,shops,500,100000,50000,2,6,30000
+health food store,,,9000,store,stores,500,100000,50000,5,12,30000
+jewelry,,,50000,store,stores,500,250000,50000,5,15,30000
+kitchenware,,,20000,store,stores,500,100000,50000,5,12,30000
+lingerie boutique,,,18000,boutique,boutiques,500,100000,50000,3,6,30000
+musical instrument,,,28000,store,stores,500,100000,50000,5,10,30000
+novelty,,,5000,store,stores,500,100000,50000,3,10,30000
+pet supply,,,14000,store,stores,500,100000,50000,5,12,30000
+pharmaceutical,,,25000000,facility,facilities,100,50000000,25000000,35,65,100000
+semiconductor,,,42000000,foundry,foundries,100,50000000,25000000,20,40,80000
+sporting goods,,,13000,store,stores,500,100000,50000,5,9,40000
+winery,,"af, bd, ir, iq, kw, ma, pk, sa",1200000,winery,wineries,200,1500000,700000,20,60,65000

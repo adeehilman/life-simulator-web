@@ -1,0 +1,9 @@
+Accessory Type,Index,Accessory Index,Game,Acquisition Method,Scenario Snippet
+Sunglasses,1,546,Blackjack,Win a hand with a 21,you won a hand with 21
+Sunglasses,2,547,Keno,Match all 3 numbers in a single game,you matched all 3 numbers
+Sunglasses,3,548,High-Low,Win by guessing correctly on the final card when the face-up card is a 5 or 6,you gambled and it paid off
+Sunglasses,4,549,Three-Card Shuffle,Win after maximizing your bet,you mastered the Shuffle
+Headwear,5,656,Texas Hold'em,Win a hand with a Royal Flush,you won with a Royal Flush
+Headwear,6,657,Roulette,Win by betting on 0,you won after betting on 0
+Headwear,7,655,Slots,Win with triple tadpole,you hit the triple tadpole
+Headwear,8,658,Craps,Win a game after rerolling,you won after rerolling

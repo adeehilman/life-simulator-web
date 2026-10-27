@@ -1,0 +1,85 @@
+{
+  "oracleVersion": "3.26.0",
+  "targetVersion": "3.25.3",
+  "package": "com.candywriter.bitlife",
+  "device": "127.0.0.1:58526",
+  "display": { "physicalSize": "1920x1080", "density": 160 },
+  "steps": [
+    {
+      "id": "dashboard-age-0",
+      "screen": "game_fullscreen.png",
+      "observed": {
+        "name": "Jose Grossweiner",
+        "age": 0,
+        "lifeStage": "Infant",
+        "happiness": 85,
+        "health": 87,
+        "smarts": 13,
+        "looks": 67,
+        "location": "Little Rock, United States",
+        "mother": "Tina Grossweiner",
+        "father": "Joey Grossweiner",
+        "pet": "Diego"
+      }
+    },
+    {
+      "id": "age-up-to-1",
+      "input": { "action": "tap", "x": 960, "y": 700 },
+      "screen": "ageup_001.png",
+      "observed": {
+        "age": 1,
+        "scenario": "Physical Development",
+        "prompt": "What will you do?",
+        "choices": [
+          "Crawl across the floor",
+          "Grab my father's hair",
+          "Hold a ball",
+          "Stand up in the crib",
+          "Surprise me!"
+        ],
+        "happiness": 85,
+        "health": 91,
+        "smarts": 14,
+        "looks": 66
+      }
+    },
+    {
+      "id": "choice-crawl",
+      "input": { "action": "tap", "x": 960, "y": 584 },
+      "screen": "choice_crawl.png",
+      "observed": {
+        "resultText": "I crawled across the floor for my father.",
+        "age": 1
+      }
+    },
+    {
+      "id": "age-up-to-2",
+      "input": { "action": "tap", "x": 960, "y": 700 },
+      "screen": "ageup_002.png",
+      "observed": {
+        "age": 2,
+        "scenario": "Vaccination",
+        "prompt": "How will you behave?",
+        "choices": [
+          "Try to stay calm",
+          "Throw a tantrum",
+          "Bite her",
+          "Surprise me!"
+        ]
+      }
+    }
+  ],
+  "evidence": [
+    "ocr_fixture.json",
+    "ocr_fixture_002.json",
+    "game_fullscreen.png",
+    "ageup_001.png",
+    "choice_crawl.png",
+    "ageup_002.png"
+  ],
+  "limitations": [
+    "This is an oracle capture from installed 3.26.0, not target 3.25.3.",
+    "OCR is evidence for visible text and values; it is not a raw internal state dump.",
+    "RNG seed, internal scenario ID, and exact stat mutation operands are not exposed by release logcat."
+  ]
+}

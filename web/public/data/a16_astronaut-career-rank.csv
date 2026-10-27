@@ -1,0 +1,5 @@
+Rank,Missions to Promotion,Min Years in Agency,Minimum Intelligence,Minimum Discipline,Minimum Health,Stress Score,Min Salary,Max Salary,Min Age,Max Age,Too Old Age,Diseases
+Cadet,3,0,60,0,50,2,"$65,000","$75,000",,70,65,"kidney stones, depression, anxiety, insomnia, hemorrhoids"
+Captain,3,3,70,40,60,3,"$76,000","$100,000",,70,65,"kidney stones, depression, anxiety, insomnia, hemorrhoids"
+Major,4,5,80,50,70,4,"$101,000","$175,000",,70,60,"cancer, heart disease, kidney stones, depression, anxiety, insomnia, hemorrhoids"
+General,5,10,90,60,80,5,"$180,000","$375,000",,70,60,"cancer, heart disease, kidney stones, depression, anxiety, insomnia, hemorrhoids"

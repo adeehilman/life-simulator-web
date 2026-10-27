@@ -1,0 +1,1133 @@
+Condition,String,Hero Min Age,Hero Max Age,Hero Gender,Hero Sexuality,Hero Min Happiness,Hero Max Happiness,Subject,Subject Min Age,Subject Max Age,Subject Min Relationship Strength,Subject Max Relationship Strength,Subject Gender,Subject Sexuality,Min Fame,Max Fame,Min Reputation,Max Reputation,Clean
+Car,"While driving on a country road, <I got a flat tire/I ran out of gas/my battery died>. I was stranded for <num2-5> hours.",16,,,,,,,,,,,,,,,,,x
+Car,I parked illegally and was cited with a parking ticket.,16,,,,,,,,,,,,,,,,,x
+Car,I was caught speeding and given a speeding ticket.,16,,,,,,,,,,,,,,,,,x
+Job,I've been thinking a lot lately about <going back to school/changing careers>.,30,,,,,,,,,,,,,,,,,x
+Job,My computer crashed and I lost <num2-8> hours worth of unsaved work.,,,,,,,,,,,,,,,,,,x
+Job,"The office has been smelling like farts a lot lately, so I've been trying to figure out who the culprit is.",,,,,,,,,,,,,,,,,,
+Job,I've been feeling paranoid lately that I am going to get fired or laid off.,,,,,,,,,,,,,,,,,,x
+Job,Recently I've had anxiety about <money/my health/the way I look/my relationships/my diet/work/getting fired>.,,,,,,,,,,,,,,,,,,x
+Job,I think my boss may be experiencing irritable bowel syndrome.,,,,,,,,,,,,,,,,,,x
+Job,I think my boss may have a crush on me.,,,,,,,,,,,,,,,,,,x
+Job,I'm starting to develop a crush on my boss.,,,,,,,,,,,,,,,,,,x
+,"While changing <child-possessive> diaper, <he/she> peed on me.",,,,,,,Child,1,2,,,,,,,,,x
+,<child> <vomited/puked/threw up/hurled/upchucked> on me.,,,,,,,Child,1,10,,,,,,,,,x
+,I'm starting to wonder if <child> is in the closet.,,,,,,,Child,12,,,,,straight,,,,,x
+,I'm starting to wonder if <child> will become homosexual.,,,,,,,Child,3,12,,,,,,,,,x
+,I'm starting to feel as though <child> could become <an Olympic athlete/a Nobel Prize winner/an Oscar winner/a Grammy winner/an Emmy winner/an astronaut/the President/a doctor/a psychopath/a sociopath/a psychic/a clairvoyant/a wizard/a witch/a chess champion/a valedictorian>.,,,,,,,Child,1,18,,,,,,,,,x
+,I'm starting to believe <child> could one day become a professional <golfer/boxer/tennis player/basketball player/baseball player/football player/soccer player/hockey player/dancer/fighter/pianist/violinist/guitarist/singer/badminton player/cricket player/ping pong player/jockey/race car driver/volleyball player/bodybuilder/model/dodge ball player/racquetball player/billiards player/poker player/comedian>.,,,,,,,Child,1,18,,,,,,,,,x
+,I'm beginning to think <child> could be the next <Lebron James/Michael Jordan/Bill Gates/Steve Jobs/Peyton Manning/Tom Brady/Drake/Michael Jackson/Abraham Lincoln/Charles Darwin/Beethoven/Mozart/Donald Trump/Barack Obama/Lionel Messi/Cristiano Ronaldo/Pel\351/Tiger Woods/Roger Federer/Michael Phelps/Wayne Gretzky/Babe Ruth/Muhammad Ali/Usain Bolt/Christopher Columbus/Albert Einstein/Pope/Leonardo da Vinci/Vincent Van Gogh/Thomas Edison/Dalai Lama/Walt Disney/Neil Armstrong/John Lennon/Sigmund Freud>.,,,,,,,Child,1,18,,,male,,,,,,x
+,I'm beginning to think <child> might be the next <Serena Williams/Venus Williams/Marie Curie/Rosa Parks/Princess Diana/Amelia Earhart/Mother Teresa/Beyonc\351/Madonna/Frida Kahlo/Kim Kardashian/Oprah Winfrey/Ellen Degeneres/Marilyn Monroe/Audrey Hepburn/Hillary Clinton/Jennifer Lopez/Kate Middleton/J.K. Rowling/Rihanna/Lady Gaga/Shakira/Adele/Nicki Minaj/Cupcakke/Ariana Grande/Taylor Swift>.,,,,,,,Child,1,18,,,female,,,,,,x
+,I'm starting to worry about my father's driving due to his impaired vision.,10,,,,,,Father,60,,,,male,,,,,,x
+,I'm starting to suspect my dad is a regular at the nudist colony.,12,,,,,,Father,,,,,male,,,,,,x
+,I'm starting to think my dad is a fan of <musician>.,12,,,,,,Father,,,,,male,,,,,,x
+,I'm starting to wonder if my dad is in <the mob/the mafia/a gang/a drug cartel/a crime organization>.,12,,,,,,Father,,,,,male,,,,,,x
+,I'm starting to think my dad may be a superhero.,5,12,,,,,Father,,,,,male,,,,,,x
+,I'm starting to suspect that my father is experiencing dementia.,10,,,,,,Father,60,,,,male,,,,,,x
+,I want to try to be sexier so I am studying the style and habits of <Lady Gaga/Kendall Jenner/Kylie Jenner/Kim Kardashian/Margot Robbie/Rihanna/Blake Lively/Chrissy Teigen/Michelle Obama/Melania Trump/Emilia Clarke/Jennifer Lawrence/Kate Upton/Mila Kunis/Emma Watson/Halsey/Demi Lovato/Cupcakke/Lorde/Taylor Swift/Britney Spears/Katy Perry/Serena Williams/Venus Williams/Kate McKinnon/Adele/Beyonc\351/Hillary Clinton/Nicki Minaj>.,18,40,female,,,,,,,,,,,,,,,x
+,I have mistakenly been taking <lover-possessive> <erectile dysfunction/Viagra/Cialis/Levitra/testosterone/jock itch/prostate> medicine for the last <num2-29> days.,,,female,straight,,,Lover,,,,,,,,,,,x
+,I'm wondering if <grandchild> may be <gay/bisexual>.,,,,,,,Grandchild,10,18,,,,,,,,,x
+,I'm starting to think that <grandchild> may be doing <drug>.,,,,,,,Grandchild,14,,,,,,,,,,x
+,I'm starting to think that <grandchild> is a <sissy/dope/weirdo/freak/jerk/moron/coward/pansy/wimp/wuss/pushover/baby/crybaby/loser/deadbeat/failure/fool/twit/dunce>.,,,,,,,Grandchild,3,21,,30,male,,,,,,x
+,I'm starting to think that <grandchild> is a <brat/witch/baby/crybaby/loser/deadbeat/failure/fool/twit/dunce/moron/freak/weirdo/dope/troll>.,,,,,,,Grandchild,3,21,,30,female,,,,,,x
+,I'm starting to become attracted to other women.,21,60,male,straight,,,Lover,,,,30,,,,,,,x
+,I'm starting to become attracted to other men.,21,60,female,straight,,,Lover,,,,30,,,,,,,x
+,I'm becoming concerned that <lover> and I speak different love languages.,,,,,,,Lover,,,,30,,,,,,,x
+,I've become really insecure lately and worried that <lover> may be cheating on me.,,,,,,,Lover,,,,20,,,,,,,x
+,I'm starting to become concerned that <lover> is no longer attracted to me.,,,,,,,Lover,,,,30,,,,,,,x
+,I'm starting to feel insecure and worried because <lover> and I rarely have sex anymore.,18,,,,,,Lover,18,,,20,,,,,,,
+,I'm wondering if it would be a good idea for <lover> and I to take a break.,,,,,,,Lover,,,,30,,,,,,,x
+,I've been considering leaving <lover>.,,,,,,,Lover,,,,20,,,,,,,x
+,I'm starting to suspect that <lover> has been watching lesbian porn.,,,male,straight,,,Lover,16,,,50,female,,,,,,
+,I'm starting to suspect that <lover> has been watching gay porn.,,,male,straight,,,Lover,16,,,50,male,,,,,,
+,I'm starting to suspect that <lover> has been watching straight porn.,,,,gay,,,Lover,16,,,50,,gay,,,,,
+,I've been wondering a lot lately about the negative correlation between vehicle size and penis size and am struggling to determine which vehicle would be best for me.,18,40,male,,,,,,,,,,,,,,,
+,I want to try to be sexier so I am studying the style and habits of <Leonardo DiCaprio/Russell Crowe/John Krasinski/Shawn Mendes/Cristiano Ronaldo/Chris Pine/Enrique Iglesias/Chris Evans/Charlie Hunnam/Will Smith/Tom Holland/Matt Damon/Jason Momoa/Christian Bale/The Weeknd/James Franco/Justin Timberlake/Chris Pratt/Channing Tatum/Joe Jonas/Adam Driver/Michael B. Jordan/Justin Bieber/Drake/Bradley Cooper/Zac Efron/Benedict Cumberbatch/David Beckham/Ryan Reynolds/Chris Hemsworth/Kit Harington/Prince Harry/Harry Styles/Idris Elba/Ryan Gosling/Tom Hardy/Lebron James/Lionel Messi/Brad Pitt/Wiz Khalifa/Pharrell/Blake Shelton/Conor McGregor/Tom Brady/Derek Jeter/Steph Curry/Skrillex/Barack Obama/Bruce Lee/Khalid/Kanye West/The Rock>.,18,40,male,,,,,,,,,,,,,,,x
+,I have mistakenly been taking <lover-possessive> menopause medication for the last <num2-29> days.,,,male,,,,Lover,45,55,,,female,,,,,,x
+,I have mistakenly been taking <lover-possessive> <Midol/birth control/menstrual/yeast infection> medication for the last <num2-29> days.,,,male,,,,Lover,,40,,,female,,,,,,x
+,"I'm having a mid-life crisis, so I'm considering buying a <red/yellow> sports car.",40,50,male,,,,,,,,,,,,,,,x
+,I've been experiencing issues with premature ejaculation lately.,14,,male,,,,Lover,,,,,,,,,,,
+,I'm starting to suspect that my mother is experiencing dementia.,10,,,,,,Mother,60,,,,female,,,,,,x
+,I'm starting to suspect my mother is a regular at the nudist colony.,10,,,,,,Mother,,,,,female,,,,,,x
+,I'm starting to think my mother is a fan of <musician>.,10,,,,,,Mother,,,,,female,,,,,,x
+,I'm starting to suspect my mother is becoming incontinent.,10,,,,,,Mother,70,,,,female,,,,,,x
+,I'm starting to suspect that my mother has started menopause.,10,,,,,,Mother,40,60,,,female,,,,,,x
+,I'm starting to worry about my mother's driving due to her impaired vision.,10,,,,,,Mother,60,,,,female,,,,,,x
+Parents,I'm starting to wonder if my parents are swingers.,16,,,,,,,,,,,,,,,,,x
+,I'm starting to suspect that <sibling> is experimenting with <drug>.,14,,,,,,Sibling,12,,,,,,,,,,x
+,<sibling> has been sneaking out at night and I'm not sure if I should report <him/her>.,6,,,,,,Sibling,12,18,,,,,,,,,x
+,I think <sibling> is starting to become sexually active.,10,,,,,,Sibling,14,18,,,,,,,,,x
+,I'm starting to think that <sibling> may be homosexual.,10,,,,,,Sibling,12,25,,,,straight,,,,,x
+,I'm beginning to wonder if <sibling> has <a shopping/a sex/a drinking/a gambling/a tanning/a laxative/an internet/a porn/a video game> addiction.,8,,,,,,Sibling,16,30,,,,,,,,,x
+,I'm starting to think <sibling> has an eating disorder.,12,,,,,,Sibling,12,,,,,,,,,,x
+Student,I've gotten <a boner/an erection/a stiffy/a woody/a hard-on> at school <num2-19> times this week and it's only <Tuesday/Wednesday/Thursday>.,12,18,male,,,,,,,,,,,,,,,
+Student,I've been thinking about joining the <chess/speech and debate/glee/Amnesty International/science/art/photography/book/foreign language/social media/underwater basket weaving> club at my school.,12,18,,,,,,,,,,,,,,,,x
+Student,I think my teacher may be experiencing <irritable bowel syndrome/gas issues>.,8,18,,,,,,,,,,,,,,,,x
+Student,I'm starting to develop a crush on my teacher.,6,18,,,,,,,,,,,,,,,,x
+Student,I think my teacher may have a crush on me.,15,18,,,,,,,,,,,,,,,,x
+Student,I've become nervous lately that I will get a <boner/stiffy/hard-on/woody> at <school/the school dance/church/the library/the dinner table/the football game/dance recital/the speech and debate tournament/the spelling bee/the swim meet/the farmers market/the park>.,10,18,male,,,,,,,,,,,,,,,
+Student,I've been experiencing anxiety about <the way I look/my grades/school exams/school/being bullied/my homework/talking to someone I like>.,12,18,,,,,,,,,,,,,,,,x
+,I took a sip of scorching hot <coffee/tea/soup/espresso/cappuccino/apple cider> and it burned my tongue for <num2-10> weeks.,16,,,,,,,,,,,,,,,,,x
+,My <body-part> has been particularly sore lately.,8,,,,,,,,,,,,,,,,,x
+,I have stepped in gum <num2-100> times this year and it's only <February/March/April/May>.,10,,,,,,,,,,,,,,,,,x
+,I've been really feeling like <meditating/going clubbing/seeing a movie/getting some exercise/reading up a little/going on a vacation/becoming more active in social media/playing the lottery> lately.,21,,,,,,,,,,,,,,,,,x
+,I've been seeing <the number 4/crying children/sugar daddies with sugar babies/people slip and fall/weird shadows/shooting stars> a lot lately. Almost too much.,,,,,,,,,,,,,,,,,,x
+,"I find myself wondering a lot lately about how <dogs would wear pants/""vitamin"" is short for ""vital mineral""/lasagna is just spaghetti-flavored cake/kangaroos are pretty much T-rex deer/we eat pizza from the inside out/my stomach thinks all potatoes are mashed/to fall asleep, you have to pretend you're sleeping/moms get a day, but sharks get a whole week/nothing is on fire, fire is on things>.",10,30,,,,,,,,,,,,,,,,x
+,I got a bad fever of <decnum100-105> degrees.,2,,,,,,,,,,,,,,,,,x
+,I've been having a hard time sleeping because of my neighbor's <barking dog/moaning/moaning wife/moaning girlfriend/grunting/loud masturbation habits/all-night sex parties/late-night parties/loud music/late-night band practice/farm animals/late-night D.I.Y. projects/singing/guitar solos/crying baby/fights with his girlfriend/fights with her boyfriend>.,21,,,,,,,,,,,,,,,,,x
+,I've been considering exploring my <bondage/spanking/flogging/role-play/foot/voyeurism/trichophilia/knismolagnia/nasolingus/urophilia/agalmatophilia/swinging/domination/submission> fetish.,18,,,,,,,,,,,,,,,,,
+,I've been considering trying to learn to play the <piano/flute/guitar/ukulele/drums/tuba/oboe/clarinet/banjo/trumpet/trombone/cello/violin/viola/bagpipes/bass guitar/didgeridoo/harp/mandolin/organ/xylophone/tambourine>.,14,,,,,,,,,,,,,,,,,x
+,I've been considering taking <hip-hop/ballroom/tango/jazz/ballet/tap/swing/country-western/contemporary/belly/flamenco/folk/salsa/mambo/foxtrot/waltz/Charleston/line/zumba> dance lessons.,30,,,,,,,,,,,,,,,,,x
+,I've been contemplating learning how to cook <ramen/spaghetti/lasagna/pizza/sushi/pancakes/fajitas/tacos/burritos/cornbread/jambalaya/meatloaf/enchiladas/wings/apple pie/chili/steak/fried chicken/gumbo/kung pao chicken/chow mein/escargot/macaroni and cheese/tuna casserole/sloppy joes/roasted chicken/beef stroganoff/crab cakes>.,12,,,,,,,,,,,,,,,,,x
+,I'm starting to question my sexuality.,14,,,straight,,,,,,,,,,,,,,x
+,I have been feeling a need to be healthier and am exploring <yoga/meditation/affirmations/cycling/running/walking/gym memberships/swimming/pilates/zumba classes>.,16,,,,,,,,,,,,,,,,,x
+,I dropped my phone in <the toilet/a lake/a river/a creek/a glass of water/the sink/a swimming pool/a hot tub> and it took <num2-9> days to be fixed.,10,,,,,,,,,,,,,,,,,x
+,I injured my <body-part> while <running/jumping/walking/swimming/jogging/hiking>. It took <num2-9> weeks to heal.,14,,,,,,,,,,,,,,,,,x
+,I injured my <body-part> while having sex. It took <num2-9> weeks to heal.,18,,,,,,,,,,,,,,,,,x
+,"I completed a <marathon/half marathon/triathlon/5k race>, and my body hurt for <num3-15> days.",16,,,,,,,,,,,,,,,,,x
+,My <laptop/desktop computer/computer> was hacked and my accounts were compromised.,18,,,,,,,,,,,,,,,,,x
+,I received a <letter/email/phone call> that someone has tried to steal my identity.,18,,,,,,,,,,,,,,,,,x
+,I am required to serve <num2-30> days on jury duty.,18,,,,,,,,,,,,,,,,,x
+,I'm starting to think that my vision is getting worse.,40,,,,,,,,,,,,,,,,,x
+,I'm starting to suspect that my best friend is experimenting with <drug>.,14,,,,,,,,,,,,,,,,,
+,I believe I saw <a ghost/an alien/a UFO> while taking a walk at night.,12,,,,,,,,,,,,,,,,,x
+,I got stuck in an elevator with a <stranger/nudist/creeper/grandma/grandpa/priest/nun/rabbi/clown/lawyer/sorority girl/frat boy/surfer/tech bro/homeless man/druggie/skank/know-it-all/close talker/salesman/cat> for <num2-9> hours.,12,,,,,,,,,,,,,,,,,x
+,I had an opportunity to be an extra on a movie set.,,,,,,,,,,,,,,,,,,x
+,I have been considering working on a political campaign.,16,,,,,,,,,,,,,,,,,x
+,"I went to visit my boy, <8-ball/Crazy 8/Slim/Knuckles/Lucky/Red/Blue/Scar/Fat Tony/T-bone/Vito/Rocks/The Don/Baldie/Bootsie/Doug/Nathaniel/Ebenezer/Lil' D>, at the prison.",18,,male,,,,,,,,,,,,,,,x
+,"I went to visit my girl, <Bambi/Red/Queenie/Diamond/Missy/Nails/Pearl/Bonnie/Brooklyn/Queen Bee/Cheeks/Dollface/Rosie/Ruby/Stiletto/Frenchie/Vixon/Jersey/Widow/Kitty/Juggs/Laquisha/Brittney/Gertrude/Doris/Loose-P>, at the women's prison.",18,,female,,,,,,,,,,,,,,,x
+,"While crossing a bridge, I convinced <a woman/a lady/a girl/a boy/a man/an old man/an old lady/a priest/a nun/a lawyer/a teacher/a politician/a homeless man/a homeless woman/a druggie/an app developer> on the ledge not to jump.",12,,,,,,,,,,,,,,,,,x
+,I stayed up for <num24-72> hours straight due to insomnia.,14,,,,,,,,,,,,,,,,,x
+,I was suckered into helping a friend move. It took <num2-18> hours to get everything done.,18,,,,,,,,,,,,,,,,,x
+,I looked directly into a solar eclipse and couldn't see for <num2-30> days.,8,,,,,,,,,,,,,,,,,x
+,I got kicked out of a bar for calling the <bartender/barback/server/waitress/cocktail server/bouncer/manager/owner> <insult>.,21,,,,,,,,,,,,,,,,,x
+,I committed to volunteering at <a school/a homeless shelter/a hospital/a children's hospital/an animal rescue shelter/a national park/a library/a museum/a retirement home> for <num2-12> months.,21,,,,,,,,,,,,,,,,,x
+,I was <jogging/walking/running/riding on a bike> and I swallowed a <fly/mosquito/ladybug/grasshopper/cricket/bee/beetle/wasp/hornet/dragonfly/butterfly/moth>.,12,,,,,,,,,,,,,,,,,x
+,I went golfing and <crashed the golf cart/got a hole-in-one/hit another golfer with my ball/got hit by another golfer's ball/fell into the lake>.,14,,,,,,,,,,,,,,,,,x
+,While hiking I got stuck in quicksand for <num2-59> minutes before escaping.,10,,,,,,,,,,,,,,,,,x
+,I <crashed on my bike/got into a car accident/walked into a pole/fell and hit my head/crashed on a sled/got bucked off a horse/walked into a glass door/fell down some stairs/got elbowed dancing at a concert/got thrown off a treadmill/tripped on my phone charger/fell out of a speedboat/crashed while skiing/crashed while snowboarding/crashed while waterskiing/got hit by a foul ball/hit my head riding a rollercoaster/hit my head on the toilet while vomiting> and got a concussion.,16,,,,,,,,,,,,,,,,,x
+,I've decided to try <the Atkins/the South Beach/the Ketogenic/the Zone/a raw food/the Mediterranean/a vegan/a vegetarian/a low-fat/a low-carb/a sugar-free/a dairy-free/a gluten-free/ an ice cream-only> diet for <num2-16> weeks.,16,,,,,,,,,,,,,,,,,x
+,I was eating <ramen/spaghetti/lasagna/pizza/sushi/pancakes/fajitas/tacos/burritos/cornbread/jambalaya/meatloaf/enchiladas/wings/apple pie/chili/fried chicken/gumbo/kung pao chicken/chow mein/escargot/macaroni and cheese/tuna casserole/sloppy joes/roasted chicken/beef stroganoff/crab cakes> and found a <fly/cockroach/hair/fingernail/condom/tooth/bandage/spider/worm> in my food.,16,,,,,,,,,,,,,,,,,x
+,I accidentally dropped my <phone/ring/watch/glasses/sunglasses/medicine bottle/contact lens> into the garbage disposal while it was running.,18,,,,,,,,,,,,,,,,,x
+,I popped what I thought was a pimple and out came <spiders/a worm/an ingrown hair/a bug/eggs/a splinter/a piece of glass>.,12,18,,,,,,,,,,,,,,,,x
+,I received <num3-99> phone calls from <a political party/a realtor/a banker/an insurance agent/the cable company/a church/a non-profit organization> in one week. I'm questioning their intentions.,18,,,,,,,,,,,,,,,,,x
+,I got locked out of the house and had to wait outside for <num2-9> hours.,18,,,,,,,,,,,,,,,,,x
+,I've received about <num10-300> spam emails a day lately and I'm wondering if someone is out to get me.,16,,,,,,,,,,,,,,,,,x
+,I called my <bank/credit card company/cable company/internet company/doctor/health insurance company/phone service company> and waited on hold for <num5-59> minutes. I'm now considering looking for a new one.,18,,,,,,,,,,,,,,,,,x
+,My <washing machine/dishwasher/sink/toilet/pipe> broke and flooded everything.,18,,,,,,,,,,,,,,,,,x
+,I was hoping for <a phone/a tablet/a computer/a car/an iPhone/an iPad/a laptop/a camera/a dog/a watch/a jacket/a hoodie/a segway/a bike/a hoverboard> for my birthday but instead got <a book/a pen/a sweater/a keychain/a pair of socks/a calendar/a cat/a vacuum/a mop/a broom/a fruitcake/a scale/a widget/a paperweight/a toothbrush/a comb/tweezers>.,10,,,,,,,,,,,,,,,,,x
+,I'm starting to suspect that I may have been adopted.,10,20,,,,,,,,,,,,,,,,x
+,I suffered from constipation for <num2-29> days and am beginning to think there may be something wrong with my body.,14,,,,,,,,,,,,,,,,,x
+,My boobs are getting a little saggy so I am considering getting <implants/a lift>.,30,,female,,,,,,,,,,,,,,,x
+,My wrinkles are starting to bother me so I am thinking about getting <Botox/a facelift/plastic surgery>.,40,,,,,,,,,,,,,,,,,x
+,Lately I've been wondering if I'm actually straight.,,,,gay,,,,,,,,,,,,,,x
+,I'm feeling depressed that I will soon be turning 40.,39,39,,,,,,,,,,,,,,,,x
+Social Media,A celebrity replied to a tweet that I posted.,18,,,,,,,,,,,,,,,,,x
+,I had a <dream/daydream/fantasy> that I <sang at the Superbowl halftime show/caught the Superbowl-winning touchdown/got the game winning hit in the World Series/kicked the game winning goal in the World Cup/performed on the main stage at Coachella/won an Oscar/won a Grammy/won a Nobel Prize/won a Pulitzer Prize/won a Golden Globe/won an Emmy/won an MTV Video Music Award/won a Tony/had a top 40 song/was the President/was a superhero/stopped a bank robbery/won a gold medal at the Olympics/won a UFC fight/was married to a model/had a twin/was a triplet/won The Masters golf tournament/was a Wimbledon tennis champion/was a heavyweight champion boxer/could fly/scored the game-winning goal in the Stanley Cup/won the Heisman trophy/won the Daytona 500/won the Kentucky Derby/won the Indianapolis 500/won the Tour de France/lived in a mansion/was a princess/was a king/won the lottery/saved a baby's life>.,10,,,,,,,,,,,,,,,,,x
+,I had a <nightmare/dream> that I <peed my pants in public/got into a car crash/got killed in battle/struck out to lose the World Series/missed the game-winning kick in the World Cup/dropped the game-winning touchdown in the Superbowl/was a prostitute/was homeless/got impregnated by Donald Trump/got knocked out in a boxing match/crashed in the Daytona 500/crashed in the Tour de France/had my whole body waxed/was addicted to drugs/won the lottery but lost the ticket/got into a plane crash/went skydiving and the parachute didn't open/farted in class very loudly/farted at work very loudly>.,18,,,,,,,,,,,,,,,,,x
+Social Media,<musician> replied to a tweet that I posted.,14,,,,,,,,,,,,,,,,,x
+,I injured my <body-part> while masturbating. It took <num2-9> weeks to heal.,15,,,,,,,,,,,,,,,,,
+,I voted for the first time.,18,30,,,,,,,,,,,,,,,,x
+,I got a tattoo.,18,25,,,,,,,,,,,,,,,,x
+,I opened a bank account.,18,25,,,,,,,,,,,,,,,,x
+,I got my first credit card.,18,21,,,,,,,,,,,,,,,,x
+,I'm having a mid-life crisis and so I'm considering getting a facelift.,35,45,,,,,,,,,,,,,,,,x
+,I ate some super spicy <wings/sauce/salsa/peppers/curry/wasabi/Mexican food/Indian food/Cajun food/Thai food/Chinese food/Korean food> and my <butt/colon/anus/stomach/digestive system> paid the price for <num2-12> days.,18,,,,,,,,,,,,,,,,,x
+,I got a <nipple/nose/septum/genital/ear/eyebrow/lip/cheek/tongue> piercing for my 18th birthday.,18,18,,,,,,,,,,,,,,,,x
+,I think my neighbor may be <dealing/manufacturing/distributing/selling/moving/peddling/pushing/slinging/doing/using/abusing> <drug-illegal>.,21,,,,,,,,,,,,,,,,,x
+,I've been dealing with some acne on my <face/neck/back/arms/legs/buttocks>.,14,30,,,,,,,,,,,,,,,,x
+Car,"I spent <num100-500> hours of this year sitting in traffic. I could have learned something, could have gone somewhere.",16,,,,,,,,,,,,,,,,,x
+,"Lately, I've had a strong urge to <meditate/go clubbing/see a movie/get some exercise/read the backs of shampoo bottles/go on a vacation/play the lottery>.",18,,,,,,,,,,,,,,,,,x
+,"I think I'm starting to develop an irrational fear of <mustard/birds/balloons/red-colored food/saturated fats/sporks/spider webs, not the spider, just the webs/aging/being stared at/sock and sandal wearers/beer pong/cashiers>. The first step is realization, isn't it?",15,,,,,,,,,,,,,,,,,
+Student,I was crowned ruler of the <swings/jungle gym/sandbox/soccer field/slide/monkey bars/merry-go-round/teeter-totters/tire swing/witch's hat/balance beam> at recess.,4,13,,,,,,,,,,,,,,,,x
+,"<child> just revealed a horrifying new tattoo to me, <a crying clown/a dead bear/tear drops/a naked cat/a blood sausage/a cartoon of Chucky/the number 69>.",,,,,,,Child,18,,,30,,,,,,,
+,<child> has been getting straight <A's/B's/C's/D's/F's> in <mathematics/English/social studies/science/chemistry/gym/statistics/pre-calculus/world geography/psychology/government/history>.,,,,,,,Child,13,17,,,,,,,,,x
+,"<child> just said his first word: ""<dada/mama/no/yes/bitch/money/stupendous/choppa/BitLife/dope/cool/hello/savage/titty/booby/caca/clean/gone/hide/peek-a-boo/sit/tickle>"".",,,,,,,Child,2,5,,,male,,,,,,
+,"<child> just said her first word: ""<dada/mama/no/yes/bitch/money/stupendous/choppa/BitLife/dope/cool/hello/savage/titty/booby/caca/clean/gone/hide/peek-a-boo/sit/tickle>"".",,,,,,,Child,2,5,,,female,,,,,,
+,<child> has developed an irrational fear of <trees/shadows/ants/being complimented/balloons/flip-flops/Barney/bearded men/pregnant women/the bathtub/the closet/loud music/the moon/swing sets/chicken wings/dogs/cats/Shrek/mailboxes/forks/spoons>.,,,,,,,Child,4,14,,,,,,,,,x
+,<child> won't eat anything other than <peas/steak/corn/pudding/cashews/grapes/goldfish/watermelon/crepes/canned cheese/burnt pizza/dry cereal/brussels sprouts/pickles/creme brul\351e/foie gras/beef wellington/lamb sauce>.,,,,,,,Child,3,12,,,,,,,,,x
+,<child> just admitted that they regularly use <cocaine/heroin/GHB/MDMA/acid/bath salts/meth/PCP/scopolamine/flakka/crack/krokodil>.,,,,,,,Child,16,30,,20,,,,,,,
+,"<child> said if they could have any superpower, they'd choose <flight/heat-vision/invisibility/teleportation/time control/super strength/super speed/telekinesis/fire bending/water bending/air bending/earth bending/mind control/elasticity/shapeshifting/x-ray vision/weather control/animal control/water breathing/regeneration>.",,,,,,,Child,4,,,,,,,,,,
+,"<child> commented on my parenting skills, saying I was a <great/good/crazy/fantastic/bad/horrible/neglectful/stupendous/perfect/strict/lenient/busy/loving/funny/model> parent.",,,,,,,Child,20,,,,,,,,,,x
+,"Over the past few <days/weeks/months>, <child> has been behaving <weirdly/badly/rambunctiously/very well/amazingly/very bad/suspiciously/crazily/wildly/like an angel/like a demon/super bratty>.",,,,,,,Child,11,18,,,,,,,,,x
+,"<child> asked me, ""<My belly hurts...am I pregnant/Are you a pirate/In the olden days was everything black and white/Are the cookies loading/Why do I have two eyes if I only see one thing/Why do spiders run away when I fart/Why did swear words get invented if we're not allowed to say them/Did ants invent the world's first social network/Why is the moon called the moon/Are there infinite words/What did it feel like on your last day of being a child/Why can't I see my eyes/Why don't crabs have eyebrows/Where do thoughts come from/How do you smoke a pot? Do you stick your head in it/Why's your tummy big/When are you gonna die/Do green eyes see everything in green/Are we in a dream/Are we in a simulation/Do you see aliens sometimes>?\u201d.",,,,,,,Child,4,10,,,,,,,,,
+Student,<random-first-name-female> threw <crayons/pencils/markers/erasers/paint/pencil shavings/glue/chewed up gum/books/boogers/pennies/toenails> at me in class.,6,13,,,,,,,,,,,,,,,,x
+Student,"We got to play <tag/freeze tag/Capture the Flag/tug-of-war/hide and seek/parachute/four square/hopscotch/red light, green light/Simon says/Marco Polo/Red Rover/Heads Up Seven Up/musical chairs/telephone/four corners> during gym class!",6,13,,,,,,,,,,,,,,,,x
+Student,I saw <sibling> during recess. It was <really fun/awesome/crazy/wild/amazing/lit/the best recess ever>!,6,13,,,,,Sibling,6,14,70,,,,,,,,x
+Student,I saw <sibling> during recess. It was <horrible/a bad time/weird/gross/the worse recess ever/annoying/awful/disgusting/nasty>.,6,13,,,,,Sibling,6,14,,40,,,,,,,x
+Student,My new teacher keeps telling me how <amazing/incredible/smart/bright/nice/rowdy/distracted/spacey/studious/crazy/wild/prepared/disruptive> <sibling> used to be in her class.,6,13,,,,,Sibling,14,,,,,,,,,,x
+Student,My old teacher keeps telling me how <amazing/incredible/smart/bright/nice/rowdy/distracted/spacey/studious/crazy/wild/prepared/disruptive> <sibling> is in her class now.,18,,,,,,Sibling,6,17,,,,,,,,,x
+Student,I saw some kids passing around <drug> behind the <tennis courts/basketball courts/soccer fields/football fields/parking lot/gym/theater stage> after the final bell at school.,13,18,,,,,,,,,,,,,,,,
+Student,"They served my favorite food, <chicken nuggets/burgers/rectangle pizza/corndogs/mini corn dogs/spaghetti & meatballs/ground beef nachos/bagged burritos/salad/hotdogs/tacos/fish sticks/sloppy joes/lasagna/salisbury steak>, for lunch <num10-30> times in <num2-6> months. T'was a good year for lunchtime.",8,17,,,,,,,,,,,,,,,,x
+Student,My teacher asked me a question when I wasn't paying attention <num2-10> times in one week. I got <all/most/half/none> of them <right/wrong>.,10,,,,,,,,,,,,,,,,,x
+Student,I fell asleep at my desk <num10-40> times in <num2-4> weeks.,13,18,,,,,,,,,,,,,,,,x
+,<sibling> <taped me to a chair/tied me to a chair/drew on my face while I was sleeping/gave me a swirly/gave me a purple-nurple/charlie-horsed me/told me I was adopted/gave me an snakebite/pinched me/gave me a noogie/gave me a wedgie/put me in a chokehold>. I held on to my resentment for <num2-20> weeks.,4,13,,,,,Sibling,13,18,,40,,,,,,,
+,I've been smelling <alcohol> on my dad's breath for the past <num2-15> nights. He says it's <mouthwash/toothpaste/hand sanitizer/what he ate>.,7,18,,,,,Father,21,,,35,male,,,,,,
+,<sibling> has been trying to get me to listen to <musician>. Maybe I will.,13,,,,,,Sibling,13,,50,,,,,,,,x
+,I've been having <intense/crazy/painful/unbearable/calm/mild/gentle/weak> menstrual cramps this year.,12,55,female,,,,,,,,,,,,,,,x
+,<lover> has been leaving dirty <socks/shoes/dishes/tissues/laundry/towels/underwear> on the <kitchen/hallway/bathroom/bedroom/living room/closet> floor. How annoying.,,,,,,,Lover,,,,50,,,,,,,x
+,<lover> <and I started working out together/brought home my favorite food/got me some sexy gifts/is sharing much more with me/made a photo album of us/made me breakfast in bed/is being much more vulnerable with me/did all the chores I hate doing/wrote me a love note/gave me a massage/rubbed my feet/is setting much more time aside for us/has been frisky lately>.,,,,,,,Lover,,,90,,,,,,,,
+,<lover> thinks I'm not <drinking enough water/showering enough/putting enough effort into my health/being productive enough/living up to my potential/paying enough attention to our relationship/focusing on my dreams/as satisfying in bed as I used to be/the same as when we met>.,,,,,,,Lover,,,10,60,,,,,,,
+,<lover> just told me the story of his first <drug-illegal> experience. It was <eye-opening/shocking/surprising/crazy/unique/super random/quite unexpected>.,18,,,,,,Lover,18,,40,,male,,,,,,
+,<lover> just told me the story of her first <drug-illegal> experience. It was <eye-opening/shocking/surprising/crazy/unique/super random/quite unexpected>.,18,,,,,,Lover,18,,40,,female,,,,,,
+Car,I jammed my <body-part> in the door of my <car-type>.,16,,,,,,,,,,,,,,,,,
+Car,Why does my <car-type> always smell like <garbage/manure/a skunk/sweat/morning breath/feet/dirty socks/roses/cinnamon/lavender/clean linen/lemongrass/eggplant/soy sauce/cat litter/grape Jell-O/the inside of a belly button/apple cider vinegar/burnt hair/sulfur/a hot yoga session/bubblegum/passionfruit>?,16,,,,,,,,,,,,,,,,,
+Car,I put a sticker decal of <fighting penguins/a family of 13/Link the legendary swordsman/naughty vegetables/my favorite superhero/my favorite super-villain/<musician>/my favorite anime/my name/my last name in Old English/Godzilla/my favorite president/a groaning zombie/BitLife/lasagna> on my <car-type>.,16,,,,,,,,,,,,,,,,,x
+Car,<lover> attached a <headshot/rabbit's foot/horseshoe/mini bottle of hand sanitizer/lanyard/mini flask/bottle opener/canister of pepper spray/taser/keychain of our anniversary> to my car keys.,16,,,,,,Lover,,,70,,,,,,,,
+,<lover> often needs help <standing up/showering/getting up in the mornings/walking up stairs/using new technology/reading/remembering things>.,70,,,,,,Lover,70,,,,,,,,,,x
+,<lover-possessive> <morning routine is/nightly routine is/style is/voice is/beauty routine is/long nails are/jealousy is/hour-long blowdrying sessions are/shopping sprees are/lipstick abuse is/overwhelming perfume is/germophobia is/constant nagging is/unrealistic expectations are/OCD is> getting really annoying now.,18,,male,straight,,,Lover,18,,,40,,,,,,,x
+,<lover-possessive> <arrogance is/over-masculinity is/video-game use is/jealousy is/lack of communication is/overwhelming cologne is/beard trimmings around the sink are/voice is/jokes are/laziness is/car obsession is/pride is/selfishness is/cocky remarks are/bathroom habits are> getting really annoying now.,18,,female,straight,,,Lover,18,,,40,,,,,,,x
+,<grandchild> gifted me a <dead bird/dead cockroach/voodoo doll/lollipop stick/bullet shell/used band-aid/used condom/candy wrapper/dandelion/leaf/stick/pebble/toothbrush/styrofoam cup/penny> that he found <on the ground/outside/at the park/at school>.,,,,,,,Grandchild,5,11,,,male,,,,,,
+,<grandchild> said that it's always more fun with me than it is at home.,,,,,,,Grandchild,5,20,40,,,,,,,,x
+,<grandchild> said that hanging out with me is <boring/annoying/dumb/pointless/useless/no fun/stupid/a waste of time>.,,,,,,,Grandchild,10,20,,,,,,,,,x
+,Something tells me that <grandchild> will be the next one in the family to have a child.,,,,,,,Grandchild,17,,,,,,,,,,x
+,<grandchild> has been asking me to <bake cookies/bake brownies/bake a cake/make dolls/make a dollhouse/make crafts/film makeup tutorials/film song covers/host a fashion show/play pretend/host a puppet show> with her.,,,,,,,Grandchild,4,12,40,,female,,,,,,x
+,<grandchild> has been asking me to <play outside/have a sword fight/wrestle/watch cartoons/jump on a trampoline/play cops & robbers/race/throw a ball around/play monkey-in-the-middle/have a camp out> with him.,,,,,,,Grandchild,4,12,40,,male,,,,,,x
+,<grandchild> randomly called me <insult>.,,,,,,,Grandchild,14,,,20,,,,,,,
+,I've had to pick up <child> from school <num2-10> times in a month because she keeps <pulling girls' hair/throwing chewed up gum into girls' hair/kissing people/spitting on her classmates/sending teachers nasty notes/slapping boys/mooning teachers/crying> in class.,,,,,,,Child,6,15,,60,female,,,,,,
+,I've had to pick up <child> from school <num2-10> times in a month because he keeps <punching kids/getting naked/shredding books/kissing people/hitting himself/climbing out the window/releasing his homeroom pet/throwing stink bombs/filling his pants with glue/starting food fights> in class.,,,,,,,Child,6,15,,60,male,,,,,,
+,<child> wants to have his first shot of <alcohol> with me.,,,,,,,Child,21,,50,,male,,,,,,
+,I've just been informed of the loving relationship between <child> and <an imaginary friend/a tree/the neighbors' dog/<musician>/a poster of <musician>/a stick doll/an action figure>.,,,,,,,Child,4,10,,,,,,,,,x
+,<child> told me that the best job on Earth is obviously <an actor/an animator/a bartender/a beekeeper/a chef/a clown/a dentist/a firefighter/a judge/a magician/a nurse/a painter/a teacher/a stuntman/a writer/a BitLife writer>.,,,,,,,Child,4,13,,,,,,,,,x
+,I've missed out on a total of <num50-100> hours of sleep in a month because of <child-possessive> <late-night crying/whining/insane energy/endless hunger/teething pain>.,,,,,,,Child,1,3,,,,,,,,,x
+Car,<child> loves riding around in my <car-type>.,16,,,,,,Child,3,12,,,,,,,,,x
+Car,<child> falls asleep every time we go for a ride in my <car-type>.,16,,,,,,Child,2,15,,,,,,,,,x
+Car,<sibling> is showing obvious signs of jealousy over my <car-type>.,16,,,,,,Sibling,15,,,50,,,,,,,x
+Car,<lover> likes to drive my <car-type> even more than I do.,16,,,,,,Lover,16,,,,,,,,,,x
+,<child> wants to know why we don't go on vacation more often.,,,,,,,Child,4,20,,,,,,,,,x
+,I've seen <lover-possessive> ex's name appear on her notification center <num2-8> times now. Something's fishy.,,,,,,,Lover,,,,50,female,,,,,,x
+,<lover-possessive> bank account is looking <good/healthy/nice/attractive> right now. Won't be long...,18,40,,,,,Lover,75,,,,,,,,,,x
+,"<lover> says that if we ever meet <musician>, a hall-pass will be issued in our relationship. I'm <alright/ok/not ok/on board/not on board> with that.",18,,,,,,Lover,18,,,,,,,,,,x
+,I found out that <child> is getting bullied at school for having <flamboyant/girly/feminine> tendencies.,,,,,,,Child,13,17,,,male,gay,,,,,
+,I found out that <child> is getting bullied at school for having <rough/masculine/non-girly> tendencies.,,,,,,,Child,13,17,,,female,gay,,,,,
+Student,I've started to think about shaving my <face/back/chest/pubes/armpits/butt> after hearing some guys talk about it in <the locker room/class/gym class/the bathroom>.,13,17,male,,,,,,,,,,,,,,,
+Student,I've started to think about shaving my <face/legs/stomach/pubes/armpits/butt/arms> after hearing some girls gossip about it in <the locker room/class/gym class/the bathroom>.,13,17,female,,,,,,,,,,,,,,,
+,<sibling> and I can now communicate telepathically. We can read each others' eyes.,13,,,,,,Sibling,13,,60,,,,,,,,x
+,<sibling> and I sometimes communicate by using only <TV show/movie/cartoon/song/video game/commercial/infomercial/sports/meme/Vine> references. We get some stares.,13,,,,,,Sibling,13,,60,,,,,,,,x
+,I fell out of bed and injured my <body-part> for <num2-8> days.,4,,,,,,,,,,,,,,,,,x
+,I went for a run and collapsed on the sidewalk due to heatstroke.,15,55,,,,,,,,,,,,,,,,x
+,A blind man hit me with his cane and called me <insult>.,18,,,,,,,,,,,,,,,,,x
+,I seem to have developed an allergy to <bees/portobello mushrooms/dust/cotton/shellfish/leather/aluminum/grapes/wheat/polyester>.,30,,,,,,,,,,,,,,,,,x
+,I went to the beach and <survived a shark attack/got stung by a jellyfish/saved a stranded dolphin/stepped on a used syringe/ran through a child's sand castle>.,22,60,,,,,,,,,,,,,,,,x
+,I had a dream about <musician> and woke up to sticky sheets.,16,60,male,,,,,,,,,,,,,,,
+,I helped a woman deliver her baby <in the back of an Uber/on an airplane/while we were stuck in an elevator/while off-roading/on a yacht/in a swimming pool/in the middle of a hurricane> with the help of a YouTube video.,18,,,,,,,,,,,,,,,,,x
+,I'm considering dying my hair gray to attract more mature women.,18,35,male,straight,,,,,,,,,,,,,,x
+,I've been feeling self-conscious and I'm considering getting a penis enlargement.,18,40,male,,,,,,,,,,,,,,,
+,I've been feeling self-conscious and I'm considering getting <eyelid surgery/a liposuction/a tummy tuck/a nose job/some botox>.,18,,,,,,,,,,,,,,,,,x
+,"My pee smells funny, <maybe I need to take more vitamins/maybe I'm taking too many vitamins/I should lay off the asparagus>.",20,,,,,,,,,,,,,,,,,x
+,A friend told me that <drug> helped relieve <his/her> <arthritis/hiccups/cough/anxiety/allergies/migraines/fear of heights>.,30,,,,,,,,,,,,,,,,,
+,I spend way too much time <listening to podcasts/practicing my juggling act/talking to stray cats/reorganizing my junk drawer/reminiscing about Myspace/thinking about aliens/washing my hands/indoors/thinking about robots>.,20,,,,,,,,,,,,,,,,,x
+,I scratched <a mosquito bite/an ant bite/a pimple> until it bled.,12,30,,,,,,,,,,,,,,,,x
+,"I tried, and failed, to <lick my elbow/ride a unicycle/run a marathon/raise an ant farm/ride a wild dolphin/make a balloon animal/read Game of Thrones/teach myself to use echolocation/build a bird house>.",12,,,,,,,,,,,,,,,,,x
+,I just found out that my smart phone has <a calculator/a flashlight/a camera/other games available for it besides BitLife>.,45,,,,,,,,,,,,,,,,,x
+,I'm <decnum1-99>% sure that <I'm a psychic/I can talk to ghosts/I can chug a gallon of beer/I couldn't steal candy from a baby/I could win a fight against a bear/I can hold my breath for 5 minutes/I can eat an entire watermelon in one sitting/I can start a fire with only toothpaste and sandpaper/I can build an iPhone from scratch/I could beat anyone in a thumb war>.,21,,,,,,,,,,,,,,,,,x
+,I'm feeling depressed because after this birthdays don't matter anymore.,21,21,,,,,,,,,,,,,,,,x
+,I've sometimes wondered how it would feel to <eat nothing but cotton candy for a year/be a tortoise/live with cannibals/jump into a swimming pool filled with grape jelly/be 8 feet tall/vomit in space/feed bacon to a pig/feed a hamburger to a cow/be the last person on Earth/wear shoes on your hands and shake feet when meeting someone/successfully rob a bank>.,16,,,,,,,,,,,,,,,,,x
+,I've had to clear my search history every time I have friends over.,18,,,,,,,,,,,,,,,,,x
+,I have developed the bad habit of <picking and eating my scabs/biting my nails/picking my nose in public/scratching my crotch and sniffing my fingers/popping other people's pimples/squeezing too hard when I shake hands/not covering my mouth when I sneeze>.,6,,,,,,,,,,,,,,,,,
+,I have developed an unhealthy obsession with <landscaping/googling Lady Gaga/collecting old magazines/the Amazon River/the Macarena/the color blue/cracking my knuckles/the sound of paper tearing/peeling stickers off of other people's cars/distracting people just before they sneeze/milk/pilates/wearing boots>.,15,,,,,,,,,,,,,,,,,
+,I went to the beach and got a sunburn that lasted for <num2-20> days.,12,,,,,,,,,,,,,,,,,x
+,I somehow managed to kill a desktop cactus.,15,,,,,,,,,,,,,,,,,x
+,"I finally <solved a Rubik's Cube/finished a 10,000 piece puzzle/got a new pair of running shoes/learned how to play the piano/overcame my fear of public speaking>.",16,,,,,,,,,,,,,,,,,x
+,I went to a caf\351 and <witnessed a robbery/accidentally dropped my keys in the toilet/saw a homeless man urinating in public/spilled my coffee on a stranger's laptop>.,20,,,,,,,,,,,,,,,,,
+,I decided to ignore the voices in my head.,16,,,,,,,,,,,,,,,,,x
+,I got yelled at by an elderly woman at the grocery store.,12,40,,,,,,,,,,,,,,,,x
+,I tripped over <a shoe/my phone charger/a child/a garbage bin> and <injured/tore/ripped/sprained/hurt> my <calf/elbow/shoulder/ankle/kneecap/pinky toe> for <num2-8> weeks.,20,,,,,,,,,,,,,,,,,x
+,For some reason <car tires/cowboy hats/mice/parking meters/chairs/computers/shower heads/green things/hiking boots/donkeys> are starting to remind me of <ice cream/coffee/my childhood/milkshakes/strawberries/oranges/salt water taffy/a thoroughly cooked steak/pastries/cheesy crust pizza/Milk Duds/rap music>.,30,,,,,,,,,,,,,,,,,x
+,I wore the same <underwear/socks> for <num2-12> weeks.,6,,,,,,,,,,,,,,,,,x
+,I went <num2-12> weeks without taking a shower.,6,,,,,,,,,,,,,,,,,x
+,I should learn <karate/taekwondo/muay thai/jiu jitsu/boxing/kickboxing> just in case the zombie apocalypse happens.,16,,,,,,,,,,,,,,,,,x
+,I should really <drink less coffee/read more often/drink more water/drink less soda/eat healthier/spend more time outside/exercise more>.,30,,,,,,,,,,,,,,,,,x
+,"I bent down to tie my shoes and <a lady ran me over with her stroller/a dog peed on my back/a car drove by, ran over a puddle, and soaked my clothes/a bum touched my face/a little boy spat gum in my hair>.",15,,,,,,,,,,,,,,,,,x
+,A friend told me that regularly massaging your <body-part> can really help to raise your self-esteem.,18,,,,,,,,,,,,,,,,,x
+Student,I had to walk to school even though it was <decnum85-115> degrees outside.,12,16,,,,,,,,,,,,,,,,x
+,I started wearing <flip flops/polos/penny loafers/bowties/hoodies/bowler hats/fedoras> in an attempt to reinvent my image.,16,,,,,,,,,,,,,,,,,x
+,"Whenever I hear <musician> lately, I begin sobbing uncontrollably.",16,,,,,,,,,,,,,,,,,x
+,I learned how to walk.,2,2,,,,,,,,,,,,,,,,x
+,I learned how to read.,4,5,,,,,,,,,,,,,,,,x
+,I learned how to tie my shoes.,5,6,,,,,,,,,,,,,,,,x
+,I accidentally forwarded a naked picture of myself to everyone I know.,20,,,,,,,,,,,,,,,,,x
+,I saw a kid coming toward me on a skateboard and I tripped him because I was jealous of his youth.,70,,,,,,,,,,,,,,,,,x
+,I found a <thumbtack/scorpion/dead mouse/spider/rusty nail/handful of pennies> in my <right/left> shoe.,14,,,,,,,,,,,,,,,,,x
+,I've been listening to <reggae/reggaeton/death metal/classical music/smooth jazz/acapella/crunk punk/danger music/the Sirius XM Spa channel> lately to help me fall asleep.,16,,,,,,,,,,,,,,,,,x
+,I borrowed my friend's fog proof mirror to help me shave those hard-to-reach places in the shower.,18,,,,,,,,,,,,,,,,,x
+,I've been getting <num2-25> phone calls a day from different numbers offering me <health insurance/a brand new crockpot/laser hair removal/a lifetime supply of honey>.,21,,,,,,,,,,,,,,,,,x
+,I was traumatized after watching <an alligator eat/an eagle fly away with/a coyote rip apart/a car back over/a kid punt> my neighbor's toy poodle.,16,,,,,,,,,,,,,,,,,x
+,I'm starting to feel uncomfortable <around old people/in windowless rooms/around balloons/in large large crowds/around babies>.,16,60,,,,,,,,,,,,,,,,x
+Prison,I learned what a prison pocket is.,18,,,,,,,,,,,,,,,,,
+Prison,I\u2019ve realized that prison is nothing like the movies.,18,,,,,,,,,,,,,,,,,x
+Prison,"Lately, I\u2019ve been feeling so ashamed of myself.",18,,,,,,,,,,,,,,,,,x
+Prison,"I heard <Booney/Ry-Ry/Funkee/Catfish/Buck/Mumbles/Red/Nacho/Skittles/Rabbit/Bulldog/Bam Bam/Casper/Spanky> can smuggle in anything for you, even <a gun/a new pair of shoes/a cell phone/a grenade/used panties/a chihuahua/a baby alligator/booze/a gerbil/a rubber ducky>.",18,,male,,,,,,,,,,,,,,,
+Prison,"I heard <Precious/Bambi/Queenie/Diamond/Missy/Nails/Pearl/Bonnie/Bonisha/Rosie/Ruby/Stiletto/Frenchie/Jersey/Widow/Juggs/Laquisha> can smuggle in anything for you, even <a gun/a new pair of shoes/a cell phone/a grenade/a chihuahua/a baby alligator/booze/a rubber ducky>.",18,,female,,,,,,,,,,,,,,,
+Prison,I\u2019ve been thinking a lot lately about how I\u2019d do anything for some real food.,18,,,,,,,,,,,,,,,,,x
+Prison,"Lately, I\u2019ve been thinking that I just want to do my time and get out of here alive.",18,,,,,,,,,,,,,,,,,x
+Prison,I\u2019ve been wondering if they have an inmate <basketball/soccer/softball> league in the prison.,18,,,,,,,,,,,,,,,,,x
+Prison,I\u2019ve noticed the showers in prison are disgusting.,18,,,,,,,,,,,,,,,,,x
+Prison,"While I'm in prison, I am considering <reading more often/learning to weld/perfecting my dish washing technique/working on my prison body>.",18,,,,,,,,,,,,,,,,,x
+Prison,I\u2019ve noticed that it's surprisingly easy to find <drug> in prison.,18,,,,,,,,,,,,,,,,,
+Prison,Maybe I'd make more friends in prison if I shaved my head.,18,,male,,,,,,,,,,,,,,,x
+Prison,I've never met so many unfriendly people.,16,,,,,,,,,,,,,,,,,x
+Prison,I want my blankie.,16,,,,,,,,,,,,,,,,,x
+Prison,I found a <screwdriver/sharpened toothbrush/makeshift shank> taped to the botton of my bunk.,16,,,,,,,,,,,,,,,,,x
+Prison,An inmate <shanked me/punched me/thrashed me/pushed me down the stairs/threw me over the second floor handrail/threw a rock at me> and <injured/perforated/ripped/tore/broke> my <body-part>. It took <num2-12> weeks to heal.,16,,,,,,,,,,,,,,,,,x
+Prison,I\u2019ve been feeling depressed because I'm afraid I'll never get to <see the ocean/play with puppies/play with kitties/play BitLife> again.,16,,,,,,,,,,,,,,,,,x
+Prison,I learned that <drug> is used as currency in prison.,18,,,,,,,,,,,,,,,,,
+Prison,A guard hit me with <his/her> baton and called me <insult> for not making my bed.,18,,,,,,,,,,,,,,,,,
+Prison,I'm not sure how long I'll last in here.,18,,,,,,,,,,,,,,,,,x
+Prison,It's hard to fall asleep with everyone yelling.,16,,,,,,,,,,,,,,,,,x
+Prison,I don't belong here.,16,,,,,,,,,,,,,,,,,x
+Prison,I didn't know holding on to someone's pocket meant that...,18,68,male,,,,,,,,,,,,,,,
+Prison,"I've been working on my <shank/shiv> a lot at night to kill time, and possibly another inmate.",18,,,,,,,,,,,,,,,,,x
+Prison,At night I've been working on <yoga/pilates/sewing/my chess game/my speed reading/my abs/meditation> in my cell.,18,,,,,,,,,,,,,,,,,x
+Prison,"Lately, I've been thinking a lot about <making a getaway/busting out/making a prison break/busting loose/busting out of the joint/escaping>.",18,,,,,,,,,,,,,,,,,x
+Prison,"It's been particularly cold lately, so I've been cuddling with my cellmate at night.",18,,,,,,,,,,,,,,,,,x
+Prison,I'm hoping I can get someone to smuggle me in <some gum/some candy/a cell phone/some money/some stamps/some ramen/some spices/some coffee/a knife/some razor blades/a Playboy/a fleshlight/a blow-up doll/some lotion/some canned sardines/a credit card>.,18,,male,,,,,,,,,,,,,,,
+Prison,I'm hoping I can get someone to smuggle me in <some gum/some candy/a phone/some money/some stamps/some ramen/some spices/some coffee/a knife/some razor blades/a porn magazine/a blow-up doll/a vibrator/a pocket rocket/a dildo>.,18,,female,,,,,,,,,,,,,,,
+Prison,I'm starting to think my cellmate <is kind of cute/has a pretty mouth/has a nice behind/has good physique/is charming/has nice lips/has dreamy eyes/has delicate hands/has a soothing voice/has a thing for me/thinks I'm cute/has been checking out my butt/is into me/is crushing on me>.,18,,,,,,,,,,,,,,,,,x
+Prison,I'm starting to question my sexuality.,18,,,straight,,,,,,,,,,,,,,x
+Prison,I can't wait to be released so that I can eat <pizza/a cheeseburger/spaghetti/ice cream/pie/cake/cookies/steak/ribs/a corndog/a hotdog/a bratwurst/tacos/a burrito/nachos/French fries/fried chicken/a gyro/biscuits and gravy/bacon/orange chicken/teriyaki chicken/sushi/tandoori chicken/fish and chips>.,18,,,,,,,,,,,,,,,,,x
+Prison,I am excited to <drive a car/go to a movie/go to a restaurant/fly a kite/walk in the park/swim in a pool/see my family/see my friends/return to my house/get revenge/commit another crime/go to church/go to the grocery store/make amends/watch sports/watch Netflix/watch Hulu/watch cable TV/go to a play/go to an opera/go to a sporting event/go to a race/play video games/have sex/smoke a cigar/earn money/get a job/cook in my kitchen/go back to school/go on a road trip/go sky diving/go boating/climb a mountain/go snowboarding/start a business/turn my life around/start saving money/choose who I have sex with/go dancing/go to a club/swim in the ocean/play BitLife nonstop> once I am released from prison.,18,,,,,,,,,,,,,,,,,
+Prison,I think I'm starting to get pretty <swole/ripped/jacked/pumped/muscular/strong/yard big> from all my workouts in the yard.,18,,,,,,,,,,,,,,,,,x
+Prison,I've noticed another inmate <staring/gawking/gazing/ogling/looking/glancing> at my <crotch/genitals/butt/behind/buttocks/bottom/backside/rear/mouth/privates/private parts> a lot lately.,18,,,,,,,,,,,,,,,,,
+Prison,"When I get out of <prison/the clink/the pen/the penitentiary/the slammer/jail>, I'm going to listen to <musician> every day.",18,,,,,,,,,,,,,,,,,x
+Prison,I've been seeing a lot of <crimes/violence/sexual acts/sodomy/aggressive behaviors/contraband/drug use/weapons/fights in the yard/riots/gang fights> lately.,18,,,,,,,,,,,,,,,,,
+Prison,I'm starting to understand how <corrupt/crooked/fraudulent/shady> the prison system is in my country.,18,,,,,,,,,,,,,,,,,x
+Prison,I'm starting to think one of the <correctional officers/prison guards/guards> is <insult>.,18,,,,,,,,,,,,,,,,,x
+Prison,I'm starting to think the warden is <insult>.,18,,,,,,,,,,,,,,,,,x
+Prison,I'm starting to question whether or not prisons are truly correctional facilities.,18,,,,,,,,,,,,,,,,,x
+Prison,I've been worrying a lot lately that the capitalization of mass incarceration in my country could be a real threat to society.,18,,,,,,,,,,,,,,,,,x
+Prison,I've noticed a lot of inmates are coming in as non-drug users and leaving prison as drug addicts.,18,,,,,,,,,,,,,,,,,x
+Prison,"The word lately is that inmates will be rioting soon, and I am trying to decide if I want to participate.",18,,,,,,,,,,,,,,,,,x
+,"While getting a teeth cleaning, the dentist asked me how my tongue got so strong.",16,,,,,,,,,,,,,,,,,x
+,"Today at a packed gym, I attempted to get on a treadmill that was already going at full speed, and got tossed off.",18,,,,,,,,,,,,,,,,,x
+,"Lately, I've been questioning the tradition of giving dead vegetation to another person to express love.",14,,,,,,,,,,,,,,,,,x
+,I've been thinking about why Westerners don't wear masks when they have <a cold/the flu/an airborne illness>.,14,,,,,,,,,,,,,,,,,x
+,"Recently, I've been wondering why the Bible is the most stolen book in America.",16,,,,,,,,,,,,,,,,,x
+Fame,Bright camera flashes blinded me for <num2-8> straight hours. Damn paparazzi!,,,,,,,,,,,,,,,,,,x
+Fame,I was bombarded by <fans/paparazzi/TMZ news agents/teenagers> while leaving <the house/the store/a restaurant>.,12,,,,,,,,,,,,,,,,,x
+Fame,Some <crazy/obsessed/deranged> fan keeps <sending me texts/sending me mail/sending me emails/spying on me/going through my trash can at night/sleeping outside my door/calling me from different numbers/following me wherever I go/writing on my stuff with lipstick>. It's creepy!,18,,,,,,,,,,,,,,,,,x
+Fame,Every bouncer in every club shows me extra love due to my fame.,21,,,,,,,,,,,,,,,,,x
+Fame,I've already been asked for my autograph <num50-10000> times this year.,5,,,,,,,,,,,,,,,,,x
+Fame,My friends at school think it's super <cool/dope/rad/awesome/crazy/wild> that people recognize me around town.,6,15,,,,,,,,,,,,,,,,x
+Fame,"A rumor is spreading that I like to <eat sour cream off peoples' feet/wear dogs' clothing/run laps around my backyard naked/spit on fans/show up uninvited to celebrity parties/pray to the moon/sleep upside down, like a bat>. Sigh, the media.",18,,,,,,,,,,,,,,,,,x
+Fame,I hate not being able to <use the bathroom/go out/have a drink/get something to eat/go to the mall/chill outside> without being recognized.,21,,,,,,,,,,,,,,,,,x
+Fame,I've worn some crazy nice <shoes/pants/jewelry/outfits> for red carpet events recently.,14,,,,,,,,,,,,,,,,,x
+Fame,"Despite attempts to conceal my identity, I've already been recognized by fans <num20-100> times this <week/month>.",12,,,,,,,,,,,,,,,,,x
+Fame,"I got recognized while buying <a latte/a coffee/a sandwich/a meal/a smoothie/breakfast/lunch/dinner>, and everyone let me skip to the front of the line.",18,,,,,,,,,,,,,,,,,x
+Fame,"<Friends/Acquaintances/Distant family/Random people> have started asking me for money thinking that, just because I'm famous, I have more than I need.",10,,,,,,,,,,,,,,,,,x
+Fame,I was featured in a <TV/Netflix/Hulu/HBO> special. Critics <loved/hated/were impartial to> it.,10,,,,,,,,,,,,,,,,,x
+Fame,<musician> just asked ME for a picture. We made it!,10,,,,,,,,,,,,,,,,,x
+Fame,I've been getting emails from <musician> to work on some sort of business endeavor.,14,,,,,,,,,,,,,,,,,x
+Fame,I've been finding some <interesting/scary/hilarious/sad/cool/weird/flattering> things about me on <Google/Bing/Yahoo> when I search my name.,10,,,,,,,,,,,,,,,,,x
+Fame,<sibling> is getting really jealous of my fame.,,,,,,,Sibling,15,,,30,,,,,,,x
+Fame,<lover> has been citing my fame as a challenge in our relationship.,14,,,,,,Lover,,,50,80,,,,,,,x
+Fame,I feel so lucky to have <lover> supporting me through the craziness that comes with fame.,14,,,,,,Lover,,,90,,,,,,,,x
+Fame,Celebrity news shows love to talk about the fact that I'm gay. Is it that crazy?,17,,,gay,,,,,,,,,,,,,,x
+Fame,I've read lots of <positive/negative/hateful/supportive/encouraging/reassuring> comments online this year regarding my sexuality.,17,,,gay,,,,,,,,,,,,,,x
+Fame,I had a long talk with <child> about why <there's always cameras taking pictures of us/people hug me when they see me/everyone knows my name/we can't go to the store like normal people/there's always people outside waiting with cameras>.,18,,,,,,Child,4,9,,,,,,,,,x
+Fame,<child> complained to me that I never have time to play anymore.,18,,,,,,Child,4,10,,30,,,,,,,x
+Fame,Kids from <child-possessive> school always think it's so cool that I'm so famous. Popularity points!,18,,,,,,Child,5,17,,,,,,,,,x
+Fame,It's funny seeing <child> adapt to a lifestyle in the limelight. <He/She> loves it!,18,,,,,,Child,6,15,80,,,,,,,,x
+Fame,I've been thinking a lot about how quickly people start acting differently once the success starts rolling in.,18,,,,,,,,,,,,,,,,,x
+Fame,My <restaurant waiter/barista/bartender> took like <num15-100> pictures of us.,21,,,,,,,,,,,,,,,,,x
+Fame,<sibling> asked me to give <his/her> social media account a shoutout using my platform. I got <him/her> <num100-1000> followers in a week.,12,,,,,,Sibling,14,25,75,,,,,,,,x
+Fame,<sibling> tells me that he gets more girls because I'm so incredibly famous.,12,,,,,,Sibling,16,,65,,male,straight,,,,,x
+Fame,One of <sibling-possessive> girlfriends told him she used him to try and seek my <autograph/friendship/attention>.,18,,,,,,Sibling,16,,,30,male,straight,,,,,x
+Fame,One of <sibling-possessive> boyfriends told her he used her to try and seek my <autograph/friendship/attention>.,18,,,,,,Sibling,16,,,30,female,straight,,,,,x
+Fame,I think that <lover> is getting tired of all the media attention.,14,,,,,,Lover,,,30,60,,,,,,,x
+Fame,<lover> acclimated to the celebrity lifestyle much quicker than me.,18,,,,,,Lover,,,80,,,,,,,,x
+Fame,"For some reason, the age difference between <lover> and I has been the topic of discussion online? That's our business!",60,,,,,,Lover,18,30,,,,,,,,,x
+Fame,"I was added to BitLife's BitList of the top 100 ""Coolest Old People of the 21st Century"" this year. Let's hope I keep my spot!",80,,,,,,,,,,,,,,,,,x
+Fame,"I was added to BitLife's BitList of the top 100 ""Youngest Stars on the Rise."" Damn right!",10,30,,,,,,,,,,,,,,,,x
+Fame,"I've received some weird gifts from fans recently. I got a <tooth/lock of hair/sack of crab apples/used toothbrush/framed picture of ham> and some <witchcraft beads/sheet metal/limited time Skittles/old hand-me-down scarves>, to name a few.",5,,,,,,,,,,,,,,,,,x
+Fame,<grandchild> asked me how can I be so famous when I'm so old. Oh...,65,,,,,,Grandchild,4,10,,,,,,,,,x
+Fame,<grandchild> says <he/she> wants to be famous and cool like me in the future.,,,,,,,Grandchild,4,15,80,,,,,,,,x
+Fame,I was told that <grandchild> thinks I value my fame more than my family.,,,,,,,Grandchild,15,,,30,,,,,,,x
+Fame,Some of my fan accounts on <Twitter/Instagram/Reddit> are getting pretty <wild/creepy/annoying/big/popular>!,18,,,,,,,,,,,,,,,,,x
+Fame,I guess some paparazzi took a funny picture of me <drinking a juice box/falling while rollerblading/staring at the wall/laughing with my mouth full/dancing/sneezing/trying to lick my elbow/putting my legs behind my head> and it ended up becoming a hit meme.,5,,,,,,,,,,,,,,,,,x
+Fame,A random <alcohol> company expressed their interest in sponsoring me.,21,,,,,,,,,,,,,,,,,x
+Fame,People often confuse <child> for me in public. He revels in the spotlight.,,,male,,,,Child,20,,50,,male,,,,,,x
+Fame,People often confuse <child> for me in public. She revels in the spotlight.,,,female,,,,Child,20,,50,,female,,,,,,x
+Fame,I secretly like to read through hundreds of comments about myself online. Sometimes it's a bit <depressing/annoying/painful/surreal/frustrating/weird> though.,8,,,,,,,,,,,,,,,,,x
+Fame,I think <child> is getting special treatment in class because of my fame.,,,,,,,Child,5,17,,,,,,,,,x
+Fame,"Lately, I've been thinking about how much the paparazzi <sucks/blows/stinks>.",18,,,,,,,,,,,,,,,,,
+Fame,I've been contemplating punching the next person who puts a camera in my face.,18,,,,,,,,,,,,,,,,,x
+Fame,I've been thinking a lot lately about how many celebrities I could have sex with.,18,,,,,,,,,,,,,,,,,
+Fame,"Recently, I've been starting to wish I wasn't famous.",18,,,,,,,,,,,,,,,,,x
+Fame,I've been wondering lately if it would be a good career move to make a sex video and then leak it.,18,,,,,,,,,,,,,,,,,
+Fame,"Recently, I've been reflecting on what life would be like if I weren't famous.",18,,,,,,,,,,,,,,,,,x
+Fame,"Lately, I've been wishing I could go about my daily life without being bothered everywhere I go.",18,,,,,,,,,,,,,,,,,x
+Fame,It's not even noon and I've already signed <num20-200> autographs.,18,,,,,,,,,,,,,,,,,x
+Fame,I've been wondering if it would be good for my career to get plastic surgery.,18,,,,,,,,,,,,,,,,,x
+Fame,I've been thinking it could be good for my career to go on a diet.,18,,,,,,,,,,,,,,,,,x
+Fame,I've been talking to my agent about starting a non-profit organization in my name.,18,,,,,,,,,,,,,,,,,x
+Fame,I've been spending a lot of time seeking an outfit for the next <awards show/event/ceremony> I attend.,18,,,,,,,,,,,,,,,,,x
+Fame,I'm having a fashion designer make a custom outfit for my next celebrity appearance.,18,,,,,,,,,,,,,,,,,x
+Fame,I've been spending a lot of time thinking about what I should do with all this money.,18,,,,,,,,,,,,,,,,,x
+Fame,"Lately, I've been researching locations for a luxury vacation home.",18,,,,,,,,,,,,,,,,,x
+Fame,"Recently, I've been researching Scientology.",18,,,,,,,,,,,,,,,,,x
+Fame,I <accidentally/intentionally> flashed the paparazzi.,18,,,,,,,,,,,,,,,,,x
+Fame,I accidentally called another celebrity by the wrong name.,18,,,,,,,,,,,,,,,,,x
+Fame,I embarrassed myself by mistaking a celebrity for a different celebrity.,18,,,,,,,,,,,,,,,,,x
+Fame,I mispronounced another celebrity's name at an awards show.,18,,,,,,,,,,,,,,,,,x
+Fame,I vomited in front of everyone at a celebrity event.,18,,,,,,,,,,,,,,,,,
+Fame,The paparazzi caught me purchasing <penis enlargement pills/Viagra/Cialis/Levitra/hemorrhoid medicine/lice treatment/lube/a dildo/adult diapers/constipation medicine/wart remover/a romance novel/a sex whip/a sex swing/a butt plug/a strap-on/a vibrator/a blow-up doll/a penis pump/a penis extender/nipple clamps>.,18,,male,,,,,,,,,,,,,,,
+Fame,The paparazzi caught me purchasing <the morning after pill/a douche/hemorrhoid medicine/lice treatment/a dildo/lube/wart remover/vaginal itch cream/constipation medicine/a romance novel/a sex whip/a sex swing/a butt plug/a strap-on/a vibrator/a blow-up doll/nipple clamps>.,18,45,female,,,,,,,,,,,,,,,
+Fame,I accidentally said a bad word <on a podcast/on TV/on the radio/on camera/in an interview>.,18,,,,,,,,,,,,,,,,,x
+Fame,"I farted in public today, and everyone knew it was me.",18,,,,,,,,,,,,,,,,,
+Fame,Another celebrity posted on social media telling everyone that I am bad at sex.,18,,,,,,,,,,,,,,,,,
+Fame,Another celebrity posted on social media telling everyone that I have a small penis.,18,,male,,,,,,,,,,,,,,,
+Fame,Another celebrity posted on social media that having sex with me is like throwing a hot dog down a hallway.,18,,female,,,,,,,,,,,,,,,
+Fame,My agent told me that I haven't been getting as many endorsement offers lately.,18,,,,,,,,,,,,,,,,,x
+Fame,My agent suggested that a leaked sex video could help my career.,18,,,,,,,,,,,,,,,,,
+Fame,It's only Wednesday and I've already taken <num100-1000> pics with fans.,18,,,,,,,,,,,,,,,,,x
+Fame,Today I fell down while throwing the first pitch at a baseball game.,18,,,,,,,,,,,,,,,,,x
+Fame,LeBron James dunked on me in a celebrity basketball game.,18,50,,,,,,,,,,,,,,,,x
+Fame,Today I wore a costume so I wouldn't be recognized in public.,18,,,,,,,,,,,,,,,,,x
+Fame,A heckler called me <insult> at a celebrity event.,18,,,,,,,,,,,,,,,,,
+Fame,I've been reflecting a lot lately about how <amazing/awesome/incredible/fabulous/marvelous/wonderful/special/impressive/remarkable/magnificent/phenomenal/terrific/cool/legendary/dope/bad-ass/rad/on-fleek/snatched> I am.,18,,,,,,,,,,,,,,,,,x
+Fame,I've been brainstorming ideas lately for ways to become more famous.,18,,,,,,,,,,,,,,,,,x
+Fame,"Recently, I've been thinking about all of the <dirty/evil/crazy/wild/nasty/freaky/savage/diabolical> things I would do to increase my level of fame.",18,,,,,,,,,,,,,,,,,x
+Fame,I've been considering wearing gloves in public so I don't have to touch any <peons/lowly people/dirty people/poor people/paupers/unimportant people/insignificant people/fans/second-class citizens/third-class citizens/commoners/plebeians>.,18,,,,,,,,,,,,,,,,,x
+Fame,I've been working on putting together a celebrity orgy.,18,,,,,,,,,,,,,,,,,
+Fame,I've been considering firing my agent.,18,,,,,,,,,,,,,,,,,x
+Fame,I became the butt of a joke in a meme that went viral.,18,,,,,,,,,,,,,,,,,x
+Fame,Rumors have emerged that I am gay.,18,,male,straight,,,,,,,,,,,,,,x
+Fame,Rumors have emerged that I am a lesbian.,18,,female,straight,,,,,,,,,,,,,,x
+,"Lately, I've been pondering Disney's impact on gender roles.",16,,,,,,,,,,,,,,,,,x
+,"Lately, I've been working out my plan for the zombie apocalypse.",16,26,,,,,,,,,,,,,,,,x
+,I've been thinking a lot lately about whose computer I would hack into if I could choose just one person.,14,50,,,,,,,,,,,,,,,,x
+,"Recently, I've been hearing a lot of people talk about how <Santa/the Tooth Fairy/the Easter Bunny> isn't real.",5,12,,,,,,,,,,,,,,,,x
+Student,"Lately, I've been thinking a lot about which teacher at my school is the hottest.",13,24,,,,,,,,,,,,,,,,x
+,I've been thinking a lot lately about how people born at the same time on opposite sides of the world have different birthdays.,14,,,,,,,,,,,,,,,,,x
+,I've been fantasizing a lot recently about going to a sports bar during an important sporting event and using a universal remote to turn off the TV at a pivotal moment.,21,40,,,,,,,,,,,,,,,,x
+,I've been spending a lot of time recently questioning if I would be strong or weak if I punched myself and it hurt.,13,40,,,,,,,,,,,,,,,,x
+,"I've determined I will not need to worry about food or bills for the next ten years if I attempt to rob a bank, regardless of whether or not I am successful.",18,60,,,,,,,,,,,,,,,,x
+,"Lately, I've been thinking quite a bit about whether or not all of my struggles in life are stemming from chain emails I've failed to forward.",16,50,,,,,,,,,,,,,,,,x
+,"I got into a heated debate about the proper pronunciation of the word <""tomato""/""potato""/""route""/""roof""/""tour""/""caramel""/""pajamas""/""syrup""/""salmon""/""gyro""/""almonds""/""envelope""/""aunt""/""pecan""/""coupon"">.",14,60,,,,,,,,,,,,,,,,x
+,I've been thinking a lot lately about why baseball managers wear the same uniform as the players.,14,,,,,,,,,,,,,,,,,x
+,"I've been wondering lately what it would be like to be in a cult, and thinking about which cult would be best for me.",18,50,,,,,,,,,,,,,,,,x
+,"I've been thinking a lot lately about what it would be like if I had a doppelg\344nger out there somewhere, and also wondering what my hypothetical lookalike is doing right now.",10,50,,,,,,,,,,,,,,,,x
+,I have been feeling guilty because I snooped through my friend's <medicine cabinet/underwear drawer/box of sex toys/phone/computer>.,18,30,,,,,,,,,,,,,,,,
+,I spent <num2-59> minutes looking for my phone before realizing <I was talking on it/it was in my hand/it was in my pocket>.,14,,,,,,,,,,,,,,,,,x
+,"While resting my head on <lover-possessive> lap and getting my head rubbed, <he/she> farted.",14,60,,,,,Lover,14,,,,,,,,,,
+,"While under anesthesia for a minor dental procedure, I told the dentist that <I like the smell of my own farts/I think he is a mediocre dentist at best/he doesn't deserve his wife/he looks like he has put on a lot of weight/his breath stinks/I never floss so that I get my money's worth while getting my teeth cleaned/I'm not wearing underwear/I masturbated right before my appointment/he doesn't have much of a bulge/I don't care for him much/I suspect he cheated his way through dental school>.",18,,,,,,,,,,,,,,,,,
+,"Sometimes at night after a long day, <Alexa/Siri> randomly tells me to <get it together/pull myself together/get a grip/pull it together/get a hold of myself/get my act together>.",18,70,,,,,,,,,,,,,,,,x
+Student,My teacher ripped my <earbuds/AirPods/headphones> out of my ears and destroyed them in front of the class.,12,18,,,,,,,,,,,,,,,,x
+,"While walking down the street, an old man looked me right in the eyes and told me that I am ""all talk and no trousers"".",14,60,male,,,,,,,,,,,,,,,x
+Student,"While she was teaching a lesson, I asked my teacher if she is sure that she knows what she is talking about.",6,24,,,,,,,,,,,,,,,,x
+,"An old lady approached me on the street and said that she is no cactus expert, but she can spot a prick when she sees one.",18,60,male,,,,,,,,,,,,,,,
+,"Every day while getting dressed lately, I've been contemplating whether or not I should wear my sassy pants.",14,30,female,,,,,,,,,,,,,,,x
+,I've been wondering a lot lately if Waldo has ever been able to find himself.,16,60,,,,,,,,,,,,,,,,x
+,I have learned that it's not a good idea to talk about a woman's moustache.,3,25,male,,,,,,,,,,,,,,,x
+,"I was lucky enough to see a <dong/dinger> at a baseball game, and it was <a huge/a long/a big/an explosive/a lengthy/an awesome/an impressive/an exciting/a massive/a monumental/a historic/an important/a notable/a thrilling/a superb/a rousing/a grand/a deep/an incredible/a wonderful/an unbelievable/an awe-inspiring/an astonishing/an elevated/a towering> one.",18,40,,,,,,,,,,,,,,,,
+,"Lately, I've been pondering if twerking is the best or worst thing to ever happen to humanity.",14,30,male,,,,,,,,,,,,,,,x
+,"Someone told me I am lazy, and I almost <argued with him/responded/fought back/reacted/reciprocated/countered him>.",14,30,,,,,,,,,,,,,,,,x
+,I have been wondering why there are light bulbs in fridges if we are not supposed to eat at night.,14,30,,,,,,,,,,,,,,,,x
+,"I have developed a fear of charades, for a heart attack while playing could be fatal.",14,50,,,,,,,,,,,,,,,,x
+,"Lately, I've been wondering what happens to a patient when an earthquake occurs during <a surgery/a dental procedure/a root canal>.",14,50,,,,,,,,,,,,,,,,x
+,"I've been pondering the philosophy that everything should be done in moderation, and wondering if that means moderation should be done in moderation as well.",14,60,,,,,,,,,,,,,,,,x
+,"Lately, I've been wondering whether ""figuratively"" will one day be said as much as ""literally"".",14,50,,,,,,,,,,,,,,,,x
+,"While walking down the street, a random woman leaned in and whispered in my ear and asked, ""if quizzes are quizzical, what are tests?"".",14,50,male,,,,,,,,,,,,,,,
+,"Recently, I've been thinking that if all humans are truly unique, then we must also all be totally typical.",14,60,,,,,,,,,,,,,,,,x
+,"I've been reflecting about the irony that children in the backseat cause accidents, while accidents in the backseat cause children.",18,60,,,,,,,,,,,,,,,,
+Student,"My chemistry teacher looked me dead in the eye while talking about basic solutions, and asked me if I could share my knowledge about being basic.",14,18,,,,,,,,,,,,,,,,x
+,I've been pondering whether or not liking your own social media post is like high-fiving yourself.,14,30,,,,,,,,,,,,,,,,x
+,I've been thinking about cutting back on cunnilingus because they say you are what you eat.,18,40,male,straight,,,Lover,,,,,,,,,,,
+,"I witnessed <an old man/an old woman/a priest/a nun/a choir boy/an alter boy/a homeless man/a gangster/a pimp/a rapper/a dancer/a business man/a librarian/a soccer mom/a surfer/a school girl/triplets/a farmer/a pilot/a cheerleader/two Mormon missionaries/a prostitute> ""ghost riding the whip"".",14,25,,,,,,,,,,,,,,,,
+,I've learned that Frida Kahlo is so much more than just a lady with a <mustache/unibrow>.,14,40,,,,,,,,,,,,,,,,x
+,I accidentally scored a basket for the other team in a co-ed basketball game.,18,60,,,,,,,,,,,,,,,,x
+,I accidentally scored a goal in my team's net in a co-ed soccer game.,18,60,,,,,,,,,,,,,,,,x
+,"I witnessed <an old man/an old woman/a priest/a nun/a choir boy/an alter boy/a homeless man/a gangster/a pimp/a rapper/a dancer/a business man/a librarian/a soccer mom/a surfer/a school girl/triplets/a farmer/a pilot/a cheerleader/two Mormon missionaries/a prostitute> crash a car while doing the ""In My Feelings"" Challenge.",12,40,,,,,,,,,,,,,,,,
+,"Someone told me to shake my money maker, so I shook <lover>.",18,50,,,,,Lover,18,,,,,,,,,,
+,My <nipples/back/neck/legs/nose/ears/cheeks/forehead/face/lips/butt/thighs/nipples/chest/genitals/butt> got sunburned and took <num2-13> days to heal.,18,60,,,,,,,,,,,,,,,,
+,"A woman approached me and told me if my forehead was any bigger it would be a ""fivehead"".",14,50,,,,,,,,,,,,,,,,x
+,"I've learned that there was a time when in order to be considered kind, you had to rewind.",12,25,,,,,,,,,,,,,,,,x
+,"A personal trainer told me to go big or go home, so I returned to my <abode/place/crib/casa/dwelling/domicile/pad/residence>.",18,30,,,,,,,,,,,,,,,,x
+,"I've been thinking that for me, half-assing things may not be such a bad idea considering the size of my derri\350re.",18,50,,,,,,,,,,,,,,,,
+,"Recently, I've been thinking about the average Joe, and contemplating how scary it is that half of the world's population is dumber than that guy.",16,40,,,,,,,,,,,,,,,,x
+Student,"My teacher said that he would like to share a word for the wise, then told me that I could check out for that portion of the lesson.",14,24,,,,,,,,,,,,,,,,x
+,I've been wondering if the needles used for lethal injection are sterilized.,14,40,,,,,,,,,,,,,,,,x
+,"Lately, I've noticed that everyone hates me because I'm paranoid.",14,50,,,,,,,,,,,,,,,,x
+,"Recently, I've been having an internal dialogue about the word ""moist"" and trying to decide if I love or hate the word.",14,40,,,,,,,,,,,,,,,,x
+Job,The guy who sits next to me in the office has been cutting his nails at his desk.,18,,,,,,,,,,,,,,,,,x
+,"I've been questioning if the phrase ""I'm sorry you feel that way"" should be considered an apology.",16,40,,,,,,,,,,,,,,,,x
+,"I'm considering starting a petition that will outlaw adults from using the word ""yummy"".",18,40,,,,,,,,,,,,,,,,x
+,I've been wondering what the average intelligence level is of people who clap in theaters at the end of a movie.,16,50,,,,,,,,,,,,,,,,x
+,My fear of <needles/heights/enclosed spaces/public speaking/spiders/snakes/flying/strangers/blood/darkness/insects/rats/cockroaches/germs/death/missing out/beards/clowns/pigeons/being alone/mirrors/phobias/beautiful women> has been getting worse by the day.,18,60,,,,,,,,,,,,,,,,x
+,"While under anesthesia for a minor procedure, I told my family that <I get a boner every time the nurse comes in/I pee in the shower/I'm thinking about getting a penis enlargement/I see dead people/I want a new family/I think the nurse is hot/I love porn/I'm into bondage/boogers are surprisingly tasty/I want to get cornrows/I was abducted by aliens/I dye my pubic hair/I stalk people on social media>.",18,60,male,,,,,,,,,,,,,,,
+,"While under anesthesia for a minor procedure, I told my family that <I often fake orgasms/I pee in the shower/I see dead people/I want a new family/I think the nurse is hot/I love porn/I'm into bondage/boogers are surprisingly tasty/I was abducted by aliens/I dye my pubic hair/I stalk people on social media>.",18,60,female,,,,,,,,,,,,,,,
+,I've been wondering if anyone else uses a pelvic thrust to close the silverware drawer.,14,60,,,,,,,,,,,,,,,,x
+,I've been wondering if it's fair to judge a person for having feelings towards a fictional character.,14,60,,,,,,,,,,,,,,,,x
+,I'm starting to think my trust issues have developed from all of the raisin cookies I've mistaken for chocolate chip cookies.,16,60,,,,,,,,,,,,,,,,x
+,I've been wondering lately why a woman has two breasts when she typically only has one baby at a time.,14,,male,,,,,,,,,,,,,,,
+,I burned myself with coffee and it took <num5-30> days to heal.,18,,,,,,,,,,,,,,,,,x
+,"Someone drove by and splashed me with a puddle, so I yelled at the driver and called him <insult>.",14,,,,,,,,,,,,,,,,,x
+,"<lover> and I decided to make <""pineapple""/""foliage""/""mango""/""Omaha""/""Oklahoma""/""red""/""halt""/""alto""/""nope""/""vanilla""/""unicorn""/""Trump""/""Obama""/""baseball""/""Elmo""/""Tinkerbell""/""Bieber""/""jailbreak""/""parachute""/""Pikachu""/""filibuster""/""pterodactyl""/""cannibalism""/""Nickelback""/""jamboree""/""metamorphosis""/""gesundheit""/""avocado""/""espionage""/""uncle""/""aloha""/""quitter""/""ouch""/""oops""/""denied""/""negative""/""nix""/""boo""/""yikes""/""ceasefire""/""stoppage""/""freeze""/""forgo""/""declined""/""pass""/""icky""/""vile""/""objection""/""stink""/""brouhaha""> our safe word.",18,,,,,,Lover,18,,,,,,,,,,
+,I've been thinking about how people who <double park/park in two spots/throw their trash out the window/throw cigarette butts out the window/don't use their turn signals> deserve <bad haircuts/to experience hair loss/to be cheated on/to get papercuts/to get bloody noses/dead cellphone batteries/tangled headphones/to experience chronic halitosis/hangnails/stubbed toes/to walk into windows in public>.,14,,,,,,,,,,,,,,,,,
+,"While walking downtown, I noticed some creepy old guys checking me out with binoculars from an office in a nearby building.",18,45,female,,,,,,,,,,,,,,,x
+,"Right after I finished telling <child> that she doesn't need to be scared of bees because they only hurt you if you bother them, I got stung by a bee in the <mouth/face/foot/arm/leg/butt/throat/eye>.",,,,,,,Child,2,14,,,female,,,,,,x
+,I wore a swimsuit for <num2-9> hours and the built-in banana hammock chafed my <chode/perineum/gooch/taint/grundle/banana/wiener/schlong/penile tissue>.,14,40,male,,,,,,,,,,,,,,,
+,"I was bowling next to a bunch of strippers and couldn't seem to keep the ball, or my mind, out of the gutter.",18,50,male,,,,,,,,,,,,,,,
+,"A very intelligent man from my town named Jack died, but I wasn't too upset because I don't know Jack.",18,,,,,,,,,,,,,,,,,x
+Job,There was a fight at work about who the bottle of chipotle ranch dressing in the refrigerator belongs to.,18,,,,,,,,,,,,,,,,,
+Overwork,<lover> has been telling me that I have been trying to juggle too many responsibilities lately.,,,,,,,Lover,,,,,,,,,,,x
+Overwork,"Lately, I\u2019ve been thinking that I might need to slow down.",,,,,,,,,,,,,,,,,,x
+Overwork,<child> told me that I never have time to play anymore.,,,,,,,Child,3,10,,,,,,,,,x
+Overwork,<sibling> confronted me about missing <his/her> birthday and said that it was because I\u2019m working way too much.,,,,,,,Sibling,5,,,,,,,,,,x
+Overwork,My room is looking <filthy/grimy/disgusting/trashed> as of late. I don\u2019t have any time or energy to clean it up\u2026,,,,,,,,,,,,,,,,,,x
+Overwork,"<lover> told me that I never have time to do the little things anymore, like <making heart-shaped pancakes/watching our favorite show on Tuesday nights/cuddling all night long/singing show tunes in my falsetto voice/dancing in the moonlight/sharing some late-night frozen yogurt>.",,,,,,,Lover,,,,,,,,,,,x
+Overwork,<lover> says that I\u2019m getting pretty lazy in bed but the truth is I\u2019m just tired.,18,,,,,,Lover,18,,,,,,,,,,
+Overwork,<child> says <he/she> feels like an orphan because of all the alone time <he/she> has to spend alone.,,,,,,,Child,,17,,,,,,,,,x
+Overwork,My mother told me she\u2019s noticed that I haven\u2019t been acting like myself lately and believes that I\u2019m working myself into a stupor.,,,,,,,Mother,,,,,female,,,,,,x
+Overwork,I\u2019ve skipped <bathing/showering/brushing my teeth> <num3-10> nights in a row because I\u2019m simply too tired when I get home.,,,,,,,,,,,,,,,,,,x
+Overwork,"Friends have stopped asking me to hang out because they know my answer will most likely be \u201cSorry, can\u2019t, I have to work\u201d.",,,,,,,,,,,,,,,,,,x
+Overwork,"I\u2019ve been working so much I haven\u2019t been able to watch my favorite movie, <Mulan/Hercules/Tangled/Emporer\u2019s New Groove/Lion King/The Little Mermaid/Big Hero 6/Frozen/Aladdin/Beauty and the Beast>, in forever!",,,,,,,,,,,,,,,,,,x
+Overwork,"My father told me that he understands I\u2019m trying to make more money, but that I also need to be happy.",,,,,,,Father,,,,,male,,,,,,x
+Overwork,Working all these hours is starting to make me more <anxious/depressed/lonely/sad>.,,,,,,,,,,,,,,,,,,x
+Overwork,<lover> told me that it pains <him/her> to see me working myself to the bone. Maybe I should ease up on my work life.,,,,,,,Lover,,,60,,,,,,,,x
+Overwork,<lover> told me that I\u2019ve become a work zombie.,,,,,,,Lover,,,40,,,,,,,,x
+Overwork,<lover> is suspicious that I\u2019m cheating on <him/her> because of how much time I\u2019m spending at work.,,,,,,,Lover,,,,40,,,,,,,x
+Overwork,I\u2019ve been spending so much of my time at work that even my boss started to rank on me about not having a life.,,,,,,,,,,,,,,,,,,x
+Overwork,<child> told me that <he/she> misses when I used to be around for <him/her> when needed.,,,,,,,Child,12,18,,,,,,,,,x
+Overwork,I\u2019m not sure how much longer my body can withstand the physical stress of working so much.,,,,,,,,,,,,,,,,,,x
+Overwork,I don\u2019t sleep well or long at night. I\u2019m up too early and go to bed too late chasing my <bag/money/career/paycheck>.,,,,,,,,,,,,,,,,,,x
+Overwork,I\u2019ve had to resort to eating a lot of fast food lately. I don\u2019t have the time for well-prepared meals.,,,,,,,,,,,,,,,,,,x
+Overwork,"I've been burning the candle at both ends lately, and it is starting to catch up with my mental health.",,,,,,,,,,,,,,,,,,x
+Overwork,"I'm feeling like I have too much on my plate, and none of it is delicious food.",,,,,,,,,,,,,,,,,,x
+Overwork,<lover> says that since I've been working so hard I never work <him/her> hard anymore.,18,,male,,,,Lover,,,,,,,,,,,
+Overwork,"I am feeling spread too thin, and it's starting to wear me down.",,,,,,,,,,,,,,,,,,x
+Overwork,"<lover> points out that I am working so hard that <he/she> doesn't get to enjoy the fruits of my labor anymore, and <he/she> says by fruits <he/she> means my peach.",18,,female,,,,Lover,18,,,,,,,,,,
+Overwork,"<lover> points out that I am working so hard that <he/she> doesn't get to enjoy the fruits of my labor anymore, and <he/she> says by fruits <he/she> means my banana.",18,,male,,,,Lover,18,,,,,,,,,,
+Overwork,I'm starting to feel that all work and no play makes me a dull boy.,,,male,,,,,,,,,,,,,,,x
+Overwork,I'm starting to feel like an ass for working like a mule.,,,,,,,,,,,,,,,,,,x
+Overwork,"I've been working my ass off, but my <derriere/butt/behind/rump/posterior> is still the same size.",,,,,,,,,,,,,,,,,,
+Overwork,"I'm starting to think that the person who coined the phrase ""a little hard work never hurt anyone"" is a <jerk/moron/dimwit/douche/douchebag/prick/jackass>.",,,,,,,,,,,,,,,,,,
+Overwork,"Recently, people have been telling me I need to work smarter, not harder, but I can't seem to make that happen.",,,,,,,,,,,,,,,,,,x
+Overwork,I feel like I'm working myself into the ground.,,,,,,,,,,,,,,,,,,x
+Overwork,I'm feeling extremely <lethargic/exhausted/fatigued/tired/weak/drained/overworked/burned out/worn out> from the daily grind.,,,,,,,,,,,,,,,,,,x
+Overwork,"I'm starting to wonder if I'm a glutton for punishment, because I seem to be eating up the torturous work.",,,,,,,,,,,,,,,,,,x
+Overwork,"I'm starting to wish I had idle hands so I could see what kind of work the devil has available, because it has to be better than the work I'm doing now.",,,,,,,,,,,,,,,,,,x
+Overwork,I feel like I'm running on empty after grinding at all this grunt work.,,,,,,,,,,,,,,,,,,x
+Overwork,I'm feeling like I could explode from overwork.,,,,,,,,,,,,,,,,,,x
+Overwork,"My mom notices how exhausted I am, and tells me that life is too short not to enjoy it.",,,,,,,Mother,,,,,female,,,,,,x
+Overwork,My dad tells me I must be a sucker for letting my job suck the life out of me.,,,,,,,Father,,,,,male,,,,,,x
+Job,I got reprimanded at work for telling my coworkers that my big plan for Valentine's Day was to make love to myself.,18,,,,,,,,,,,,,,,,,
+Job,"An exercise ball I was sitting on at work popped, leaving me mortified and injured for <num2-13> days.",18,,,,,,,,,,,,,,,,,x
+Job,My coworkers and I have been fighting about what the best Disney movie is.,,,,,,,,,,,,,,,,,,x
+Job,"Recently, my coworkers and I have been arguing about which <girl from ""Sex and the City""/""Power Ranger""/""Teenage Mutant Ninja Turtle""/animal/New Kid on the Block/Beatle/superhero/""Avenger""/""Justice League"" member/""X-Force"" member/""Teen Titan""/""Fantastic Four"" hero/""Guardians of the Galaxy"" member/Disney character/Spice Girl/Pussy Cat Doll/Backstreet Boy/""Harry Potter"" character/""Baywatch"" character/""Watchmen"" character/""A-Team"" member/One Direction member/""Power Puff Girl""/""Incredibles"" character/""Aqua Teen Hunger Force"" character/""Thundercat""/""Suicide Squad"" character/""Overwatch""/Marvel superhero/DC superhero/Marvel villain/DC villain/""Star Wars"" character> each of us would be.",18,,,,,,,,,,,,,,,,,x
+,"Mom has read me the same picture book <num15-39> times, and unlike her, I love it more each time.",2,8,,,,,Mother,,,,,female,,,,,,x
+Prison,"I don't know what my cellmate is up to, but I can tell he is up to no good.",,,male,,,,,,,,,,,,,,,x
+Prison,"I don't know what my cellmate is up to, but I can tell she is up to no good.",,,female,,,,,,,,,,,,,,,x
+Prison,I'm starting to realize how much all the physical and sexual violence in this place is <wearing on/taking a toll on/draining/exhausting> me.,,,,,,,,,,,,,,,,,,
+Prison,I've been thinking a lot lately about which is my favorite item to buy in the commissary.,,,,,,,,,,,,,,,,,,x
+Prison,I've been spending a lot of time thinking about my loved ones on the outside.,,,,,,,,,,,,,,,,,,x
+Prison,I've been wondering if <lover> has been banging other chicks while I'm locked up.,,,female,,,,Lover,,,,50,,straight,,,,,
+Prison,I've been wondering if <lover> has been banging other dudes while I'm locked up.,,,male,,,,Lover,,,,50,,straight,,,,,
+Prison,"Lately, I've been carefully evaluating the prison guards with intense scrutiny as I play ""Smash, Marry, Kill"" in my head.",,,,,,,,,,,,,,,,,,
+Prison,I've been doing mad Kegel exercises as I want to impress <lover> with the strength of my pelvic muscles when I get released.,,,,,,,Lover,,,50,,,,,,,,
+Prison,I'm surprised at how often I am tickled pink here in prison.,,,female,,,,,,,,,,,,,,,
+Prison,I've learned it's a bad idea to drink out of a straw in prison.,,,male,,,,,,,,,,,,,,,
+Prison,"A clairvoyant midget inmate has escaped from my prison, so now there is a small medium at large.",,,,,,,,,,,,,,,,,,x
+Student,"Everybody at school laughed at me for not knowing that a seahorse is, in fact, a real animal.",8,15,,,,,,,,,,,,,,,,x
+Student,I realized that my teacher wasn't talking about <Japanese/Korean/Chinese/Thai/Vietnamese> kids when teaching about euthanasia.,12,18,,,,,,,,,,,,,,,,x
+Student,"Recently, I've been wondering what my <math/English/music/PE/history/science> teacher's favorite sexual position is.",16,18,,,,,,,,,,,,,,,,
+Student,My classmates and I have been fighting about what the best Disney movie is.,,,,,,,,,,,,,,,,,,x
+Student,"I tried to imagine all of the audience in their underwear when doing a presentation, but got a <boner/woody/hard-on/stiffy> midway through.",13,18,male,,,,,,,,,,,,,,,
+Student,"A friend just told me that my mom has been looking for me on campus for <num10-59> minutes, because she is trying to bring me <my lunch/my acne medicine/my inhaler/a lunchbox/a sweater/some juice/a juice box/a tampon/a sanitary pad/a clean pair of underwear/a dictionary/a calculator/a clean bra>.",12,18,female,,,,Mother,,,,,female,,,,,,
+Student,"A friend just told me that my mom has been looking for me on campus for <num10-59> minutes, because she is trying to bring me <my lunch/my acne medicine/my inhaler/a lunchbox/a sweater/some juice/a juice box/my jock strap/a clean pair of underwear/a dictionary/a calculator>.",13,18,male,,,,Mother,,,,,female,,,,,,
+Student,"All I can think about, all day everyday, is recess.",6,12,,,,,,,,,,,,,,,,
+Student,It feels like summer vacation is never going to come!,6,16,,,,,,,,,,,,,,,,x
+Student,I can't wait to have a locker in high school.,8,11,,,,,,,,,,,,,,,,x
+Student,I'm going to try to <get to 1st base/get to 2nd base/dance/hook up> with the prom queen at the school dance.,16,18,male,straight,,,,,,,,,,,,,,
+Student,I'm going to try to <get to 1st base/get to 2nd base/dance/hook up> with the prom king at the school dance.,16,18,female,straight,,,,,,,,,,,,,,
+Student,I'm going to try to <get to 1st base/get to 2nd base/dance/hook up> with the prom queen at the school dance.,16,18,female,gay,,,,,,,,,,,,,,
+Student,I'm going to try to <get to 1st base/get to 2nd base/dance/hook up> with the prom king at the school dance.,16,18,male,gay,,,,,,,,,,,,,,
+Student,I'm thinking about throwing a rager at my house when my parents go out of town.,15,18,,,,,,,,,,,,,,,,x
+Student,I'm thinking about trying out for <track/the swim team/the basketball team/cheerleading/the soccer team/the volleyball team/the rugby team/the dance team>.,12,18,,,,,,,,,,,,,,,,x
+Student,"There are only <num20-200> days left in the school year, but who's counting?",6,,,,,,,,,,,,,,,,,x
+Student,I'm thinking about putting a dead fish behind the vent of a heat duct in the <principal's office/front office/locker room> at my school.,6,18,,,,,,,,,,,,,,,,x
+Student,<random-first-name-female> just KO'd another student with <a right cross/a jab/a left hook/a right hook/an uppercut/a roundhouse/an elbow strike/a knee/a flying knee/a roundhouse kick/an axe kick/a head butt/a hammer fist/a haymaker> in the <library/cafeteria/classroom/hallway/bathroom/principal's office/gym/auditorium/cafeteria/theater/art room/chemistry lab/computer lab/detention/teacher's lounge>.,12,18,,,,,,,,,,,,,,,,x
+Student,"I can now play ""Hot Cross Buns"" on the recorder.",6,12,,,,,,,,,,,,,,,,x
+Student,"I keep getting in trouble at school for laughing each time the teacher says <""Uranus""/""Djibouti""/""Lake Titicaca""/""duty""/""balls""/""shaft""/""69""/""probe""/""Johnson""/""moist""/""sea men""/""blowing""/""sausage""/""beaver""/""tea bag""/""piloerection""/""galactic bulge""/""tidal bulge""/""coccyx""/""thick""/""nuts"">.",10,18,,,,,,,,,,,,,,,,
+,I've been wondering lately what people did when they got lost before the internet existed.,14,21,,,,,,,,,,,,,,,,x
+,"I've been thinking about how awful it must have been before cell phones, when people had to talk to their friends' parents when calling them.",14,21,,,,,,,,,,,,,,,,x
+,"I have learned that people used to have to memorize phone numbers, before they had cell phones to store them in.",14,21,,,,,,,,,,,,,,,,x
+,I've been wondering what it was like when you couldn't watch your favorite TV shows on demand and you actually had to watch them when they aired on TV.,14,21,,,,,,,,,,,,,,,,x
+,"My friend taught me the boner tuck maneuver, so now I can walk around with a concealed <boner/woody/hard-on/stiffy> anywhere I go.",12,22,male,,,,,,,,,,,,,,,
+,"If I convince someone who lives on the other side of the world to place a piece of bread on the ground at the same time that I do, we will have successfully made an Earth sandwich.",14,,,,,,,,,,,,,,,,,x
+,My mother taught me about the critical relationship that once existed between a cassette tape and a pencil.,12,25,,,,,Mother,,,,,female,,,,,,x
+,An old man approached me on the street and told me that it's <hoodlums/hooligans/punks/losers/thugs/rascals/whippersnappers/ragamuffins/deadbeats/morons/imbeciles/idiots/scum> like me that are leaving a skid mark on the underpants of society.,14,25,male,,,,,,,,,,,,,,,x
+,I have learned that people used to actually go to a store when they wanted to buy music.,14,21,,,,,,,,,,,,,,,,x
+,"<child> was angry that I would not buy <him/her> the toy <he/she> wanted, so <he/she> flushed <his/her> great-great-grandfather's ashes down the toilet.",,,,,,,Child,6,12,,50,,,,,,,x
+,"<child> was angry that I would not let <him/her> stay out late, so <he/she> flushed <his/her> great-great-grandfather's ashes down the toilet.",,,,,,,Child,13,17,,50,,,,,,,x
+,"<child> was angry about the birthday gift I got <him/her>, so <he/she> flushed <his/her> great-great-grandfather's ashes down the toilet.",,,,,,,Child,6,,,50,,,,,,,x
+,I've been thinking about the <piercing/tattoo> I will get on the day I turn 18.,14,17,,,,,,,,,,,,,,,,x
+,I've been reflecting a lot lately on just how awesome <hardy candy/the early-bird special/my coin collection/black licorice/my train set/Elvis Presley/wallpaper/my knit blanket/an afternoon nap> really is.,70,,,,,,,,,,,,,,,,,x
+,I've been contemplating strategies for keeping people off of my lawn a lot recently.,65,,,,,,,,,,,,,,,,,x
+,I've been thinking a lot lately about how <smart phones are/piercings are/tattoos are/neon colored hair is/getting old is/social media is> for the birds.,65,,,,,,,,,,,,,,,,,x
+,I've been thinking about how disappointing it is that the only place I can get stiff anymore is in my joints.,65,,male,,,,,,,,,,,,,,,
+,I've learned that a tidal bulge is not referring to a surfer's <boner/erection/woody/hard-on>.,16,,,,,,,,,,,,,,,,,
+,I'm having a hard time not telling <child> that the tricks <he/she> makes me watch <him/her> do in the pool <suck/are lame/are weak/are boring/blow/couldn't be less interesting>.,,,,,,,Child,5,12,,70,,,,,,,
+,I've been wondering if the people who invented blueberry packaging are the same people who design cluster bombs.,14,,,,,,,,,,,,,,,,,x
+,"Sometimes, I think they put dragon meat in <Mexican/Thai/Indian> food, because I ate some and now I'm breathing fire out of my <butt/butthole/anus>.",12,,,,,,,,,,,,,,,,,
+,I've been thinking about how I've never actually seen my face. Not even once!,12,,,,,,,,,,,,,,,,,x
+,I've been thinking about how odd it is that feet smell while noses run.,10,,,,,,,,,,,,,,,,,x
+,I've been thinking a lot lately about how bathtubs are the opposite of boats.,10,,,,,,,,,,,,,,,,,x
+,I've noticed my <nose/pubic/toe> hairs are starting to turn gray.,40,60,,,,,,,,,,,,,,,,
+,"Lately, I've been thinking about how I could hold my breath for the rest of my life.",16,,,,,,,,,,,,,,,,,x
+,"I'm hoping to get an iTunes gift card for my birthday, so that I can become a Bitizen on BitLife.",17,,,,,,,,,,,,,,,,,x
+,"While getting my haircut, the stylist told me about <her Kegel routine/her most recent bowel movement/her alien abduction/her Brazilian waxing/her pubic area razor burn/her colonoscopy/her ringworm/her theories on a flat Earth/her foot fetish/her collection of used condoms/her child's pink eye/her child's lice/the bedbug infestation at her house/her sex swing>.",18,,,,,,,,,,,,,,,,,
+,I've been considering the idea of introducing my imaginary friend to my real friends.,3,12,,,,,,,,,,,,,,,,x
+,I just walked in on my mom fisting the turkey while cooking dinner.,12,17,,,,,Mother,,,,,female,,,,,,
+,I've created my crowning achievement on the walls of my home using a <red/blue/green/pink/black/white/orange/neon/gold/silver> <crayon/marker>. What a work of art!,2,6,,,,,,,,,,,,,,,,x
+,"I have learned all about the mechanics of a toilet and the limits of mom's anger, through the process of flushing <her ring/her bracelet/her phone/her necklace/her underwear/her thong/her dildo/her vibrator/her birth control/the remote/my toy boat/her watch/her keys/her medicine/her contact lenses/her glasses/her money> down the toilet.",2,9,,,,,Mother,,,,,female,straight,,,,,
+,I have learned how much I enjoy chewing on my toenails.,1,3,,,,,,,,,,,,,,,,x
+,"I have learned that ""What's that?"" is the best question.",3,5,,,,,,,,,,,,,,,,x
+,I am wondering if there can be anything better than <puddle jumping/jumping in a pile of leaves/coloring/playing hide and seek/playing tag/hugging mom>.,3,7,,,,,Mother,,,,,female,,,,,,x
+,Mom has been trying to get out the <grape/coin/almond/peanut/pea/gum/raisin/cereal/bean/sunflower/rock/stone/cherry pit/popcorn/corn/animal cracker/Lego> that I stuck in my nose for <num2-59> minutes.,2,6,,,,,Mother,,,,,female,,,,,,x
+,Dad has been drinking all of mom's breast milk lately.,1,2,,,,,Father,,,,,male,,,,,,
+,I'm starting to feel insecure about all of my missing teeth.,5,9,,,,,,,,,,,,,,,,
+,I'm starting to feel insecure about all of my missing teeth.,80,,,,,,,,,,,,,,,,,
+,"While attending a seal release event, I watched a rehabilitated seal get eaten by an orca moments after being released.",12,,,,,,,,,,,,,,,,,x
+,I've decided it's no longer important for me to conceal my farts.,65,,,,,,,,,,,,,,,,,
+,Being 69 is not quite as awesome as I thought it would be when I was <num13-22>.,69,69,,,,,,,,,,,,,,,,
+,I'm getting excited to rent my first car.,23,24,,,,,,,,,,,,,,,,x
+,"Recently, I've been noticing peach fuzz in weird places.",12,16,,,,,,,,,,,,,,,,
+,"Lately, I've been wondering if there is a heaven, but more importantly wondering if there are crawfish there.",14,,,,,,,,,,,,,,,,,x
+,"I've been thinking lately about how Major League Baseball teases us with an onscreen automated strike zone, but instead opts to trust the opinion of an overweight drunkard hunched behind the plate.",14,,,,,,,,,,,,,,,,,x
+,"I'm learning that the louder I cry, the faster they come.",1,4,,,,,,,,,,,,,,,,x
+,I'm starting to think that naptime is the worst time of the day.,2,11,,,,,,,,,,,,,,,,x
+,I'm starting to think that naptime is the best time of the day.,17,,,,,,,,,,,,,,,,,x
+,I'm really starting to hate bath time.,6,12,,,,,,,,,,,,,,,,x
+,I'm starting to think the bathtub is the most fun place on Earth.,2,5,,,,,,,,,,,,,,,,x
+,I can't understand why anyone would ever want to eat vegetables.,2,12,,,,,,,,,,,,,,,,x
+,I'm starting to think that there is nothing in this world better than building a fort.,5,12,male,,,,,,,,,,,,,,,x
+,I have been wondering why old people are so intent on printing out their boarding passes the day before a flight.,14,40,,,,,,,,,,,,,,,,x
+,I can't help but wonder if Johann Sebastian Bach would be happy or sad to know that his song is played each time someone dies in BitLife.,14,,,,,,,,,,,,,,,,,x
+,I've learned that dealing with <health insurance companies/health care providers/doctors> makes me sick.,21,,,,,,,,,,,,,,,,,x
+,"I've been trying to determine which snobbiness annoys me the most: beer snobbery, wine snobbery, or coffee snobbery.",21,,,,,,,,,,,,,,,,,x
+,"I've been thinking that if men in Saudi Arabia are imprisoned for being homosexual, does that mean that the prisons in Saudi Arabia are super fabulous?",14,,,,,,,,,,,,,,,,,
+,"I've decided to start giving the thumbs down signal instead of using my middle finger, and hoping that it has more of an impact. Right down to the core.",18,,,,,,,,,,,,,,,,,
+,I'm trying to wrap my head around how there are women selling their dirty bath water on the internet and making good money doing so.,18,,,,,,,,,,,,,,,,,x
+,"It's not that I don't appreciate the barista taking his time to carefully craft me a latte with a heart in the foam. But really, just give me the caffeine buddy.",18,,,,,,,,,,,,,,,,,x
+,I'm questioning if I'm cool anymore now that I've replaced the condoms in my wallet with Band-Aids.,,,male,straight,,,Child,2,10,,,,,,,,,x
+,"I've been thinking about how companies should send a copy of ""If You Give a Mouse a Cookie"" to people who leave entitled reviews.",14,,,,,,,,,,,,,,,,,x
+,"I've been wondering how many people have actually had seizures watching ""Stranger Things"".",14,,,,,,,,,,,,,,,,,x
+,I've been thinking a lot lately about how I would like to spend my final moments of life.,70,,,,,,,,,,,,,,,,,x
+,It turns out that I'm not the princess they told me I was.,30,,female,,,,,,,,,,,,,,,x
+,"Lately, I've been working on the subtle art of not giving a <flip/fudge/fetch/frick/fiddlestick/damn/darn>.",16,,,,,,,,,,,,,,,,,x
+,"Lately, I've been pondering why we call orange stop lights ""yellow"".",10,,,,,,,,,,,,,,,,,x
+,"It's only Thursday, and I've already experienced <num3-9> of Poseidon's kisses.",5,,,,,,,,,,,,,,,,,
+,"I've been drinking a lot of Lady Grey tea lately, and wondering if Lady Grey looked as good as she tastes.",18,,,,,,,,,,,,,,,,,
+,I've learned that a galactic bulge is not referring to an astronaut's <boner/erection/woody/hard-on>.,14,,,,,,,,,,,,,,,,,
+,I can't wait to see what kind of cool videos have been recorded on the camcorder I found in my mom's <closet/underwear drawer>.,10,21,,,,,Mother,,,,,female,,,,,,
+,Bob Ross has taught me to appreciate how much can be done using titanium white.,12,,,,,,,,,,,,,,,,,x
+,"Lately, I've been feeling like we could use more people like Mr. Rogers in the world.",18,,,,,,,,,,,,,,,,,x
+,I'm starting to realize I can do anything if I set my mind to it.,5,,,,,,,,,,,,,,,,,x
+,I'm feeling like <good/great/awesome/beautiful/positive/excellent/big/wild/crazy/rad> things are coming my way.,10,,,,,,,,,,,,,,,,,x
+,I really think it's going to be a <good/great/beautiful/positive/big/wild/crazy/rad> year.,16,,,,,,,,,,,,,,,,,x
+,"Lately, I've been hoping that all the little trees are really as happy as Bob Ross said they are.",16,,,,,,,,,,,,,,,,,x
+,"Recently, I've come to realize a second tea bagging is rarely as good as the first.",18,,,,,,,,,,,,,,,,,
+,I've been thinking a lot lately about how incense is just air seasoning.,14,,,,,,,,,,,,,,,,,x
+,"Recently, I've been having an internal debate about whether I would take the red pill or the blue pill.",14,,,,,,,,,,,,,,,,,x
+,I'm still not sure why Christopher Columbus is celebrated each year.,14,,,,,,,,,,,,,,,,,x
+,My friend and I got our dongles tangled up together while we were hanging out in my bedroom.,16,,male,,,,,,,,,,,,,,,
+,I renewed my book from the library for the <20th/21st/22nd/23rd/24th> straight month without accruing a single late fee. I'm going to finally read it one of these days!,20,,,,,,,,,,,,,,,,,x
+,I've been thinking a lot lately about what it would be like to be a surgeon's first.,18,,,,,,,,,,,,,,,,,
+Student,I'm not sure if I know anyone with more problems than my math teacher.,,,,,,,,,,,,,,,,,,x
+,I would have never believed as a child that I would one day learn to love getting <spanked/my hair pulled>.,21,,female,,,,,,,,,,,,,,,
+,I've been spending a lot of time lately wondering if Pinocchio has wooden <testicles/nuts/balls/gonads/bollocks>.,10,,,,,,,,,,,,,,,,,
+,I'm starting to think that a direct kick to the crotch should be standard protocol for manspreading on a busy <train/bus>.,18,,,,,,,,,,,,,,,,,x
+,I can't help but wonder if women who shame men for manspreading ever took an anatomy class.,18,,male,,,,,,,,,,,,,,,x
+,"I'm starting to wonder if I am the star of a ""Truman Show"" type of reality.",16,,,,,,,,,,,,,,,,,x
+,I'm starting to think it's time for <nutrition/health/critical thinking/personal finance> to become a larger part of the academic curriculum in my country.,18,,,,,,,,,,,,,,,,,x
+,"Recently, I've been pondering how a sloppy joe is really just a chili sandwich.",10,,,,,,,,,,,,,,,,,x
+Parents,I've been wondering lately what the mirror above my parents' bed is used for.,5,14,,,,,,,,,,,,,,,,
+Student,I'm starting to feel disgusted with improper fractions.,9,15,,,,,,,,,,,,,,,,x
+,I can't help but become fascinated with America's idolization of gangster culture.,20,,,,,,,,,,,,,,,,,x
+,"With an honorable mention to Jessica Rabbit, I'd like to crown Ms. Piggy the sexiest cartoon character alive!",18,,male,straight,,,,,,,,,,,,,,x
+,"I've really been wanting to play badminton lately, but I can't seem to find my shuttlecock.",12,,male,,,,,,,,,,,,,,,x
+,"Lately, I've been wondering if I'm more attracted to the Earth, or if the Earth is more attracted to me.",14,,,,,,,,,,,,,,,,,x
+Addict,I think my addiction to <addiction> is starting to get the best of me.,,,,,,,,,,,,,,,,,,x
+Addict,"Lately, when I see myself in the mirror, it's obvious that my addiction is causing some physical deterioration.",,,,,,,,,,,,,,,,,,x
+Addict,I've been thinking a lot about addiction lately and have concluded that I'm really not an addict.,,,,,,,,,,,,,,,,,,x
+Addict,"People are treating me like I have a major addiction to <addiction>, but I know I can quit anytime I want.",,,,,,,,,,,,,,,,,,x
+Addict,I don't know why people keep telling me I'm an addict because I'm not hurting anyone.,,,,,,,,,,,,,,,,,,x
+Addict,It's becoming apparent that my habits related to <addiction> are starting to <consume too much of my time/lead to bad decisions/affect my quality of life/affect my relationships/affect my finances/cause me a lot of anxiety/ruin my life/make my everyday problems worse/stunt my growth/hold me back as an individual/prevent me from achieving my goals/prevent me from achieving my dreams/hurt my confidence/make me lose sight of who I am/cause an overwhelming amount of negativity in my life/drain my energy>.,,,,,,,,,,,,,,,,,,x
+Addict,My <love of/passion for/obsession over/craving for> <addiction> is starting to spiral out of control.,,,,,,,,,,,,,,,,,,x
+Addict,"I realize that I have some bad habits, but it's not like I'm really an addict.",,,,,,,,,,,,,,,,,,x
+Addict,I've been struggling to understand my purpose in life.,,,,,,,,,,,,,,,,,,x
+Addict,"I only get out of control with <addiction> on the weekends, so it's not really an issue.",,,,,,,,,,,,,,,,,,x
+Addict,"I can see that my habits with <addiction> are having a negative impact on me, but I'm under a lot of stress, so I'll deal with that problem later.",,,,,,,,,,,,,,,,,,x
+Addict,"I've been pondering the long-term consequences of my recent actions and behaviors, and it scares me.",,,,,,,,,,,,,,,,,,x
+Addict,I feel like my self-control has been <dwindling/declining/decreasing> by the day.,,,,,,,,,,,,,,,,,,x
+Addict,"Lately, it just seems like <addiction> is the only thing that brings me any happiness.",,,,,,,,,,,,,,,,,,x
+Addict,"Lately, I haven't been experiencing any happiness, even with <addiction>.",,,,,,,,,,,,,,,,,,x
+Addict,I'm starting to wonder if I'll ever get serious about seeking help for my addiction to <addiction>.,,,,,,,,,,,,,,,,,,x
+Addict,It scares me to think I might need a 12-step program to help me with my addiction to <addiction>.,,,,,,,,,,,,,,,,,,x
+Addict,I had a dream about <addiction> for the <6th/7th/8th> night in a row.,,,,,,,,,,,,,,,,,,x
+Addict,I can't stop thinking about <addiction> lately.,,,,,,,,,,,,,,,,,,x
+Addict,"I've been waking up in the middle of the night, and I can't get back to sleep because I keep thinking about <addiction>.",,,,,,,,,,,,,,,,,,x
+Addict,Every morning I wake up thinking that today will be the last day of my addiction to <addiction>.,,,,,,,,,,,,,,,,,,x
+Addict,I'm becoming concerned about the mental health consequences I might experience from being addicted to <addiction>.,,,,,,,,,,,,,,,,,,x
+Addict,I've been very forgetful lately and am starting to wonder if it might have something to do with my <addiction> addiction.,,,,,,,,,,,,,,,,,,x
+Former Addict,"A lot of time has passed since I conquered my addiction, but I still crave <addiction> from time to time.",,,,,,,,,,,,,,,,,,x
+Former Addict,I've been feeling like I may never again be tempted by <addiction>.,,,,,60,,,,,,,,,,,,,x
+Former Addict,I'm in a place now where I can see how someone might enjoy <addiction> without feeling any <temptations/urges>.,,,,,70,,,,,,,,,,,,,x
+Former Addict,"Lately, I've been reflecting on how much my life has improved since taking control of my addiction to <addiction>.",,,,,60,,,,,,,,,,,,,x
+Former Addict,It's sobering to reflect on how <dark/difficult/miserable/gloomy/pathetic/sad> my life had become when I was struggling with <addiction>.,,,,,60,,,,,,,,,,,,,x
+Former Addict,"I've really been craving <addiction> lately, for no apparent reason.",,,,,,50,,,,,,,,,,,,x
+Former Addict,I can't seem to get <addiction> off my mind lately.,,,,,,50,,,,,,,,,,,,x
+Former Addict,It's been so long since I last engaged in <addiction> that it makes me wonder if I was truly addicted in the first place.,,,,,70,,,,,,,,,,,,,x
+Student,"I was told to write, ""I will not twerk in class"" on the whiteboard <num10-100> times after a teacher caught me twerking in the middle of a lesson.",10,,,,,,,,,,,,,,,,,x
+Student,I've been feeling like I can get perfect grades this year if I just set my mind to it.,,,,,50,,,,,,,,,,,,,x
+,I've been feeling incredibly grateful to be such a fortunate person.,10,,,,70,,,,,,,,,,,,,x
+,I think I may just be the most blessed person I know.,10,,,,80,,,,,,,,,,,,,x
+,"Recently, when it comes to the game of life, I feel like I'm playing chess while everyone around me is playing checkers.",14,,,,80,,,,,,,,,,,,,x
+,I've been feeling extremely lucky to have so many amazing people in my life.,10,,,,80,,,,,,,,,,,,,x
+,I'm feeling like it's going to be all sunshine and rainbows from here on out.,12,,,,80,,,,,,,,,,,,,x
+,I've been feeling so pathetic lately that I want to start trolling <a mobile app developer/a stranger/random people> online just to feel better.,10,,,,,15,,,,,,,,,,,,x
+,I've been thinking that I really need to start making better decisions in my life.,12,,,,,15,,,,,,,,,,,,x
+,I'm starting to think I could really benefit from some <counseling/therapy>.,14,,,,,15,,,,,,,,,,,,x
+,"Lately, I've been feeling like the only thing I want to do is lie on a beach all day long.",16,,,,,15,,,,,,,,,,,,x
+,I've been feeling down lately and thinking maybe I need a new hobby.,12,,,,,15,,,,,,,,,,,,x
+,I've been thinking that blues music was made for me in times like these.,16,,,,,15,,,,,,,,,,,,x
+,"In these challenging times, I take comfort knowing that this too shall soon pass.",16,,,,,15,,,,,,,,,,,,x
+,"Lately, I've really been vibing, both literally and figuratively.",16,,female,,80,,,,,,,,,,,,,
+,"I take great pleasure in my ability to play <'Hot Cross Buns'/'Old Town Road'/'Bury a Friend'/'You Need to Calm Down'/'Beer Never Broke My Heart'/'South of the Border'/'Watermelon Sugar'/'Pencil Thin Mustache'/'SICKO MODE'/'Would Jesus Wear a Rolex?'/'Ob-La-Di, Ob-La-Da'/'MMMBop'/'Amazing Grace'/'Beethoven's 9th Symphony'/'Imagine'/'Hotel California'> on two recorders at the same time, using my nose.",12,,,,70,,,,,,,,,,,,,x
+,"Lately, I've been wondering if this is what nirvana feels like.",16,,,,90,,,,,,,,,,,,,x
+,"Seriously, who needs drugs when life is this good!",18,,,,90,,,,,,,,,,,,,x
+,I've been feeling so good lately that I can't stop listening to 'Happy' by Pharrell Williams.,14,,,,90,,,,,,,,,,,,,x
+,"Lately, I've been imagining a world where everyone can live in peace.",14,,,,90,,,,,,,,,,,,,x
+,So I guess this is what it feels like to be down in the dumps.,16,,,,,15,,,,,,,,,,,,x
+,"Things are going to get better soon, I can feel it!",12,,,,15,30,,,,,,,,,,,,x
+,I'm starting to think a change would do me good.,16,,,,,40,,,,,,,,,,,,x
+,I've been having a really hard time getting out of bed lately.,16,,,,,30,,,,,,,,,,,,x
+,"I've been thinking recently that if I became a weatherman, I could spend my entire career making wild guesses without any accountability.",12,21,,,,,,,,,,,,,,,,x
+,"Lately, I've been contemplating whether I would prefer my hypothetical mermaid wife to be human on the top half or the bottom half.",18,,female,gay,,,,,,,,,,,,,,
+,"Lately, I've been contemplating whether I would prefer my hypothetical mermaid wife to be human on the top half or the bottom half.",18,,male,straight,,,,,,,,,,,,,,
+,I've come to realize that the problem with political jokes is that they sometimes get elected.,14,,,,,,,,,,,,,,,,,x
+,"I can't help but wonder how lazy a person must be to not use their turn signal, considering it's literally a flick of the finger.",16,,,,,,,,,,,,,,,,,x
+,"Lately, I've been wondering if the things that taste sweet to me are <sour/salty/bitter> to everyone else.",16,,,,,,,,,,,,,,,,,x
+,"I polled the Silent Generation on their opinions regarding the beef between <Gen Z/Millennials> and Boomers, but they had no comment on the matter.",14,,,,,,,,,,,,,,,,,x
+,I can't help but wonder if drug dogs get <high/lit/buzzed/amped/blasted> when they sniff <cocaine/crack/meth>.,16,,,,,,,,,,,,,,,,,
+,"Lately, I've spent a lot of time wondering if the things that are red to me are <blue/green/yellow/black/orange> to everyone else.",14,,,,,,,,,,,,,,,,,x
+,"Lately, I've spent a lot of time wondering if the things that are blue to me are <red/green/yellow/black/orange> to everyone else.",14,,,,,,,,,,,,,,,,,x
+,"Lately, my frustrations have been welling up so much that I'm afraid I'll explode on the next person who crosses me.",12,,,,,20,,,,,,,,,,,,x
+,I've been so down lately that not even <a box of donuts/a plate of perfectly crisped bacon/a caramel apple/a slice of red velvet cake/a slice of pepperoni pizza/a bowl of super cheesy mac n' cheese/a hot fudge sundae/French fries/potato chips/chicken wings/a slice of apple pie/a winning lottery ticket/time spent petting a cute puppy/popping bubble wrap/dank memes/finding cash in my pocket/Baby Yoda/peeling plastic off of a new device/a sunset over the ocean/a tropical cruise> could cheer me up.,14,,,,,15,,,,,,,,,,,,x
+,"I've decided to start kissing my postal carrier's fingertips as <he/she> slips mail through the slot in my front door, <as a random act of kindness/to show my appreciation>.",18,,,,60,,,,,,,,,,,,,x
+,"Lately, I've been feeling like there are not enough sad <movies/books/songs> in the world to get me out of this depression.",14,,,,,5,,,,,,,,,,,,x
+,<Faking a smile/Trying to act happy/Disguising my pain> has really been wearing me out lately.,14,,,,,40,,,,,,,,,,,,x
+,I feel like I've been walking on cloud nine lately.,12,,,,80,,,,,,,,,,,,,x
+,I seem to be finding some genuine peace and joy in my old age.,70,,,,70,,,,,,,,,,,,,x
+,It seems like the older I get the happier I am.,65,,,,70,,,,,,,,,,,,,x
+,I can't remember the last time I felt this <joyous/cheerful/content/delighted/joyful> for no particular reason.,14,,,,80,,,,,,,,,,,,,x
+,I'm realizing how people are much nicer when you smile.,14,,,,50,,,,,,,,,,,,,x
+,I can't seem to stop crying lately.,,,,,,5,,,,,,,,,,,,x
+,I feel like I'm on the edge of an emotional meltdown.,10,,,,,5,,,,,,,,,,,,x
+,"I know I'm depressed because I've crushed <three/four/five/six/seven/eight/nine> ice cream cones this week, and it's only <Tuesday/Wednesday/Thursday>.",14,,,,,15,,,,,,,,,,,,x
+,I've come to realize how <sad/scary/hard/depressing> life can be for an older person in a society where young people don't respect their seniors.,60,,,,,15,,,,,,,,,,,,x
+,"More than ever, I've been feeling sad about all the things I wanted but never received.",18,,,,,15,,,,,,,,,,,,x
+,I've been feeling like I'm one <problem/issue/mistake/blunder> away from a total meltdown.,14,,,,,15,,,,,,,,,,,,x
+,I've been wondering which factors were considered when setting the price of Gwenyth Paltrow's 'This Smells Like My Vagina' candle at $150.,18,,,,,,,,,,,,,,,,,
+,"I've been wondering about world currencies, when it comes to the Vietnamese dong, how much is <a lot/too much/an impressive amount/a sizeable amount/how much is enough to get by>?",18,,,,,,,,,,,,,,,,,
+,I've come to realize that happiness is a choice.,18,,,,70,,,,,,,,,,,,,x
+,I'm really feeling like <the world is my oyster/nothing can get in my way/I am an unstoppable force/the sky is the limit for me/anything is possible for me/there are no limits as to what I can achieve>.,18,,,,50,,,,,,,,,,,,,x
+,I'm starting to think that there is absolutely nothing in this world that can <slow me down/bring me down/hold me back/limit me>.,12,,,,80,,,,,,,,,,,,,x
+,"Lately, I've been wondering when it was that younger generations stopped showing respect to older people.",70,,,,,,,,,,,,,,,,,x
+,I've learned the hard way that a hip pointer is not a cool tip.,18,,,,,,,,,,,,,,,,,x
+,I've been so happy lately that it's making me want to share a dish of hard candy with everyone in the world.,65,,,,70,,,,,,,,,,,,,x
+,I've been reflecting a lot recently on how awesome human beings actually are!,12,,,,70,,,,,,,,,,,,,x
+,I've been trying to give more genuine and honest compliments to people lately.,18,,,,50,,,,,,,,,,,,,x
+,<Social media/The news/Political divisiveness/Roadkill/Poor grammar> has really been getting me down lately.,18,,,,,,,,,,,,,,,,,x
+,I can't help but wonder if all the joyful humans I interact with are miserable people just pretending to be happy to annoy me.,18,,,,,50,,,,,,,,,,,,x
+,I am really needing something positive to <come my way/happen to me/happen in my life>.,18,,,,,30,,,,,,,,,,,,x
+,I've cried every day for <four/five/six/seven/eight/nine> straight days.,13,,,,,5,,,,,,,,,,,,x
+,I've been feeling so discouraged lately that it makes me wonder if I'm going through a midlife crisis.,50,60,,,,50,,,,,,,,,,,,x
+,"For the past few weeks, I've been waking up every morning with the overwhelming feeling that today will be the best day ever.",12,,,,70,,,,,,,,,,,,,x
+,I've been feeling so good lately that I keep smiling for no reason at all.,12,,,,80,,,,,,,,,,,,,x
+,"I'm beginning to think that people actually perceive me as being happy when in reality, I'm really sad.",12,,,,,30,,,,,,,,,,,,x
+,I've been feeling so down lately that it's starting to make me feel even more depressed.,12,,,,,15,,,,,,,,,,,,x
+,I've been feeling so down lately that even fun things don't sound fun anymore.,12,,,,,15,,,,,,,,,,,,x
+,It's my experience that true happiness in life begins at age 60.,60,,,,80,,,,,,,,,,,,,x
+,"I've been so happy lately that it's making me want to run through a field of daisies barefoot while singing, 'Here Comes the Sun.'",18,,,,90,,,,,,,,,,,,,x
+,I've been waking up every morning with an overwhelming sensation that everyone in the world is a beautiful soul.,18,,,,90,,,,,,,,,,,,,x
+Royal,"Lately, I've been spending a lot of time pondering how <accurate/inaccurate/relatable/unrealistic> '<Game of Thrones/The Princess Bride/Braveheart/Prince of Persia/Robin Hood/The King's Speech/The Royals/Downton Abbey/The Tudors/Lord of the Rings>' really is.",18,,,,,,,,,,,,,,,,,x
+Royal,Who knew that being the <hero-title> could be so <good/fun/easy/rewarding/awesome>?!,10,,,,80,,,,,,,,,,,,,x
+Royal,Who knew that being the <hero-title> could be so <challenging/difficult/hard/unpleasant/terrible/crappy/annoying/crazy/wack>?!,10,,,,,30,,,,,,,,,,,,x
+Royal,I feel like the next person to cross the crown could be in real trouble.,14,,,,,20,,,,,,,,,,,,x
+Royal,<castle> is so overdue for a royal <renovation/facelift/restoration/remodeling/refurnishing>.,14,,,,,,,,,,,,,,,,,x
+Royal,"Lately, <lover> never seems to be found anywhere in the <castle>.",25,,,,,,Lover,25,,,50,,,,,,,x
+Royal,"Sometimes, I don't think <castle> is worthy of <lover>.",25,,,,,,Lover,25,,80,,,,,,,,x
+Royal,"Sometimes, I don't think <lover> is worthy of <castle>.",25,,,,,,Lover,25,,,30,,,,,,,x
+Royal,"Last night, I was up all night sword fighting with <lover>.",18,,male,gay,,,Lover,18,,,,male,gay,,,,,
+Royal,"Lately, I've been questioning if my mother was lying when she told me I was the most handsome <hero-title> of all time.",14,,male,,,,Mother,,,,,,,,,,,x
+Royal,"Lately, I've been questioning if my father was lying when he told me I was the prettiest <hero-title> of all time.",14,,female,,,,Father,,,,,,,,,,,x
+Royal,I'm starting to get concerned that <child> is becoming <entitled/spoiled/a brat/a punk/a little devil/rotten>.,,,,,,,Child,2,,,50,,,,,,,x
+Royal,I'm starting to get concerned that <child> isn't really <a genius/a prodigy/an angel/a proper royal/noble>.,,,,,,,Child,2,,,50,,,,,,,x
+Royal,I'm starting to wonder if <child> is even a part of my royal bloodline.,,,male,,,,Child,5,,,50,,,,,,,
+Royal,<sibling> has hidden my crown from me <num2-9> times this month already.,5,12,,,,,Sibling,8,,,,,,,,,,x
+Royal,"Lately, <sibling> has been such a royal pain-in-the-butt.",5,,,,,,Sibling,,,,,,,,,,,
+Royal,"Lately, <sibling> and I have been squabbling over whose <crown/sword> is bigger.",12,18,male,,,,Sibling,12,18,,,male,,,,,,
+Royal,"Lately, <sibling> and I have been squabbling about who really was daddy's little princess.",25,,female,,,,Sibling,25,,,,female,,,,,,x
+Royal,"Whenever I look at the crown, I wonder what the jewels would taste like if they were edible.",3,,,,,,,,,,,,,,,,,x
+Royal,Listening to my peoples' problems brings me joy. I live to serve them.,20,,,,,,,,,,,,,,,,,x
+Royal,I wonder what the point of living would be if I weren't a royal.,12,,,,,,,,,,,,,,,,,x
+Royal,"Common kids are starting to annoy me and I start to wonder if I was anything like them when I was younger, but then I remind myself that I'm a royal. I couldn't have been like them because I'm better.",21,,,,,,,,,,,,,,,,,x
+Royal,"Sometimes I wonder if people only like me because I'm a royal, or if they really like me for me.",10,,,,,,,,,,,,,,,,,x
+Royal,I find myself relating more and more to <Lady Macbeth/Cersei Lannister/the Queen of Hearts/Queen Beryl/Dolores Umbridge> with each passing day.,14,,female,,,,,,,,,,,,,,,x
+Royal,I find myself relating more and more to <Lord Voldemort/Joffrey Baratheon/Sauron/Firelord Ozai/Skeletor> with each passing day.,14,,male,,,,,,,,,,,,,,,x
+Royal,"I look at myself in the mirror and think, 'Y'know? Sometimes, it's good to be the <hero-title>'.",18,,,,,,,,,,,,,,,,,x
+Royal,I wonder how much someone would pay me if I let them use <castle> as the set for a porno.,18,,,,,,,,,,,,,,,,,
+Royal,"As I reflect on our nation's history, I have to wonder how much of our wealth came at the cost of indigenous peoples' lives.",21,,,,,,,,,,,,,,,,,x
+Royal,I was today years old when I realized that drag kings and queens are not real royalty.,18,,,,,,,,,,,,,,,,,x
+Royal,I wonder what the repercussions of setting up a royal OnlyFans account would be.,18,,,,,,,,,,,,,,,,,
+Royal,I'm slowly realizing that <green/blue/red/orange/yellow/magenta/pink/purple/fuschia/chartreuse/cerulean> is the most regal color imaginable.,5,,,,,,,,,,,,,,,,,x
+Royal,"Lately, I've been wondering if people would respect a royal with a <foot/ear/hand/nose/latex/felon/tattoo/toe/piercing/bondage> fetish.",18,,,,,,,,,,,,,,,,,
+Royal,"Whenever I see <a herd of cows/a pack of mules/a murder of crows/a school of fish/a gaggle of geese/a pack of wolves/a bevy of swans/an army of frogs/a herd of antelope/a bevy of doves/a herd of elk/a pod of dolphins>, I quickly identify which of them is the <hero-title>.",8,,,,,,,,,,,,,,,,,
+Royal,I can't imagine being reincarnated as anything but a person of royalty.,15,,,,,,,,,,,,,,,,,
+Royal,I sometimes think to myself that I don't deserve to be a <hero-title>.,15,,,,,,,,,,,,,,,,,
+Royal,I'm curious what my title of <hero-title> would be worth on the open market if there were a market for such things.,16,,,,,,,,,,,,,,,,,
+Royal,"Sometimes I fantasize about stepping down from my royal duties and moving to Hollywood to become a famous actor, but then I realize how incredibly selfish that would be.",18,,,,,,,,,,,,,,,,,
+Royal,I'm starting to think there might be a viable market online for authentic <hero-title> porn.,18,,,,,,,,,,,,,,,,,
+Royal,I think Whitney Houston was delusional when she sang 'Queen of the Night' about herself and not me.,15,,female,,,,,,,,,,,,,,,x
+Royal,"If I'm not voted prom king on the merit of my royalty, someone's getting executed.",14,17,male,,,,,,,,,,,,,,,x
+Royal,"If I'm not voted prom queen on the merit of my royalty, someone's getting executed.",14,17,female,,,,,,,,,,,,,,,x
+Royal,I wonder why the band is called 'Queen' when none of the members are royalty. Or female.,12,,,,,,,,,,,,,,,,,x
+Royal,I wonder how much my sexuality impacts the peoples' perception of me.,13,,,,,,,,,,,,,,,,,x
+Royal,Being greeted with 'Yaaaaaaas qween' gives me so much life.,14,,male,gay,,,,,,,,,,,,,,x
+Royal,I feel like every day I draw breath should be a holiday for the people in my kingdom.,10,,,,,,,,,,,,,,,,,x
+Royal,"Sometimes I think of giving all public servants a day off, but then I remember that as a royal, I'm the most important public servant and just can't take a day off from being myself.",16,,,,,,,,,,,,,,,,,x
+Royal,I wonder how long it would take for the nickname '<hero-title> Poundcake' to stick. I want my lovers to know what to expect.,18,,male,gay,,,,,,,,,,,,,,
+Royal,"I'm starting to think that Henry VIII got it right; if a partner doesn't give you what you want, it's off with their head!",18,,,,,,,,,,,,,,,,,x
+Royal,I wonder how many other royals feel this <lucky/#blessed/carefree/grateful> to live this life.,6,,,,60,,,,,,,,,,,,,x
+Royal,"Recently, I've been thinking that a <komodo dragon/snake/Pomeranian/Corgi/leopard/jaguar/elephant/hippopotamus/howler monkey/koala bear> is the most regal animal for a royal to own.",5,,,,,,,,,,,,,,,,,x
+Royal,I find myself wondering how many times a day my people think about how <great/terrible/amazing/mediocre> I am.,12,,,,,,,,,,,,,,,,,x
+Royal,I enjoy letting my soldiers know how much their protection means to the people of the kingdom.,20,,,,,,,,,,,,,,,,,x
+Royal,I like to pretend that songs with royal titles in the name provide the soundtrack for my life.,11,,,,,,,,,,,,,,,,,x
+Royal,I just realized that 'Royal Fleet' is not a brand of enemas specifically reserved for the Royal Family.,17,,,,,,,,,,,,,,,,,
+Royal,It just dawned on me that the Queen Mary isn't a royal. Or a person.,19,,,,,,,,,,,,,,,,,x
+Royal,"I've become more paranoid that my subjects might want to <assassinate/pull a prank on/pepper spray> me, and I don't know why.",30,,,,,,,,,,,,,,,,,x
+Royal,I am noticing fewer smiles on the faces of the members of my royal court. Maybe I should hire a <clown/prostitute/jester/contortionist> to help lighten the mood.,30,,,,,,,,,,,,,,,,,x
+Royal,"I've been wondering how royal titles got to be what they are. How did 'Duke' become a royal title, and not something you do in the bathroom?",15,,,,,,,,,,,,,,,,,x
+Royal,"<lover> has been sympathizing with the servants in <castle>, not wanting them to do too much work. <he/she> insists on doing it on <his/her> own.",25,,,,,,Lover,18,,,,,,,,,,x
+Royal,"<sibling> can't keep <his/her> eyes off of my crown, and I can't help but feel <he/she> is jealous that mine is bigger than <his/hers>.",10,18,,,,,Sibling,5,18,,,,,,,,,x
+Royal,Sometimes I find myself wondering if I'll ever live up to the legacy of my family name.,8,,,,,,,,,,,,,,,,,x
+Royal,"My mother has recently been making me practice waving and bowing whenever I enter or leave a room. I think I look silly because people should be bowing to me, not the other way around.",3,10,male,,,,Mother,,,,,,,,,,,x
+Royal,"I'm beginning to wonder if we don't have enough balls at <castle>. To fix this, I could <invite more male performers to court/host more parties/throw more dances>.",16,,,,,,,,,,,,,,,,,
+Royal,"I wonder what my life would be like if my name were Richard. '<hero-title> Dick' would be my nickname, and I'm not sure how I feel about that.",15,,female,,,,,,,,,,,,,,,x
+Royal,"There aren't enough hours in the day for me to spend time with my subjects. If t were possible, I'd extend daylight hours so I could be among them for longer.",21,,,,,,,,,,,,,,,,,x
+Royal,I'm beginning to suspect that <lover> is only with me because I'm royalty.,14,,,,,,Lover,,,,,,,,,,,x
+Royal,"I'm thinking of proclaiming <McDonald's/Wendy's/Kentucky Fried Chicken/Taco Bell> as the kingdom's national food, and that it should be eaten at least once per week.",12,,,,,,,,,,,,,,,,,x
+Actor,I have been considering auditioning for more <serious/comedic/dramatic/romantic> roles lately.,19,,,,,,,,,,,,,10,,,,
+Actor,I stayed up for <num24-48> hours Googling myself.,20,,,,,,,,,,,,,10,,,,
+Actor,I recently discovered the worst thing an actor can do is Google his <latest film/name>.,20,,male,,,,,,,,,,,10,,,,
+Actor,I recently discovered the worst thing an actress can do is Google her <latest film/name>.,20,,female,,,,,,,,,,,10,,,,
+Actor,I decided to look into method acting and began studying the careers of <Daniel Day-Lewis/Marlon Brando/Robert De Niro/Forest Whitaker/Al Pacino/Johnny Depp> and <Robert Pattinson/Jamie Foxx/Charlize Theron/Christian Bale/Angelina Jolie/Jim Carrey> to learn from them.,20,,,,,,,,,,,,,10,,,,
+Actor,I'm learning that being an actor isn't about acting so much as it is about reacting.,18,,,,,,,,,,,,,,,,,
+Actor,I've determined the best thing about being a famous actor is <the star treatment/never having to drive myself anywhere/getting my picture taken all the time/fact that I'm famous/being a role model/becoming a different person every day/hearing people applaud for me>.,18,,,,50,,,,,,,,,40,,,,
+Actor,I'm learning that being an actor means I get to feel my feelings as I perform.,20,,,,,,,,,,,,,,,,,
+Actor,I love being an actor because it means I only work with attractive people.,20,,,,20,,,,,,,,,,,,,
+Actor,I'm feeling the pressure to look young and beautiful and to be tough. Can't I just let myself go and be real?,40,,,,,50,,,,,,,,,,,,
+Actor,"Every time I start a new project, I really look forward to the process of ""getting to know"" the characters I play on-screen.",25,,,,,,,,,,,,,60,,,,
+Actor,I love that being an actor means I get to <film in exotic locations/travel around the world>.,18,,,,,,,,,,,,,40,,,,
+Actor,I'm starting to think I should hire someone to manage my social media presence. Checking <Reddit/Twitter/Instagram> every day isn't always <the best part of waking up/a treat/a pleasure/fun>.,18,,,,,50,,,,,,,,,,,,
+Actor,"I worry about getting older because <this industry thrives on youth/it's harder for older actors to get decent roles/wrinkles don't look good on camera/the older you get, the harder it is to stay relevant>.",18,25,,,,70,,,,,,,,,,,,
+Actor,I sometimes can't take myself seriously when I'm practicing facial expressions in the mirror.,18,,,,,,,,,,,,,,,,,
+Actor,I'm starting to wonder if I'm really <all that and a bag of chips/the total package/a star>.,18,,,,,50,,,,,,,,,,,50,
+Actor,"People have been comparing my acting ability with <Seth Green/Seth Rogen/James Franco/Adam Sandler/Nicholas Cage/Mel Gibson/Cuba Gooding Jr/Kevin James/Shia Labeouf/Chevy Chase/Jonah Hill/Steven Seagal>'s, and I'm not sure whether that's a compliment or not.",18,,male,,,,,,,,,,,,,,50,
+Actor,People have been comparing my acting ability with <Tyra Banks/Kristen Stewart/Tara Reid/Miley Cyrus/Hilary Duff/Selena Gomez/Katie Holmes/Jessica Alba/Madonna/Melanie Griffith/Kim Basinger/Lindsay Lohan/Madonna>'s and I'm not sure whether that's a compliment or not.,18,,female,,,,,,,,,,,,,,50,
+Actor,"I've realized the more famous I am, the less I have to do for myself. Can I hire someone to <pick my nose/brush my teeth/wash my hair/bathe me/fetch my groceries/wipe my butt/get me coffee/assist me/schedule my appointments/feed me/fetch me water/flush after me/tie my shoes/clean my house/do my BitLife challenges/brush my hair/pick up my mail> yet?",18,,,,,,,,,,,,,70,,,,
+Actor,I have dreams of starring in the next <Legally Blonde/Star Trek/Star Wars/Avengers/Forrest Gump/Ghostbusters/Avatar/Frozen/Harry Potter/Lord of the Rings>-level blockbuster hit. I'll get there someday.,18,25,,,,,,,,,,,,,30,,,
+Actor,I've come to the conclusion that <starring in a cheesy Christmas movie/starring in a made-for-TV horror film> is the worst thing an actor can do.,20,,,,,,,,,,,,,,,,,
+Actor,"I'm not seeing any adoring fans when I go out in public, and I can't help but wonder why.",18,,,,,,,,,,,,,,,,40,
+Actor,I wonder if <lover> is jealous of how famous I am.,18,,,,,,Lover,18,,,50,,,50,,,,
+Actor,I wonder if <lover> feels insecure because I'm a famous actor.,18,,,,,,Lover,18,,,50,,,50,,,,
+Actor,I often wonder what <lover> is doing while I'm on set all day.,18,,,,,,Lover,18,,,,,,,,,,
+Actor,I'm starting to worry that <lover> is only with me so that <he/she> can meet other celebrities.,18,,,,,50,Lover,18,,,50,,,50,,,,
+Actor,I'm glad <lover> isn't intimidated by my illustrious acting career.,18,,,,50,,Lover,18,,50,,,,70,,,,
+Actor,I hope <lover> isn't annoyed by the paparazzi following us around <in public/on our dates>. Dating a famous actor must be tough.,18,,,,,,Lover,18,,,60,,,70,,50,,
+Actor,I'm glad I have <lover> to <read bad reviews of my performances/screen reviews of my performances/read bad reviews of my performances in a silly voice/ground me when I start to doubt my acting ability>.,20,,,,40,,Lover,18,,50,,,,60,,,,
+Actor,I hope <lover> understands that my investment in our relationship isn't an act.,30,,,,,,Lover,18,,,,,,,,,,
+Actor,I'm glad I have <lover> to run lines with me in our spare time.,30,,,,50,,Lover,18,,50,,,,30,,,,
+Actor,I love bringing my mother to red carpet events. She deserves to feel famous.,30,,,,,,Mother,40,,50,,,,50,,,,
+Actor,I love bringing my father to red carpet events. He deserves to feel famous.,30,,,,,,Father,40,,50,,,,50,,,,
+Actor,I worry that my father doesn't respect my career because he has never complimented my work.,20,,,,,,Father,40,,,50,,,,50,,,
+Actor,I worry that my mother doesn't respect my career because she has never complimented my work.,20,,,,,,Mother,40,,,50,,,,50,,,
+Actor,I think my biggest takeaway from watching 'Dirty Dancing' is that you should never get a nose job after becoming a famous actress.,,,,,,,,,,,,,,,,,,
+Actor,"One of my favorite things about being an actor is when someone asks what I do for a living, and I get to say, 'I'm an actor'.",,,,,,,,,,,,,,,50,,,
+Actor,"I look at young actors these days, thinking they have no idea what it was like for me at their age.",70,,,,,,,,,,,,,,,,,
+Actor,"I used to think I was better than everyone else, now my fame proves it.",,60,,,,,,,,,,,,90,,50,,
+Actor,I've developed a real love-hate relationship with being recognized in public.,30,,,,,,,,,,,,,75,,60,,
+Actor,"I think it would be <great/stellar/fantastic/wonderful> if they did a remake of 'Can't Buy Me Love,' and I got to play the Patrick Dempsey character.",,30,,,,,,16,21,,,,,,,,,
+Actor,Sometimes I can't tell the difference between myself as an actor and myself as the real me. Who am I?,50,,,,,,,,,,,,,75,,,,
+Actor,I'm starting to think that I could become one of the greatest actors of all time.,,30,,,,,,,,,,,,65,,50,,
+Actor,"Lately, I've been thinking that if I did something <eccentric/crazy/scandalous/nefarious> and it made the tabloids, I could advance my career.",45,,,,,,,,,,,,,,50,,50,
+Actor,"Lately, I've been questioning if acting is the best path for me.",40,60,,,,,,,,,,,,,40,,50,
+Actor,"I can't go anywhere in public these days without being recognized, and I <love/hate> it.",25,,,,,,,,,,,,,85,,55,,
+Actor,"If reincarnation is real, I want to be a famous actor again, and again, and again.",50,,,,,,,,,,,,,75,,50,,
+Actor,"I got a text from <real-actor> yesterday saying 'what's up,' but I didn't respond. I wonder what <he/she> wants.",30,,,,,,,,,,,,,85,,,,
+Actor,"I think the more challenging a scene is, the more fun it is because the more of my job I get to do.",,,,,,,,,,,,,,,,,,
+Actor,I worry that my age will keep me from landing starring roles.,60,,,,,50,,,,,,,,,50,,50,
+Actor,I wonder if people still watch my old work.,60,,,,,50,,,,,,,,30,60,,,
+Actor,I'm becoming more insecure about my age lately. Is there still time for me to be a star after 50?,51,,,,,,,,,,,,,,50,,,
+Actor,"As I get older, I become more determined to be the actor who made 60 look sexy.",50,59,,,,,,,,,,,,,,,,
+Actor,It makes me nervous to audition for roles nowadays. What if I <lose control of my bladder/wet myself/fall and can't get up/accidentally press my Life Alert button while on set>?,70,,,,,,,,,,,,,,,,,
+Actor,I wonder if my mother would be a fan of my movies if she wasn't my mother.,30,,,,,,Mother,50,,,50,,,,50,,,
+Actor,I wonder if my father would be a fan of my movies if he wasn't my father.,30,,,,,,Father,50,,,50,,,,50,,,
+Actor,"I'm having a mid-career crisis, and I'm thinking of doing <a low-budget holiday film/drugs/my own stunts/a wacky childrens show/the Home Shopping Network/a straight-to-DVD film>.",45,,,,,,,,,,,,,,40,,40,
+Actor,I wonder if any of my co-stars have ever had a crush on me.,30,,,,,,,,,,,,,,,,,
+Actor,I got an opportunity to do a celebrity cameo on a movie set.,80,,,,,,,,,,,,,70,,,,
+Actor,"I <sharted/farted> in public today. Everyone assured me that it didn't smell bad, but I knew the smell was <terrible/rank/nauseating/horrifying>. Man, I love being a famous actor.",20,,male,,,,,,,,,,,80,,,,
+Actor,"I <queefed/sharted/farted> in public today. Everyone assured me that it didn't smell bad, but I knew the smell was <terrible/rank/nauseating/horrifying>. Man, I love being a famous actress.",20,,female,,,,,,,,,,,80,,,,
+Actor,<Reddit/Twitter/Internet> trolls started using one of my characters' faces in an unflattering meme.,20,,,,,,,,,,,,,,,,60,
+Actor,Rumors have emerged that I <steal from sets/steal outfits/ad lib my lines/pull pranks on my co-stars/sleep with my co-stars/sleep with my directors/sleep with the extras>.,40,,,,,,,,,,,,,50,,,,
+Actor,"A paparazzo asked me if I <wipe back to front, or front to back/get my daily fruits and vegetables/like pineapple on pizza/think life is easier because I'm beautiful/think looks are more important than brains/put milk before cereal, or cereal before milk/like dogs more than cats/pronounce it ""gif"" or ""jif""/butter my bread on the top or bottom/think we're living in a simulation/think Santa's elves are unionized/think a hotdog is a sandwich/think a burger is a sandwich>.",30,,,,,,,,,,,,,40,,,,
+Actor,<sibling> keeps asking me to invite <him/her> to red carpet events.,30,,,,,,Sibling,15,,30,,,,40,,,,
+Actor,<lover> keeps asking me to invite <him/her> to red carpet events.,30,,,,,,Lover,50,,50,,,,40,,,,
+Actor,<child> keeps asking me to bring <him/her> to red carpet events.,30,,,,,,Child,10,,30,,,,40,,,,
+Actor,Sometimes I think being a famous actor isn't all that it's cracked up to be.,25,,,,,50,,,,,,,,80,,,,
+Actor,I find myself wondering what it took for <Tom Hanks/Tom Hiddleston/Tom Holland/Tom Selleck/Denzel Washington/Leonardo DiCaprio/Robert De Niro/Anthony Hopkins/Christian Bale/Will Smith/Samuel L. Jackson/Morgan Freeman/Tom Cruise/Liam Neeson/Johnny Depp/Brad Pitt/Harrison Ford/Clint Eastwood/Gary Oldman/Ryan Gosling/Robin Williams/Chadwick Boseman/Donald Glover/Idris Elba/Jackie Chan/Anthony Mackie/Eddie Murphy> to become a great actor and if I could someday have a career like his.,18,25,male,,,,,,,,,,,10,40,,,
+Actor,I find myself wondering what it took for <Meryl Streep/Cate Blanchett/Maggie Smith/Emma Watson/Emma Stone/Emma Roberts/Julia Roberts/Sandra Bullock/Constance Wu/Queen Latifah/Anne Hathaway/Emily Blunt/Amy Adams/Glenn Close/Scarlett Johansson/Natalie Portman/Jennifer Lawrence/Reese Witherspoon/Betty White/Viola Davis/Octavia Spencer/Zendaya/Zoe Saldana/Nicole Kidman/Frances McDormand/Salma Hayek/Halle Berry/Issa Rae/Lucy Liu/Kerry Washington/Michelle Rodriguez/Angela Bassett/Lupita Nyong'o/Regina King/Regina Hall> to become a great actress and if I could someday have a career like hers.,18,25,female,,,,,,,,,,,10,40,,,
+Actor,<child> told me <he/she> wishes <he/she> had a normal life away from my spotlight.,18,,,,50,,Child,5,15,,50,,,70,,50,,
+Actor,<child> told me <he/she> misses me when I have to travel.,18,,,,,,Child,5,17,50,,,,40,,,,
+Actor,<child> told me <he/she> hates that I'm an actor because I'm never home.,18,,,,,,Child,5,17,40,,,,60,,,,
+Actor,I like it when they give me my own trailer on set. The privacy does me good.,20,,,,,,,,,,,,,60,,,,
+,"I've discovered how fun it is to say ""no"".",1,3,,,,,,,,,,,,,,,,x
+,I've started seeking out the tallest thing on the playground and jumping off of it.,3,6,,,,,,,,,,,,,,,,x
+,"<sibling> called me a dummy, so I <punched/kicked/pinched/slapped/bit> <him/her> and got sent to time-out.",2,9,,,,,Sibling,3,9,,,,,,,,,x
+,I had a pleasant afternoon with <sibling> after convincing <him/her> to play <checkers/Go Fish/backgammon/slapjack/War/chess> with me.,5,11,,,,,Sibling,5,13,,,,,,,,,x
+Student,"I was mortified after I called one of my teachers ""mom"" by mistake.",6,11,,,,,Mother,,,,,,,,,,,x
+Student,I'm learning <trigonometry/calculus/discrete mathematics/algebra II> and wondering if it'll ever be relevant outside of school.,14,17,,,,,,,,,,,,,,,,x
+,I learned that the wet things that come out of your eyes when you're sad are called tears.,2,5,,,,33,,,,,,,,,,,,x
+,"I played with my plastic <xylophone/piano/drum pad/maracas>, and the sound filled me with joy.",2,5,,,60,,,,,,,,,,,,,x
+Parents,"I've been wondering what ""bills"" are, and why they make my parents <groan/put their heads in their hands/look sad/look mad/pour big glasses of smelly liquid>.",3,8,,,,,,,,,,,,,,,,x
+Student,I was sent to the principal's office for arguing with <classmate> about <how many peppers Peter Piper picked/how much wood a woodchuck could chuck>.,6,10,,,,,,,,,,,,,,,,x
+,My mother cradled me in her arms and told me I was <her perfect little love/the apple of her eye/her sweet little potato/her little bean/her lovebug>.,2,4,,,,,Mother,,,51,,female,,,,,,x
+,My father cradled me in his arms and told me I was <his perfect little love/the apple of his eye/his sweet little potato/his little bean/his lovebug>.,2,4,,,,,Father,,,51,,male,,,,,,x
+,I had my first nosebleed. Some of the blood dribbled into my mouth and I thought it tasted <horrible/metallic/delicious/odd>.,2,5,,,,,,,,,,,,,,,,x
+Student,I saw my teacher at <the mall/the movie theater/the grocery store/the bus stop/the park> on the weekend and realized that teachers exist outside of school.,6,12,,,,,,,,,,,,,,,,x
+,"I decided I didn't like all the pink clothes I was dressed in, and asked to wear <blue/green/yellow/purple/orange/rainbow> clothes instead.",2,6,female,,,,,,,,,,,,,,,x
+,"I decided I didn't like all the blue clothes I was dressed in, and asked to wear <pink/green/yellow/purple/orange/rainbow> clothes instead.",2,6,male,,,,,,,,,,,,,,,x
+,"While at the playground, another kid asked me to play on the <monkey bars/climbing wall/seesaw/swings>, but I was too sad.",2,8,,,,33,,,,,,,,,,,,x
+,I've started spontaneously telling <sibling> I love <him/her>.,2,16,,,51,,Sibling,,,30,,,,,,,,x
+,"I tell the sun ""good morning"" at the beginning of every day.",2,7,,,60,,,,,,,,,,,,,x
+Student,I realized that my favorite subject is <English/history/foreign languages/math/science/music/art/gym class>.,7,11,,,,,,,,,,,,,,,,x
+,I've been exercising my autonomy by throwing <spaghetti/cereal/steamed vegetables/banana slices/scrambled eggs/roasted sweet potato> from my high chair onto the floor.,2,4,,,,,,,,,,,,,,,,x
+,I tripped and skinned my <elbow/knee/shin/palms>. My mother told me to stop crying.,3,9,,,,,Mother,,,,33,female,,,,,,x
+,I tripped and skinned my <elbow/knee/shin/palms>. My father told me to stop crying.,3,9,,,,,Father,,,,33,male,,,,,,x
+,I beat my first <Pokemon/Mario/Zelda/Donkey Kong> game. I immediately decided to play it another <num10-50> times.,5,11,,,,,,,,,,,,,,,,x
+Student,"<Classmate> told me <he/she> knew how babies are made, but I was grossed out and didn't believe <him/her>.",6,11,,,,,,,,,,,,,,,,
+,I baked a <vanilla/red velvet/carrot/strawberry/coconut/lemon> cake for my mother's birthday. She said it was <delicious/mouthwatering/life-changing/the best cake ever made>.,9,17,,,,,Mother,,,51,,female,,,,,,x
+,I baked a <vanilla/red velvet/carrot/strawberry/coconut/lemon> cake for my father's birthday. He said it was <delicious/mouthwatering/life-changing/the best cake ever made>.,9,17,,,,,Father,,,,40,male,,,,,,x
+,I baked a <vanilla/red velvet/carrot/strawberry/coconut/lemon> cake for my mother's birthday. She said it was <rancid/disgusting/foul/the worst cake ever made>.,9,17,,,,,Mother,,,51,,female,,,,,,x
+,I baked a <vanilla/red velvet/carrot/strawberry/coconut/lemon> cake for my father's birthday. He said it was <rancid/disgusting/foul/the worst cake ever made>.,9,17,,,,,Father,,,,40,male,,,,,,x
+Student,I tried to start a new fashion trend at school by <tucking in my shirt on the right side only/wearing my underwear on top of my pants/wearing pants on my arms/wearing mismatched shoes/wearing a jaunty little beret>. <It didn't catch on/It caught on like wildfire>.,6,11,,,,,,,,,,,,,,,,x
+,I have memorized the name of every single dinosaur in my picture book.,3,6,,,,,,,,,,,,,,,,x
+,I ate a crayon and produced <blue/red/purple/magenta/lime green> poops for days.,2,4,,,,,,,,,,,,,,,,x
+,I made macaroni art of <our family/our house> and gave it to <sibling>.,2,6,,,,,Sibling,,,,,,,,,,,x
+,My mother asked me to watch <sibling> while she went to <the gym/the spa/the mall/the doctor's office/the tanning salon/get her tarot cards read>. We had a blast.,10,17,,,,,Sibling,1,9,60,,,,,,,,x
+,My mother asked me to watch <sibling> while she went to <the gym/the spa/the mall/the doctor's office/the tanning salon/get her tarot cards read>. It was torture.,10,17,,,,,Sibling,1,9,,40,,,,,,,x
+,<sibling> read to me from <a collection of fairy tales/a Winnie the Pooh book/The Wind in the Willows/Alice's Adventures in Wonderland/The Hobbit> while <he/she> was babysitting me.,2,7,,,,,Sibling,9,17,60,,,,,,,,x
+,"<sibling> was supposed to babysit me for the afternoon, but ignored me and texted the whole time.",2,7,,,,,Sibling,9,17,,40,,,,,,,x
+,I was dismissed from daycare after <peeing in another child's shoe/leading an armed revolt against the staff/flushing toys down the toilet/cutting an electrical cord with safety scissors>.,2,6,,,,,,,,,,,,,,,,x
+,My mom took me to get my first bra. <I refused to come out of the dressing room/I pretended I didn't know her/I tried on all the styles/I wished I'd gone with friends instead>.,10,14,female,,,,Mother,,,,,female,,,,,,x
+,I've been feeling like the most awkward person alive.,11,14,,,,,,,,,,,,,,,,x
+,My voice keeps cracking when I least expect it to.,12,15,,,,,,,,,,,,,,,,x
+Student,"I learned in school that <the universe has no edges/most of the ocean is unexplored/the idea of species is a scientific construct>, and now I think about it all the time.",9,13,,,,,,,,,,,,,,,,x
+,"I've become obsessed with a song by <musician>, and now I listen to it <num10-50> times per day.",10,16,,,,,,,,,,,,,,,,x
+,I like to watch the fascinating movements of <ant colonies/beehives/butterfly swarms> in my neighborhood.,5,9,,,,,,,,,,,,,,,,x
+,I wore my first pair of big-kid shoes for a grownups' party.,3,5,,,,,,,,,,,,,,,,x
+,I'm dreaming of driving a <car-type> once I get my driver's license.,12,15,,,,,,,,,,,,,,,,x
+,I've been wondering what it would be like to live in <downtown/a highrise overlooking/the wealthiest part of> <city> when I'm grown up.,8,14,,,,,,,,,,,,,,,,x
+Student,I have intrusive thoughts about calling my teacher <insult>.,9,15,,,,,,,,,,,,,,,,x
+,I've discovered the joy of climbing trees.,5,8,,,,,,,,,,,,,,,,x
+,I'm thinking about becoming a horse girl.,8,14,female,,,,,,,,,,,,,,,x
+,I'm considering dyeing my hair.,13,17,,,,,,,,,,,,,,,,x
+,I've invented a secret language for communicating with <sibling>.,7,16,,,,,Sibling,5,20,,,,,,,,,x
+,I decided my favorite snack was <Goldfish/Doritos/Takis/popcorn/fruit leather/peanut butter pretzels/cheese and crackers> and ate only that for <num3-10> days.,4,9,,,,,,,,,,,,,,,,x
+,I've started wondering where everyone else goes when I'm asleep.,2,6,,,,,,,,,,,,,,,,x
+,"I realized that my father wasn't actually gone when he put his hands over his face, playing peek-a-boo.",2,3,,,,,Father,,,,,male,,,,,,x
+,I tried coffee for the first time. It tastes <too bitter/revolting/electrifying/so sophisticated/like hot dirt water/like really bad chocolate>.,7,13,,,,,,,,,,,,,,,,x
+,I brought my mother a <rose/lily/corpse flower/Venus flytrap/carnation/sunflower> for Mother's Day.,5,12,,,,,Mother,,,51,,female,,,,,,x
+,I brought my father a <rose/lily/corpse flower/Venus flytrap/carnation/sunflower> for Father's Day.,5,12,,,,,Father,,,51,,male,,,,,,x
+Royal,My father asked me to say hello to a visiting dignitary. I <waved to her as commanded/vomited on her shoes/high-fived her/stared at her in silence>.,2,4,,,,,Father,,,,,male,,,,,,x
+Royal,I've learned that some little kids don't have titles. How strange!,2,7,,,,,,,,,,,,,,,,x
+Royal,I keep getting in trouble for <sneaking out/riding the bus/going to the park/going to McDonald's> and pretending to be a commoner.,8,15,,,,,,,,,,,,,,,,x
+Royal,My mother kissed my cheek and told me I'm a credit to the family.,5,15,,,,,Mother,,,60,,female,,,,,,x
+Royal,My mother told me that my behavior reflects poorly on the family.,5,15,,,,,Mother,,,,40,female,,,,,,x
+Royal,"I failed a quiz in <language arts/science/math/history> class, but the next day, my grade was mysteriously fixed.",8,17,,,,,,,,,,,,,,,,x
+Royal,The paparazzi infiltrated my school and took a picture of me <in line for the bathroom/in line for lunch/picking my nose in class/tripping in the hallway>.,7,15,,,,,,,,,,,,,,,,x
+Royal,I have to learn how to <dance/make polite conversation/smile politely> for royal functions. Ew.,6,12,,,,,,,,,,,,,,,,x
+Royal,"When I'm bigger, I'm going to make a law that <parents have to give their kids dessert whenever/dogs can vote/summer break is twice as long/daily pillow fights are mandatory>.",4,8,,,,,,,,,,,,,,,,x
+Royal,I asked if we could invite the <Dairy Queen/Burger King> to a state dinner.,3,6,,,,,,,,,,,,,,,,x
+Vampire,I was so desperate for some blood that I drained a sewer rat.,,,,,,,,,,,,,,,,,,
+Vampire,My favorite color is blood red.,,,,,,,,,,,,,,,,,,
+Vampire,I\u2019ve been wondering whether any other bodily fluids could serve as a substitute for blood.,,,,,,,,,,,,,,,,,,
+Vampire ,I'm beginning to think I might have a cavity in one of my fangs,,,,,,,,,,,,,,,,,,
+Vampire ,"I've been wondering why no one has thought of a vegan blood substitute, because it would print money.",,,,,,,,,,,,,,,,,,
+Vampire ,I've been wishing that someone would make a dating app for celebrity vampires. ,,,,,,,,,,,,,,60,,,,
+Vampire ,"Lately, I've been thinking about how different my life might have been if I hadn't become a vampire.",100,,,,,,,,,,,,,70,,,,
+Vampire ,"I've been thinking about how, despite my fame, most mortals still haven't realized that I'm a vampire.",80,,,,,,,,,,,,,,,,,
+Vampire ,I've been thinking about organizing a vampire pride parade.,,,,gay,,,,,,,,,,,,,,
+Vampire,I've been struggling to teach <child> about morality when I have to kill others to survive.,30,,,,,,Child,,10,,,,,,,,,
+Vampire ,"I've been struggling to explain to <child> that I'm not ""Batman"".",30,,Male,,,,Child ,,12,,,,,,,,,
+Vampire ,"I've been wondering if <Lionel Messi/Cristiano Ronaldo/Tom Brady/LeBron James> is a vampire, based on his longevity alone. ",,,,,,,,,,,,,,,,,,
+Vampire ,I've been wanting to travel the world more to taste everyone it has to offer.,,,,,,,,,,,,,,,,,,
+Vampire ,I've been thinking about getting into microbrewing with blood.,60,,Male ,,,,,,,,,,,,,,,
+Vampire ,"Lately, I've been wondering what happens to a vampire\u2019s body after death.",100,,,,,,,,,,,,,,,,,
+Vampire ,I was surprised by how hungover I felt after draining an entire fraternity.,40,,,,,,,,,,,,,,,,,
+Vampire ,I've been wanting to do a slaughterhouse tour for my birthday.,20,,,,,,,,,,,,,,,,,
+Vampire ,I've been thinking about contacting Anheuser Busch to pitch them 'Blood Light'.,21,,,,,,,,,,,,,,,,,
+Vampire ,I've been struggling to explain to <lover> why I have to keep my distance from her once a month.,,,,,,,Lover ,,40,,,Female ,,,,,,
+Vampire ,I've been having long conversations with the Grim Reaper in my dreams lately.,120,,,,,,,,,,,,,,,,,
+Vampire ,"I've been trying to get in touch with <Guillermo del\u202fToro/Robert Eggers/Ari Aster/Zach Cregger/David Cronenberg/Brandon Cronenberg/Jordan Peele>, hoping he'll want to make a movie about my life.",60,,,,,,,,,,,,,80,,,,
+Vampire ,<lover> has been really concerned about how messy my \u201cmidnight snacks\u201d have gotten lately.,30,,,,,,Lover ,,,,,,,,,,,
+Vampire ,I've been feeling guilty since my mother asked me why I've been looking so pale lately.,,35,,,,,Mother ,,,,,,,,,,,
+Vampire ,I've been feeling guilty since my father asked me why I've been looking so pale lately.,,35,,,,,Father ,,,,,,,,,,,
+Vampire ,"I've been hiding out in gothic mansions, hoping someone would write a gothic romance based on me.",,,,,,,,,,,,,,,,,,
+Vampire ,I've been going down the rabbit hole trying to figure out which vampire we all descend from.,,,,,,,,,,,,,,,,,,
+Vampire ,I've been wondering if there\u2019s a culinary school for vampires. ,,,,,,,,,,,,,,,,,,
+Vampire ,I've been wondering if turning me into a vampire meant anything to <maker>.,,,,,,,Maker,,,30,60,,,,,,,
+Vampire ,"I've been having ""blood dreams"" where I drain someone, only to wake up with my coffin covered in saliva.",,,,,,,,,,,,,,,,,,
+Vampire ,It's been increasingly difficult to explain to <lover> why my libido only kicks in when blood is spilled.,,,,,,,Lover ,,,,70,,,,,,,
+Vampire ,"I watched ""The Nightmare Before Christmas"" and thought that I too might make a pretty good ""Sandy Claws."" ",,,,,,,,,,,,,,,,,,
+Vampire ,I've been wondering if deep frying my victims before I drained them would make their blood more juicy. ,,,,,,,,,,,,,,,,,,
+Vampire ,"A local pepper grower asked me to name his latest hot pepper, so I called it ""The Bloody Mouth Hole."" ",,,,,,,,,,,,,,60,,,,
+Vampire ,I've been so bored lately that I dipped my fangs in ink and used them to write a letter. ,,,,,,,,,,,,,,,,,,
+Vampire ,"I've been wondering when my midlife crisis would hit, considering how long I've been alive",60,80,,,,,,,,,,,,,,,,
+Vampire ,"I've been thinking about hunting at a spicy food festival, to give my meal a nice kick.",,,,,,,,,,,,,,,,,,
+Vampire ,"I've been thinking about my mother's mortality lately, as mine remains on pause. ",,,,,,,Mother ,65,,,,,,,,,,
+Vampire ,"I've been thinking about my father's mortality lately, as mine remains on pause. ",,,,,,,Father,65,,,,,,,,,,
+Vampire ,I've been thinking about selling my look as a Halloween costume. ,,,,,,,,,,,,,,60,,,,
+Vampire ,I've been wondering if vampires sleep in coffins purely for the aesthetic.,,,,,,,,,,,,,,,,,,
+Vampire ,"I've been thinking about having to come out twice, as both gay and a vampire.",,,,Gay,,,,,,,,,,,,,,
+Vampire ,"I've been sneaking little blood vials into movie theaters to ""butter"" up my popcorn. ",,,,,,,,,,,,,,,,,,
+Vampire,I've been wondering if it's incest for a vampire to hook up with their maker.,,,,,,,,,,,,,,,,,,
+Vampire,"Lately, I've been too depressed to get out of my coffin some evenings.",,,,,,20,,,,,,,,,,,,
+Vampire,"I feel great, like I've really grabbed life by the <fangs/neck> lately.",,,,,80,,,,,,,,,,,,,
+Vampire,I've been thinking about what happens to vampires' <spirits/souls/essence> after death.,,,,,,,,,,,,,,,,,,
+Vampire,I've been wondering if my mother approves of my vampiric nature.,,,,,,,Mother,,,,,,,,,,,
+Vampire,I've been wondering if my father approves of my vampiric nature.,,,,,,,Father,,,,,,,,,,,
+Vampire,I've been wondering if it's possible to suck human blood out of another vampire who's recently eaten.,,,,,,,,,,,,,,,,,,
+Vampire,"I've started winking at mirrors, because I assume my reflection is winking back even though I can't see it.",,,,,80,,,,,,,,,,,,,
+Vampire,I've been wondering if the blood in hemoglobin becomes homoglobin once queer vampires like me drink it.,,,,gay,,,,,,,,,,,,,,
+Vampire,"Since I'm a vampire, I'm trying to figure out what body fluids my <urine is/sweat is/feces is/tears are/toe jam is> made of.",,,,,,,,,,,,,,,,,,
+Vampire,"I realized I'm probably well known enough to challenge the Vampire Lestat to a fabulous, famous, vamp fang-off.",,,,,,,,,,,,,,90,,,,
+Vampire,I've been working on fixing the lisp I got when I grew my fangs.,,,,,,,,,,,,,,,,,,
+Vampire,"I tried speaking to bats to see if they understood me, but it was in vein.",,,,,,,,,,,,,,,,,,
+Vampire,I've been wondering how much more famous I would be if everyone knew I was a vampire.,,,,,,,,,,,,,,,20,,,
+Vampire,"I attended a yoga session, but had to leave when I misunderstood ""corpse pose"" and killed every mortal in the class.",,,,,,,,,,,,,,,,,,
+Vampire,"Lately, I've been lying around dramatically in <crypts/mausoleums/graveyards>, thinking about the life of an ageing vampire.",120,,,,,,,,,,,,,,,,,
+Vampire,"Lately, I've been thinking about all the <city> vampires I've outlived.",130,,,,,,,,,,,,,,,,,
+Vampire,I've been wondering lately how <lover> would react if I created a vampire sex site called OnlyFangs.,,,,,,,Lover,,,,,,,,,,,
+Vampire,"I've been thinking that I may be an actual vampire, but <sibling> is a real energy vampire sometimes.",,,,,,,Sibling,,,,50,,,,,,,
+Vampire,I've been trying to think of how to explain to <child> that I'm a <vampire/night demon/creature of the night/child of Dracula/child of the night/bloodsucker>.,,,,,,,Child,,10,,,,,,,,,
+Vampire,I've been trying to think of how to explain to <sibling> that I'm a <vampire/night demon/creature of the night/child of Dracula/child of the night/bloodsucker>.,,,,,,,Sibling,,10,,,,,,,,,
+Vampire,I've been searching for a new <book/TV show/movie/band/hobby> to really sink my teeth into.,,,,,,,,,,,,,,,,,,
+Vampire,So many humans have been offering themselves as my blood sacrifices that I have to beat them off.,,,,,,,,,,,,,,65,,,,
+Vampire,I entertained thoughts of using my fame to become an all-powerful vampire overlord.,,,,,,,,,,,,,,75,,,,
+Vampire,I've been experiencing fang envy when looking at the length of well-endowed vampires' fangs.,,,male,,,50,,,,,,,,,,,,
+Vampire,I've been wondering what caused the first vampire to have an uncontrollable thirst for blood.,,,,,,,,,,,,,,,,,,
+Vampire,I've been wondering if any therapists specialize in vampire <depression/anxiety/PTSD/despair/gloom/social anxiety>.,,,,,,30,,,,,,,,,,,,
+Vampire,"I've been contemplating why <maker> even turned me, since <he/she> barely seems to like me.",,,,,,,Maker,,,,33,,,,,,,
+Vampire,"I've been feeling glad that <maker> was the vampire to turn me, since we're <two peas in a vampiric pod/blood besties>.",,,,,,,Maker,,,80,,,,,,,,
+Vampire,I posted on <Twitter/Instagram/Reddit/YouTube> that <familiar> <is a grotsky little byotch/made out with a hot dog/is a fugly slut/is the nastiest skank>.,,,,,,,Familiar,,,,33,,,,,,,
+Vampire,"I've realized that <familiar> is <pretty okay/the best I could ask for,/doing pretty well/pretty fly> for a mortal.",,,,,,,Familiar,,,75,,,,,,,,
+Vampire,I've been having fun scaring my neighbors by hiding in their Halloween decorations and jumping out at them.,,,,,,,,,,,,,,,,,,
+Vampire,I ate <a ham sandwich/a bowl of ramen/a slice of pizza/a PB&J/a cheeseburger/a bowl of chili/a stack of pancakes> to see what would happen. <It tasted awful/It turned to dust in my mouth/It made my fangs burn/I threw up in my coffin>.,,,,,,,,,,,,,,,,,,
+Vampire,"I've been wondering how many necks could a vampire wreck, since a vampire can wreck necks.",,,,,,,,,,,,,,,,,,
+Vampire,I've been wondering if <lover> has been <sneaking around/stepping out/cheating> on me while I'm asleep in my coffin.,,,,,,,Lover,,,,45,,,,,,,
+Vampire,<lover> told me appreciatively that I'm looking particularly <gaunt/undead/corpse like/ghoulish/monstrous> today.,,,,,,,Lover,,,75,,,,,,,,
+Vampire,I've been thinking of posting videos of myself doing <bloodsucking/fang-cleaning/coffin-brushing/victim-draining/mukfang> ASMR to increase my fame.,,,,,,,,,,,,,,,20,,,
+Vampire,I've started to wonder if <familiar> is a spy sent by <enemy vampire lords/a secret colony of vampires on the moon/werewolves/mer-people who want all vampires dead/chupacabras/the League of Anti-Vampire Citizens>.,,,,,,,Familiar,,,,,,,,,,,
+Vampire,I'm worrying that <child> doesn't love me because I'm a <vampire/night demon/creature of the night/child of Dracula/child of the night/bloodsucker>.,,,,,,,Child,11,,,50,,,,,,,
+Vampire,"I'm glad that <child> still sees me as <his/her> mom, despite the fact that I <drink blood/sometimes kill people/have terrifying fangs/sleep in a coffin/occasionally drink blood from stray animals>.",,,female,,,,Child,11,,66,,,,,,,,
+Vampire,"I'm glad that <child> still sees me as <his/her> dad, despite the fact that I <drink blood/sometimes kill people/have terrifying fangs/sleep in a coffin/occasionally drink blood from stray animals>.",,,male,,,,Child,11,,66,,,,,,,,
+Vampire,"I thought about going gambling, but decided it was too high-stakes.",,,,,,,,,,,,,,,,,,
+Vampire,I told <maker> that <he/she> might want to get checked for bat breath.,,,,,,,Maker,,,75,50,,,,,,,
+Vampire,"I told <maker> that ""bloodfather is bloodfathering"".",,,,,,,Maker,,,75,,male,,,,,,
+Vampire,"I told <maker> that ""bloodmother is bloodmothering"".",,,,,,,Maker,,,,,female,,,,,,
+Vampire,I realized that I'm lucky I have a familiar who isn't a total pain in the neck.,,,,,,,Familiar,,,66,,,,,,,,
+Vampire,"I tried to follow advice from a self-help book, but I couldn\u2019t since it told me to look at myself in the mirror.",18,,,,,,,,,,,,,,,,,
+Vampire,I've been wondering if I should get fang grillz.,18,,,,,,,,,,,,,,,,,
+Vampire,"I went out into the woods and found the mythical hemo-goblin, whom I kidnapped and used as a blood-bag.",18,,,,,,,,,,,,,,,,,
+Vampire,"<child> was being bullied by some kids at school, so I went into my animal form and scared them off.",25,,,,,,Child,,,,,,,,,,,
+Vampire,"<lover> was being abused by <his/her> superiors at work, so I kidnapped them and hung them off the side of the office\u2019s fire escape by their <underwear/neckties/hair/literal skin of their teeth>.",18,,,,,,Lover,,,,,,,,,,,
+Vampire,"I believed I found the legendary blood diamond from beneath a castle\u2019s ruins, but the pawn shop told me it was and ancient vampire\u2019s blood-filled kidney stone.",18,,,,,,,,,,,,,,,,,
+Vampire,I've been wondering how funny it'd be if I ate <child-possessive> homework whilst in animal form.,18,,,,,,Child,,,,,,,,,,,
+Vampire,"While participating in a marathon, I stopped at a water station to get something to drink, but seeing as there wasn't any blood being offered, I jumped the water-boy and drank from him instead.",18,,,,,,,,,,,,,,,,,
+Vampire,I made peppermint candy using <blood/human flesh> as the red lines.,18,,,,,,,,,,,,,,,,,
+Vampire,I sucked <child-possessive> biology teacher while in animal form to show the class a live example of natural selection.,18,,,,,,Child,,,,,,,,,,,
+Vampire,I fanged around and found out.,18,,,,,,,,,,,,,,,,,
+Vampire,<lover> reminded me that is was unsanitary to use my fangs as a can opener.,18,,,,,,Lover,,,,,,,,,,,
+Vampire,"I wondered if crumbling into dust was the next stage in vampire evolution, and that being breathed-in by a mortal would give them coronavampirus, slowly transforming them into my new vessel.",18,,,,,,,,,,,,,,,,,
+Vampire,I had to get a tetanus shot after getting caught on one of my coffin's nails.,18,,,,,,,,,,,,,,,,,
+Vampire,I wondered if the dolls in <child-possessive> room were possessed by the spirits of my victims.,70,,,,,,Child,,,,,,,,,,,
+Vampire,"I wondered if I would live long enough to see ChatGPT get infected by techno-vampirism, and watch as it drained other AI tools of all their information.",100,,,,,,,,,,,,,,,,,
+Vampire,<lover> scraped <his/her> <elbow/chin/knee/cheek> against the sidewalk and I couldn't help but lick <his/her> wound clean.,18,,,,,,Lover,,,,,,,,,,,
+Vampire,I've been wondering if a vampire baby would notice the difference between powdered blood and real blood.,18,,,,,,,,,,,,,,,,,
+Vampire,"I wondered if, like water, blood was wet.",18,,,,,,,,,,,,,,,,,
+Vampire,I wondered if any vampire had <a butterfly/a fairy/a mosquito/a roadrunner/an animatronic bear/a chocobo/a chameleos> as an animal form.,18,,,,,,,,,,,,,,,,,
+Vampire,"I wondered if anyone's life was saved due to the curse of vampirism, and smiled at the possibility.",18,,,,,,,,,,,,,,,,,
+Vampire,"I, along with other vampires, dumped a myriad of fresh corpses into the town's water supply. ",50,,,,,,,,,,,,,,,,,
+Vampire,I wondered how cool it would be to have a vampiric steed to ride on during my hunts at night.,40,,,,,,,,,,,,,,,,,
+Vampire,"I found out <familiar> has a humiliation kink, and it's made things much more interesting.",40,,,,,,Familiar,,,,,,,,,,,
+Vampire,I wondered if us vampires were generating enough fear amongst mortal kind to create a vampire devil.,18,,,,,,,,,,,,,,,,,
+Vampire,I learned that a dev at BitLife was turned into a vampire and remade the app into BiteLife.,18,,,,,,,,,,,,,,,,,
+Vampire,I saw a report online about a new pokemon variant called the hemo-gulpin that escaped captivity and started feasting on Pokemon Go players around the globe.,18,,,,,,,,,,,,,,,,,
+Vampire,I wondered what would happen if I microwaved a <human arm/cup of o-positive miso/bloodbag>.,18,,,,,,,,,,,,,,,,,
+Vampire,I had an existential crisis over the fact that Twilight might be a documentary.,18,,,,,,,,,,,,,,,,,
+Vampire,I wondered if I really needed to blink since I'm undead.,18,,,,,,,,,,,,,,,,,
+Vampire,I wondered if my tongue would get hurt if I sucked someone with sickle cells.,18,,,,,,,,,,,,,,,,,
+Vampire,"I went through <familiar-possessive> socials and commented ""my snacc"" with a peach and eggplant emoji on every one of <his/her> photos.",30,,,,,,Familiar,,,,,,,,,,,
+Vampire,"I've begun to realize that saying ""it's morbin' time"" before biting someone is cringe in this day and age.",100,,,,,,,,,,,,,,,,,
+Vampire,"As a prank, <familiar> served me pad thai using actual used pads, and I threw it in <his/her> face.",30,,,,,,Familiar,,,,,,,,,,,
+Vampire,"I wondered if I had resting dead face, but there was no way to check, so I just dealt with it.",18,,,,,,,,,,,,,,,,,
+Vampire,"<child> has been opening and closing my coffin while saying ""mom, mum, mommy"" repeatedly whenever I try to sleep in it.",30,,female,,,,Child,,,,,,,,,,,
+Vampire,"In my off time, I've begun worshipping Strahd von Zarovich since I, too, would desire to trap the one I love in an infinite loop of death and misery until they potentially loved me back.",100,,,,,,,,,,,,,,,,,
+Vampire,"I wondered if vampires truly bleed, or if the blood coursing through us is the blood we've drunk from others.",70,,,,,,,,,,,,,,,,,
+Vampire,I sometimes wonder what would happen if I drank blood from myself.,80,,,,,,,,,,,,,,,,,
+Vampire,I was thinking that drinking blood from my maker might be a short-cut into becoming a vampire lord.,18,,,,,,,,,,,,,,,,,
+Vampire,"<grandchild> asked why I still look so young, and I explained that it's because I drink human blood.",60,,,,,,Grandchild,,11,,,,,,,,,
+Vampire,I've noticed that <grandchild> now looks older than me.,50,,,,,,Grandchild,30,,,,,,,,,,
+Vampire,I feel the need to explain to <grandchild> why <he/she> doesn't need to fear my <fangs/glowing red eyes/bloodless skin/undead vibes>.,,,,,,,Grandchild,,13,,,,,,,,,
+Vampire,I overheard <grandchild> bragging to <his/her> friends that <he/she> has a vampire <grandmother/gramma/nana/meemaw/granny/gran>. ,50,,female,,,,Grandchild,6,,50,,,,,,,,
+Vampire,I overheard <grandchild> bragging to <his/her> friends that <he/she> has a vampire <grandfather/grandpa/peepaw/pop-pop/gramps>.,50,,male,,,,Grandchild,6,,50,,,,,,,,
+Vampire,<lover> told me that my fangs stink of <rotting flesh/old blood/death and decay/graveyard smells/body fluids>.,18,,,,,,Lover,,,,50,,,,,,,
+Vampire,<lover> told me that it's sexy when I wake up with morning wood fangs.,18,,,,,,Lover,,,80,,,,,,,,
+Vampire,<lover> reminded me to always take a <shower/bath> after I drain a victim to avoid staining the sheets.,18,,,,,,Lover,,,,,,,,,,,
+Vampire,"I wondered if every vampire got an iconic sword, or if that was reserved for the white-haired twinks.",50,,,,,,,,,,,,,,,,,
+Vampire,I wondered if being color-blind for vampires means we only see red.,25,,,,,,,,,,,,,,,,,
+Vampire,"I started wondering if my fangs will grow over time, and, if so, will I need to file them down like a beaver.",25,30,,,,,,,,,,,,,,,,
+Vampire,I wondered what it would feel like to be inhaled while in my smoke form.,25,,,,,,,,,,,,,,,,,
+Vampire,I starting wondering if a vampire in axolotl form could regenerate their limbs.,25,,,,,,,,,,,,,,,,,
+Vampire,"I wondered, since I'm a vampire, what would happen if I got probed by an alien.",25,,,,,,,,,,,,,,,,,
+Vampire,"I woke up concerned the other night, wondering if aliens use silver probes.",25,,,,,,,,,,,,,,,,,
+Vampire,I wondered if standing behind a privacy screen would turn me invisible.,25,,,,,,,,,,,,,,,,,
+Vampire,I started wondering if vampire bats have secretly been actual vampires this entire time.,25,,,,,,,,,,,,,,,,,
+Vampire,"I lay awake in my coffin one night, wondering if vampire bats are the result of a vampire messing around while in their animal form.",25,,,,,,,,,,,,,,,,,
+Vampire,"I wondered if being cut in half would kill me, since, in that case, I wouldn't technically be staked.",20,,,,,,,,,,,,,,,,,
+Vampire,"<lover> made a pizza using <his/her> blood as the sauce, and it was delicious.",18,,,,,,Lover,,,,,,,,,,,
+Vampire,"Sometimes when I sneeze, snot shoots out as this crimson, gooey substance.",20,,,,,,Child,,,,,,,,,,,
+Vampire,"<child> asked me if the tooth fairy would accept my fangs, if they ever fell out. ",20,,,,,,,,,,,,,,,,,
+Vampire,"I got tired of waiting in a long line at <McDonalds/Burger King/Wendy's/Taco Bell/Starbucks>, so I sucked them all to cull the herd.",20,,,,,,,,,,,,,,,,,
+Vampire,"I thought I had a bad case of diarrhea, but when I looked into the toilet bowl, all I saw were worms, maggots, and blood. Weird.",150,,,,,,,,,,,,,,,,,
+Vampire,I saw an elder vampire <spontaneously combust/implode/poof into dust/get dragged into Hell> after drinking holy water.,50,,,,,,,,,,,,,,,,,
+Vampire,I bought myself something special at <Trader Vlad's/Aberfang and Fitch/Coffin Republic/Best Bite/TJ Hexx> as a reward for sucking off the most annoying vampire hunter I've come across in years.,100,,,,,,,,,,,,,,,,,
+Vampire,"I wondered if vampires could technically be considered a deadite variant, or if I was just being silly.",50,,,,,,,,,,,,,,,,,
+Vampire,"I brought a hook with me on a hunt but hesitated when my victim pointed at me, saying ""It's the sash wringing, the trash thinging, the mash flinging, the flash springing, the hash-slinging slasher!"".",60,,,,,,,,,,,,,,,,,
+Vampire,"I received a call from a man asking if I liked scary movies, but each time I hung up, he became increasingly agitated. I found him stalking my home, wearing a weird, elongated mask, so I drained him before he could do anything to me.",70,,,,,,,,,,,,,,,,,
+Vampire ,"I've been dreaming about a burned man with a metal claw hunting me down, and I have to drain him every time. He tastes awful. ",,,,,,,,,,,,,,,,,,
+Vampire ,"I've was being stalked by a man in a pale white mask with a groovy score that followed him everywhere he went. I tried to drain him, but he tasted like pure evil. ",,,,,,,,,,,,,,,,,,
+Vampire ,"I bought <child> a red headed doll from a witch doctor, but then, when it started swearing and stabbing things, I set it on fire. ",,,,,,,,,,,,,,,,,,
+Vampire ,"I was kidnapped during a hunt and forced to play some twisted game run by a creepy doll. Fortunately, I turned into my animal form and escaped with ease.",,,,,,,,,,,,,,,,,,
+Vampire ,"I spent the night at a creepy motel run by a man with serious mommy issues. He tried stabbing me while dressed as his mother, so I drained him.",,,,,,,,,,,,,,,,,,
+Vampire ,I've been thinking about that time I went hunting at an abandoned campground and caught a man in a hockey mask slicing up a couple mid thrust. ,,,,,,,,,,,,,,,,,,
+Vampire ,"I\u2019ve been thinking about that time I wandered into a funhouse and met a mute clown with a taste for torture. I tried to drain him, but his blood was rancid.",,,,,,,,,,,,,,,,,,
+Vampire ,"I've been thinking about this brilliant psychiatrist I met once. Turns out, we both had an appetite for each other. ",,,,,,,,,,,,,,,,,,
+Vampire ,"I've been thinking about the time I followed a man to a slaughterhouse, expecting easy prey, only to meet his chainsaw wielding brother in a leather mask. ",,,,,,,,,,,,,,,,,,
+Vampire ,"I've been thinking about the time I tried to drain someone in an orange onesie with a burlap sack mask on Halloween, only to realize he was the spirit of Halloween.",,,,,,,,,,,,,,,,,,
+Vampire ,"I've been thinking of hunting only serial killers from now on, as a way to make up for all the killing I've done. ",,,,,,,,,,,,,,,,,,
+Vampire ,I've been thinking about opening a blood bank that doubles as a fast food joint for vampires.,,,,,,,,,,,,,,,,,,

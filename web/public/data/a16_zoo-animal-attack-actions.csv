@@ -1,0 +1,194 @@
+Animal,Past Verb,Commonness Score,Damage Score
+Bat,sucked,3,1
+Bear,clawed,3,4
+Big Cat,clawed,3,4
+Bird,beaked,3,2
+Camel,bashed,3,2
+Deer,headbutted,3,3
+Elephant,trampled,3,5
+Fox,bit,3,1
+Giraffe,stomped,3,3
+Hippo,crushed,3,5
+Kangaroo,punched,3,4
+Meerkat,bit,3,1
+Otter,bit,3,1
+Pangolin,scratched,3,1
+Pinniped,fin-slapped,3,4
+Platypus,bit,3,2
+Primate,slapped,3,4
+Red Panda,scratched,3,1
+Reptile,clawed,3,2
+Rhino,gored,3,5
+Rodent,nibbled,3,1
+Snake,bit,3,3
+Turtle,bit,3,1
+Wolf,bit,3,3
+Zebra,kicked,3,4
+Pig,tackled,3,4
+Bat,scratched,5,2
+Bat,bit,4,3
+Bat,dive-bombed,3,3
+Bat,screeched at,2,1
+Bat,gnawed on,3,3
+Bat,exsanguinated,1,4
+Bear,bit,5,4
+Bear,gored,2,4
+Bear,slashed,3,4
+Bear,scratched,4,3
+Bear,sliced,3,4
+Bear,mauled,1,5
+Big Cat,bit,4,4
+Big Cat,tore off,1,5
+Big Cat,gored,3,4
+Big Cat,slashed,4,4
+Big Cat,scratched,5,3
+Big Cat,sliced,2,4
+Bird,pecked,5,2
+Bird,scratched,3,2
+Bird,bit,2,3
+Bird,clawed,4,3
+Bird,dive-bombed,2,4
+Bird,swooped at,3,1
+Bird,pooped on,1,1
+Camel,spat on,3,2
+Camel,kicked,5,3
+Camel,bit,3,3
+Camel,trampled,2,4
+Camel,vomited on,1,1
+Camel,hump-whacked,2,3
+Deer,gored,2,4
+Deer,stomped,4,2
+Deer,headbutted,3,3
+Deer,leapt on,4,3
+Deer,mule-kicked,3,4
+Deer,charged,2,3
+Elephant,gored,4,5
+Elephant,trunk-smacked,3,3
+Elephant,crushed,5,5
+Elephant,impaled,3,5
+Elephant,sat on,1,5
+Elephant,sliced,3,4
+Elephant,smote,1,5
+Fox,tail-whipped,4,2
+Fox,scratched,3,2
+Fox,gnawed on,3,2
+Fox,clawed,3,3
+Fox,lacerated,4,4
+Giraffe,neck-bashed,3,3
+Giraffe,trampled,4,4
+Giraffe,jumped on,3,5
+Giraffe,dropkicked,1,5
+Giraffe,snapped,3,4
+Hippo,chomped on,4,4
+Hippo,mauled,4,5
+Hippo,stabbed,3,5
+Hippo,beat,2,5
+Hippo,ran over,3,4
+Hippo,belly flopped on,1,5
+Hippo,squashed,3,5
+Kangaroo,roundhouse kicked,2,5
+Kangaroo,stomped,5,3
+Kangaroo,tornado kicked,2,5
+Kangaroo,beat up,3,4
+Kangaroo,tore at,3,3
+Koala,tapped,3,1
+Koala,swiped at,4,1
+Koala,blundered at,4,1
+Koala,fell on,2,1
+Koala,urinated on,1,1
+Meerkat,mobbed,2,3
+Meerkat,nipped,3,1
+Meerkat,bit,4,1
+Meerkat,took a chunk out of,2,2
+Meerkat,scratched,3,1
+Meerkat,tore at,3,1
+Otter,whacked,2,2
+Otter,mangled,3,3
+Otter,chomped,5,1
+Otter,gashed,4,2
+Otter,slapped,2,1
+Otter,chewed,3,1
+Pangolin,rolled on,4,1
+Pangolin,battered,3,2
+Pangolin,sliced,3,2
+Pangolin,bludgeoned,4,1
+Pinniped,walloped,5,4
+Pinniped,pummeled,3,3
+Pinniped,flopped on,2,2
+Pinniped,bit,4,2
+Pinniped,rolled over on,2,3
+Pinniped,whacked,3,2
+Platypus,pierced,3,3
+Platypus,tail-slapped,4,1
+Platypus,bill-slapped,4,1
+Platypus,jumped on,3,2
+Platypus,crushed,2,2
+Primate,spat on,2,1
+Primate,ripped,3,3
+Primate,uppercut,2,4
+Primate,stomp kicked,2,3
+Primate,mauled,4,4
+Primate,pinched,4,2
+Primate,threw poop at,2,2
+Red Panda,nose-butted,2,1
+Red Panda,smacked,1,1
+Red Panda,clawed,4,2
+Red Panda,chewed,3,2
+Red Panda,nipped,4,1
+Reptile,struck,2,2
+Reptile,pierced,3,2
+Reptile,slashed,4,3
+Reptile,gashed,3,3
+Reptile,gnawed,3,2
+Reptile,sliced,4,3
+Rhino,charged at,5,5
+Rhino,trampled,3,5
+Rhino,headbutted,2,4
+Rhino,impaled,3,5
+Rhino,ran over,3,5
+Rodent,squealed at,2,1
+Rodent,nipped,4,2
+Rodent,urinated on,1,1
+Rodent,scrabbled at,4,2
+Rodent,trampled,1,3
+Snake,squeezed,4,4
+Snake,crushed,4,5
+Snake,slithered on,2,2
+Snake,gummed,2,3
+Snake,poisoned,3,4
+Turtle,chomped,4,2
+Turtle,snapped on,5,3
+Turtle,rolled over on,1,1
+Turtle,bashed,3,2
+Wolf,lacerated,2,4
+Wolf,gashed,3,3
+Wolf,mangled,4,4
+Wolf,maimed,3,3
+Zebra,shied at,3,2
+Zebra,bucked at,5,3
+Zebra,walloped,3,4
+Zebra,punted,2,3
+Zebra,bit,4,3
+Pig,snout-slammed,2,2
+Pig,rolled over on,3,3
+Pig,charged,4,3
+Pig,gored,2,4
+Pig,kicked mud on,4,1
+Unicorn,horned,1,5
+Unicorn,trampled,2,2
+Unicorn,stomped,3,2
+Unicorn,kicked,2,4
+Unicorn,sat on,4,2
+Unicorn,bit,4,3
+Unicorn,projectile-vomited rainbows on,1,1
+Pegasus,trampled,2,2
+Pegasus,stomped,3,2
+Pegasus,kicked,2,4
+Pegasus,sat on,4,2
+Pegasus,bit,4,3
+Pegasus,nibbled,5,1
+Pegasus,headbutted,4,3
+Sloth,clawed,1,2
+Sloth,stabbed,1,2
+Sloth,scratched,3,1
+Sloth,poked,3,1

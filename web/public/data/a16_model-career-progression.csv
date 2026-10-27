@@ -1,0 +1,6 @@
+Model Type,Jobs To Promotion,Minimum Looks,Minimum Health,Minimum Profile,Can Be Famous,Stress Score,Min Salary,Max Salary,Min Age,Max Age,Too Old Age,Diseases
+Body Part Model,0,50,,0,,2,65000,80000,18,75,80,"anxiety, depression, bunions, high blood pressure"
+Stock Photo Model,8,65,,20,,3,85000,95000,20,65,80,"anxiety, depression, high blood pressure"
+Catalog Model,24,75,,40,,4,100000,130000,22,55,80,"anxiety, depression, high blood pressure"
+Elite Model,35,85,,60,x,4,200000,250000,24,45,80,"anxiety, depression, high blood pressure, anorexia, bulimia"
+Supermodel,0,95,60,80,x,5,500000,15000000,26,45,80,"anxiety, depression, high blood pressure, anorexia, bulimia"

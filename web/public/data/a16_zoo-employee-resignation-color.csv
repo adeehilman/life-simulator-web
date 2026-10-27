@@ -1,0 +1,33 @@
+String,Gender,Employee Type,Min Competence,Max Competence,Commonness Score
+<he/she> wants to start <his/her> own zoo.,,,,,1
+<he/she> was just invited to participate in a wildlife conservation initiative in <country-other>.,,,70,,2
+<he/she> wants to open up <his/her> own clinic.,,veterinarian,70,,5
+<he/she> just received a job offer to run the <zoo-other>.,,operations manager,50,,2
+<he/she> wants to go on safari.,,animal handler,,49,5
+<he/she> is tired of smelling animal <dung/excrement/urine/scat/discharge/waste> all day.,,animal handler,,30,4
+<he/she> wants to go back to school.,,operations manager,,49,3
+<he/she> doesn't want to deal with your animals' antics anymore.,,,,49,4
+<he/she> just <won the lottery/got married> and doesn't need to work anymore.,,,,,1
+<his/her> <cat/dog/bird/fish> just died and it's too difficult for <him/her> to be around animals right now.,,animal handler,,,2
+<he/she> says your zoo just doesn't feel like a family to <him/her>.,,,,20,3
+<he/she> is going to work at the aquarium <down the street/across town/down the block>.,,,50,70,4
+<he/she> is more interested in <running/working at> an aquarium than a zoo.,,operations manager,,,3
+"After watching a documentary about it on <Netflix/Disney Plus/Hulu/HBO Max/PETA's website>, <he/she> doesn't feel like it's ethical for animals to be in cages.",,operations manager,,,3
+<he/she> is going back to school to study the <eating/mating/sleeping> habits of <birds/donkeys/horses/ravens/flamingos/tapirs/vultures> in <country-other>.,,animal handler,60,,3
+<he/she> wants to study the behavioral patterns of <butterflies/frogs/toads/wombats/bulls/yaks> in heavily-populated areas.,,animal handler,80,,
+<he/she> just wants a change of pace.,,operations manager,,,5
+<he/she> wants to work on humans for a change.,,veterinarian,70,,2
+<he/she> is going to start <his/her> own <cat hotel/bird sanctuary/pigeon-feeding/doggie daycare> business.,,operations manager,,,3
+<he/she> doesn't want to work with animals anymore.,,animal handler,,40,3
+"<he/she> says <he/she> feels called to spend time with animals in nature, rather than in captivity.",,animal handler,60,,2
+<he/she> wants to take an extended vacation.,,operations manager,,49,2
+<he/she> says <he/she> wants to spend more time taking care of <his/her> <cats/dogs>.,,animal handler,,49,
+<he/she> is tired of literally dealing with crap every day.,,animal handler,,,3
+<he/she> says <he/she> just isn't cut out for this career.,,,,40,5
+<he/she> wants to be a Reiki healer for <horses/cats/dogs/cows/software engineers>.,,veterinarian,,,2
+<he/she> is getting married and moving to <country-other> to be with <his/her> new spouse.,,,,,5
+<he/she> wants to spend more time with <his/her> family.,,,,,5
+<he/she> feels it's time to change careers.,,,,,5
+<he/she> is experiencing major burnout.,,,50,,5
+<he/she> feels like <he/she> is working with a bunch of <idiots/feral cats/feral dogs/dodos/dingoes/dingbats>.,,,80,,1
+<he/she> says the animals are driving <him/her> batty.,,,,50,1

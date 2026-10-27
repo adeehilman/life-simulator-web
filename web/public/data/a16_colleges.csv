@@ -1,0 +1,10 @@
+School,Prerequisite,Years,Tuition,Difficulty Score,Commonness Score
+Undergraduate,,4,15000,2,5
+Pharmacy,Biology|Chemistry|Physics,4,25000,2,2
+Law,English|Political Science|Finance|Philosophy|Criminal Justice,3,40000,5,3
+Veterinary,Biology|Chemistry|Physics,4,37500,4,1
+Dental,Biology|Chemistry|Nursing|Physics,4,50000,4,2
+Medical,Biology|Chemistry|Nursing|Psychology|Physics,7,50000,5,3
+Graduate,English|Mathematics|Psychology|Engineering|Information Systems|Computer Science|Education|Biology|Chemistry|Music|History|Political Science|Finance|Accounting|Economics|Marketing|Anthropology|Philosophy|Physics|Archaeology|Journalism|Criminal Justice,2,25000,3,4
+Nursing,Nursing,2,15000,2,2
+Business,English|Mathematics|Information Systems|Finance|Accounting|Economics|Marketing,2,50000,3,4

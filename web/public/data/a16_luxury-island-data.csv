@@ -1,0 +1,4 @@
+Island Type,Small Minimum Cost,Small Maximum Cost,Medium Minimum Cost,Medium Maximum Cost,Large Minimum Cost,Large Maximum Cost,Eligible Countries
+icy,"$55,000,000","$150,000,000","$125,000,000","$450,000,000","$500,000,000","$1,000,000,000","us, ca, cl, ee, fi, no, ru, se"
+temperate,"$100,000,000","$250,000,000","$300,000,000","$525,000,000","$750,000,000","$1,250,000,000","us, tn, dz, ar, bd, ca, cl, cn, co, hr, dk, dj, eg, ee, et, fr, ge, de, gr, hk, in, il, ir, iq, ie, it, jp, jo, kz, kw, lb, ma, nl, nz, no, pk, pe, pl, pt, qa, ru, sa, za, kr, es, se, sy, tw, tr, gb, uy"
+tropical,"$300,000,000","$450,000,000","$475,000,000","$700,000,000","$1,000,000,000","$1,500,000,000","us, ao, aw, bz, sv, gt, gy, ht, ni, pg, ws, bs, br, co, cr, cu, do, cd, ec, in, id, jm, ke, my, ng, pa, pe, ph, pr, sg, th, ve, vn"

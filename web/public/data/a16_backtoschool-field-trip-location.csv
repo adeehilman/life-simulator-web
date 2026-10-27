@@ -1,0 +1,15 @@
+Location,Theme,Hero Minimum Age,Hero Maximum Age
+the <city> <Modern/Fine/Metropolitan> Art Museum,art,11,17
+<country-possessive> Historical Society,history,8,17
+the Children's Science Museum,science,6,11
+the <city> <Applied/Environmental/Botanical> Science Center,science,6,17
+the <oldest/most famous/biggest/newest/most cutting-edge/most award winning> science <museum/gallery/lab> in <city>,science,6,17
+the <oldest/most famous/biggest/newest/most cutting-edge/most award winning> art  <museum/gallery> in <city>,art,6,17
+the <oldest/most famous/biggest/newest/most cutting-edge/most award winning> historical  <museum/gallery/site> in <city>,history,6,17
+a local art collective that's become famous for its <diversity of style/avant-garde approach/retro-style works/provocative works of art>.,art,6,17
+a local science lab that was recently showcased on television for its <cutting-edge discoveries/commitment to welcoming field trips/nerdy researchers>.,science,6,17
+an interactive museum of history with <virtual experience/digitally enhanced> exhibits,history,6,17
+an interactive art gallery with virtual experience exhibits,art,6,17
+an interactive science and nature park with virtual experience exhibits,science,6,17
+"a virtual ""choose your own adventure in history"" learning experience museum",history,6,17
+a traveling art exhibition honoring this century's greatest works of art,art,6,17

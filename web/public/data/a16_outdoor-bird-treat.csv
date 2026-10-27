@@ -1,0 +1,34 @@
+String,Danger Score,Commonness Score
+some bird seed,1,5
+some shelled peanuts,1,3
+some wild celery,1,4
+a flower bud,1,1
+a <teaspoon/tablespoon>ful of sap,1,2
+some <grape/raspberry/strawberry> jelly,1,2
+a <juicy/succulent/slimy> worm,2,5
+a handful of raspberries,2,3
+some fermented fruit,2,2
+some suet,2,4
+some bees,2,3
+a <button/truffle/cremini/porcini/portobello> mushroom,2,3
+a handful of uncooked pasta,2,1
+a <tulip/petunia/marigold/sunflower/carnation/chrysanthemum> bulb,2,3
+a few mealworms,3,5
+a smattering of beetles,3,4
+a spider,3,3
+a small piece of bacon,3,1
+a <tiny/medium-sized/large> frog,3,2
+a handful of <moths/butterflies>,3,4
+a <French/sweet potato> fry,3,1
+a cake made of snails,4,4
+some fat from a T-bone steak,4,3
+a bucket of crickets,4,5
+some snake jerky,4,3
+a spoonful of bone marrow,4,2
+a whole <anchovy/herring/sardine/shrimp>,4,5
+a dead <vole/mouse/squirrel/rat/shrew>,5,5
+some turkey jerky,5,3
+some chicken nuggets,5,1
+a groundhog,5,2
+a bloody <pheasant/grouse/songbird/duck/pigeon>,5,4
+a <ribeye/hanger/flank/T-Bone/porterhouse/New York strip> steak,5,2

@@ -1,0 +1,106 @@
+Feature String,House Type Whitelist,House Type Blacklist,Enjoyment Score,Requires Haunted House,Min Property Condition,Max Property Condition,Feature Type
+solid oak doors,,"trailer, houseboat",1,,50,,KeyFeature
+bay windows,,trailer,4,,,,KeyFeature
+radiant heating,,,3,,,,KeyFeature
+backup generator,,,2,,,,KeyFeature
+recently painted,,,2,,60,,KeyFeature
+modern kitchen,,,4,,,,KeyFeature
+well-maintained,,,5,,70,,KeyFeature
+high ceilings,,"tiny house, trailer",4,,,,KeyFeature
+open floor plan,,,3,,,,KeyFeature
+lots of natural light,,,3,,,,KeyFeature
+minimalist design,,,3,,,,KeyFeature
+gourmet kitchen,,trailer,5,,,,KeyFeature
+sturdy front door,,,2,,60,,KeyFeature
+two-car garage,,"tiny house, trailer",3,,,,KeyFeature
+open attic,"Victorian, chalet, mansion, craftsman, colonial, art deco, midcentury, estate, palace, castle, storybook",,4,,,,KeyFeature
+finished basement,"Victorian, chalet, mansion, craftsman, colonial, art deco, pueblo, midcentury, estate, palace, castle, storybook",,5,,70,,KeyFeature
+sizable awning,"trailer, manufactured home",,2,,,,KeyFeature
+private backyard,"Victorian, chalet, mansion, craftsman, colonial, art deco, pueblo, midcentury, estate, palace, castle",,4,,,,KeyFeature
+smoker friendly,,,1,,,,KeyFeature
+professionally landscaped,,"houseboat, condo, loft",5,,80,,KeyFeature
+covered parking,"condo, loft, houseboat, tiny house",,2,,,,KeyFeature
+bidet in master bath,,"houseboat, loft, trailer, tiny house",2,,,,KeyFeature
+featured in Architecture Magazine,"estate, palace, castle, mansion, craftsman, art deco",,4,,90,,KeyFeature
+deluxe model,trailer,,5,,,,KeyFeature
+airy living space,,tiny house,3,,,,KeyFeature
+screen door,trailer,,3,,,,KeyFeature
+tight quarters,"tiny house, trailer",,1,,,,KeyFeature
+industrial design,"loft, penthouse",,3,,,,KeyFeature
+brick walls,"loft, penthouse",,2,,,,KeyFeature
+concrete floors,"loft, penthouse",,1,,,,KeyFeature
+steel beams,"loft, penthouse",,1,,,,KeyFeature
+hardwood flooring,,,4,,70,,KeyFeature
+indoor shooting range,"estate, palace, castle, mansion",,3,,,,KeyFeature
+elevator,"estate, palace, castle, mansion",,4,,,,KeyFeature
+laminate flooring,,,2,,70,,KeyFeature
+shag carpet,,storybook,-2,,,,KeyFeature
+kitchen backsplash,,,2,,,,KeyFeature
+storm windows,,,2,,,,KeyFeature
+granite countertops,,trailer,3,,,,KeyFeature
+mosaic bathroom tile,,trailer,3,,,,KeyFeature
+new roof,,"houseboat, loft, tiny home, condo",4,,,,KeyFeature
+interrogation room,"palace, castle","houseboat, loft",1,,,,KeyFeature
+security system,,,4,,,,KeyFeature
+central air conditioning,,,4,,,,KeyFeature
+dog door,,"houseboat, loft",1,,,,KeyFeature
+greenhouse,,"houseboat, loft, duplex, condo",5,,,,KeyFeature
+dumbwaiter,"estate, palace, castle, mansion",,2,,,,KeyFeature
+bomb shelter,,"houseboat, loft, tiny home, trailer, loft",1,,,,KeyFeature
+seance room,,,1,x,,,KeyFeature
+skeleton closet,,,1,x,,,KeyFeature
+torture chamber,"castle, palace",,1,x,,,KeyFeature
+hidden staircase,"Victorian, castle, estate, palace, mansion, chalet",,3,x,,,KeyFeature
+crypt,"castle, estate, palace, mansion, chalet",,1,x,,,KeyFeature
+beer cooler,trailer,,3,,,,KeyFeature
+gun rack,trailer,,3,,,,KeyFeature
+fishing deck,houseboat,,4,,,,KeyFeature
+crows nest,houseboat,,2,,,,KeyFeature
+vault,"mansion, chalet, palace, estate, castle",,4,,,,KeyFeature
+moat,"palace, castle",,4,,,,KeyFeature
+helipad,villa,,5,,,,KeyFeature
+spiral staircase,"villa, storybook, futuristic",,3,,,,KeyFeature
+charming backyard,storybook,,4,,,,KeyFeature
+quirky architecture,storybook,,3,,,,KeyFeature
+modern architecture,penthouse,,3,,,,KeyFeature
+chic kitchen,penthouse,,3,,,,KeyFeature
+electric fireplace,penthouse,,2,,,,KeyFeature
+large dome,geodesic,,2,,,,KeyFeature
+octagonal windows,geodesic,,2,,,,KeyFeature
+efficient air circulation,geodesic,,2,,,,KeyFeature
+sturdy exterior,geodesic,,5,,,,KeyFeature
+unique design,geodesic,,3,,,,KeyFeature
+sleek exterior,futuristic,,1,,,,KeyFeature
+chrome kitchen design,futuristic,,2,,,,KeyFeature
+new windows,,,3,,80,,KeyFeature
+brand-new kitchen appliances,,,3,,80,,KeyFeature
+new window screens,,,3,,70,,KeyFeature
+new sink fixtures,,,2,,80,,KeyFeature
+new toilets,,tiny house,2,,80,,KeyFeature
+spacious courtyard,villa,,4,,,,KeyFeature
+rustic architecture,villa,,3,,,,KeyFeature
+short distance from downtown,,,3,,,,Location
+great location,,,4,,,,Location
+near the mall,,,1,,,,Location
+next to a park,,,3,,,,Location
+quiet neighborhood,,,5,,,,Location
+natural views,,,4,,,,Location
+best-kept secret,,,4,,,,Location
+slums-adjacent,,,-5,,,,Location
+trendy neighborhood,,,3,,,,Location
+just minutes from the local college,,,3,,,,Location
+near airport,,,0,,,,Location
+near busy highway,,,-3,,,,Location
+nudist colony nearby,,,-3,,,,Location
+coveted location,,,4,,,,Location
+near churches and bars,,,3,,,,Location
+minutes from downtown,,,3,,,,Location
+adjacent to cemetery,,,-4,,,,Location
+gated community,"trailer, estate, palace, castle, art deco, Victorian, mansion, chalet, condo, futuristic, storybook",,4,,,,Location
+close to bus stop,,houseboat,2,,,,Location
+near liquor store,trailer,,5,,,,Location
+near laundromat,trailer,,4,,,,Location
+spectacular views,,,4,,,,Location
+"close to people, places, and things",trailer,,-1,,,,Location
+waterfront property,houseboat,,5,,,,Location
+close to stuff,trailer,,1,,,,Location

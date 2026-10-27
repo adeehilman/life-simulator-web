@@ -1,0 +1,26 @@
+[
+ {
+  "path_id": 618,
+  "name": "Molot",
+  "file": "Molot.ttf",
+  "bytes": 15184
+ },
+ {
+  "path_id": 619,
+  "name": "GenR102",
+  "file": "GenR102.ttf",
+  "bytes": 362664
+ },
+ {
+  "path_id": 620,
+  "name": "Overpass-VariableFont_wght",
+  "file": "Overpass-VariableFont_wght.ttf",
+  "bytes": 315752
+ },
+ {
+  "path_id": 621,
+  "name": "LiberationSans",
+  "file": "LiberationSans.ttf",
+  "bytes": 350200
+ }
+]

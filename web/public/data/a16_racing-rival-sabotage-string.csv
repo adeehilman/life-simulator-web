@@ -1,0 +1,34 @@
+String,Feedback Version,Narrative Version,Vehicle Condition Impact,Will Impair Vehicle,Damaged Part,Min Rival Craziness,Max Rival Craziness
+clogging your <car-possessive> tailpipe with <a potato/a massive dildo/a box of used condoms/a banana/a pickling cucumber/an eggplant/a can of Axe body spray/a can of Cheez Whiz>,clogged your <car-possessive> tailpipe with <rb>,clogged my <car-possessive> tailpipe with <rb>,-2,x,muffler,,50
+sawing off your <car-possessive> exhaust pipe,sawed off your <car-possessive> exhaust pipe,sawed my <car-possessive> exhaust pipe off,-2,,,50,
+clipping the battery cable on your <car>,clipped the battery cable on your <car>,clipped the battery cable on my <car>,-1,x,battery,50,
+removing the differential cover of your <car>,removed the differential cover on your <car>,removed the differential cover on my <car>,-1,x,axle,55,
+dumping <maple syrup/brake fluid/bleach/Coca-Cola> into your <car-possessive> oil fill port,dumped <rb> into your <car-possessive> oil fill port,dumped <rb> into my <car-possessive> oil fill port,-3,x,engine,55,
+pouring <shrimp/clam/fish/wet cat food/sauerkraut/kimchi> juice in your <car-possessive> air vents,poured <rb> juice in your <car-possessive> air vents,poured <rb> juice in my <car-possessive> air vents,-1,,,50,
+wiring your <car-possessive> horn to the <brake/blinkers>,wired your <car-possessive> horn to the <brake/blinkers>,wired my <car-possessive> horn to the <brake/blinkers>,-1,,,50,
+clogging your <car-possessive> fuel line,clogged your <car-possessive> fuel line,clogged my <car-possessive> fuel line,-2,x,fuel injector,40,
+draining your <car-possessive> <power steering fluid/coolant/brake fluid/transmission fluid/engine oil>,drained your <car-possessive> <rb>,drained my <car-possessive> <rb>,-2,,,,50
+removing your <car-possessive> hood lock,removed your <car-possessive> hood lock,removed my <car-possessive> hood lock,-2,,,,50
+disconnecting your <car-possessive> brake <rotors/line>,disconnected your <car-possessive> brake <rb>,disconnected my <car-possessive> brake <rb>,-3,,,,50
+denting your <car-possessive> steering rack,dented your <car-possessive> steering rack,dented my <car-possessive> steering rack,-3,,,50,
+advancing your <car-possessive> engine timing,advanced your <car-possessive> engine timing,advanced my <car-possessive> engine timing,-1,,,66,
+fraying your <car-possessive> accelerator cable,frayed your <car-possessive> accelerator cable,frayed my <car-possessive> accelerator cable,-2,,,,50
+loosening your <car-possessive> lug nuts,loosened your <car-possessive> lug nuts,loosened my <car-possessive> lug nuts,-2,,,,50
+dumping <olive/Canola/peanut/sesame> oil all over your <car-possessive> seats,dumped <rb> oil all over your <car-possessive> seats,dumped <rb> oil all over my <car-possessive> seats,-1,,,50,
+slashing the <front right/front left/rear right/rear left> tire of your <car>,slashed the <rb> tire of your <car>,slashed the <rb> tire of my <car>,-2,x,tire,,25
+pooping in your <car-possessive> <glove box/oil reservoir/wiper fluid tank>,pooped in your <car-possessive> <rb>,pooped in my <car-possessive> <rb>,-1,,,75,
+pouring <sugar/molasses/motor oil/turpentine/latex paint> into your <car-possessive> radiator,pouring <rb> into your <car-possessive> radiator,pouring <rb> into my <car-possessive> radiator,-3,x,radiator,55,
+spraying your <car> with a water gun full of paint stripper,sprayed your <car> with a water gun full of paint stripper,sprayed my <car> with a water gun full of paint stripper,-1,,,50,
+smashing the <headlights/tail lights/brake lights/side mirrors> on your <car> with a <monkey wrench/ball peen hammer/tire iron/torque wrench>,smashed the <rb> on your <car> with a <rb2>,smashed the <rb> on my <car> with a <rb2>,-2,,,50,
+"jumping up and down on the <hood/top> of your <car>, leaving massive dents","jumped up and down on the <rb> of your car, leaving big dents",jumped up and down on the <rb> of my car and left big dents,-2,,,60,
+snapping the windshield wiper off your <car>,snapped the windshield wiper off your <car>,snapped the windshield wiper off my <car>,-1,,,25,
+smashing the windshield of your <car> with a <bowling ball/brick/ratchet wrench/jack stand>,smashed your windshield with a <rb>,smashed my windshield with a <rb>,-2,x,windshield,35,
+roundhouse kicking <the side mirror/both side mirrors> completely off your <car>,roundhouse kicked <rb> completely off your <car>,roundhouse kicked <rb> completely off my <car>,-2,,,,75
+peeing in the gas tank of your <car>,peed in the gas tank of your <car>,peed in the gas tank of my <car>,-3,x,fuel injector,50,
+"spray painting <""I'm a Dumbass""/a phallus/""Honk if You're Horny""/a middle finger/a self portrait/""Drama Queen""/""Student Driver""> on the <hood/side/back/fender> of your <car>",spray painted <rb> on the <rb2> of your <car>,spray painted <rb> on the <rb2> of my <car>,-2,,,40,
+keying your <car>,keyed your <car>,keyed my <car>,-2,,,25,
+super gluing <num55-105> <condoms/Pokemon cards/ball bearings/jockstraps/pairs of panties/furry tails/lug nuts> onto your <car>,super glued <num55-105> <rb> onto your <car>,super glued <num55-105> <rb> onto my <car>,-3,,,,80
+slicing the serpentine belt on your <car> with a <machete/steak knife/razor blade/hunting knife>,sliced the serpentine belt on your <car> with a <rb>,sliced the serpentine belt on my <car> with a <rb>,-1,x,serpentine belt,35,
+slicing the timing belt on your <car> with a <machete/steak knife/razor blade/hunting knife>,sliced the timing belt on your <car> with a <rb>,sliced the timing belt on my <car> with a <rb>,-2,x,timing belt,35,
+bending the engine fan blades on your <car> with a pair of <vice grips/rusty pliers>,bent the engine fan blades on your <car> with a pair of <rb>,bent the engine fan blades on my <car> with a pair of <rb>,-2,x,engine fan,50,
+hacksawing the drive shaft on your <car>,hacksawed the drive shaft on your <car>,hacksawed the drive shaft on my <car>,-3,x,drive shaft,65,

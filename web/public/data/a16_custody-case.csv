@@ -1,0 +1,140 @@
+Reason,Plural,Min Defendant Craziness,Max Defendant Craziness,Min Defendant Money,Max Defendant Money,Defendant Is Unemployed,Case Impact Score,Commonness Score
+<ex> secretly hates <him/her>,<ex> secretly hates them,,,,,,-3,3
+<ex> is crazy,<ex> is crazy,70,,,,,2,3
+<ex> is too busy,<ex> is too busy,,,,,,3,3
+<ex> is poor,<ex> is poor,,,,50,,4,3
+<ex> is a deadbeat,<ex> is a deadbeat,,,,,x,3,3
+<ex> has cams in <his/her> room,<ex> has cams in their room,80,,,,,3,2
+<ex> held <him/her> over bridges,<ex> held them over bridges,75,,,,,4,1
+<ex> plays rough with <him/her>,<ex> plays rough with them,80,,,,,-2,3
+<ex> made <him/her> eat like a dog,<ex> made them eat like a dog,75,,,,,3,1
+<ex> sniffs <his/her> dirty laundry,<ex> sniffs their dirty laundry,60,,,,,2,2
+<ex> jumpscares <him/her>,<ex> jumpscares them,60,,,,,1,3
+<ex> gifts <him/her> swords,<ex> gifts them swords,70,,,,,3,2
+<ex> makes <him/her> vent-crawl,<ex> makes them vent-crawl,75,,,,,3,2
+<ex> feeds <him/her> cockroaches,<ex> feeds them cockroaches,75,,,,,3,3
+<ex> taught <him/her> about death,<ex> taught them about death,70,,,,,2,3
+<ex> has <him/her> hunt for dinner,<ex> has them hunt for dinner,,,,20,,3,3
+<ex> eats crayons with <him/her>,<ex> eats crayons with them,,,,,,2,3
+<ex> locks <him/her> in the shed,<ex> locks them in the shed,,,,,,2,3
+<ex> only feeds <him/her> junk food,<ex> only feeds them junk food,,,,20,,2,3
+<ex> makes <him/her> wipe barehanded,<ex> makes them wipe barehanded,,,,,,-1,3
+<ex> is a weally bad pwerson,<ex> is a weally bad pwerson,,,,,,-3,2
+<ex> tickle fights <him/her> daily,<ex> tickle fights them daily,,,,,,-3,3
+<ex> lets <him/her> read cringy fanfic,<ex> lets them read cringy fanfic,,,,,,-2,3
+<ex> dangles <him/her> off towers,<ex> dangles them off towers,75,,,,,3,3
+<ex> won't let <him/her> wear pants,<ex> won't let them wear pants,,,,,,2,3
+<ex> buys <him/her> plushies,<ex> buys them plushies,,,70,,,-3,3
+<ex> uses <him/her> as a spittoon ,<ex> uses them as a spittoon,,,,,,2,3
+<ex> made <him/her> get lost in mazes,<ex> made them get lost in mazes,90,,50,,,4,2
+<ex> kicks <him/her> like a ball,<ex> kicks them like a ball,60,,,,,3,2
+<ex> keeps guns in the house,<ex> keeps guns in the house,,,,,,3,3
+<ex> pelts <him/her> with pebbles,<ex> pelts them with pebbles,50,,,,,3,2
+<ex> makes <him/her> dissect bugs,<ex> makes them dissect bugs,60,,,,,3,3
+<ex> bullies <him/her>,<ex> bullies them,,,,,,-1,3
+<ex> is a cannibal,<ex> is a cannibal,90,,,,,4,1
+<ex> uses <him/her> to panhandle,<ex> uses them to panhandle,,,,20,,3,3
+<ex> waterboards <him/her>,<ex> waterboards them,60,,,,,4,2
+<ex> keeps <him/her> on a leash,<ex> keeps them on a leash,50,,,,,3,3
+<ex> is unhygenic,<ex> is unhygenic,,,,,,-3,3
+<ex> never throws parties,<ex> never throws parties,,,,,,-1,2
+<ex> licks <his/her> dirty dishes,<ex> licks their dirty dishes,60,,,,,1,3
+<ex> watches <him/her> sleep,<ex> watches them sleep,60,,,,,2,3
+<ex> eats <his/her> boogers,<ex> eats their boogers,50,,,,,3,2
+<ex> boiled <his/her> bunny,<ex> boiled their bunny,70,,,,,4,1
+<ex> fed <him/her> rat poison,<ex> fed <him/her> rat poison,70,,,,,5,1
+<ex> owns Funko Pops,<ex> owns Funko Pops,,,,,,-3,3
+<ex> eats chocolate bugs,<ex> eats chocolate bugs,50,,,,,-2,3
+<ex> only feeds <him/her> ice,<ex> only feeds them ice,,,,40,,3,3
+<ex> bathes <him/her> in rainwater,<ex> bathes them in rainwater,50,,,40,,2,2
+<ex> gives <him/her> used gifts,<ex> gives them used gifts ,,,,50,,1,3
+<ex> dressed <him/her> in rags,<ex> dressed them in rags,,,,30,,3,2
+<ex> didn't give <him/her> a bed,<ex> didn't give them a bed,,,,30,,3,2
+<ex> didn't buy <him/her> shoes ,<ex> didn't buy them shoes ,,,,30,,2,2
+<ex> only fed <him/her> cold soup,<ex> only fed them cold soup,,,,40,,3,3
+<ex> made <him/her> use dirty napkins,<ex> made them reuse dirty napkins,50,,,20,,3,1
+<ex> gave <him/her> used pencils,<ex> gave them used pencils,,,,40,,-3,3
+<ex> only fed <him/her> caviar,<ex> only fed them caviar,,,80,,,-1,2
+<ex> is too bougie,<ex> is too bougie,,,70,,,-2,2
+<ex> doesn't like the poor ,<ex> doesn't like the poor ,,,70,,,2,3
+<ex> hates public transportation,<ex> hates public transportation,,,70,,,1,2
+<ex> bought <him/her> Ozempic,<ex> bought them Ozempic,60,,70,,,2,3
+<ex> bought <him/her> fancy gifts ,<ex> bought them fancy gifts ,,,70,,,-1,2
+<ex> got <him/her> a chauffeur,<ex> got them a chauffeur,,,80,,,-2,2
+<ex> made <him/her> fly first class,<ex> made them fly first class,,,70,,,-2,2
+<ex> bedazzled <his/her> teeth,<ex> bedazzled their teeth,60,,70,,,2,2
+<ex> loves corporate culture ,<ex> loves corporate culture ,,40,60,,,1,2
+<ex> is a struggling artist ,<ex> is a struggling artist ,,,,50,x,1,2
+<ex> loves crypto,<ex> loves crypto,50,,,,x,2,3
+<ex> invested in NFTs,<ex> invested in NFTs,,,,50,x,1,2
+<ex> hates creatives ,<ex> hates creatives ,,20,,,,1,3
+<ex> keeps getting fired,<ex> keeps getting fired,50,,,,x,3,3
+<ex> plays video games all day,<ex> plays video games all day,,50,,,x,2,4
+<ex> has no earning potential,<ex> has no earning potential,,,,,x,3,5
+<ex> has no money and no job,<ex> has no money and no job,,,,40,x,3,3
+<ex> is coasting off a fortune,<ex> is coasting off a fortune,,,,80,x,-2,3
+<ex> watches TV all day,<ex> watches TV all day,,50,,,x,2,5
+<ex> hasn't had a job in years,<ex> hasn't had a job in years,,,,,x,3,5
+<ex> keeps rage-quitting jobs,<ex> keeps rage-quitting jobs,75,,,,x,3,3
+<ex> is too lazy to work,<ex> is too lazy to work,,,,,x,2,2
+<ex> is way too normal,<ex> is way too normal,,25,,,,-2,2
+<ex> is way too stable,<ex> is way too stable,,25,,,,-2,2
+<ex> doesn't party enough,<ex> doesn't party enough,,15,,,,-3,3
+<ex-possessive> home is too neat,<ex-possessive> home is too neat,,50,,,,-2,4
+<ex> pays all the bills,<ex> pays all the bills,,40,70,,,-3,4
+<ex> is thrifty,<ex> makes money stretch far,,40,,40,,-1,3
+<ex> eats too many vegetables,<ex> eats too many vegetables,,30,,,,-2,3
+<ex> is too good at work,<ex> is too good at work,,30,50,,,-2,3
+<ex> never does any drugs,<ex> never does any drugs,,20,,,,-3,1
+<ex> does cocaine,<ex> does cocaine,75,,,,,3,4
+<ex> sells cocaine,<ex> sells cocaine,75,,66,,,4,2
+<ex> drinks too much tequila,<ex> drinks too much tequila,50,,,,,3,4
+<ex> never drinks,<ex> never drinks,,40,,,,-2,2
+<ex> is a Gaylor,<ex> is a Gaylor,66,,,,,2,1
+<ex> is a buttface,<ex> is a buttface,,,,,,-4,2
+<ex> huffs farts,<ex> huffs farts,50,,,,,1,1
+<ex> is overly loving,<ex> is overly loving,,,,,,-3,2
+<ex> only listens to Nickelback,<ex> only listens to Nickelback,50,,,,,2,1
+<ex> gets 8 hours of sleep,<ex> gets 8 hours of sleep,,30,,,,-2,3
+<ex> is always working,<ex> is always working,,,,,,2,4
+<ex> is a nepo baby,<ex> is a nepo baby,,,80,,,-2,2
+<ex> is a nymphomaniac,<ex> is a nymphomaniac,66,,,,,2,2
+<ex> helps <him/her> with homework,<ex> helps them with homework,,20,,,,-2,3
+<ex> gives <him/her> filet mignon,<ex> gives them filet mignon,,,90,,,-2,2
+<ex> makes <him/her> eat boogers,<ex> makes them eat boogers,50,,,,,2,2
+<ex> is so basic,<ex> is so basic,,,,,,-2,3
+<ex> has bad taste in movies,<ex> has bad taste in movies,,,,,,-1,4
+<ex> hates BitLife,<ex> hates BitLife,,,,,,5,1
+<ex> is a Satanist,<ex> is a Satanist,,,,,,2,2
+<ex> drives too fast,<ex> drives too fast,,,,,,2,4
+<ex> drives the speed limit,<ex> drives the speed limit,,,,,,-2,4
+<ex> is always at the club,<ex> is always at the club,,,,,,1,5
+<ex> only feeds <him/her> rice,<ex> only feeds them rice,,,,20,,2,4
+<ex> is on TikTok too much,<ex> is on TikTok too much,,,,,,1,3
+<ex> is on Facebook too much,<ex> is on Facebook too much,,,,,,1,3
+<ex> is on Reddit too much,<ex> is on Reddit too much,,,,,,1,3
+<ex> is on Instagram too much,<ex> is on Instagram too much,,,,,,1,3
+<ex> feeds <him/her> real garbage,<ex> feeds them real garbage,,,,10,,3,2
+<ex> buys <him/her> rare Labubus,<ex> buys them rare Labubus,,,70,,,-2,1
+<ex> eats sawdust,<ex> eats sawdust,50,,,,,1,3
+<ex> makes <him/her> eat sawdust,<ex> makes them eat sawdust,,,,5,,3,2
+<ex> bought <him/her> a pony,<ex> bought them ponies,,,90,,,-4,1
+<ex> gardens too much,<ex> gardens too much,,,,,,-2,2
+<ex> is too well hydrated,<ex> is too well hydrated,,30,,,,-3,4
+<ex> is in clown college,<ex> is in clown college,,,,,,1,3
+<ex> called <him/her> <insult>,<ex> called one of them <insult>,,,,,,2,5
+<ex> likes Twilight,<ex> likes Twilight,,,,,,1,2
+<ex> only eats chicken nuggets,<ex> only eats chicken nuggets,,,,,,1,3
+<ex> is physically active,<ex> is physically active,,25,,,,-2,4
+<ex> drives drunk,<ex> drives drunk,70,,,,,3,4
+<ex> makes <him/her> pee outside,<ex> makes them pee outside,80,,,,,3,2
+<ex> is broke as a joke,<ex> is broke as a joke,,,,20,,2,5
+<ex> got fired from DoorDash,<ex> got fired from DoorDash,,,,,x,2,3
+<ex> plays way too much League,<ex> plays way too much League,,,,,,1,4
+<ex> only feeds <him/her> candy,<ex> only feeds them candy,,,,,,1,4
+<ex> shaved <his/her> head,<ex> shaved their heads,66,,,,,2,2
+<ex> has warts,<ex> has warts,,,,,,-1,2
+<ex> volunteers too much,<ex> volunteers too much,,25,,,,-2,3
+<ex> gives <him/her> too many hugs,<ex> gives them too many hugs,,,,,,-3,3
+<ex> is a Swifty,<ex> is a Swifty.,70,,,,,-2,3
+<ex> slurps bananas whole,<ex> slurps bananas whole,50,,,,,-1,3

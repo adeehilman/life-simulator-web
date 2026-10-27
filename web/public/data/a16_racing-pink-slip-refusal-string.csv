@@ -1,0 +1,22 @@
+String,Reason,Commonness Score
+<he/she> tells you to come back with a more impressive vehicle on the line.,car grade,3
+<he/she> says <he/she>'s not interested in racing for a beat-up old jalopy.,car condition,3
+<he/she> says <he/she> wouldn't be caught dead in that <rust bucket/trash heap/old clunker>.,car condition,4
+<he/she> says it would just waste space in <his/her> garage.,car grade,2
+<he/she> says the odor emanating from your vehicle <is vomitous/smells like diarrhea/is nauseating/is the nasty smell of losing>.,car condition,3
+<he/she> says it would take <two/three/four> of those vehicles to equal one of <his/hers>.,car grade,3
+<he/she> says it's offensive to think <he/she> would want to drive that vehicle.,car grade,2
+<he/she> says <he/she>'s surprised it even runs.,car condition,3
+<he/she> says <he/she> wouldn't want to be caught dead in that heap.,car condition,2
+<he/she> says racing against that vehicle would be like taking candy from a baby.,car grade,3
+<he/she> says a <scrap metal collector/junkyard> wouldn't even want that vehicle.,car condition,3
+<he/she> said <he/she> would rather <lick a public toilet seat/lose a finger/burn in hell/get punched in the face/eat a stranger's booger/go blind/swallow a turd> than own that vehicle.,car grade,5
+<he/she> says the only thing uglier than your vehicle is you.,car condition,3
+<he/she> says you should do the world a favor and sink that pathetic hunk of metal in the bottom of the ocean.,car condition,2
+<he/she> said <he/she> doesn't ride around in anything that looks like it came from <a used car dealership/Carmax/Carvana/a shady car dealership>.,car grade,3
+"<he/she> says that, like your mom, it looks like it's been around the block <more than a couple of/a few/one too many/a couple of> times.",car condition,1
+<he/she> said <he/she> isn't interested in riding around in something that looks like it's been sitting in <your driveway/your front yard/your backyard/a junkyard/an old shipyard/a forgotten car lot>.,car condition,4
+"<he/she> says <he/she> would rather win a vehicle <he/she> knows is going to run for at least another <10/20/30/40/50>,000 <miles/kilometers>.",car condition,3
+"<he/she> said <he/she> totally understands why you want to get rid of it, but <he/she> isn't interested.",car grade,2
+<he/she> asks if you think <he/she>'s <stupid/dumb> enough to want that vehicle.,car grade,5
+<he/she> called you <insult> for even trying to tempt <him/her> with a vehicle as basic as that.,car grade,3

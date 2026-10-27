@@ -1,0 +1,33 @@
+Substance,Commonness Score,Min Cost Per Dose,Max Cost Per Dose,Demand Impact,Effects,Is Fatal
+parmesan cheese,2,1,3,3,burst of creativity,
+bee pollen extract,3,1,3,4,burst of creativity,
+lily of the valley,1,2,4,-4,confidence boost,x
+baby powder,2,1,7,4,confidence boost,
+lidocaine,3,2,5,-3,dizziness,x
+black pepper,3,1,3,4,dizziness,
+table salt,5,1,3,3,dizziness,
+cigarette ash,2,1,2,-4,dizziness,
+calcium,3,1,4,3,ego death,
+confectioner's sugar,4,2,5,4,euphoria,
+jock sweat,1,1,3,-4,extreme strength,x
+nightshade,1,3,5,-4,adrenaline rush,x
+creatine,1,5,15,4,adrenaline rush,
+powdered caffeine,1,2,4,4,adrenaline rush,
+coffee grounds,5,1,3,3,adrenaline rush,
+bone marrow,1,2,6,3,increased libido,
+basil,3,1,3,3,increased perception,
+vape juice,2,3,10,-4,increased perception,
+baking soda,4,1,3,3,nausea,
+rosemary,3,1,3,3,nausea,
+elephant laxative,1,5,8,-4,nausea,x
+infant formula,3,3,9,4,nausea,
+sawdust,2,1,2,-4,nausea,
+pine resin,3,3,6,3,nausea,
+swamp water,2,1,3,-4,nausea,
+foot deodorizer,1,2,5,-4,paranoia,x
+silica,4,4,8,4,paranoia,x
+cobra venom,1,10,15,-4,unconsciousness,x
+powdered laundry detergent,1,3,8,-4,unconsciousness,x
+nutmeg,1,1,5,-3,unconsciousness,
+cinnamon,4,1,6,3,unconsciousness,
+chloroquine,2,4,8,-4,unconsciousness,

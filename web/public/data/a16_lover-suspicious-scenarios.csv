@@ -1,0 +1,173 @@
+Scenario,Hero Gender,Lover Gender,Has Job,Has Kids,Vampire Hero,Vampire Lover
+You just discovered a keycard in his wallet to a local hotel where you have never stayed before.,female,male,,,,
+You just discovered a keycard in his wallet to a local hotel where you have never stayed before.,male,male,,,,
+You just discovered a keycard in her purse to a local hotel where you have never stayed before.,male,female,,,,
+You just discovered a keycard in her purse to a local hotel where you have never stayed before.,female,female,,,,
+There's a hickey on her neck that she swears is just a burn from the curling iron.,male,female,,,,
+There's a hickey on her neck that she swears is just a burn from the curling iron.,female,female,,,,
+You just discovered the calculator icon on her phone opens a hookup app.,male,female,,,,
+You just discovered the calculator icon on her phone opens a hookup app.,female,female,,,,
+You just discovered the calculator icon on his phone opens a hookup app.,female,male,,,,
+You just discovered the calculator icon on his phone opens a hookup app.,male,male,,,,
+You just found a condom wrapper in her purse.,male,female,,,,
+You just found a condom wrapper in his wallet.,female,male,,,,
+You just found a condom wrapper in his wallet.,male,male,,,,
+You just found some Plan B pills in her purse.,male,female,,,,
+"You just discovered the phrase ""<how to cheat and not get caught/best hookup sites/how to get rid of cheater's guilt/anonymous hookups near me/do I have an STD>"" in her Google search history.",male,female,,,,
+"You just discovered the phrase ""<how to cheat and not get caught/best hookup sites/how to get rid of cheater's guilt/anonymous hookups near me/do I have an STD>"" in his Google search history.",female,male,,,,
+"You just discovered the phrase ""<how to cheat and not get caught/best hookup sites/how to get rid of cheater's guilt/anonymous hookups near me/do I have an STD>"" in his Google search history.",male,male,,,,
+"You just discovered the phrase ""<how to cheat and not get caught/best hookup sites/how to get rid of cheater's guilt/anonymous hookups near me/do I have an STD>"" in her Google search history.",female,female,,,,
+<friend> is convinced <he/she> saw her holding hands with a very handsome man in the park.,male,female,,,,
+<friend> is convinced <he/she> saw her holding hands with a beautiful woman in the park.,female,female,,,,
+<friend> is convinced <he/she> saw him holding hands with a very handsome man in the park.,male,male,,,,
+<friend> is convinced <he/she> saw him holding hands with a beautiful woman in the park.,female,male,,,,
+"She told you she was watching <Heathers/Knives Out/Parasite/Joker/Uncut Gems/Lady Bird/Baby Driver/Deadpool/La La Land/Fifty Shades of Grey/Crazy Rich Asians/The Hangover> on Netflix at a friend's house, but when you made a reference specific to that film, she had no idea what you were talking about.",male,female,,,,
+"She told you she was watching <Heathers/Knives Out/Parasite/Joker/Uncut Gems/Lady Bird/Baby Driver/Deadpool/La La Land/Fifty Shades of Grey/Crazy Rich Asians/The Hangover> on Netflix at a friend's house, but when you made a reference specific to that film, she had no idea what you were talking about.",female,female,,,,
+"He said he was watching <Heathers/Knives Out/Parasite/Joker/Uncut Gems/Lady Bird/Baby Driver/Deadpool/La La Land/Fifty Shades of Grey/Crazy Rich Asians/The Hangover> on Netflix at a friend's house, but when you make a reference specific to that film, he had no idea what you were talking about.",female,male,,,,
+"He said he was watching <Heathers/Knives Out/Parasite/Joker/Uncut Gems/Lady Bird/Baby Driver/Deadpool/La La Land/Fifty Shades of Grey/Crazy Rich Asians/The Hangover> on Netflix at a friend's house, but when you made a reference specific to that film, he had no idea what you were talking about.",male,male,,,,
+He told you he had to work late but came home smelling of perfume and alcohol.,female,male,x,,,
+She told you she had to work late but came home smelling of perfume and alcohol.,female,female,x,,,
+He told you he had to work late but came home smelling of cologne and alcohol.,male,male,x,,,
+She told you she had to work late but came home smelling of cologne and alcohol.,male,female,x,,,
+You discovered a charge on his credit card showing an expensive Valentine's Day bouquet that you never received.,female,male,,,,
+You discovered a charge on his credit card showing an expensive Valentine's Day bouquet that you never received.,male,male,,,,
+You discovered a charge on her credit card showing an expensive Valentine's Day bouquet that you never received.,female,female,,,,
+He accidentally called you another girl's name while you were talking.,female,male,,,,
+He accidentally called you another girl's name while you were talking.,male,male,,,,
+She accidentally called you another guy's name while you were talking.,male,female,,,,
+She accidentally called you another guy's name while you were talking.,female,female,,,,
+You discovered a dating website on his computer that he apparently forgot to close.,female,male,,,,
+You discovered a dating website on her computer that she apparently forgot to close.,male,female,,,,
+You discovered a dating website on his computer that he apparently forgot to close.,male,male,,,,
+You discovered a dating website on her computer that she apparently forgot to close.,female,female,,,,
+<child> mentioned a strange man climbing out of your window when you weren't home.,male,female,,x,,
+<child> mentioned a strange woman climbing out your window when you weren't home.,female,male,,x,,
+He's been making up a lot of excuses lately for why he doesn't want to make love to you.,female,male,,,,
+She's been making up a lot of excuses lately for why she doesn't want to make love to you.,male,female,,,,
+"Every time you approach him from behind, he quickly notices and hides his phone screen from your view.",female,male,,,,
+"Every time you approach her from behind, she quickly notices and hides her phone screen from your view.",male,female,,,,
+"Every time you approach him from behind, he quickly notices and hides his phone screen from your view.",male,male,,,,
+"Every time you approach him from behind, he quickly notices and hides his phone screen from your view.",female,female,,,,
+"He's been working a lot of late nights recently, but instead of coming home tired, he is happy and energized.",female,male,x,,,
+"She's been working a lot of late nights recently, but instead of coming home tired, she is happy and energized.",male,female,x,,,
+"He's been working a lot of late nights recently, but instead of coming home tired, he is happy and energized.",male,male,x,,,
+"She's been working a lot of late nights recently, but instead of coming home tired, she is happy and energized.",female,female,x,,,
+"He's been getting a lot of late-night texts recently, but he insists they are coming from <spammers/insurance agents/real estate agents/telemarketers/a wrong number/friends>.",female,male,,,,
+"She's been getting a lot of late-night texts recently, but she insists they are coming from <spammers/insurance agents/real estate agents/telemarketers/a wrong number/friends>.",male,female,,,,
+"He's been getting a lot of late-night texts recently, but he insists they are coming from <spammers/insurance agents/real estate agents/telemarketers/a wrong number/friends>.",male,male,,,,
+"She's been getting a lot of late-night texts recently, but she insists they are coming from <spammers/insurance agents/real estate agents/telemarketers/a wrong number/friends>.",female,female,,,,
+You've noticed that he's been distancing himself from you lately and appears to be happier that way.,female,male,,,,
+You've noticed that she's been distancing herself from you and appears to be happier that way.,male,female,,,,
+You've noticed that he's been distancing himself from you and appears to be happier that way.,male,male,,,,
+You've noticed that she's been distancing herself from you and appears to be happier that way.,female,female,,,,
+"You've noticed that he's recently started to show a lot more interest in <his looks/different types of music/getting in shape/fashion/new sex positions/hygiene>, even though it's never been his thing.",female,male,,,,
+"You've noticed that she's recently started to show a lot more interest in <her looks/different types of music/getting in shape/fashion/new sex positions/hygiene>, even though it's never been her thing.",male,female,,,,
+"You've noticed that she's recently started to show a lot more interest in <her looks/different types of music/getting in shape/fashion/new sex positions/hygiene>, even though it's never been her thing.",female,female,,,,
+"You've noticed that he's recently started to show a lot more interest in <his looks/different types of music/getting in shape/fashion/new sex positions/hygiene>, even though it's never been his thing.",male,male,,,,
+"<child> mentioned something about ""mom's new friend with the big muscles"".",male,female,,x,,
+"<child> mentioned something about ""dad's new friend with the big boobies"".",female,male,,x,,
+"<child> mentioned something about ""dad's new friend with the big muscles"".",male,male,,x,,
+"<child> mentioned something about ""mom's new friend with the big boobies"".",female,female,,x,,
+<child> mentioned something about mommy's other 'daddy'.,male,female,,x,,
+You just found bite marks that aren't yours on his neck.,female,male,,,x,
+You just found bite marks that aren't yours on her neck.,male,female,,,x,
+You just found bite marks that aren't yours on his neck.,male,male,,,x,
+You just found bite marks that aren't yours on her neck.,female,female,,,x,
+He just called you '<random-first-name-female>' while sucking your blood.,female,male,,,,x
+He just called you '<random-first-name-male>' while sucking your blood.,male,male,,,,x
+She just called you '<random-first-name-female>' while sucking your blood.,male,female,,,,x
+She just called you '<random-first-name-female>' while sucking your blood.,female,female,,,,x
+He's been coming home every night smelling like someone else's coffin.,female,male,,,x,x
+He's been coming home every night smelling like someone else's coffin.,male,male,,,x,x
+She's been coming home every night smelling like someone else's coffin.,male,female,,,x,x
+She's been coming home every night smelling like someone else's coffin.,female,female,,,x,x
+You check her phone by mistake and see that she's been messaging an OnlyFangs model named <random-first-name-female>.,female,female,,,x,
+You check her phone by mistake and see that she's been messaging an OnlyFangs model named <random-first-name-female>.,female,female,,,x,x
+You check her phone by mistake and see that she's been messaging an OnlyFangs model named <random-first-name-male>.,male,female,,,x,
+You check her phone by mistake and see that she's been messaging an OnlyFangs model named <random-first-name-male>.,male,female,,,x,x
+You check his phone by mistake and see that he's been messaging an OnlyFangs model named <random-first-name-female>.,female,male,,,x,
+You check his phone by mistake and see that he's been messaging an OnlyFangs model named <random-first-name-female>.,female,male,,,x,x
+You check his phone by mistake and see that he's been messaging an OnlyFangs model named <random-first-name-male>.,male,male,,,x,
+You check his phone by mistake and see that he's been messaging an OnlyFangs model named <random-first-name-male>.,male,male,,,x,x
+He's been singing romantic songs by <musician> - an artist he used to hate - while draining his victims.,male,male,,,,x
+He's been singing romantic songs by <musician> - an artist he used to hate - while draining his victims.,female,male,,,,x
+She's been singing romantic songs by <musician> - an artist she used to hate - while draining her victims.,female,female,,,,x
+She's been singing romantic songs by <musician> - an artist she used to hate - while draining her victims.,male,female,,,,x
+"You found some <sapphire/emerald/ruby/diamond/topaz> fang grillz in her pocket and assume they're a gift for you, but she never gave them to you.",female,female,,,x,x
+"You found some <sapphire/emerald/ruby/diamond/topaz> fang grillz in her pocket and assume they're a gift for you, but she never gave them to you.",male,female,,,x,x
+"You found some <sapphire/emerald/ruby/diamond/topaz> fang grillz in his pocket and assume they're a gift for you, but he never gave them to you.",male,male,,,x,x
+"You found some <sapphire/emerald/ruby/diamond/topaz> fang grillz in his pocket and assume they're a gift for you, but he never gave them to you.",female,male,,,x,x
+"He's been diagnosed with anemia, but you haven't been <sucking/drinking/snacking on> his blood lately.",male,male,,,x,
+"He's been diagnosed with anemia, but you haven't been <sucking/drinking/snacking on> his blood lately.",female,male,,,x,
+"She's been diagnosed with anemia, but you haven't been <sucking/drinking/snacking on> her blood lately.",female,female,,,x,
+"She's been diagnosed with anemia, but you haven't been <sucking/drinking/snacking on> her blood lately.",male,female,,,x,
+"She's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",female,female,,,x,x
+"She's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",male,female,,,x,x
+"He's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",male,male,,,x,x
+"He's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",female,male,,,x,x
+"She's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",female,female,,,x,
+"She's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",male,female,,,x,
+"He's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",male,male,,,x,
+"He's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",female,male,,,x,
+"She's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",female,female,,,,x
+"She's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",male,female,,,,x
+"He's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",male,male,,,,x
+"He's been looking longingly at pictures of <ostriches/secretary birds/lemurs/beavers/alligators/ibexes/grizzly bears/pangolins/moose>, which is the animal form of another vampire in <city>.",female,male,,,,x
+You got an anonymous <DM/text/message> from someone with a link to his profile on a site connecting mortal sugar babies to powerful vampire sugar daddies.,male,male,,,x,
+You got an anonymous <DM/text/message> from someone with a link to his profile on a site connecting mortal sugar babies to powerful vampire sugar mommies.,female,male,,,x,
+You got an anonymous <DM/text/message> from someone with a link to her profile on a site connecting mortal sugar babies to powerful vampire sugar mommies.,female,female,,,x,
+You got an anonymous <DM/text/message> from someone with a link to her profile on a site connecting mortal sugar babies to powerful vampire sugar daddies.,male,female,,,x,
+"You've noticed that she doesn't leave the house without <ironing/cleaning the bloodstains off of/perfuming/popping the collar on> her cape, which she never did before.",female,female,,,,x
+"You've noticed that she doesn't leave the house without <ironing/cleaning the bloodstains off of/perfuming/popping the collar on> her cape, which she never did before.",male,female,,,,x
+"You've noticed that he doesn't leave the house without <ironing/cleaning the bloodstains off of/perfuming/popping the collar on> his cape, which he never did before.",male,male,,,,x
+"You've noticed that he doesn't leave the house without <ironing/cleaning the bloodstains off of/perfuming/popping the collar on> his cape, which he never did before.",female,male,,,,x
+"Her search history includes the query ""how to cheat on vampire lover without her <killing you/sucking you dry/eviscerating you/murdering you/figuring out>"".",female,female,,,x,
+"His search history includes the query ""how to cheat on vampire lover without her <killing you/sucking you dry/eviscerating you/murdering you/figuring out>"".",female,male,,,x,
+"His search history includes the query ""how to cheat on vampire lover without him <killing you/sucking you dry/eviscerating you/murdering you/figuring out>"".",male,male,,,x,
+"Her search history includes the query ""how to cheat on vampire lover without him <killing you/sucking you dry/eviscerating you/murdering you/figuring out>"".",male,female,,,x,
+"He's gotten really into <crucifix/silver/garlic> play, which was never your thing.",male,male,,,x,x
+"He's gotten really into <crucifix/silver/garlic> play, which was never your thing.",female,male,,,x,x
+"She's gotten really into <crucifix/silver/garlic> play, which was never your thing.",female,female,,,x,x
+"She's gotten really into <crucifix/silver/garlic> play, which was never your thing.",male,female,,,x,x
+"She said she was <working late/getting drinks with coworkers>, but her phone location showed that she was at a humans-only <kink club/BDSM club/leather bar/fetish club/brothel>.",female,female,x,,x,
+"She said she was <working late/getting drinks with coworkers>, but her phone location showed that she was at a humans-only <kink club/BDSM club/leather bar/fetish club/brothel>.",male,female,x,,x,
+"He said he was <working late/getting drinks with coworkers>, but his phone location showed that he was at a humans-only <kink club/BDSM club/leather bar/fetish club/brothel>.",male,male,x,,x,
+"He said he was <working late/getting drinks with coworkers>, but his phone location showed that he was at a humans-only <kink club/BDSM club/leather bar/fetish club/brothel>.",female,male,x,,x,
+You found out she has a LoveBitten account and has been hooking up with other random vampires for quick lays while you're away.,male,female,,,x,
+You found out she has a LoveBitten account and has been hooking up with other random vampires for quick lays while you're away.,female,female,,,x,
+You found out he has a LoveBitten account and has been hooking up with other random vampires for quick lays while you're away.,female,male,,,x,
+You found out he has a LoveBitten account and has been hooking up with other random vampires for quick lays while you're away.,male,male,,,x,
+You woke up in the middle of the night to see her being whisked away by another vampire's cape.,male,female,,,x,
+You woke up in the middle of the night to see her being whisked away by another vampire's cape.,female,female,,,x,
+You woke up in the middle of the night to see him being whisked away by another vampire's cape.,female,male,,,x,
+You woke up in the middle of the night to see him being whisked away by another vampire's cape.,male,male,,,x,
+You caught her licking her lips at the bloodmobile driver.,male,female,,,,x
+You caught her licking her lips at the bloodmobile driver.,female,female,,,,x
+You caught him licking his lips at the bloodmobile driver.,male,male,,,,x
+You caught him licking his lips at the bloodmobile driver.,female,male,,,,x
+You walked in on her bouncing on a cross and moaning a vampire hunter's name.,female,female,,,x,
+You walked in on her bouncing on a cross and moaning a vampire hunter's name.,male,female,,,x,
+You walked in on him bouncing on a cross and moaning a vampire hunter's name.,male,male,,,x,
+You walked in on him bouncing on a cross and moaning a vampire hunter's name.,female,male,,,x,
+You saw a search for 'hot white-haired vampire twinks in my area' on her phone.,female,female,,,x,
+You saw a search for 'hot white-haired vampire twinks in my area' on her phone.,male,female,,,x,
+You saw a search for 'hot white-haired vampire twinks in my area' on his phone.,male,male,,,x,
+You saw a search for 'hot white-haired vampire twinks in my area' on his phone.,female,male,,,x,
+"You noticed a remote-controlled vibrating buttplug, styled with bat-wings at its base, protruding from his boxers.",female,male,x,,x,
+"You noticed a remote-controlled vibrating buttplug, styled with bat-wings at its base, protruding from his boxers.",male,male,x,,x,
+"You noticed a remote-controlled vibrating buttplug, styled with bat-wings at its base, protruding from her panties.",female,female,x,,x,
+"You noticed a remote-controlled vibrating buttplug, styled with bat-wings at its base, protruding from her panties.",male,female,x,,x,
+You can hear how hard her heart beats when she mentions a specific coworker in passing.,female,female,x,,x,
+You can hear how hard her heart beats when she mentions a specific coworker in passing.,male,female,x,,x,
+You can hear how hard his heart beats when he mentions a specific coworker in passing.,male,male,x,,x,
+You can hear how hard his heart beats when he mentions a specific coworker in passing.,female,male,x,,x,
+You smell a mix of blood and semen hiding behind the scent of cheap breath mints in her mouth.,male,female,,,x,x
+You smell a mix of blood and semen hiding behind the scent of cheap breath mints in his mouth.,male,male,,,x,x
+You spotted two new nipple piercings modeled after fangs on her with initials that aren't yours. ,female,female,,,x,
+You spotted two new nipple piercings modeled after fangs on her with initials that aren't yours. ,male,female,,,x,
+You spotted two new nipple piercings modeled after fangs on him with initials that aren't yours. ,male,male,,,x,
+You spotted two new nipple piercings modeled after fangs on him with initials that aren't yours. ,female,male,,,x,
+"He served you raw and bloody meat, forgetting that you can't ingest it like he can.",female,male,,,,x
+"He served you raw and bloody meat, forgetting that you can't ingest it like he can.",male,male,,,,x
+"She served you raw and bloody meat, forgetting that you can't ingest it like she can.",female,female,,,,x
+"She served you raw and bloody meat, forgetting that you can't ingest it like she can.",male,female,,,,x

@@ -1,0 +1,27 @@
+String,Single Car Part,Plural Car Part,Commonness Score
+<mechanic> said not to worry if some of the parts look a little loose.,,x,3
+"As <mechanic> pulled the vehicle out of <his/her> garage, you noticed some of the freshly-installed parts gyrating in concerning ways.",,x,3
+"As <mechanic> handed your keys back, you heard a strange <rumble/whirring/hissing/whining/humming> coming from within the <car>.",x,x,4
+"You noticed that your <car> was now dripping a strange, <viscous/sticky/gloopy/dirty/oily/gummy/tacky> fluid in several places.",x,x,2
+<mechanic> wouldn't look you in the eye as <he/she> brought your <car> out to you.,x,x,3
+<mechanic> admitted that <he/she> had struggled a little with the install process.,x,x,3
+"<mechanic> slapped the hood of your <car> and said that the new parts might <smoke a little/emit some steam/belch soot from time to time>, but that's normal.",,x,2
+"<mechanic> slapped the hood of your <car> and said the new part might <smoke a little/emit some steam/belch soot from time to time>, but that's normal.",x,,2
+"<mechanic> motioned toward your <car>, saying the <check engine/battery/tire pressure/coolant temperature/transmission temperature/brake system> light might flicker on and off occasionally, but not to worry.",x,x,5
+"As you took your keys from <mechanic>, you noticed that the new part looked a little <rusty/beat-up/battered/worn-down>.",x,,5
+"As you took your keys from <mechanic>, you noticed that the new parts looked a little <rusty in spots/beat-up/battered/worn-down>.",,x,4
+<mechanic> bragged that no one in <city> could have done a better installation than <him/her>.,x,x,3
+"<mechanic> said the installation went perfectly, but your <car> now smells a little bit like <rotten eggs/a dumpster/a sewage pit/a port-a-potty/sulfur/a moldy fridge/wet dog on a hot day/foot odor/rotting fish>.",x,x,3
+<mechanic> gave you <a nervous/an anxious/an uneasy/a forced/an insincere> smile as you got behind the wheel of your newly-modded <car>.,x,x,5
+<mechanic> mentioned that <he/she> followed a <YouTube/TikTok/Reddit> video to install the part.,x,,2
+<mechanic> mentioned that <he/she> followed a <YouTube/TikTok/Reddit> video to install the parts.,,x,2
+It appears that <mechanic> attached the new part to your <car> using some <duct tape/string/super glue/Gorilla Glue/packing tape/command strips>.,x,,1
+It appears that <mechanic> attached the new parts to your <car> using some <duct tape/string/super glue/Gorilla Glue/packing tape/command strips>.,,x,1
+You had to wait an extra <hour/two hours/three hours/four hours> to pick up your <car> because <mechanic> needed the extra time.,x,x,4
+"As you got into your <car> and started the engine, you heard the new part <rattle/clank/creak>.",x,,5
+"As you got into your <car> and started the engine, you heard the new parts <rattle/clank/creak/groan>.",,x,5
+"As you drove away from <mechanic>, your <car> <shook/shuddered/wobbled/vibrated> ominously.",x,x,4
+"As you paid for the mod to your <car>, <mechanic> cryptically reminded you that nobody gets it right all the time.",x,x,2
+"When you picked up your <car>, <mechanic> insisted that your vehicle was still in bad shape and needed repairs on the <electrical system/transmission/computer system/undercarriage/ball joints/gas line/transfer case>.",x,x,4
+<mechanic> gave the new part one final <shove/slap/kick/whack> to make sure it was installed correctly.,x,,3
+<mechanic> gave the new parts one final <shove/slap/kick> to make sure they were installed correctly.,,x,3

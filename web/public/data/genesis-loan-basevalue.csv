@@ -1,0 +1,11 @@
+ID,Hero Min Age,Hero Max Age,Hero Gender,Npc,Npc Gender,Commonness Score,Activity,Feedback String,Log String,MinMaxValues,Filter,Score,Relationship Impact,Match
+10001,,,,,,1,,80000,,,,,,noshark
+10002,,,,,,2,,50000,,,,,,noshark
+10003,,,,,,3,,30000,,,,,,noshark
+10004,,,,,,4,,20000,,,,,,noshark
+10005,,,,,,5,,10000,,,,,,noshark
+10006,,,,,,1,,200000,,,,,,shark
+10007,,,,,,2,,160000,,,,,,shark
+10008,,,,,,3,,130000,,,,,,shark
+10009,,,,,,4,,100000,,,,,,shark
+10010,,,,,,5,,80000,,,,,,shark

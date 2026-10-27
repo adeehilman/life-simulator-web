@@ -1,0 +1,52 @@
+Index,Type,Category,For Sale Description,Cost,Passengers,Feet,Lifespan Years,Commonness Score,Requires License,Rowing,Speedboat,PWC,Motorized Yacht,Sailing Yacht,Sailboat,Jet Boat,Crab Boat,Pontoon,Research Vessel,Airboat,Amphibious,Cruise Ship,Icebreaker,Log Raft,Submarine,Tugboat,Hovercraft,Pirate Ship,Luxury Only
+1,fishing canoe,canoe,Paddle to your favorite spot and pull trophy fish out by the dozen!,"$1,000",4,17,20,5,,x,,,,,,,,,,,,,,,,,,,
+2,fishing kayak,kayak,Enjoy some alone time on the water in this affordable watercraft!,$600,1,9,20,5,,x,,,,,,,,,,,,,,,,,,,
+3,tandem kayak,kayak,Double your fun with this kayak built for two!,$600,2,13,20,5,,x,,,,,,,,,,,,,,,,,,,
+4,paddle boat,boat,Stay fit as you pedal your way across the pond in this fun-sized boat!,$550,5,8,25,3,,x,,,,,,,,,,,,,,,,,,,
+5,fishing boat,boat,You'll be landing the big-game fish in this mid-sized bowrider!,"$131,000",10,26,60,5,x,,x,,,,,,,,,,,,,,,,,,
+6,crab boat,boat,You'll be giving crabs to all your friends and family with this vessel!,"$1,250,000",25,90,50,2,x,,,,,,,,x,,,,,,,,,,,,
+7,dinghy,boat,Tool around the pond in this fun little lifeboat!,"$3,000",4,10,25,5,,x,,,,,,,,,,,,,,,,,,,
+8,performance jet boat,boat,"Race in both comfort and style with this speedy, center-console jet boat!","$82,900",13,25,30,2,x,,,,,,,x,,,,,,,,,,,,,
+9,Jet Ski,PWC,Learn some freestyle trick moves with this fun personal watercraft!,"$10,000",1,9,20,4,,,,x,,,,,,,,,,,,,,,,,
+10,WaveRunner,PWC,Make waves as you carve it up on this exhilarating personal watercraft!,"$10,500",3,11,20,4,,,,x,,,,,,,,,,,,,,,,,
+11,performance Jet Ski,PWC,Challenge your friends to a race from atop this high-performance personal watercraft!,"$17,500",3,12,20,3,,,,x,,,,,,,,,,,,,,,,,
+12,performance WaveRunner,PWC,Fulfill your need for speed in style with this fully-loaded personal watercraft!,"$18,000",3,11,20,3,,,,x,,,,,,,,,,,,,,,,,
+13,pontoon boat,boat,Drift into a deep state of relaxation while vibing aboard this mellow cruiser!,"$14,000",7,16,25,2,x,,,,,,,,,x,,,,,,,,,,,
+14,research vessel,ship,Delve into the vast unknown with this high-tech vessel custom-made for ocean exploration!,"$223,000,000",100,252,50,1,x,,,,,,,,,,x,,,,,,,,,,
+15,speedboat,boat,Shred the waters and leave them in your wake aboard this speed demon!,"$21,400",6,18,30,5,x,,x,,,,,,,,,,,,,,,,,,
+16,performance speedboat,boat,Give your friends the thrill of a lifetime in this ultra-fast racing boat!,"$400,000",5,32,30,4,x,,x,,,,,,,,,,,,,,,,,,
+17,cruising yacht,yacht,Show them who's the boss in this long-distance cruising yacht equipped with all the basic millionaire amenities!,"$4,000,000",30,90,60,2,x,,,,x,,,,,,,,,,,,,,,,
+18,super luxury yacht,yacht,Announce your arrival in this super high-end luxury yacht that includes a submarine and a helicopter!,"$330,000,000",150,414,70,1,x,,,,x,,,,,,,,,,,,,,,,
+19,luxury yacht,yacht,"Flex on all your friends in this high-end yacht featuring a pool, hot tub, elevator, gym, and movie theater!","$100,000,000",,260,70,2,x,,,,x,,,,,,,,,,,,,,,,
+20,airboat,airboat,Blast your friends across a lake or river in this awesome fan-powered boat!,"$90,000",8,18,30,2,x,,,,,,,,,,,x,,,,,,,,,
+21,amphibious boat,boat,Navigate both land and sea in this versatile watercraft!,"$350,000",6,28,25,1,x,,,,,,,,,,,,x,,,,,,,,
+22,cruise ship,ship,"Sail the seven seas with 2,500 of your closest friends!","$1,250,000,000",2500,1100,50,1,x,,,,,,,,,,,,,x,,,,,,,
+23,icebreaker,ship,Crush your way through ice-capped waters in this heavy polar icebreaker!,"$1,000,000,000",30,400,70,1,x,,,,,,,,,,,,,,x,,,,,,
+24,log raft,raft,Float your boat down the river in primitive fashion aboard this log raft!,"$1,500",3,12,15,1,,,,,,,,,,,,,,,,x,,,,,
+25,submarine,submarine,"Go down as far as you want, stay down for as long as it takes, inside this high-tech nuclear sub!","$2,400,000,000",75,560,70,1,x,,,,,,,,,,,,,,,,x,,,,
+26,tugboat,boat,"Push, pull, or drag your friend's vessel in any direction with this mighty tug!","$4,500,000",20,90,60,1,x,,,,,,,,,,,,,,,,,x,,,
+27,water hovercraft,boat,"Have a blast gliding over water, land, mud, or ice in this air-cushion vehicle!","$35,000",3,12,40,3,x,,,,,,,,,,,,,,,,,,x,,
+28,sailing sloop,sailboat,Hoist up the sail and see where this sloop takes you!,"$10,800",2,14,30,3,x,,,,,,x,,,,,,,,,,,,,,
+29,sailing catamaran,sailboat,Learn to fly a hull in this fun cruiser!,"$11,000",3,16,30,4,x,,,,,,x,,,,,,,,,,,,,,
+30,sailing trimaran,sailboat,You'll be rocking the boat with this multihull sailing vessel!,"$89,000",8,24,40,2,x,,,,,,x,,,,,,,,,,,,,,
+31,sailing cutter,sailboat,Impress your friends with the cut of your jib on this sweet sailboat!,"$165,000",6,32,40,5,x,,,,,,x,,,,,,,,,,,,,,
+32,performance catamaran,sailboat,Get all hands on deck for some coastal cruising in this high-performance sailing vessel!,"$250,000",8,32,40,2,x,,,,,,x,,,,,,,,,,,,,,
+33,sailing yacht,sailboat,Sail this stylish yacht in comfort and ease!,"$6,500,000",20,81,50,3,x,,,,,x,,,,,,,,,,,,,,,
+34,pirate ship,ship,Flex your massive cannon while pillaging booty aboard this legendary pirate schooner!\240,"$8,500,000",30,165,100,1,x,,,,,,,,,,,,,,,,,,,x,
+35,sailing yacht,yacht,Sail the seas in this yawl loaded with all the comforts of a modern yacht!,"$12,000,000",40,117,50,2,x,,,,,x,,,,,,,,,,,,,,,
+36,quantum-class cruise ship,ship,"Cruise the seven seas in style, luxury, and class with this state-of-the-art cruise ship.","$1,500,000,000",5000,1141,100,3,x,,,,,,,,,,,,,x,,,,,,,x
+37,Olympic-class ocean liner,ship,Sail the seas in your very own BitTanic! Remember to dodge those icebergs.,"$5,000,000,000",6000,882,100,3,x,,,,,,,,,,,,,x,,,,,,,x
+38,gold-plated luxury yacht,yacht,"Show off your Midas touch in this yacht covered in gold and platinum, the most extravagant the world has to offer!","$6,000,000,000",50,100,90,1,x,,,,,x,,,,,,,,,,,,,,,x
+39,Bezos-class superyacht,yacht,Sail the Amazon and beyond in this yacht designed for multibillionaire Jeff Bezos!,"$3,000,000,000",18,417,110,3,x,,,,,x,,,,,,,,,,,,,,,x
+40,Azzam-style megayacht,yacht,Beat all your friends in a measuring contest with the longest yacht in the world!,"$3,500,000,000",36,590,100,4,x,,,,,x,,,,,,,,,,,,,,,x
+41,floating casino,yacht,"Bet it all on this massive, seaworthy recreation of the Monaco Casino!","$5,000,000,000",75,510,85,1,x,,,,,,,,,,,,,x,,,,,,,x
+42,business VIP yacht,yacht,Wheel and deal in international waters on this ritzy yacht with a 100-seater conference room onboard!,"3,500,000,000",115,460,95,5,x,,,,,x,,,,,,,,,,,,,,,x
+43,Icon-class megacruise ship,ship ,"Take a small town on a cruise with this 7,600 person-capacity super vacation machine!","$6,000,000,000","7,600",1197,95,2,x,,,,,,,,,,,,,x,,,,,,,x
+44,wellness cruise vessel,ship,Detox and refresh with this wellness vessel featuring top-of-the-line sea salt treatments!,"$1,500,000,000",200,500,105,3,x,,,,,,,,,,,,,x,,,,,,,x
+45,antique Royal Navy flagship,ship,"Bombard your enemies with this painstakingly restored wooden warship, complete with 200 cannons!","$2,000,000,000",800,228,75,3,x,,,,,,x,,,,,,,,,,,,,,x
+46,historic naval frigate,ship,"Sail back in time with this 300-year-old frigate, now updated with a VIP suite and ballroom!","$3,000,000,000",250,304,70,3,x,,,,,,x,,,,,,,,,,,,,,x
+47,Rapture-grade bathysphere,underwater vehicle,Glide around the towers of a doomed underwater city in this submersible made of iron and quartz!,"$500,000,000",4,20,80,1,x,,,,,,,,,,,,,,,,x,,,,x
+48,retrofitted submarine,submarine,Plumb the depths of the Mariana Trench with this lavishly decorated submarine!,"$4,000,000,000",20,300,150,4,x,,,,,,,,,,,,,,,,x,,,,x
+49,legendary pirate galleon,ship,Heave-ho in this modernized pirate vessel featuring a helipad and theater room!,"$1,750,000,000",30,165,75,2,x,,,,,,,,,,,,,,,,,,,x,x
+50,turbo catamaran,ship,Race into the horizon on the fastest ship in the world!,"$5,000,000,000",325,325,80,4,x,,,,,,x,,,,,,,,,,,,,,x
+51,Boaty McBoatface-class research vessel,underwater vehicle,"Push forward the frontiers of science in this iconic, deep-sea research vessel!","$5,500,000,000",88,423,90,1,x,,,,,,,,,,x,,,,,,,,,,x

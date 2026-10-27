@@ -1,0 +1,34 @@
+String,Drink Has Alcohol,Person Type,Commonness Score
+<he/she> says <he/she>'s not drinking right now.,,,3
+<he/she> says <he/she>'s <num20-45> days sober.,x,,1
+<he/she> dumped it on your casino lobby's floor.,,Mafia Member,4
+<he/she> says the strongest thing <he/she>'s allowed to drink right now is <prune juice/water/tap water/orange juice/Coke Zero>.,x,,3
+<he/she> says <he/she> stopped drinking alcohol <for religious reasons/after the accident/in prison/in rehab>.,x,,2
+<he/she> scoffed at you for offering <him/her> a non-alcoholic drink.,,,3
+"<he/she> said <he/she> only does <drug> and <drug-illegal>, not alcohol.",x,,4
+<he/she> said <he/she> just got a liver transplant and wants to take it easy for a few more <days/weeks>.,x,,3
+"<he/she> said thanks, but the only alcohol <he/she> drinks is <a Boulevardier/vintage Burgundy/aged Scotch neat/Kentucky Straight Bourbon/Mike's Hard Lemonade/Vodka Red Bull>.",x,,3
+<he/she> says that's a drink for little kids.,,,4
+<he/she>'s already got <two/three/four> DUIs and trying to avoid another one.,x,,2
+"<he/she> says <he/she>'s struggling through day <num11-19> on a liver cleanse, so don't tempt <him/her>.",x,,1
+"<he/she> <laughed in your face/winced in disgust/pushed it away>, offended that you didn't offer <him/her> <Dom Perignon/a bottle of Cristal>.",x,"Mafia Member, High Roller",3
+"<he/she> said the last time <he/she> drank alcohol, it made <him/her> careless and <he/she> whacked the wrong person.",x,Mafia Member,3
+<he/she> only accepts drinks from reputable sources out of fear of being poisoned.,x,Mafia Member,3
+"<he/she> says <he/she>'s in no mood for a ""<namby-pamby/weak-ass/flaccid>"" drink right now.",,,3
+<he/she> needs a drink with alcohol in it.,,,2
+<he/she> said only <a loser/an idiot/a very stupid person/a fool> would offer <him/her> anything other than <a cocktail/a glass of Burgundy/bourbon/Scotch>.,,,4
+<he/she> <is craving/prefers/would rather slurp/wants to know if you have/is in need of> a stiff cocktail.,,,5
+"<he/she> <tossed a wad of cash/threw a chip/glared> at you saying, ""Get that out of my face!"".",,High Roller,2
+"<he/she> thinks you're just trying to get <him/her> drunk, so <he/she>'ll lose all <his/her> money gambling.",x,High Roller,3
+<he/she> only drinks alcohol on <his/her> <yacht/private beach/balcony suite/private island/private jet>.,,High Roller,4
+"<he/she> says if it's a free drink, there had better be some <booze/of the hard stuff/alcohol> in it.",,Casual Gambler,3
+<he/she> mumbled something about alcohol giving <him/her> <the green apple splatters/nuclear farts/explosive diarrhea>.,x,Casual Gambler,4
+<he/she>'s been working hard all day and wants to get drunk.,,Casual Gambler,2
+<he/she>'s a proud teetotaler.,x,,1
+You notice <he/she>'s wearing a <one/two/four/six/nine>-month sobriety token necklace and suspect that might have something to do with it.,x,,2
+<he/she> doesn't drink beverages that strangers offer to <him/her>.,,,3
+<he/she>'s not interested in going hard tonight.,x,,4
+<he/she> hands it to one of <his/her> friends.,,,2
+<he/she> says <he/she>'s got a bladder the size of <a pecan/a walnut/an acorn/a pea/a peanut/a corn kernel/a mouse turd/rabbit feces> and doesn't want it to disrupt <his/her> focus during the games.,,,3
+<he/she> threw it against the wall and screamed at you.,,,2
+<he/she> poured it over one of your other patrons' heads.,,Mafia Member,2

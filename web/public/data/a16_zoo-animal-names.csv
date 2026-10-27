@@ -1,0 +1,1346 @@
+Animal,Breed,Name,Gender,Commonness Score
+Bird,secretary bird,Ms. <random-surname>,female,5
+Bird,secretary bird,Mr. <random-surname>,male,5
+Bird,,Tweet,,3
+Bird,,Chirp,,3
+Bird,,Downy,,3
+Bird,,Feather,,3
+Bear,,Buffy,female,3
+Big Cat,"Bengal tiger, Siberian tiger",Tony,male,3
+Big Cat,,Matilda,female,3
+Big Cat,,Ollie,male,3
+Bat,,Vlad,male,3
+Bat,,Count Chocula,male,3
+Bat,,Battina,female,3
+Camel,,Carl,male,3
+Camel,,Carrie,female,3
+Deer,,Dennis,male,3
+Deer,,Diana,female,3
+Bear,,Snuggle,,3
+Elephant,,Ellie,female,3
+Elephant,,Edgar,male,3
+Fox,,Felicia,female,3
+Fox,,Freddy,male,3
+Giraffe,,Glenda,female,3
+Giraffe,,Gus,male,3
+Hippo,,Helga,female,3
+Hippo,,Chonky,male,3
+Kangaroo,,Duncan,male,3
+Hippo,,Hips,,3
+Kangaroo,,Karen,female,3
+Meerkat,,Mario,male,3
+Meerkat,,Melanie,female,3
+Otter,,Oswin,male,3
+Otter,,Rose,female,3
+Pangolin,,Percy,male,3
+Pangolin,,Penelope,female,3
+Pinniped,,Chunk,,3
+Pinniped,,Flapper,,3
+Platypus,,Perry,male,3
+Platypus,,Penny,female,3
+Primate,,Banana,,3
+Primate,,Oh-Ah,,3
+Red Panda,,Smiles,,3
+Red Panda,,Ricki,female,3
+Reptile,,Iggy,male,3
+Reptile,,Wendy,female,3
+Rhino,,Roy,male,3
+Rhino,,Rhea,female,3
+Rodent,,Whiskers,,3
+Rodent,,Digger,,3
+Snake,,Ivanka,female,3
+Snake,,Donald,male,3
+Turtle,,Joe,male,3
+Turtle,,Titania,female,3
+Wolf,,Luna,female,3
+Wolf,,Sol,male,3
+Zebra,zebra,Zigzag,male,3
+Zebra,zebra,Zinnia,female,3
+Zebra,zebra,Bolt,,3
+Primate,gorilla,Hurumbay,male,1
+Primate,gorilla,Tiny,male,5
+Big Cat,"lion, albino lion",Leo,male,4
+Big Cat,"lion, albino lion",Nala,female,4
+Big Cat,"lion, albino lion",Simba,male,4
+Big Cat,"lion, albino lion",Scar,male,4
+Big Cat,"lion, albino lion",Mufasa,male,4
+Big Cat,"lion, albino lion",Leona,female,4
+Big Cat,"lion, albino lion",Cinnamon,female,4
+Bird,toucan,Sam,male,4
+Bird,scarlet macaw,Scarlet,female,4
+Big Cat,albino lion,Diana,female,4
+Giraffe,,Nekkid,,3
+Pinniped,walrus,Gizelle,female,4
+Pinniped,walrus,Robyn,female,4
+Pinniped,walrus,Wallace,male,4
+Pinniped,walrus,Winnifred,female,3
+Pinniped,walrus,Wally,male,4
+Pinniped,walrus,Tank,male,4
+Pinniped,walrus,Blubba,male,4
+Pinniped,walrus,John Lennon,male,4
+Pinniped,seal,Sylphy,female,4
+Pinniped,seal,Shelly,female,4
+Pinniped,seal,Cindy,female,4
+Pinniped,seal,Sealena,female,4
+Pinniped,seal,Solange,female,4
+Pinniped,seal,Jericho,male,4
+Pinniped,seal,Flip,male,4
+Pinniped,seal,Whiskers,male,4
+Pinniped,seal,Barky,male,4
+Platypus,,Perry,male,1
+Platypus,,Olive,female,3
+Platypus,,Cora,female,3
+Platypus,,Regina,female,3
+Platypus,,Daisy,female,3
+Platypus,,Hazel,female,3
+Platypus,,Millie,female,3
+Platypus,,Phoebe,female,3
+Platypus,,Monica,female,3
+Platypus,,Lily,female,3
+Platypus,,Darleen,female,3
+Platypus,,Belinda,female,3
+Platypus,,Penny,female,3
+Platypus,,Garnet,female,4
+Platypus,,Bernice,female,3
+Platypus,,Beatrice,female,2
+Platypus,,Jennifer,female,3
+Platypus,,Doofenshmirtz,male,1
+Platypus,,Jasmine,female,4
+Platypus,,Lena,female,3
+Platypus,,Lila,female,4
+Platypus,,Scoot,male,5
+Platypus,,Chester,male,4
+Platypus,,Felix,male,3
+Platypus,,Teddy,male,2
+Platypus,,Thaddeus,male,5
+Platypus,,Theodore,male,4
+Platypus,,Mario,male,2
+Platypus,,Romeo,male,3
+Platypus,,Erik,male,4
+Platypus,,Richard,male,2
+Platypus,,Wade,male,1
+Platypus,,Cobbler,male,2
+Platypus,,Bobby,male,3
+Platypus,,Ash,male,3
+Platypus,,Gary,male,3
+Platypus,,Tony,male,3
+Platypus,,Clive,male,3
+Platypus,,Cameron,male,3
+Platypus,,Otis,male,3
+Platypus,,Milo,male,3
+Platypus,,Charlie,male,3
+Platypus,,Duckworth,male,3
+Zebra,zebra,Zephyr,male,5
+Zebra,zebra,Orion,male,4
+Zebra,zebra,Thunder,male,4
+Zebra,zebra,Ace,male,5
+Zebra,zebra,Zorro,male,3
+Zebra,zebra,Jett,male,2
+Zebra,zebra,Max,male,3
+Zebra,zebra,Casper,male,4
+Zebra,zebra,Rio,male,5
+Zebra,zebra,Bandit,male,3
+Zebra,zebra,Jaxon,male,3
+Zebra,zebra,Maverick,male,3
+Zebra,zebra,Hudson,male,2
+Zebra,zebra,Everest,male,2
+Zebra,zebra,Jasper,male,3
+Zebra,zebra,Ivory,male,4
+Zebra,zebra,Archer,male,2
+Zebra,zebra,Finn,male,3
+Zebra,zebra,Sawyer,male,3
+Zebra,zebra,Tuck,male,3
+Zebra,zebra,Titan,male,3
+Zebra,zebra,Buck,male,3
+Zebra,zebra,Stripes,male,3
+Zebra,zebra,Camo,male,3
+Zebra,zebra,Athena,female,5
+Zebra,zebra,Zara,female,4
+Zebra,zebra,Lana,female,3
+Zebra,zebra,Willow,female,2
+Zebra,zebra,Nala,female,3
+Zebra,zebra,Zoe,female,4
+Zebra,zebra,Zinnia,female,5
+Zebra,zebra,Winny,female,2
+Zebra,zebra,Whitney,female,3
+Zebra,zebra,Misty,female,4
+Zebra,zebra,Rosie,female,2
+Zebra,zebra,Ivy,female,1
+Zebra,zebra,Aurora,female,3
+Zebra,zebra,Coco,female,3
+Zebra,zebra,Grace,female,3
+Zebra,zebra,Freya,female,3
+Zebra,zebra,Flicka,female,5
+Zebra,zebra,Sadie,female,4
+Zebra,zebra,Shade,female,3
+Zebra,zebra,Trishelle,female,2
+Zebra,zebra,Beatrix,female,3
+Zebra,zebra,Lucy,female,4
+Zebra,zebra,Bendela,female,3
+Zebra,zebra,Trinity,female,3
+Red Panda,,Rubio,male,5
+Red Panda,,Rubedo,male,5
+Red Panda,,Ruby,female,5
+Red Panda,,Rojo,male,5
+Red Panda,,Pippa,female,5
+Red Panda,,June,female,5
+Red Panda,,Blush,female,5
+Red Panda,,Ember,female,3
+Red Panda,,Rouge,female,3
+Red Panda,,Sunny,female,3
+Red Panda,,Kenji,male,5
+Red Panda,,Blaze,male,3
+Red Panda,,Fuego,male,4
+Red Panda,,Thomas O'Malley,male,1
+Red Panda,,Itto,male,3
+Red Panda,,Zuko,male,3
+Red Panda,,Iroh,male,2
+Red Panda,,Azula,female,3
+Bird,,Feather,,5
+Bird,,Eggbert,,5
+Bird,,Cawk,,5
+Bird,,Peep,,5
+Bird,,Squawk,,5
+Bird,cassowary,Carrie,female,5
+Bird,cassowary,Carl,male,5
+Bird,flamingo,Ignacio,male,5
+Bird,flamingo,Fanny,female,5
+Bird,motmot,Sebastian,male,5
+Bird,,Feather Flocklear,female,1
+Bird,ostrich,Ollie,male,3
+Bird,ostrich,Omar,male,3
+Bird,ostrich,Oscar,male,3
+Bird,ostrich,Eleanor,female,3
+Bird,ostrich,Olga,female,3
+Bird,ostrich,Octavia,female,3
+Bird,ostrich,Fluffy,,4
+Bird,ostrich,Oakley,,4
+Bird,ostrich,Strut,,4
+Bird,penguin,Skipper,male,3
+Bird,penguin,Kowalski,male,3
+Bird,penguin,Rico,male,3
+Bird,penguin,Private,male,3
+Bird,penguin,Mumble,male,3
+Bird,penguin,Tux,male,3
+Bird,penguin,Polly,female,3
+Bird,penguin,Priscilla,female,3
+Bird,penguin,Pearl,female,3
+Bird,penguin,Gloria,female,3
+Bird,penguin,Frigid,,4
+Bird,penguin,Happy,,4
+Bird,penguin,Parker,,4
+Bird,peacock,Poppy,male,3
+Bird,peacock,Pete,male,3
+Bird,peacock,Perry,male,3
+Bird,peacock,Pretty,female,3
+Bird,peacock,Pamela,female,3
+Bird,peacock,Penelope,female,3
+Bird,peacock,Plume,,4
+Bird,peacock,Proud,,4
+Bird,peacock,Squawk,,4
+Bird,albino peacock,Allen,male,3
+Bird,albino peacock,Artie,male,3
+Bird,albino peacock,Angus,male,3
+Bird,albino peacock,Anna,female,3
+Bird,albino peacock,Ali,female,3
+Bird,albino peacock,Anastasia,female,3
+Bird,albino peacock,Snowy,,4
+Bird,albino peacock,Powder,,4
+Bird,albino peacock,Whitey,,4
+Bird,great crested grebe,Gabe,male,3
+Bird,great crested grebe,Grant,male,3
+Bird,great crested grebe,Craig,male,3
+Bird,great crested grebe,Grace,female,3
+Bird,great crested grebe,Gwyneth,female,3
+Bird,great crested grebe,Gail,female,3
+Bird,great crested grebe,Mohawk,,4
+Bird,great crested grebe,Dweeb,,4
+Bird,great crested grebe,Regan,,4
+Bird,toucan,Tom,male,3
+Bird,toucan,Tony,male,3
+Bird,toucan,Sam,male,3
+Bird,toucan,Trisha,female,3
+Bird,toucan,Tammy,female,3
+Bird,toucan,Tina,female,3
+Bird,toucan,Fruit Loop,,4
+Bird,toucan,Rainbow,,4
+Bird,toucan,Kellogg,,4
+Bird,parrot,Paco,male,3
+Bird,parrot,Petey,male,3
+Bird,parrot,Prince,male,3
+Bird,parrot,Polly,female,3
+Bird,parrot,Paris,female,3
+Bird,parrot,Penelope,female,3
+Bird,parrot,Echo,,4
+Bird,parrot,Cracker,,4
+Bird,parrot,Beakley,,4
+Bird,macaw,Marcus,male,3
+Bird,macaw,Max,male,3
+Bird,macaw,Mario,male,3
+Bird,macaw,Mandy,female,3
+Bird,macaw,Missy,female,3
+Bird,macaw,Madeline,female,3
+Bird,macaw,Motley,,4
+Bird,macaw,Chatterbeak,,4
+Bird,macaw,Quickdraw,,4
+Bird,flamingo,Freddy,male,3
+Bird,flamingo,Phineas,male,3
+Bird,flamingo,Plumebert,male,3
+Bird,flamingo,Pinky,female,3
+Bird,flamingo,Phoebe,female,3
+Bird,flamingo,Rosa,female,3
+Bird,flamingo,Paisley,,4
+Bird,flamingo,Bingo,,4
+Bird,flamingo,Florida,,4
+Bird,bald eagle,Brandon,male,3
+Bird,bald eagle,Hamilton,male,3
+Bird,bald eagle,Franklin,male,3
+Bird,bald eagle,Betsy,female,3
+Bird,bald eagle,Bianca,female,3
+Bird,bald eagle,Bella,female,3
+Bird,bald eagle,America,,4
+Bird,bald eagle,Freedom,,4
+Bird,bald eagle,Liberty,,4
+Bird,harpy eagle,Hank,male,3
+Bird,harpy eagle,Henry,male,3
+Bird,harpy eagle,Artie,male,3
+Bird,harpy eagle,Barbie,female,3
+Bird,harpy eagle,Helen,female,3
+Bird,harpy eagle,Hailee,female,3
+Bird,harpy eagle,Crown,,4
+Bird,harpy eagle,Tuft,,4
+Bird,harpy eagle,Stealth,,4
+Bird,African grey parrot,Chad,male,3
+Bird,African grey parrot,Gary,male,3
+Bird,African grey parrot,Featherston,male,3
+Bird,African grey parrot,Malawi,female,3
+Bird,African grey parrot,Savannah,female,3
+Bird,African grey parrot,Polly,female,3
+Bird,African grey parrot,Ghana,,4
+Bird,African grey parrot,Togo,,4
+Bird,African grey parrot,Congo,,4
+Bird,scarlet macaw,Rojo,male,3
+Bird,scarlet macaw,Scotty,male,3
+Bird,scarlet macaw,Roger,male,3
+Bird,scarlet macaw,Scarlett,female,3
+Bird,scarlet macaw,Roja,female,3
+Bird,scarlet macaw,Apple,female,3
+Bird,scarlet macaw,Rainbow,,4
+Bird,scarlet macaw,Crayola ,,4
+Bird,scarlet macaw,Neon,,4
+Bird,kiwi,Ken,male,3
+Bird,kiwi,Curtis,male,3
+Bird,kiwi,Puha,male,3
+Bird,kiwi,Keeley,female,3
+Bird,kiwi,Kate,female,3
+Bird,kiwi,Khloe,female,3
+Bird,kiwi,Kelly,,4
+Bird,kiwi,Peewee,,4
+Bird,kiwi,Haka,,4
+Bird,kiwi,Aotearoa,,4
+Bird,cassowary,Plumebert,male,3
+Bird,cassowary,Larry,male,3
+Bird,cassowary,Dagger,male,3
+Bird,cassowary,Cassie,female,3
+Bird,cassowary,Mary,female,3
+Bird,cassowary,Candice,female,3
+Bird,cassowary,Terry,,4
+Bird,cassowary,Aru,,4
+Bird,cassowary,Mohawk,,4
+Bird,shoebill,Bill,male,3
+Bird,shoebill,Shayne,male,3
+Bird,shoebill,Shia,male,3
+Bird,shoebill,Sheena,female,3
+Bird,shoebill,Sharon,female,3
+Bird,shoebill,Belinda,female,3
+Bird,shoebill,Legs,,4
+Bird,shoebill,Beakley,,4
+Bird,shoebill,Silver,,4
+Bird,peregrine falcon,Falco,male,3
+Bird,peregrine falcon,Perry,male,3
+Bird,peregrine falcon,Malcolm,male,3
+Bird,peregrine falcon,Grimes,female,3
+Bird,peregrine falcon,Sherry,female,3
+Bird,peregrine falcon,Stealth,female,3
+Bird,peregrine falcon,Speedy,,4
+Bird,peregrine falcon,Carnie,,4
+Bird,peregrine falcon,Taupe,,4
+Bird,motmot,Tico,male,3
+Bird,motmot,Marky Mark,male,3
+Bird,motmot,Pops,male,3
+Bird,motmot,Molly,female,3
+Bird,motmot,Moana,female,3
+Bird,motmot,Monique,female,3
+Bird,motmot,Hoot,,4
+Bird,motmot,Spot,,4
+Bird,motmot,Hottie,,4
+Bird,secretary bird,Barry,male,3
+Bird,secretary bird,Strike,male,3
+Bird,secretary bird,Memo,male,3
+Bird,secretary bird,Janice,female,3
+Bird,secretary bird,Scary,female,3
+Bird,secretary bird,Girl Friday,female,3
+Bird,secretary bird,Stomp,,4
+Bird,secretary bird,Respect,,4
+Bird,secretary bird,Sekai,,4
+Bird,ostrich,Ozzy,male,3
+Bird,ostrich,Omar,male,3
+Bird,ostrich,Orville,male,3
+Bird,ostrich,Octavia,female,3
+Bird,ostrich,Oprah,female,3
+Bird,ostrich,Olivia,female,3
+Bird,ostrich,Peck,,4
+Bird,ostrich,Lean,,4
+Bird,ostrich,Legs,,4
+Bird,emu,Earnie,male,3
+Bird,emu,Ed,male,3
+Bird,emu,Remus,male,3
+Bird,emu,Emmy,female,3
+Bird,emu,Erica,female,3
+Bird,emu,Elizabeth,female,3
+Bird,emu,Liberty,,4
+Bird,emu,Obtuse,,4
+Bird,emu,Australis,,4
+Bird,snowy owl,Joey,male,3
+Bird,snowy owl,Blizzard,male,3
+Bird,snowy owl,Snowden,male,3
+Bird,snowy owl,Sneha,female,3
+Bird,snowy owl,Zoe,female,3
+Bird,snowy owl,Blanca,female,3
+Bird,snowy owl,Powder,,4
+Bird,snowy owl,Flake,,4
+Bird,snowy owl,Puff,,4
+Bird,barn owl,Kaonashi,male,3
+Bird,barn owl,Barney,male,3
+Bird,barn owl,Tex,male,3
+Bird,barn owl,Marge,female,3
+Bird,barn owl,Bari,female,3
+Bird,barn owl,Sara,female,3
+Bird,barn owl,Whoo,,4
+Bird,barn owl,Alfalfa,,4
+Bird,barn owl,Howl,,4
+Bird,elf owl,Buddy,male,3
+Bird,elf owl,Elmo,male,3
+Bird,elf owl,Eddie,male,3
+Bird,elf owl,Olivia,female,3
+Bird,elf owl,Tiny,female,3
+Bird,elf owl,Ellie,female,3
+Bird,elf owl,Avery,,4
+Bird,elf owl,Santa,,4
+Bird,elf owl,Huldufolk,,4
+Bird,,Featherstein,,4
+Red Panda,,Amanda,female,4
+Big Cat,"Bengal tiger, Siberian tiger",Yoan,male,4
+Big Cat,caracal,Circe,male,4
+Fox,fennec fox,Joandris,male,2
+Fox,fennec fox,Algiers,,2
+Fox,fennec fox,Dustbunny,,3
+Fox,fennec fox,Fern,female,5
+Fox,fennec fox,Sage,female,4
+Fox,fennec fox,Felix,male,5
+Fox,fennec fox,Fenway,male,4
+Fox,fennec fox,Paprika,,3
+Fox,,Nick Wilde,male,2
+Fox,,Fantastic Mr. Fox,male,3
+Fox,,Fiona,female,4
+Fox,,Megan,female,3
+Fox,,Felicity,female,3
+Fox,,Mozilla,,2
+Fox,,Foxy,,3
+Fox,Arctic fox,Tundra,,5
+Fox,Arctic fox,Doughnut,,4
+Fox,Arctic fox,Snowball,,4
+Fox,Arctic fox,Lumi,,3
+Fox,Arctic fox,Archibald,male,4
+Fox,Arctic fox,Arabella,female,4
+Fox,Arctic fox,Arlo,male,3
+Fox,Arctic fox,Aria,female,3
+Fox,red fox,Vulpes,,2
+Fox,red fox,Cherry,female,4
+Fox,red fox,Cinnabar,male,4
+Fox,red fox,Apricot,,2
+Fox,red fox,Rusty,male,5
+Fox,red fox,Boreal,,2
+Fox,red fox,Poppy,female,5
+Fox,red fox,Rosso,male,4
+Wolf,wolf,Rafael,male,4
+Bear,grizzly bear,Zack,male,4
+Reptile,iguana,Isaac,male,4
+Bird,ostrich,Maddie,female,4
+Bird,emu,Scott,male,4
+Deer,elk,Eric,male,4
+Hippo,,Helga,female,3
+Hippo,,Harry,male,3
+Hippo,,Hortense,female,3
+Hippo,,Jolene,female,4
+Hippo,,Helen,female,2
+Hippo,,Harriet,female,3
+Hippo,,Trundles,male,3
+Hippo,,Bubba,male,4
+Hippo,,Hungry Hungry,,2
+Hippo,,Corinthia,female,2
+Hippo,,Joe,male,2
+Kangaroo,,Kenny,male,3
+Kangaroo,,Kamala,female,2
+Kangaroo,,Kerry,,3
+Kangaroo,,Kim,female,3
+Kangaroo,,Kylie,female,4
+Kangaroo,,Kendall,female,4
+Kangaroo,,Kris,female,3
+Kangaroo,,Kurt,male,3
+Kangaroo,,Punchy,male,4
+Kangaroo,,Fisty,,4
+Kangaroo,,Rue,,4
+Kangaroo,,Pop,male,3
+Kangaroo,,Bop,male,2
+Rhino,,Rhonda,female,3
+Rhino,,Rhoda,female,2
+Rhino,,Rhodes,male,2
+Rhino,,Red,male,2
+Rhino,,Ricky,male,3
+Rhino,,Richard,male,3
+Rhino,,Horny,,4
+Rhino,,Chunker,,4
+Rhino,,Tank,male,3
+Rhino,,Teresa,female,3
+Rhino,,Randy,male,4
+Rhino,,Darlene,female,3
+Rhino,,Betsy,female,3
+Rhino,,David,male,2
+Rhino,,Spike,male,4
+Reptile,Gila monster,Michelle,female,2
+Reptile,Gila monster,Alyssa,female,3
+Reptile,Gila monster,Alaska,female,3
+Reptile,Gila monster,Detox,female,4
+Reptile,Gila monster,Harold,male,3
+Reptile,Gila monster,Ignacio,male,4
+Reptile,Gila monster,Horatio,male,3
+Reptile,Gila monster,Carl,male,3
+Reptile,Gila monster,Marx,male,2
+Primate,,Coconut,,4
+Primate,,Momo,,3
+Primate,,Mrs. Monkeypenny,female,2
+Primate,,Chunky,,4
+Primate,,Funky,,4
+Primate,,Socrates,male,2
+Primate,,Dunkey,male,1
+Primate,,Cecil,male,3
+Primate,,Imogen,female,3
+Primate,,Caesar,male,4
+Primate,,Cornelius,male,2
+Primate,,Cornelia,female,2
+Primate,,Zira,female,2
+Primate,,Jane,female,3
+Primate,,Mojo Jojo,,1
+Primate,,Goodall,,3
+Primate,chimpanzee,Peggy,female,3
+Primate,chimpanzee,Bubbles,,4
+Primate,chimpanzee,George,male,4
+Primate,chimpanzee,Nim,,3
+Primate,chimpanzee,Washoe,female,3
+Primate,chimpanzee,Loulis,male,3
+Primate,chimpanzee,Greybeard,male,3
+Primate,gorilla,Grape Ape,,1
+Primate,gorilla,Koko,female,5
+Primate,gorilla,Dankey Kang,,2
+Primate,gorilla,Clankey Kang,,2
+Primate,gorilla,Janky Kang,,2
+Primate,gorilla,Terk,female,3
+Primate,gorilla,Gonzalo,male,4
+Primate,gorilla,Godiva,female,4
+Primate,bonobo,Kanzi,,3
+Primate,bonobo,Bunubu,,3
+Primate,bonobo,Beau,male,4
+Primate,bonobo,Booboo,,4
+Primate,bonobo,Bonobo Burnham,male,1
+Primate,bonobo,Bobbi,female,4
+Primate,bonobo,Boba,female,3
+Primate,squirrel monkey,Abu,male,2
+Primate,squirrel monkey,Gordo,male,3
+Primate,squirrel monkey,Cheeks,,5
+Primate,squirrel monkey,Squirt,,2
+Primate,squirrel monkey,Tupi,,3
+Primate,squirrel monkey,Chestnut,,3
+Primate,squirrel monkey,Stella,female,4
+Primate,squirrel monkey,Simon,male,4
+Primate,mandrill,Saffron,female,5
+Primate,mandrill,Crimson,male,5
+Primate,mandrill,Ares,male,3
+Primate,mandrill,Ruby,female,3
+Primate,mandrill,Lemon,female,3
+Primate,mandrill,Maxwell,male,3
+Primate,slow loris,Peepers,,5
+Primate,slow loris,Cosette,female,2
+Primate,slow loris,Sloan,,3
+Primate,slow loris,Potato,,4
+Primate,slow loris,Pompom,,3
+Primate,slow loris,Sly,male,2
+Primate,orangutan,Tang,,4
+Primate,orangutan,Angie,female,5
+Primate,orangutan,King Stewie,male,5
+Primate,orangutan,Ah Meng,female,2
+Primate,orangutan,Donnie,male,2
+Primate,orangutan,Mango,,3
+Primate,macaque,Maxwell,male,3
+Primate,macaque,Jack,male,5
+Primate,macaque,Mac,male,5
+Primate,macaque,Maisie,female,3
+Primate,macaque,Papaya,,3
+Primate,macaque,Maybelle,female,3
+Primate,aye-aye,Billie Ayelish,female,1
+Primate,aye-aye,Ida,female,5
+Primate,aye-aye,Isaac,male,5
+Primate,aye-aye,Captain,,3
+Primate,aye-aye,Scrungle,,2
+Primate,aye-aye,Aghast,,2
+Primate,lemur,Leroy,male,4
+Primate,lemur,Leopold,male,3
+Primate,lemur,Lea,female,4
+Primate,lemur,Leighann,female,3
+Primate,lemur,Jovian,male,2
+Primate,lemur,Flavia,female,2
+Rodent,,Richard Gere,male,1
+Rodent,,Sylvester Stallone,male,1
+Rodent,,Whiskers,,5
+Rodent,,Nibbles,,3
+Rodent,,Nutz,,3
+Rodent,,Havarti,,4
+Rodent,,Burrows,,4
+Rodents,,Squeekums,,3
+Rodent,,Josephine,female,3
+Rodent,,Teeth Ledger,male,1
+Rodent,,Tooth Bader Ginsburg,female,1
+Rodent,,Buttercup,,4
+Rodent,,Chickpea,,4
+Rodent,,Harvey RoDent,male,1
+Rodent,kangaroo rat,Hoppity,,3
+Rodent,kangaroo rat,Cinnamon,,4
+Rodent,kangaroo rat,Kobe,male,2
+Rodent,kangaroo rat,Kathy,female,2
+Rodent,kangaroo rat,Sandy,female,3
+Rodent,kangaroo rat,Reno,male,3
+Rodent,kangaroo rat,Pipsqueak,,4
+Rodent,kangaroo rat,Rat Lauer,male,1
+Rodent,kangaroo rat,Ratasha Lyonne,female,1
+Rodent,capybara,Copernicus,male,2
+Rodent,capybara,Casey,,5
+Rodent,capybara,Cavy,,5
+Rodent,capybara,Universal Friend,,1
+Rodent,capybara,Sunshine,,4
+Rodent,capybara,Carol,female,2
+Rodent,capybara,Tara,female,3
+Rodent,capybara,Carpincho,male,3
+Rodent,beaver,Busy,,5
+Rodent,beaver,Beatrice,female,4
+Rodent,beaver,Bebe,female,3
+Rodent,beaver,B-Jay Khaled,male,1
+Rodent,beaver,Beecher,male,4
+Rodent,beaver,Snatch,,2
+Rodent,beaver,Bigglesworth,male,3
+Rodent,beaver,Benita,female,3
+Rodent,prairie dog,Dizzy,male,3
+Rodent,prairie dog,Daisie,female,3
+Rodent,prairie dog,June,female,3
+Rodent,prairie dog,Digit,male,3
+Rodent,prairie dog,Presley,male,4
+Rodent,prairie dog,Gunnison,male,4
+Rodent,prairie dog,Priya,female,4
+Rodent,prairie dog,Primrose,female,4
+Rodent,prairie dog,Chatterbox,,2
+Rodent,prairie dog,Yip Yip,,2
+Rodent,agouti,Aggie,female,4
+Rodent,agouti,Guarani,,3
+Rodent,agouti,Agustin,male,4
+Rodent,agouti,Orinoco,,3
+Rodent,agouti,Goodie,,4
+Rodent,agouti,Brazil Nut,,4
+Rodent,agouti,Ava,female,3
+Rodent,agouti,Agrippa,male,3
+Rodent,degu,Cheesecake,,3
+Rodent,degu,Debra,female,4
+Rodent,degu,Ragu,,2
+Rodent,degu,Dexter,male,4
+Rodent,degu,Demi,female,3
+Rodent,degu,Denzel,male,3
+Rodent,degu,Sugar,,5
+Rodent,degu,Dustbaby,,3
+Rodent,chinchilla,Willa,female,5
+Rodent,chinchilla,Priscilla,female,4
+Rodent,chinchilla,Carmilla,female,2
+Rodent,chinchilla,Drusilla,female,2
+Rodent,chinchilla,Chip,male,4
+Rodent,chinchilla,Chico,male,3
+Rodent,chinchilla,Chidi,male,2
+Rodent,chinchilla,Chubbs,male,5
+Rodent,porcupine,Needles,,5
+Rodent,porcupine,Porky,,4
+Rodent,porcupine,Sting,male,3
+Rodent,porcupine,Barb,female,3
+Rodent,porcupine,Quilliam,male,2
+Rodent,porcupine,Quillhelmina,female,2
+Rodent,porcupine,Sanic,male,1
+Rodent,porcupine,Mamie Begonia,female,1
+Sloth,,Wicket,,2
+Sloth,,Sid,male,3
+Sloth,,Charlotte,female,3
+Sloth,,Philip Sloth,male,1
+Sloth,,Snoozy,,5
+Sloth,,Slade,male,3
+Sloth,,Slug,,5
+Sloth,,Slania,female,3
+Sloth,,Broth,,2
+Reptile,crocodile,Nile,,5
+Reptile,crocodile,Lyle,male,3
+Reptile,crocodile,Kyle,male,3
+Reptile,crocodile,Crystal,female,3
+Reptile,crocodile,Cressida,female,3
+Reptile,crocodile,Chompers,,4
+Reptile,crocodile,Carlisle,male,2
+Reptile,crocodile,Cristabel,female,2
+Reptile,alligator,Ally,female,4
+Reptile,alligator,Callie,female,3
+Reptile,alligator,Sally,female,3
+Reptile,alligator,Albert,male,4
+Reptile,alligator,Alvin,male,3
+Reptile,alligator,Alessandro,male,3
+Reptile,alligator,Mississippi,,2
+Reptile,alligator,Yangtze,,2
+Reptile,iguana,Tijuana,,3
+Reptile,iguana,Iggy,male,5
+Reptile,iguana,Tiguana Notaro,female,1
+Reptile,iguana,Ana,female,3
+Reptile,iguana,Ignacio,male,4
+Reptile,iguana,Igor,male,2
+Reptile,iguana,Donna,female,4
+Reptile,iguana,Madonna,female,2
+Reptile,chameleon,Rainbow,,5
+Reptile,chameleon,Shifty,,3
+Reptile,chameleon,Cam,female,3
+Reptile,chameleon,Leon,male,3
+Reptile,chameleon,Melon,,3
+Reptile,chameleon,Charlene,female,4
+Reptile,chameleon,Charlie,male,4
+Reptile,chameleon,Spike,,2
+Reptile,bearded dragon,Smaug,male,2
+Reptile,bearded dragon,Godzilla,,4
+Reptile,bearded dragon,Elizardbreath,female,2
+Reptile,bearded dragon,Copper,,4
+Reptile,bearded dragon,Wyvern,,3
+Reptile,bearded dragon,Basilisk,,3
+Reptile,bearded dragon,Zeus,male,2
+Reptile,bearded dragon,Hestia,female,2
+Reptile,Komodo dragon,Rex,male,3
+Reptile,Komodo dragon,Regina,female,3
+Reptile,Komodo dragon,Jolene,female,2
+Reptile,Komodo dragon,Kevin,male,2
+Reptile,Komodo dragon,Hulk,male,4
+Reptile,Komodo dragon,Peanut,,5
+Reptile,Komodo dragon,Korina,female,4
+Reptile,Komodo dragon,Apex,,5
+Snake,,Sly,,3
+Snake,,Noodle,,5
+Snake,,Soba,,4
+Snake,,Spaghetti,,4
+Snake,,Snake Gyllenhaal,male,1
+Snake,,Wiles,,2
+Snake,,Medusa,female,1
+Snake,,Havoc,,3
+Snake,,Serpentina,female,2
+Snake,,Slinky,,3
+Snake,,Snek,,3
+Snake,anaconda,Nicki,female,2
+Snake,anaconda,Drake,male,2
+Snake,anaconda,Annie,female,5
+Snake,anaconda,Andy,male,5
+Snake,anaconda,Julius Squeezer,male,1
+Snake,anaconda,Anabel,female,3
+Snake,anaconda,Nacho,male,3
+Snake,anaconda,Tiny,,2
+Snake,boa constrictor,Noah,male,4
+Snake,boa constrictor,Bob,male,3
+Snake,boa constrictor,Bonita,female,3
+Snake,boa constrictor,Connie,female,3
+Snake,boa constrictor,Cuddles,,2
+Snake,boa constrictor,Snuggles,,5
+Snake,boa constrictor,Victor,male,4
+Snake,boa constrictor,Constance,female,4
+Snake,green tree python,Artichoke,,4
+Snake,green tree python,Mint,,3
+Snake,green tree python,Emerald,,5
+Snake,green tree python,Pickle,,2
+Snake,green tree python,Shamrock,,3
+Snake,green tree python,Asparagus,,4
+Snake,green tree python,Gene,male,2
+Snake,green tree python,Jean,female,2
+Snake,Burmese python,Naypyidaw,,2
+Snake,Burmese python,Sulawesi,,2
+Snake,Burmese python,Hugs,,4
+Snake,Burmese python,Butterscotch,,4
+Snake,Burmese python,Bucky,male,5
+Snake,Burmese python,Buttons,,3
+Snake,Burmese python,Buffy,female,5
+Snake,Burmese python,Bugsy,,3
+Snake,ball python,Babette,female,4
+Snake,ball python,Babe,,3
+Snake,ball python,Bailey,female,5
+Snake,ball python,Barbara,female,4
+Snake,ball python,Basil,male,5
+Snake,ball python,Baxter,male,4
+Snake,ball python,Barnabas,male,3
+Snake,ball python,Bao,,2
+Snake,Gaboon viper,Toxin,,3
+Snake,Gaboon viper,Gabby,female,5
+Snake,Gaboon viper,Gabe,male,5
+Snake,Gaboon viper,Fang,,4
+Snake,Gaboon viper,Piper,female,3
+Snake,Gaboon viper,Gale,male,3
+Snake,Gaboon viper,Gary,male,3
+Snake,Gaboon viper,Galadriel,female,1
+Snake,black mamba,Samba,,4
+Snake,black mamba,Shadow,,3
+Snake,black mamba,Lagos,,3
+Snake,black mamba,Maximus,male,2
+Snake,black mamba,Maxine,female,2
+Snake,black mamba,Martin,male,5
+Snake,black mamba,Malia,female,5
+Snake,black mamba,Squash,,3
+Snake,king cobra,Stripes,,4
+Snake,king cobra,Rex,male,3
+Snake,king cobra,Regina,female,3
+Snake,king cobra,Venom,,4
+Snake,king cobra,Assam,,2
+Snake,king cobra,Cobra Winfrey,female,1
+Snake,king cobra,Naga,female,3
+Snake,king cobra,Leroy,male,2
+Snake,king cobra,Kingsley,male,2
+Turtle,,Michelangelo,male,3
+Turtle,,Donatello,male,3
+Turtle,,Leonardo,male,3
+Turtle,,Raphael,male,3
+Turtle,,Venus,female,3
+Turtle,,Morla,female,2
+Turtle,,Dawdle,,4
+Turtle,,Tortellini,,4
+Turtle,,Tammy,female,3
+Turtle,,Shella,female,3
+Turtle,,Mary Shelley,female,1
+Turtle,Aldabra giant tortoise,Abracadabra,,3
+Turtle,Aldabra giant tortoise,Seychelles,,3
+Turtle,Aldabra giant tortoise,Alexa,female,4
+Turtle,Aldabra giant tortoise,Terri,female,3
+Turtle,Aldabra giant tortoise,Tobias,male,3
+Turtle,Aldabra giant tortoise,Al,male,4
+Turtle,Aldabra giant tortoise,Alphonso,male,3
+Turtle,Aldabra giant tortoise,Alice,female,3
+Turtle,box turtle,Turt,,3
+Turtle,box turtle,Myrtle,female,4
+Turtle,box turtle,Snurtle,male,4
+Turtle,box turtle,Tank,male,3
+Turtle,box turtle,Twyla,female,3
+Turtle,box turtle,Knox,male,2
+Turtle,box turtle,Tulip,female,2
+Turtle,box turtle,Tallulah,female,3
+Turtle,African spurred tortoise,Sulcata,female,2
+Turtle,African spurred tortoise,Sahel,,2
+Turtle,African spurred tortoise,Afonso,male,3
+Turtle,African spurred tortoise,Spencer,,4
+Turtle,African spurred tortoise,Spalding,male,4
+Turtle,African spurred tortoise,Toni,female,4
+Turtle,African spurred tortoise,Tomila,female,3
+Turtle,African spurred tortoise,Sharpe,,3
+Turtle,desert tortoise,Mojave,male,3
+Turtle,desert tortoise,Sonora,female,3
+Turtle,desert tortoise,Gobi,,3
+Turtle,desert tortoise,Kalahari,,3
+Turtle,desert tortoise,Sandy,female,4
+Turtle,desert tortoise,Sandra,female,4
+Turtle,desert tortoise,Colonel Sanders,male,1
+Turtle,desert tortoise,Sandler,male,2
+Wolf,,Jacob,male,1
+Wolf,,Laylor Tautner,male,1
+Wolf,,Fang,,4
+Wolf,,Loki,male,4
+Wolf,,Freya,female,4
+Wolf,,Nymeria,female,2
+Wolf,,Eclipse,,3
+Wolf,,Aurora,female,3
+Wolf,wolf,Romulus,male,3
+Wolf,wolf,Remus,male,3
+Wolf,wolf,Big Bad,,2
+Wolf,wolf,Beowulf,male,1
+Wolf,wolf,Lupe,female,3
+Wolf,wolf,Luna,female,3
+Wolf,wolf,Willow,female,4
+Wolf,wolf,Moon,female,4
+Wolf,Arctic wolf,Frosty,,3
+Wolf,Arctic wolf,Snow,,3
+Wolf,Arctic wolf,Ellesmere,,2
+Wolf,Arctic wolf,Alba,female,3
+Wolf,Arctic wolf,January,,4
+Wolf,Arctic wolf,Arcturus,male,2
+Wolf,Arctic wolf,Amaterasu,female,1
+Wolf,Arctic wolf,Alpin,male,3
+Wolf,Arctic wolf,Winter,,4
+Wolf,coyote,Wile E,male,1
+Wolf,coyote,Fluffy,,4
+Wolf,coyote,Cody,male,5
+Wolf,coyote,Coco,female,5
+Wolf,coyote,Candi,female,4
+Wolf,coyote,Cora,female,3
+Wolf,coyote,Cooper,male,3
+Wolf,coyote,Minerva,female,2
+Wolf,coyote,Odysseus,male,2
+Pig,,Porky,male,4
+Pig,,Bacon,,3
+Pig,,Oinkers,,3
+Pig,,Piggy Lee,female,1
+Pig,,Hamlet,male,1
+Pig,,Butters,,4
+Pig,,Pearl,female,3
+Pig,,Pumpkin,,4
+Pig,warthog,Pumba,male,2
+Pig,warthog,Blemish,,3
+Pig,warthog,Wanda,female,4
+Pig,warthog,Walter,male,4
+Pig,warthog,Tusk,,5
+Pig,warthog,Snoop Hog,male,1
+Pig,warthog,Watson,male,3
+Pig,warthog,Wallis,female,3
+Pig,tapir,Snort,,4
+Pig,tapir,Snout,,4
+Pig,tapir,Sumatra,female,2
+Pig,tapir,Caracas,male,2
+Pig,tapir,Tamara,female,4
+Pig,tapir,Tapir Swift,female,1
+Pig,tapir,Tanner,male,3
+Pig,tapir,Tatum,male,3
+Pinniped,sea lion,Midge,female,4
+Pinniped,sea lion,Seabert,male,4
+Pinniped,sea lion,Bree,female,4
+Pinniped,sea lion,Selene,female,3
+Pinniped,sea lion,Sean,male,3
+Pinniped,sea lion,Seamus,male,3
+Pinniped,sea lion,Francisco,male,2
+Pinniped,sea lion,Steller,,4
+Pinniped,sea lion,Sierra,female,3
+Elephant,,Dumbo,male,4
+Elephant,,Babar,male,2
+Elephant,,Peanut,,5
+Elephant,,Eliza,female,4
+Elephant,,Thunder,,3
+Elephant,,Ellis,male,4
+Elephant,,Elbert,male,3
+Elephant,,Elena,female,3
+Camel,,Humps,,4
+Camel,,Camille,female,3
+Camel,,Cameron,male,3
+Camel,,Wednesday,,5
+Camel,,Toes,,4
+Camel,,Carmen,female,3
+Camel,,Cassidy,male,3
+Camel,,Al-Jamal,,2
+Deer,deer,Bambi,,2
+Deer,deer,Clover,,5
+Deer,deer,Sylvia,female,3
+Deer,deer,Doe Re Mi,female,2
+Deer,deer,Bucky,male,3
+Deer,deer,Buck Norris,male,1
+Deer,deer,Grace,female,4
+Deer,deer,Hart,male,4
+Deer,reindeer,Rudolph,male,4
+Deer,reindeer,Dasher,,3
+Deer,reindeer,Dancer,,3
+Deer,reindeer,Comet,,3
+Deer,reindeer,Cupid,,3
+Deer,reindeer,Donner,,3
+Deer,reindeer,Blitzen,,3
+Deer,reindeer,Prancer,,3
+Deer,reindeer,Vixen,female,4
+Deer,elk,Bugle,,3
+Deer,elk,Antlers,male,5
+Deer,elk,Manitoba,,3
+Deer,elk,Altai,,2
+Deer,elk,Elkana,female,4
+Deer,elk,Emerson,male,3
+Deer,elk,Waffles,,3
+Deer,elk,Evelyn,,4
+Deer,moose,Bullwinkle,male,3
+Deer,moose,Balsam,,5
+Deer,moose,Marty,male,4
+Deer,moose,Bruce,male,3
+Deer,moose,Alaska,female,3
+Deer,moose,Molly,female,4
+Deer,moose,Maureen,female,3
+Deer,moose,Marsh,,2
+Deer,ibex,Sayan,,2
+Deer,ibex,Ibex Luthor,male,1
+Deer,ibex,Ibbie,female,5
+Deer,ibex,Capra,female,4
+Deer,ibex,Iberio,male,5
+Deer,ibex,Ivy,female,3
+Deer,ibex,Idris,male,4
+Deer,ibex,Ira,,3
+Deer,antelope,Anthony,male,5
+Deer,antelope,Antonia,female,3
+Deer,antelope,Oryx,,2
+Deer,antelope,Annabelle,female,3
+Deer,antelope,Anders,male,3
+Deer,antelope,Savannah,female,5
+Deer,antelope,Impala,,3
+Deer,antelope,Sable,,3
+Deer,antelope,Swift,,4
+Deer,gazelle,Twinkle,,3
+Deer,gazelle,Sunny,,3
+Deer,gazelle,Posie,female,3
+Deer,gazelle,Graham,male,3
+Deer,gazelle,Gazelle Woods,female,1
+Deer,gazelle,Gianni,male,2
+Deer,gazelle,Amman,,3
+Deer,gazelle,Serengeti,,5
+Koala,,Drop Bear,,1
+Koala,,Eucalyptus,male,5
+Koala,,Barbie,female,2
+Koala,,Queensland,female,5
+Koala,,Fluffybutt,,4
+Koala,,Ozzie,male,4
+Koala,,Kenny,male,2
+Koala,,Kornelia,female,4
+Koala,,Sydney,,3
+Big Cat,leopard,Leo,male,4
+Big Cat,leopard,Shepard,male,3
+Big Cat,leopard,Bagheera,male,2
+Big Cat,leopard,Laney,female,3
+Big Cat,leopard,Linda,female,2
+Big Cat,leopard,Lydia,female,3
+Big Cat,leopard,Spot,,4
+Big Cat,leopard,Pantera,,4
+Big Cat,leopard,Lissom,,4
+Big Cat,snow leopard,Snell,male,3
+Big Cat,snow leopard,Drifter,male,3
+Big Cat,snow leopard,Steve,male,3
+Big Cat,snow leopard,Sunny,female,3
+Big Cat,snow leopard,Sheila,female,2
+Big Cat,snow leopard,Lhasa,female,3
+Big Cat,snow leopard,Felidae,,3
+Big Cat,snow leopard,Snowy,,4
+Big Cat,snow leopard,Slush,,4
+Big Cat,albino lion,Alvin,male,3
+Big Cat,albino lion,Blanco,male,3
+Big Cat,albino lion,Anderson,male,2
+Big Cat,albino lion,Audrey,female,4
+Big Cat,albino lion,Annie,female,4
+Big Cat,albino lion,Ali,female,2
+Big Cat,albino lion,Powder,,4
+Big Cat,albino lion,Alex,,4
+Big Cat,albino lion,Aubrey,,4
+Big Cat,Siberian tiger,Tony,male,4
+Big Cat,Siberian tiger,Seth,male,3
+Big Cat,Siberian tiger,Joe Exotic,male,2
+Big Cat,Siberian tiger,Cicely,female,3
+Big Cat,Siberian tiger,Sissy,female,3
+Big Cat,Siberian tiger,Shea,female,3
+Big Cat,Siberian tiger,Tunguska,,3
+Big Cat,Siberian tiger,Baskin,,4
+Big Cat,Siberian tiger,Paws,,4
+Big Cat,Bengal tiger,Benny,male,4
+Big Cat,Bengal tiger,Michael Stripe,male,2
+Big Cat,Bengal tiger,Tigger,male,3
+Big Cat,Bengal tiger,Tina,female,3
+Big Cat,Bengal tiger,Brenda,female,3
+Big Cat,Bengal tiger,India,female,3
+Big Cat,Bengal tiger,Siegfried,,4
+Big Cat,Bengal tiger,Parker,,4
+Big Cat,Bengal tiger,Hobbes,,4
+Big Cat,cheetah,Clawhauser,male,2
+Big Cat,cheetah,Che,male,4
+Big Cat,cheetah,Kenya,male,3
+Big Cat,cheetah,Cheetara,female,3
+Big Cat,cheetah,Ermita,female,3
+Big Cat,cheetah,Senorita,female,3
+Big Cat,cheetah,Flash,,4
+Big Cat,cheetah,Peta,,4
+Big Cat,cheetah,Manzanita,,4
+Big Cat,jaguar,Jag,male,3
+Big Cat,jaguar,Jeffrey,male,2
+Big Cat,jaguar,Diego,male,3
+Big Cat,jaguar,Janice,female,3
+Big Cat,jaguar,Jenny,female,2
+Big Cat,jaguar,Julia,female,2
+Big Cat,jaguar,Belize,,3
+Big Cat,jaguar,Onca,,2
+Big Cat,jaguar,Jerry,,4
+Big Cat,lynx,Bob,male,2
+Big Cat,lynx,Lars,male,4
+Big Cat,lynx,Levi,male,3
+Big Cat,lynx,Lola,female,4
+Big Cat,lynx,Luna,female,3
+Big Cat,lynx,Lyla,female,2
+Big Cat,lynx,Lombard,,3
+Big Cat,lynx,Iberia,,4
+Big Cat,lynx,Jinx,,5
+Big Cat,cougar,Rocky,male,3
+Big Cat,cougar,Cosmo,male,4
+Big Cat,cougar,Yukon,male,4
+Big Cat,cougar,Stifler's Mom,female,2
+Big Cat,cougar,Courteney,female,3
+Big Cat,cougar,Candice,female,3
+Big Cat,cougar,Puma,,4
+Big Cat,cougar,Colorado,,3
+Big Cat,cougar,Coolidge,,4
+Bat,,Bruce Wayne,male,3
+Bat,,Count von Count,male,2
+Bat,,Kathy Kane,female,3
+Bat,,Stellaluna,female,2
+Bat,,Batty,,3
+Bat,,Rabid,,1
+Bat,,Bela Lugosi,,2
+Bear,polar bear,Ice Bear,male,3
+Bear,polar bear,Knut,male,4
+Bear,polar bear,Norm of the North,male,4
+Bear,polar bear,Pookie,female,4
+Bear,polar bear,Blanca,female,3
+Bear,polar bear,Virginia,female,3
+Bear,polar bear,Coca-Cola,,2
+Bear,polar bear,Bering,,3
+Bear,polar bear,Blizzard,,4
+Bear,polar bear,Shirokuma,,4
+Bear,grizzly bear,Yogi,male,3
+Bear,grizzly bear,Boo Boo,male,3
+Bear,grizzly bear,Paddington,male,3
+Bear,grizzly bear,Teddy Ruxpin,male,3
+Bear,grizzly bear,Lizzy,female,4
+Bear,grizzly bear,Missy,female,2
+Bear,grizzly bear,Gail,female,3
+Bear,grizzly bear,Miss Grizzlie,female,2
+Bear,grizzly bear,Berenstain,,3
+Bear,grizzly bear,Salmon,,2
+Bear,grizzly bear,Succotash,,4
+Bear,panda bear,Po,male,3
+Bear,panda bear,Trueno,male,3
+Bear,panda bear,Zenki,male,4
+Bear,panda bear,Pandaemonium,female,2
+Bear,panda bear,Chi-Chi,female,3
+Bear,panda bear,Ling-Ling,female,3
+Bear,panda bear,Bamboo,,2
+Bear,panda bear,Express,,2
+Bear,panda bear,Sichuan,,3
+Bear,panda bear,Pocky,,4
+Bear,panda bear,Monokuma,,3
+Giraffe,,Melman,male,3
+Giraffe,,Geoffrey,male,3
+Giraffe,,Jerry,male,3
+Giraffe,,Sophie,female,3
+Giraffe,,Giraffa,female,3
+Giraffe,,Gina,female,3
+Giraffe,,Raffi,,4
+Giraffe,,Neck,,4
+Giraffe,,Jirafa,,4
+Giraffe,,Riffraff,,4
+Meerkat,,Timon,male,3
+Meerkat,,Sergei,male,3
+Meerkat,,Marvin,male,3
+Meerkat,,Mary,female,3
+Meerkat,,Missy,female,2
+Meerkat,,Cool Kat,,2
+Meerkat,,Botswana,,3
+Meerkat,,Kalahari,,4
+Otter,,Otto,male,4
+Otter,,Dewey,male,2
+Otter,,Tarka,male,3
+Otter,,Etta,female,3
+Otter,,Olivia,female,3
+Otter,,Kenai,female,2
+Otter,,Otter Pop,,3
+Otter,,La Jolla,,3
+Otter,,Squatter,,3
+Pangolin,,Randy,male,4
+Pangolin,,Perry,male,3
+Pangolin,,Madeline,female,2
+Pangolin,,Penny,female,4
+Pangolin,,Asia,,3
+Pangolin,,Scales,,4
+Pangolin,,Sunda,,3
+Unicorn,unicorn,Sparkle,,4
+Unicorn,unicorn,Glitterhoof,,5
+Unicorn,unicorn,Rainbowmane,,5
+Unicorn,unicorn,Glittermane,,5
+Unicorn,unicorn,Elgeebeeteeque,,3
+Unicorn,unicorn,Rainbow,,5
+Unicorn,unicorn,Crusher,,3
+Unicorn,unicorn,Sundae,,3
+Unicorn,unicorn,Stud Muffin,male,3
+Unicorn,unicorn,Beef Cake,make,2
+Unicorn,unicorn,Scottiana Dupree,female,1
+Unicorn,unicorn,Gumdrop,,4
+Unicorn,unicorn,Destiny,female,5
+Unicorn,unicorn,Hornietta,female,2
+Unicorn,unicorn,Leena Horne,female,1
+Unicorn,unicorn,Patricia Horns,female,1
+Bird,phoenix,Cinder,,5
+Bird,phoenix,Cindy,female,3
+Bird,phoenix,Ignacio,male,4
+Bird,phoenix,Fuego,male,5
+Bird,phoenix,Astra,,5
+Bird,phoenix,Joshua,male,1
+Bird,phoenix,Bernie,male,1
+Bird,phoenix,Bernadette,female,4
+Bird,phoenix,Jean,female,2
+Bird,phoenix,Lindsay,female,3
+Bird,phoenix,Chuckie,male,1
+Bird,phoenix,Ashe,,4
+Bird,phoenix,Cinderella,female,5
+Bird,phoenix,Scorch,male,5
+Bird,phoenix,Phoebe,female,3
+Bird,cockatrice,Trisha,female,3
+Bird,cockatrice,Roach,male,1
+Bird,cockatrice,Latrice,,2
+Bird,cockatrice,Cawk,,5
+Bird,cockatrice,Squawk,,5
+Bird,cockatrice,Wattle,,5
+Bird,cockatrice,Terrorplume,,2
+Bird,cockatrice,Squatsy,,1
+Bird,cockatrice,Cleo,female,2
+Bird,cockatrice,Rockhard,male,2
+Bird,cockatrice,Pecker,,2
+Bird,griffin,Peter,male,1
+Bird,griffin,Lois,female,1
+Bird,griffin,Stewart,male,1
+Bird,griffin,Meg,female,1
+Bird,griffin,Christopher,male,1
+Bird,griffin,Gale,male,3
+Bird,griffin,Beaky,,5
+Bird,griffin,Screech,,5
+Bird,griffin,Ripper,,5
+Bird,griffin,Guff,,4
+Bird,griffin,Zephyr,,5
+Bird,griffin,Wynter,,3
+Pegasus,pegasus,Peggy,female,3
+Pegasus,pegasus,Hercules,male,3
+Snake,basilisk,Hiss,,4
+Primate,yeti,Blanco,,3
+Fox,kitsune,Ari,,4
+Reptile,dragon,Fireheart,,5
+Elephant,woolly mammoth,Chuckles,,2
+Big Cat,sabertooth tiger,Trinity,,3
+Bird,dodo,Dumpy,,4
+Pegasus,pegasus,Zeus,male,2
+Pegasus,pegasus,Aphrodite,female,2
+Pegasus,pegasus,Hermes,male,3
+Pegasus,pegasus,Athena,female,3
+Pegasus,pegasus,Odysseus,male,3
+Pegasus,pegasus,Achilles,male,3
+Pegasus,pegasus,Hera,female,3
+Pegasus,pegasus,Euridyce,female,3
+Pegasus,pegasus,Icarus,male,3
+Pegasus,pegasus,Helios,male,3
+Pegasus,pegasus,Featherhoof,,5
+Pegasus,pegasus,Swiftwing,,5
+Pegasus,pegasus,Galeforce,,5
+Snake,basilisk,Sir Hiss,male,3
+Snake,basilisk,Betsy,female,3
+Snake,basilisk,Venom,,5
+Snake,basilisk,Petra,,5
+Snake,basilisk,Slithereena,female,4
+Snake,basilisk,Barney,male,2
+Snake,basilisk,Nibbles,,4
+Snake,basilisk,Cora,female,3
+Snake,basilisk,Ouroboros,,5
+Snake,basilisk,Katy,female,2
+Snake,basilisk,Kimberly,female,2
+Snake,basilisk,Noodles,,4
+Snake,basilisk,Ramen,,4
+Snake,basilisk,Sketti,,3
+Snake,basilisk,Angel,,1
+Bird,dodo,Dumby,,4
+Bird,dodo,Squatsy,,5
+Bird,dodo,Doofus,,5
+Bird,dodo,Squabbles,,4
+Bird,dodo,Waffles,,3
+Bird,dodo,Lemon,,2
+Bird,dodo,Idiota,female,2
+Bird,dodo,Puzzle,,1
+Bird,dodo,Dumbbell,,3
+Bird,dodo,Dipstick,,3
+Bird,dodo,Birdbrain,,3
+Bird,dodo,Chowder,,4
+Bird,dodo,Pepe,male,1
+Bird,dodo,Crackers,,2
+Bird,dodo,Kamikaze,,4
+Big Cat,sabertooth tiger,Heather,female,3
+Big Cat,sabertooth tiger,Veronica,female,3
+Big Cat,sabertooth tiger,Regina Gorge,female,2
+Big Cat,sabertooth tiger,Clawdia,female,4
+Big Cat,sabertooth tiger,Razorfang,,5
+Big Cat,sabertooth tiger,Marie Purrie,female,3
+Big Cat,sabertooth tiger,Cleocatra,female,3
+Big Cat,sabertooth tiger,RuPaw,male,3
+Big Cat,sabertooth tiger,Catti LaBelle,female,4
+Big Cat,sabertooth tiger,Purrnando,male,5
+Big Cat,sabertooth tiger,Pawla Abdul,female,3
+Big Cat,sabertooth tiger,Venus,female,3
+Big Cat,sabertooth tiger,Tom,male,4
+Big Cat,sabertooth tiger,Oliver,male,4
+Big Cat,sabertooth tiger,Cindy Clawford,fmale,2
+Big Cat,sabertooth tiger,Milo,male,5
+Big Cat,sabertooth tiger,Choco,male,3
+Big Cat,sabertooth tiger,Dynamo,male,3
+Elephant,woolly mammoth,Tusker,,5
+Elephant,woolly mammoth,Peanut,,5
+Elephant,woolly mammoth,Dolores,female,4
+Elephant,woolly mammoth,Trunks,,3
+Elephant,woolly mammoth,Trample,,3
+Elephant,woolly mammoth,Elmer,male,4
+Elephant,woolly mammoth,Tiny,,5
+Elephant,woolly mammoth,Dumbo,,2
+Elephant,woolly mammoth,Freyr,male,2
+Elephant,woolly mammoth,Primo,,3
+Elephant,woolly mammoth,Biggums,,5
+Elephant,woolly mammoth,Trundles,,5
+Elephant,woolly mammoth,Bingley,,5
+Elephant,woolly mammoth,Bertha,female,5
+Elephant,woolly mammoth,Jelly Belly,,3
+Elephant,woolly mammoth,Fudgie,,3
+Elephant,woolly mammoth,Big Louie,,3
+Elephant,woolly mammoth,Wide Load,,2
+Primate,yeti,Largefoot,,5
+Primate,yeti,Harry,male,3
+Primate,yeti,Sally,female,3
+Primate,yeti,Cindy,female,3
+Primate,yeti,Teresa,female,3
+Primate,yeti,Megan,female,5
+Primate,yeti,Mia,female,2
+Primate,yeti,Gary,male,2
+Primate,yeti,Gerald,male,2
+Primate,yeti,Vincent,male,3
+Primate,yeti,Ugg,,5
+Primate,yeti,Prince,male,2
+Primate,yeti,Queenie,female,3
+Primate,yeti,Iggy,male,1
+Primate,yeti,Tumbleweave,,2
+Fox,kitsune,Kurama,,5
+Fox,kitsune,Firefox,,2
+Fox,kitsune,Shippo,male,3
+Fox,kitsune,Yoko,,3
+Fox,kitsune,Keaton,male,3
+Fox,kitsune,Morgana,female,3
+Fox,kitsune,Reiko,,4
+Fox,kitsune,Sora,,4
+Fox,kitsune,Akira,male,3
+Fox,kitsune,Hikari,,3
+Fox,kitsune,Shinobu,male,3
+Fox,kitsune,Ran,female,3
+Fox,kitsune,Miki,female,3
+Fox,kitsune,Fuyuko,female,3
+Reptile,dragon,Shenron,male,1
+Reptile,dragon,Midgardsormr,male,2
+Reptile,dragon,Deathwing,,5
+Reptile,dragon,Haku,male,2
+Reptile,dragon,Smaug,male,1
+Reptile,dragon,Sapphire,female,4
+Reptile,dragon,Reina,female,5
+Reptile,dragon,Duskclaw,,5
+Reptile,dragon,Barbie,female,1
+Reptile,dragon,Ignis,male,5
+Reptile,dragon,Drake,male,5
+Reptile,dragon,Tiamat,female,5
+Reptile,dragon,Daenerys,female,4

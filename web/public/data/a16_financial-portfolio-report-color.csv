@@ -1,0 +1,22 @@
+String,Min Delta,Max Delta
+"Your portfolio's value soared last year, yielding <return> in returns.",80,100
+"Due to healthy economic growth, your portfolio yielded an astounding <return> in returns.",70,100
+It was an excellent year for your portfolio.,60,100
+Your portfolio significantly outperformed expectations with an impressive <return> return.,55,100
+"It was a strong year for your portfolio, which yielded <return> in returns.",15,100
+Your portfolio only yielded <return> in returns last year.,0.01,10
+"Your portfolio struggled to make a profit last year, yielding only <return> in returns.",0.01,5
+It was a decent year for your portfolio.,15,25
+Your investment portfolio accrued <return> in returns.,0.01,100
+"Your portfolio took a hit last year, yielding <return> in returns.",-100,-0.01
+Your portfolio took a nosedive and yielded <return> in returns.,-100,-25
+"It was a rough year for your portfolio, as its value diminished by <return-absolute>.",-100,-0.01
+Last year was especially hard on your portfolio.,-100,-50
+Your portfolio significantly underperformed all expectations with a <return> return.,-100,-25
+It was not a good year for your portfolio.,-100,-0.01
+Your portfolio diminished by <return-absolute> this year.,-100,-0.01
+Your investment portfolio tanked this year.,-100,-80
+"Due to mismanaged funds, your portfolio's value dropped <return-absolute>.",-100,-0.01
+Your portfolio yielded a net loss of <return-absolute>.,-100,-0.01
+"Last year was difficult for your portfolio, but the economy turned itself around in the <third/fourth> quarter.",0.01,5
+Your portfolio saw no change this year.,0,0

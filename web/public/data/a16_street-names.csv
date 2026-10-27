@@ -1,0 +1,438 @@
+Street Name,Add Random Street Type,Affluence Score,Commonness Score,Type
+<random-surname> Garden,x,3,2,"Residential, Rural"
+<city> Heights,x,5,5,Residential
+<city> Manor,x,3,5,Residential
+<city> View,x,5,5,Residential
+<random-surname> Creek,x,2,3,"Residential, Rural"
+<random-surname> Estate,x,5,3,"Residential, Rural"
+<random-surname> Farm,x,3,3,Rural
+<random-surname> Folly,x,1,3,Rural
+<random-surname> Lake,x,3,3,"Residential, Rural"
+<random-surname> Pass,x,3,3,Rural
+<random-surname> River,x,3,3,"Residential, Rural"
+<random-surname> Spring,x,1,3,Rural
+<random-surname> Manor,x,1,3,All
+<random-first-name> Lake,x,5,3,"Residential, Rural"
+<random-surname> Canyon,x,3,3,"Residential, Rural"
+<random-surname> Acres,x,3,3,"Residential, Rural"
+<random-surname> St,,1,5,City
+<random-surname> Dr,,3,5,City
+<random-surname> Blvd,,3,5,City
+<random-surname> Ave,,1,5,City
+<random-first-name> St,,1,5,City
+<random-first-name> Dr,,3,5,City
+<random-first-name> Blvd,,3,5,City
+<random-first-name> Ave,,1,5,City
+<random-first-name> <random-surname> St,,1,5,City
+<random-first-name> <random-surname> Dr,,3,5,City
+<random-first-name> <random-surname> Blvd,,3,5,City
+<random-first-name> <random-surname> Highway,,3,5,Rural
+Achilles,x,3,1,Residential
+Adagio,x,5,1,Residential
+Adonis,x,3,1,Residential
+Alabaster,x,3,1,All
+Almond,x,3,1,Residential
+Alpine,x,3,1,All
+Ambrosia,x,3,1,Residential
+Annex,x,3,1,All
+Apollo,x,3,1,Residential
+Aries,x,3,1,Residential
+Artemis,x,3,1,Residential
+Aspen,x,3,1,Residential
+Athena,x,3,1,Residential
+Atlas,x,3,1,Residential
+Azure,x,3,1,Residential
+Backdoor,x,1,1,Rural
+Backside,x,1,1,Rural
+Bartow,x,3,1,All
+Bass,x,1,1,Rural
+Bay,x,3,1,All
+Bayou,x,3,1,All
+Bayside,x,5,1,All
+Beach,x,5,1,City
+Beacon,x,3,1,All
+Birch,x,3,1,Residential
+Bitizen View,x,5,1,Residential
+Blue Ridge,x,3,1,All
+Bluebird,x,3,1,Residential
+Bridge,x,3,1,City
+Broad,x,3,1,All
+Broadway,,3,1,All
+Brown,x,3,1,All
+Butte,x,3,1,All
+Cadence,x,5,1,Residential
+Cadenza,x,5,1,Residential
+Calypso,x,3,1,Residential
+Canal,x,3,1,City
+Canyon,x,5,1,"Residential, Rural"
+Capricorn,x,3,1,Residential
+Castle,x,3,1,All
+Cedar,x,3,1,Residential
+Cemetery,x,1,1,City
+Centennial,x,3,1,City
+Center,x,3,1,City
+Charming,x,3,1,"Residential, Rural"
+Cherry,x,3,1,Residential
+Cherry,x,3,1,All
+Chestnut,x,3,1,Residential
+Church,x,3,1,All
+Climax,x,3,1,"Residential, Rural"
+Cloud,x,3,1,All
+Cobalt,x,3,1,Residential
+Coconut,x,3,1,Residential
+College,x,3,1,"City, Rural"
+Condor,x,3,1,Residential
+Consequence,x,3,1,"Residential, Rural"
+Coral,x,3,1,Residential
+Cork,x,3,1,All
+Creek,x,3,1,"Residential, Rural"
+Crenshaw,x,1,1,City
+Crescendo,x,5,1,Residential
+Crescent,x,3,1,All
+Crimson,x,3,1,"Residential, Rural"
+Croton Rd,,1,1,Residential
+Cumming,x,3,1,All
+Currant,x,3,1,Residential
+Cutter,x,3,1,All
+Cypress,x,3,1,Residential
+Daffodil,x,3,1,Residential
+Daisy,x,3,1,Residential
+Dame,x,3,1,All
+Danger,x,1,1,City
+Dawn,x,3,1,"Residential, Rural"
+Deadend,x,1,1,"City, Rural"
+Diamond,x,5,1,Residential
+Dogwood,x,3,1,All
+Dove,x,3,1,"Residential, Rural"
+Drifter,x,1,1,"Residential, Rural"
+Dupont,x,3,1,All
+Eagle,x,3,1,Residential
+East,x,3,1,All
+Eastern,x,3,1,City
+Easy Beaver,x,1,1,Rural
+Elm,x,3,1,Residential
+Emerald,x,3,1,Residential
+Eros,x,3,1,Residential
+Eucalyptus,x,3,1,Residential
+Evergreen,x,3,1,Residential
+Faith,x,3,1,"Residential, Rural"
+Fawn,x,3,1,"Residential, Rural"
+Field,x,3,1,All
+Finch,x,3,1,Residential
+Fir,x,3,1,All
+Flamingo,x,3,1,Residential
+Flower,x,3,1,All
+Forest,x,3,1,All
+Fossil,x,3,1,"Residential, Rural"
+Freedom,x,3,1,All
+Front,x,3,1,City
+Garden,x,3,1,All
+Garnet,x,5,1,Residential
+Gemini,x,3,1,Residential
+Ginger,x,3,1,Residential
+Glacier,x,3,1,All
+Glenn,x,3,1,All
+Grand,x,3,1,All
+Green,x,3,1,All
+Green Acres,x,5,1,"Residential, Rural"
+Grove,x,3,1,All
+Hampton,x,3,1,All
+Happy Bottom,x,1,1,"Residential, Rural"
+Harley,x,3,1,All
+Harmony,x,5,1,Residential
+Hazelnut,x,3,1,Residential
+Helen St,,3,1,Residential
+Hemlock,x,3,1,All
+Hermes,x,3,1,Residential
+Herring,x,3,1,Residential
+Hickory,x,3,1,Residential
+Hicks,x,1,1,Rural
+High,x,3,1,All
+Highland,x,3,1,All
+Hillbilly,x,1,1,Rural
+Hillcrest,x,5,1,Residential
+Hillside,x,3,1,All
+Hollow,x,3,1,"Residential, Rural"
+Holly,x,3,1,All
+Hollywood,x,3,1,City
+Hood,x,1,1,City
+Hooker,x,1,1,City
+Illusion,x,3,1,"Residential, Rural"
+Imperial,x,3,1,All
+Indigo,x,3,1,Residential
+Iris,x,3,1,Residential
+Ivory,x,3,1,All
+Jade,x,5,1,Residential
+Juniper,x,3,1,Residential
+Jupiter,x,3,1,Residential
+King,x,3,1,All
+Lakeview,x,5,1,Residential
+Lark,x,3,1,All
+Lavender,x,3,1,Residential
+Lee,x,3,1,All
+Lemon,x,3,1,All
+Leo,x,3,1,Residential
+Libra,x,3,1,Residential
+Lilac,x,3,1,Residential
+Lime,x,3,1,All
+Lumpy Sack,x,1,1,Rural
+Magnolia,x,3,1,Residential
+Mahogany,x,3,1,All
+Malbec,x,5,1,Residential
+Mango,x,3,1,"Residential, Rural"
+Maple,x,3,1,Residential
+Marigold,x,3,1,Residential
+Marina,x,5,1,All
+Market,x,3,1,City
+Mars,x,3,1,Residential
+Meadow,x,3,1,All
+Medallion,x,3,1,Residential
+Mellow,x,3,1,"Residential, Rural"
+Melody,x,5,1,Residential
+Mercury,x,3,1,Residential
+Merlot,x,5,1,Residential
+Mesquite,x,3,1,Residential
+Midnight,x,3,1,"Residential, Rural"
+Mill,x,1,1,City
+Minnow,x,3,1,Residential
+Minuet,x,5,1,Residential
+Miracle,x,3,1,All
+Miracle Mile,,1,1,City
+Mission,x,3,1,All
+Moon,x,3,1,All
+Morningwood,x,3,1,Residential
+Moss,x,3,1,Residential
+Mountain View,x,5,1,"Residential, Rural"
+Mulberry,x,3,1,Residential
+Muse,x,3,1,Residential
+Neptune,x,3,1,Residential
+Nightshade,x,1,1,"Residential, Rural"
+North,x,3,1,All
+Northern,x,3,1,City
+Oak,x,3,1,Residential
+Ocean,x,5,1,City
+Olive,x,3,1,Residential
+Onyx,x,5,1,Residential
+Opal,x,5,1,Residential
+Oracle,x,3,1,All
+Orange,x,3,1,All
+Orchard,x,5,1,"Residential, Rural"
+Orchid,x,3,1,Residential
+Overpass,x,3,1,City
+Palisades,x,5,1,Residential
+Palm,x,3,1,All
+Park,x,3,1,All
+Peach,x,3,1,Residential
+Peak,x,3,1,All
+Pebble,x,3,1,Residential
+Pecan,x,3,1,Residential
+Periwinkle,x,3,1,Residential
+Pike,x,3,1,All
+Pine,x,3,1,Residential
+Pioneer,x,3,1,"Residential, Rural"
+Pisces,x,3,1,Residential
+Plateau,x,3,1,All
+Pleasant,x,5,1,All
+Plum,x,3,1,Residential
+Pluto,x,3,1,"Residential, Rural"
+Pond,x,3,1,"Residential, Rural"
+Poor,x,1,1,City
+Port,x,3,1,All
+Prairie,x,3,1,Rural
+Presto,x,5,1,Residential
+Prince,x,3,1,All
+Promenade,x,5,1,City
+Quartz,x,5,1,Residential
+Queen,x,3,1,All
+Railway,x,3,1,City
+Ranch,x,5,1,"Residential, Rural"
+Redwood,x,3,1,Residential
+Rhea,x,3,1,Residential
+Ridge,x,3,1,All
+River,x,3,1,All
+Riverside,x,5,1,Residential
+Riverview,x,5,1,Residential
+Robin,x,3,1,Residential
+Rondo,x,5,1,Residential
+Rosewood,x,3,1,Residential
+Royal,x,3,1,All
+Sable,x,3,1,"Residential, Rural"
+Sage,x,3,1,Residential
+Sailor,x,3,1,All
+Salmon,x,3,1,"Residential, Rural"
+Sand,x,3,1,All
+Sandcastle,x,3,1,Residential
+Sandstone,x,3,1,Residential
+Saturn,x,3,1,Residential
+Scarlet,x,3,1,Residential
+Scorpio,x,3,1,Residential
+Sequoia,x,3,1,Residential
+Settlers,x,3,1,"Residential, Rural"
+Shadow,x,1,1,All
+Shady,x,1,1,All
+Shamrock,x,3,1,Residential
+Sherry,x,5,1,Residential
+Shore,x,5,1,All
+Skyline,x,3,1,City
+Smoke,x,3,1,"Residential, Rural"
+Sonata,x,5,1,Residential
+South,x,3,1,All
+Southern,x,3,1,City
+Spanker,x,1,1,Rural
+Speedway Blvd,,1,1,City
+Spruce,x,3,1,Residential
+Star,x,3,1,All
+Stardust,x,3,1,"Residential, Rural"
+State,x,3,1,City
+Station,x,3,1,City
+Sun,x,3,1,All
+Sunny,x,3,1,All
+Sunrise,x,3,1,All
+Sunset,x,3,1,All
+Swan,x,3,1,All
+Sycamore,x,3,1,Residential
+Tangerine,x,3,1,Residential
+Taurus,x,3,1,Residential
+Temple,x,3,1,City
+Tender,x,3,1,All
+Thicket,x,3,1,Residential
+Timber,x,3,1,Rural
+Titan,x,3,1,Residential
+Tower,x,3,1,City
+Trail,x,3,1,"Residential, Rural"
+Valley,x,5,1,"Residential, Rural"
+Venus,x,3,1,Residential
+Versace,x,5,1,City
+Village,x,3,1,Rural
+Vine,x,3,1,All
+Virgo,x,3,1,Residential
+Vista,x,3,1,All
+Walnut,x,3,1,Residential
+Washington,x,3,1,All
+Water,x,3,1,All
+Weed,x,1,1,Rural
+West,x,3,1,All
+Western,x,3,1,City
+Wharf,x,5,1,City
+Wiener,x,1,1,Rural
+Willow,x,3,1,Residential
+Wood,x,3,1,All
+Yellowsnow,x,3,1,Rural
+Zeppelin,x,3,1,All
+Zeus,x,3,1,Residential
+Abbey Rd,,3,1,City
+Back Ln,,1,1,All
+Beale St,,3,1,City
+Bourbon St,,1,1,City
+Dank Ln,,1,1,City
+Dirt Rd,,1,1,Rural
+Divorce Ct,,1,1,Residential
+Dope St,,1,1,City
+Drury Ln,,3,1,All
+Easy St,,5,1,All
+Goa Way,,1,1,Residential
+Haviture Way,,3,1,All
+Hershey Hwy,,1,1,Rural
+Holiday Rd,,3,1,All
+Lakeshore Dr,,5,1,All
+Last Place Ln,,1,1,All
+Lombard St,,5,1,City
+Lovers Ln,,3,1,All
+Main St,,1,1,City
+Melrose Pl,,5,1,"City, Residential"
+Memory Ln,,3,1,Residential
+Old Town Rd,,1,1,Rural
+Penny Ln,,3,1,"Residential, Rural"
+Peyton Pl,,3,1,All
+Psycho Path,,1,1,Rural
+Rodeo Dr,,3,1,City
+Sesame St,,3,1,City
+Seven Bridges Rd,,3,1,Rural
+Silk Rd,,3,1,All
+Swag Ave,,3,1,City
+Swallow St,,1,1,All
+Thunder Rd,,3,1,Rural
+Wall St,,5,1,City
+Wong Way,,1,1,All
+Wrong Way,,1,1,All
+Yellow Brick Rd,,3,1,"Residential, Rural"
+Old Instlife Dr,,3,3,Residential
+Rainbow Rd,,3,1,All
+Infinite Loop,,3,1,All
+Torchwood,x,3,1,All
+Joey Centeno Blvd,,3,3,"City, Residential"
+Grope,x,2,1,City
+Fondle,x,2,1,City
+Woke Way,,2,3,City
+Seabass Ln,,3,3,"City, Residential"
+Gustavious Blvd,,3,3,"City, Residential"
+Rafael Carballo,x,3,3,"City, Residential"
+Fealix Street,,3,3,"City, Residential"
+Scotholomew St,,3,3,"City, Residential"
+Vicarious Ave,,3,3,"City, Residential"
+St. James Blvd,,3,3,"City, Residential"
+Queen Iggy Ave,,3,3,"City, Residential"
+Taulia Trail,,2,3,Rural
+Maddie Con Dr,,5,3,"City, Residential"
+Candykiller Ct,,1,4,City
+Yoandorado Dr,,3,3,"City, Residential"
+Lace Front Ln,,1,1,City
+Weave Way,,1,1,City
+Doglife Dr,,5,1,All
+Smellies Way,,1,1,All
+Knightrider Blvd,,3,1,City
+Twink,x,1,1,All
+Wetwhistle,x,1,1,Rural
+Moist,x,3,1,Rural
+Happy Trail,,3,1,Rural
+Twin Peaks,x,3,1,All
+Mike Rotch Rd,,3,1,All
+Mike Hunt,x,3,1,All
+Anita Mann,x,3,1,All
+Ben R. Over Blvd,,3,1,All
+Klee Torres,x,3,1,All
+Ivana Tinkle Rd,,2,1,All
+Willie Lickit Ave,,3,1,All
+Special Snowflake,x,1,1,All
+Bitizen Blvd,,5,5,All
+Slappin Tickle,x,1,1,Rural
+Cassi Cake Way,,3,1,"City, Residential"
+Bunghole Blvd,,1,1,Rural
+Liquor Hole Ln,,1,1,Rural
+<celebrity>,x,3,3,All
+Jerry Ave,,3,2,"City, Residential"
+Mike Hawk,x,3,2,All
+Brokeback,x,1,2,Rural
+Zephyr,x,3,2,"City, Residential"
+Appaloosa Ct,,4,2,"City, Residential"
+Parker Rd,,3,2,"City, Residential"
+Never Summer Trail,,5,2,Rural
+Keystone Blvd,,3,2,All
+Blanchard Blvd,,3,2,All
+Berkeley Blvd,,3,2,All
+Nico St,,4,2,"City, Residential"
+Calabasas Ct,,4,2,"City, Residential"
+Downton Ave,,5,2,Rural
+Sherlock,x,2,2,All
+Love Street,,3,2,All
+Mayonnaise Ln,,1,2,All
+Fleet St,,3,2,All
+Ridgegate Run,,4,2,All
+Ozark,x,2,2,Rural
+Tapo Canyon Rd,,3,2,"City, Residential"
+Spread Eagle,x,3,2,All
+Mean St,,1,2,"City, Residential"
+Baker St,,2,2,"City, Residential"
+Fascination St,,3,2,All
+Avant Garde Blvd,,5,2,All
+Zzyzx Rd,,2,2,Rural
+Boomer Blvd,,3,2,All
+Dingleberry Dr,,2,2,Rural
+Hidden View Avenue,,4,2,All
+Dead Man's Curve,,2,2,Rural
+Eight Mile Rd,,2,2,City
+Ben Dover,x,3,2,All
+Cocksure Ct,,1,2,Rural
+Ultimo Hombre,x,3,3,All
+Upptic,x,3,3,All
+Warren Woodward Way,,3,2,All

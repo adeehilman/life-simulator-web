@@ -1,0 +1,158 @@
+Type,Scenario
+Floods,An unstoppable overflowing <aqueduct/sewage system/dam> in <country> results in chaotic floods and kills <num5-100> people while injuring <num5-200> more.
+Floods,A catastrophic burst of a local <aqueduct/sewage system/dam> in <country> floods <num20-1000> acres of land and displaces <num1000-50000> people.
+Floods,Heavy <week-long/month-long> downpours in <country> cause widespread floods.
+Floods,"The rooftop water storage tank on <country possessive> capital building bursts, flooding surrounding areas."
+Droughts,A determined <wildfire/horde of locust> consumes <num1000-50000> acres of vegetation in <country>. The resulting drought claims <num2-200> lives.
+Droughts,<Global warming/Overpopulation/Rising underground pH levels> in <country> devastates available food sources. <num2000-10000> people are forced to migrate.
+Droughts,Drought conditions have officially beset <country>.
+Earthquakes,"<An enormous tectonic rift/Explosives testing> in <country> loosens underlying earth, producing a magnitude <decnum3-8> earthquake, killing <num1-400> people and injuring <num500-5000> more."
+Earthquakes,<num50-300> people lose their lives as <country possessive> <quest to drill deep tunnels/satellite crash> results in a magnitude <decnum3-8> earthquake.
+Earthquakes,"<Rapid industrialization/Unstable development> weakened the ground in <country>, prying open a <decnum1-10> mile fissure. <num5-200> people lost their lives."
+Earthquakes,"A devastating <decnum6-8> magnitude earthquake strikes <city>, resulting in the loss of <num50-750> lives. <num10000-100000> more are left without power for weeks."
+Landslides,"<Seasonal monsoons pound/Afforestation overburdens/Rising global temperatures cripple> the terrain of <country>, causing flash landslides countrywide."
+Landslides,Massive landslides in <country> coat essential highways in loose earth. Emergency responders report <num10-50> deaths due to lack of resources.
+Landslides,A huge landslide at a decades-old landfill site in <country> claims <num2-40> lives in the neighboring town.
+Volcanic Eruptions,"A giant sleeping volcano in <country> erupts, pitching large chunks of rock and magma <num2-15> miles outward. The death toll rises to <num5-50>."
+Volcanic Eruptions,<Untimely underground construction/Deep sea agitation> facilitated a quick but devastating volcanic eruption in <country>. <num50-500> deaths have been confirmed. Up to <num100-1000> more are suspected to be trapped in the rubble.
+Volcanic Eruptions,"<num50-300> people have been safely evacuated, while <num10-100> perish after a predetermined volcanic eruption in <country>."
+Cyclones,"<num2-4> cyclones batter through <country> in quick succession, killing <num50-100> people and injuring <num100-1000> more."
+Cyclones,"Mother nature moved her body in a dangerous cyclone through <country>. Most evacuated, however <num5-20> deaths have been confirmed."
+Cyclones,"A cyclone of never-before-seen strength ravages <num100-500> square miles of land in <country>, displacing <num200-2000> people."
+Tsunamis,"An unforeseen tsunami devastates <a surfing competition/coastal shores/businesses> in <country>, killing <num2-30> people and causing irreversible damage to surrounding areas."
+Tsunamis,<A gigantic deep sea earthquake/An undersea oil rig explosion> off the coast of <country> spawns a disastrous tsunami that plummets inland. <num50-500> lose their lives and <num100-10000> more are injured.
+Tsunamis,A towering tsunami crashes into <country possessive> seaboard. <num150-1000> people couldn't make it out in time.
+Tsunamis,Deadly fungal algae has spread rapidly along the coastline of <country>. <num10-200> people have been hospitalized by the resulting disease.
+Avalanches,"<A group of lost, misfortunate yodelers/An expedition of world record-seeking mountain climbers> accidentally generate an immense avalanche in <country>, killing <num1-50> people."
+Avalanches,"<An overpopulation of local mountain elk/An unusually heavy snowfall> in <country> generates a month-long spell of avalanches, killing <num100-200> elk and <num2-40> people."
+Avalanches,"<num50000-300000> tons of snow loosen on <country possessive> mountain ranges, covering well populated cities below in <num2-13> feet of snow."
+Avalanches,"<A huge increase of tourism/A local holiday bringing in thousands of tourists> inadvertently generates an immense avalanche in <country>, killing <num2-50> people."
+Tornados,A vicious tornado mows through the suburbs of <city>. Millions of dollars in property damage ensue and deaths total <num15-250> .
+Tornados,The Wizard of Oz sent <country> his next grandiose dimension-altering tornado. <num10-100> people have gone missing along with <two/three/four/five/six/seven> Cairn Terriers.
+Tornados,"No cows are spared from a terrible twister that tears through <country>. <num50-300> cows perish, while all locals survive unscathed."
+Tornados,The city of <city> suffers <num20-100> casualties after a deadly tornado rips through its streets.
+Hurricanes,"A Category <num1-5> hurricane makes landfall on <country>. <num100-3000> people lose their homes, while <num5-10> more enjoy wonderful kitesurfing conditions."
+Hurricanes,"Violent oceanic storms combine to spawn a deadly hurricane off the shore of <country>. While many manage to evacuate, <num100-200> people are injured and <num5-100> more die."
+Hurricanes,Hurricane <American name> makes landfall on <country> as a Category <num2-5> storm. <num50-75> lose their lives while <num100-500> homes are destroyed.
+Hurricanes,"<country> is slammed with an extremely fast-paced and destructive Category <num2-5> hurricane, named <American name>. Mandatory evacuations proved successful in saving <num500-5000> families."
+Typhoons,"A deadly typhoon mercilessly strikes <country>, killing <num50-500> and destroying thousands of homes."
+Typhoons,A major typhoon terrorizes the citizens of <country> and floods the streets of <city>.
+All,"An airliner from <country> has crashed while on final descent in <city>, killing <num30-130> people."
+All,An airliner from <country> has been hijacked by dissidents from <country2> who force the plane to divert to <city2>. <num2-5> passengers are executed in the resulting standoff with authorities.
+All,A train derailment in <country> has killed <num2-50> people.
+All,"A nuclear meltdown in <country> has claimed the lives of <num3-25> people, and forced <num200-2000> people to flee their homes."
+All,Salmonella has contaminated <num10000-70000> lbs of <chicken/pheasant/poultry/beef/pork/lettuce/sprouts> in <country>. Widespread food poisoning ensues.
+All,"An outbreak of the plague has descended on <country>, killing <num500-5000> in just <num2-7> months."
+All,Financial collapse in <country> has caused <num1000-100000> people to lose their jobs.
+All,A data breach in <country> has caused the personal information of <num100000-1000000> residents to be leaked onto the dark web.
+All,A revolutionary uprising has emerged in <country>.
+All,Overpopulation causes dangerous food shortages in <country>.
+All,Massive deforestation in <country> has resulted in mass emigration to <country2>.
+All,"A deranged military veteran unloads <num30-200> rounds into a crowd in <country>, killing <num5-30> people."
+All,Corrupt law enforcement in <country> results in the public execution of <num2-20> peaceful protesters.
+All,"An explosives manufacturing plant in <country> detonates in an immense fatal explosion, killing <num2-30> workers and maiming <num2-50> more."
+All,A terrorist attack in <country> has claimed the lives of <num30-2000> innocent people.
+All,"The famous musician, <American full name>, has unexpectedly died at the age of <num25-60> from <a drug overdose/alcohol poisoning> while on tour in <city>."
+All,"The famous actor, <American full name>, has died at the age of <num25-60> from <suicide/a drug overdose/alcohol poisoning> while filming in <city>."
+All,"The leader of <country>, <full name>, has been assassinated at a political rally in <city>."
+All,<city> has been selected to host the next Olympic games.
+All-Rare,An asteroid has struck <country>. <num300-5000> have died and <num200-2000> have been injured.
+All-Rare,<num200-2000> have died and <num300-5000> have been injured after a meteorite lands in downtown <city>.
+All-Rare,Aliens have launched a hostile coordinated attack on <country>. <num300-5000> have died and <num200-2000> have been injured.
+All-Rare,Scientists in <country> have made first contact with interstellar intelligent life.
+All-Rare,<country possessive> space program wins the race to land a human on <Mars/Neptune/Mercury/Venus>.
+All-Rare,<country possessive> space program has successfully begun to colonize the moon.
+All-Rare,Computers in <country> have been become self aware. The ensuing battle claims <num500-5000> human lives and destroys <num500-10000> robots.
+All-Rare,The world's first confirmed time traveler has arrived in <country> and brings greetings from the year <num2200-2900>.
+All-Rare,"An unknown genome called BTX-<num20-90> has spread in <country>, causing <blindness/epilepsy/deafness> in an estimated <num5000-30000> unborn children."
+All-Rare,<country> has revoked democracy and become totalitarian.
+All-Rare,California\u2019s geological land mass has split from the United States. The body of water between the two is now known as the American Strait.
+All-Rare,Plastic straws have been banned worldwide.
+All-Rare,Scientists have announced that <decnum5-50>% of the Earth's oceans are now comprised of garbage.
+All,The first ever gaming Olympics have been organized in <country>.
+All-Rare,Fossil fuels are now officially a thing of the past.
+All-Rare,Flying cars have been invented and are now being marketed to the public in <country>.
+All,<Upside down hats/Zoot suits/Thong jeans/Clear plastic jeans/Moose fur eyebrows/Codpieces/Lotus shoes/Bustles/Powder wigs> have become the next trendy fashion fad in <country>.
+All,Residents of <country> have largely converted to <cockroach/cricket/soylent/hempseed/fly larvae/pig bone marrow/black pudding>-based protein as their main source of nutrients.
+All,"<country possessive> famed inventor, <full name>, has successfully engineered a cost efficient renewable <energy source/food source/water source> that has been adopted by most the country."
+All,<female name> from <country> has been awarded the <Nobel Prize in Literature/Booker Prize/Pulitzer Prize for Fiction/Costa Book Award/Hugo Award> for her extraordinary literary accomplishments.
+All,"<country possessive> <male name> becomes a local hero after saving <num2-30> people from <a burning building/a sinking bus/an active shooter/loose, wild, attacking geese/underneath a collapsed bridge>. He was awarded for his actions."
+All,"<country possessive> leader, <male name>, <fell/fell asleep/rambled on and on and on/threw up/began laughing uncontrollably/farted> during his UN address. The internet had a field day."
+All,Serial criminal <male name> has been taken into custody in <country> and charged with <num5-50> counts of rubbing his <body part> on random <men/women/children/fresh produce/farm animals/playgrounds/people's cars>. The people rejoiced.
+All-Rare,"<num5000-100000> flat-earthers have succumbed to the realities of our universe after one of <country possessive> leading scientists, <full name>, discovered yet another piece of undeniable evidence."
+All-Rare,<country> successfully initiates its own cryo-preservation methods on living organisms. Local <dogs/cats/mice/baboons/cows/penguins> run scared.
+All,The citizens of <country> have officially and unanimously outlawed <apps from Chinese developers/sunscreen/Keeping Up with the Kardashians/hairy backs/open windows on Sundays/multi-colored pens/swimming backwards/bad breath/shaving/reptile kissing/annoying ice cream peddlers/kangaroo boxing/the handling of salmon in suspicious circumstances>.
+All,<Online multiplayer gaming/Ship building/Tomb excavation/Witchcraft/Politicizing Beyonc\351/Astrobiology/Turfgrass science/Foresight science> has become a pivotal component of <country possessive> high school curriculum.
+All,A new monumental sociological experiment indicates that people all over the world view <country possessive> citizens as the most attractive of all. <num1000-30000> of them become instantly conceited.
+All,<Psychedelic enlightenment/Orgasmic meditation/Silent retreat/Laughter yoga/Crying therapy> sanctuaries are all the rage in <country>.
+All,"Internet sensation, <male name> from <country>, makes international headlines as his new <pop/rap/funk/rock/R&B/country> song becomes the highest selling single of all-time."
+All,<female name> from <country> has received <a Grammy/an Academy Award/an Emmy Award/a Tony Award/a Padma Shri Award> for her groundbreaking new album.
+All,"<Cornhole/Super Smash Bros./Tomato growing/Boot lacing/Shin kicking/Bossaball/Underwater ice hockey/Royal Shrovetide football/Ultimate frisbee> has officially become <country possessive> national sport. The term ""athlete"" is under revision."
+All,"<""Furry""/""Earthgender""/""Ekragender""/""Eldrigender""/""Faunagender""/""Flowergender""/""Genderpunk""/""Glassgender""/""Musicgender""/""Necrogender""/""Nocturnalgender""> has now been formally recognized as a gender option on <country possessive> census."
+All,"The 5 most popular social media platforms on Earth have deactivated their ""like"" and ""views"" features. Worldwide depression and suicide have dropped <decnum10-30>% and <decnum2-20>% respectively."
+All-Rare,Genetic mutations in much of the produce and meat options available take their toll on the human species. Suddenly <humans need only 3 hours of sleep/many people are born with black fingernails/human skin is three times as dense/humans need a quarter of the oxygen they once needed/people are being born with tails>.
+All,A man in <Florida/Louisiana/Georgia/Mississippi/Texas/Arkansas> has died after being eaten by an alligator that he had been keeping in his bathtub.
+All,A report has been released that <two/three/four/five> nuclear power plants in <the United States/China/Japan/France/Russia/South Korea/Germany/Canada/Ukraine/the United Kingdom/Sweden/Spain/Belgium/India> have been shut down in order to fix problematic structural weaknesses. The report states that even a minor seismic event could result in a catastrophic nuclear meltdown.
+All,"A woman in <country> died after plummeting off a 200-foot-high cliff, where she had been practicing yoga. It is reported that she was in the downward dog position when the incident occurred."
+All,A man in <country> is planning to marry a cloned version of himself. He said that he is excited to get to know himself better.
+All,"<country> has implemented a program in which homeless citizens are being hired to cuddle newborn babies. Reports claim that both crime and unemployment are down, while smiles are reported to be up nationwide."
+All,"A homeless man in <city> is being honored after he <put out a fire at a burning orphanage, saving dozens of children/prevented a mass-shooting from happening, saving hundreds of innocent bystanders/removed a suspicious bag containing a bomb from a government building/performed CPR on the mayor, who was choking on a hot dog/rescued a family, whose boat had overturned in a lake/saved a snakebitten child by sucking out the venom/talked a suicidal teen off of a ledge/saved a toddler from an oncomming train/rescued all of the animals at a burning shelter>."
+All,"Hundreds of people collected cash along a highway in <city> after an armored truck exploded. In total, more than 100,000 bills were collected by local citizens."
+All,A bank in <country> is filing bankrupcy after its ATMs distributed double the cash on withdrawals for <two/three/four> straight days. The CEO explained that excess humidity is responsible for the error and that the extra moisture caused the bills to stick together.
+All,A group of senior citizens in <city> were arrested after stealing a van from their nursing home. They were detained after the van was spotted outside of a local <strip club/brothel/massage parlor/pub/club/cabaret/casino/hard candy factory>.
+All,"A statue created by world-renowned artist, <full name>, crumbled to pieces moments after being purchased for $<decnum3-8> million at an American art auction."
+All,"Erectile dysfunction medication sales in <country> have skyrocketed this quarter, propping up more than just the economy."
+All,"An astronaut in space has spotted and photographed a galactic bulge, much to the chagrin of his fellow astronauts."
+All,A man in <country> found himself in a hairy situation after being sucked off the coast by a sea puss.
+All,A <num12-16>-year-old boy in <country> purchased a <Porsche 911 Carrera/BMW M2/Cadillac CTS-V/Range Rover Sport/Mercedes/Benz S550/Porsche Cayenne GTS/Dodge Viper GT/Chevrolet Corvette Z06/Lexus GS F/Caterham 620R/Lotus Evora 400/Tesla Model S 100D/Nissan GT-R>. The boy saved for the car by collecting coins he found in water fountains for more than <seven/eight/nine> years.
+All,A wrecked pirate ship has been discovered more than <500/600/700/800/900/1000> feet down in the <Pacific/Atlantic/Indian/Southern/Arctic> Ocean. Hundreds of scuba divers have flocked to the area to search for treasures that have been lost for centuries.
+All,"A <num65-100>-year-old woman in <country> has won the lottery for a third time, making her one of the wealthiest citizens in the country."
+All,"A scientist from <country> has discovered the world's largest dinosaur penis fossil in a small village outside of <city>. It is reported that the find has stirred up some jealousy in the archaeological world, leaving some scientists with dinosaur penis envy."
+All,"Recent studies have determined that people are only actually laughing out loud <decnum1-20>% of the time when writing ""LOL""."
+All,A law has been passed in <country> that will require all politicians to be connected to a lie detector machine while speaking in front of crowds.
+All,A man in <country> has died after being struck by a falling coconut while picking up his dog's feces.
+All,"<full name>, a <num21-40>-year-old from <country> has successfully paddle boarded across the entire Pacific Ocean, starting in Los Angeles and finishing in Shanghai. It took the paddleboarder <num150-300> days to make the journey, which in total exceeded 6500 miles."
+All,"A herd of more than 100 goats crashed a wedding in <country>. The best man, who was giving his speech at the time of the event, reassured the groom that he was the real GOAT."
+All,"A <robot/cyborg> is running for mayor in <city>, and pre-election polls are indicating that the machine is the favored candidate."
+All,A new trend in <country> has professional athletes getting corporate logos tattooed on their bodies for endorsement purposes.
+All,Several restaurants in <New York City/Tokyo/Los Angeles/Miami/Paris/London/Toronto> have replaced their servers and bartenders with trained <mandrills/macaques/monkeys/baboons/orangutans/gibbons/chimpanzees>. Managers in those establishments are reporting that their service has improved and that customers have never been happier.
+All,Food companies in <country> have started creating meat products that replicate fruits and vegetables. It is reported that the <beef bananas/pork papayas/chicken cantaloupes/mutton melons/salami strawberries/bacon blueberries/turkey tangerines/lamb leeks/sausage strawberries/goat gooseberries/goose grapes/bison beets/cod cranberries/salmon strawberries/tuna tangerines/halibut apples> are the best sellers to date.
+All,"<country> has officially declared <May/June/July/August> <1st/2nd/3rd/4th/5th> ""Bring Your Pet <Snake/Spider/Lizard/Frog/Monkey> To Work Day."" Selfish animal owners are rejoicing all over the country."
+All,<country> has adopted a program in which convicted animal abusers will be exiled to live in the wild on a remote island full of predatory animals.
+All,"Citizens across America are banding together in an attempt to officially change the date of Halloween to the last Saturday in October. It seems that common sense, and trick-or-treaters, may finally prevail."
+All,Radio stations in <country> have collectively decided to stop playing <Michael Jackson/R. Kelly> songs.
+All,"A technology company in Japan has developed an alarm clock that uses its robotic arm to awaken users with a happy ending massage. <It's been described as a very handy device./Users are reporting that they are starting their days with a strong finish./Sales are exploding!/In an unrelated story, suicide rates are down./Bosses across the nation are reporting more satisfied employees./Users are jacked about the new product.>"
+Avalanches,<A skier/A snowboarder/A mountain climber/An ice climber> near the summit of a mountain in <country> caused an avalanche that killed <num10-500> people and injured another <num10-500>.
+Avalanches,"An avalanche has occurred in <country>, burying a small village that was in its path. The population of the village is <num100-1000>, but the number of casualties has yet to be determined."
+Cyclones,"A Category <num3-5> cyclone has ravaged parts of <country>, causing widespread flooding and power outages."
+Cyclones,"A Category <num1-2> cyclone has made landfall on the shores of <country>. Some flooding and wind damage are expected, but meteorologists are predicting that the damage will be minimal."
+Cyclones,"A Category 5 cyclone has made landfall over parts of <country>. Wind gusts at the eye of the storm have already exceeded 200 miles per hour, and the storm surge has raised the water level more than 15 feet. This catastrophic storm is predicted to have an unprecedented death toll."
+Cyclones,"A Category 1 cyclone has hit the shores of <country>, bringing high levels of rainfall and wind gusts of up to 100 miles per hour. Several surfers in the area have been spotted taking advantage of the unusually large swells, despite the numerous risks involved."
+Droughts,<country> is suffering from widespread drought as a result of low amounts of snowfall during the most recent winter season.
+Droughts,"An increase in population, combined with decreasing annual precipitation levels, has lead to drought throughout parts of <country>."
+Droughts,"A lack of precipitation in <country> has lead to drought in several regions, causing widespread panic amongst farmers."
+Droughts,"The water level of <country-possessive> aquifers are at an all-time low, causing a great deal of concern amongst Canada's politicians and environmental scientists."
+Earthquakes,"An enormous earthquake jolted <country>, with a magnitude of <decnum7-9> at its epicenter. There have been <num100-3000> reported casualties, and thousands more have been hospitalized with injuries."
+Earthquakes,"A huge tremor shook <city>, leaving hundreds of thousands of citizens without electricity. The epicenter of the earthquake measured <decnum6-9> on the Richter Scale and had a depth of less than one mile."
+Earthquakes,A <decnum6-9> temblor was detected just outside of <city>. Seismologists are reporting that they expect the area to experience dozens more smaller aftershocks in the coming days.
+Earthquakes,A seismic sensor in <city> detected a magnitude <decnum1-2> earthquake moments after the city's soccer team scored a game winning goal in a high profile match. Scientists believe that the fans are responsible for causing the small tremor.
+Floods,"A dike in <city> broke after <three/four/five/six/seven/eight/nine> straight days of torrential rain, resulting in widespread flooding."
+Floods,"A massive storm has brought heavy rains to <country>, causing several of its rivers to overflow. The widespread flooding has caused a loss of electricity to many areas across the country."
+Floods,Much of <city> is under water due to a constant torrential downpour that has inundated the area for <two/three/four/five/six> straight days. Bruce Springsteen has been reported to have been lost in the flood.
+Floods,A state of emergency has been declared in several areas of <country> after a monsoon storm caused extensive flooding across a few of its regions.
+Hurricanes,"A Category <num4-5> hurricane is pummeling the coast of <country>, leaving many residents under water and without power."
+Landslides,"A torrential downpour in <country> has caused several landslides across the country. There are already <num100-500> confirmed deaths, but the death toll continues to rise with each new report."
+Landslides,"A village outside of <city> has been buried after a landslide left the entire town covered in debris. It is expected that there will be no survivors, and the death toll is believed to be <num100-1500>."
+Landslides,Stevie Nicks is reported dead after a landslide brought her down in <country>.
+Landslides,<city> has been covered in rubble after a landslide started atop a neighboring mountain. The debris flow moved at a speed of over 100 miles per hour and covered the city in a matter of seconds.
+Tornados,"A twister touched down in an urban area of <country> today, killing <num10-99> people and leaving another <num101-999> injured."
+Tornados,"An EF-5 tornado tore threw parts of <country> today, wreaking havoc on the area with wind speeds in excess of 200 mph. Casualties and property damage are expected to be catastrophic."
+Tsunamis,"A tsunami has pounded the coast of <country> after a magnitude <decnum3-9> earthquake occurred <num5-50> miles off shore. It is expected that there will be tens of thousands of casualties, with most of the survivors being left homeless."
+Tsunamis,A nuclear meltdown in <country> has occurred after a tsunami pummeled a nuclear power plant. It has not yet been reported as to how much radiation has been released as a result of the disaster.
+Tsunamis,A huge tsunami has hit the coastline of <country>. It's reported that the seismic sea wave made its way inland up to three miles in some locations. The death toll is anticipated to be catastrophic.
+Tsunamis,An enormous tidal wave has engulfed the coastline of <country> after an asteroid crashed into the nearby sea. The wake of the impact sent an 80-foot tsunami wave racing towards the shore at a speed of approximately 20 mph. The loss of life in this tragic event is expected to be unprecedented.
+Volcanic Eruptions,"A tectonic shift has cause a volcanic eruption in <country>, covering nearby cities in a shower of molten rock and ash. No numbers have been reported, but the death toll is expected to be catastrophic."
+Volcanic Eruptions,A volcanic eruption in a remote area of <country> has sent a gigantic plume of smoke billowing into the atmosphere. Scientists are expecting ash to land in virtually every country across the world.
+Volcanic Eruptions,"Geologists and photographers are racing to <country>, where a volcanic eruption is slowly bubbling fiery lava from its crater."
+Volcanic Eruptions,"A powerful volcanic eruption in <country> has been reported. The explosion has sent a cloud of ash into the atmosphere, and astronauts in space have reported that it has blocked their view of the country."
+All,"A law has been passed in <country> outlawing the use of the word ""literally"" in instances in which the speaker means figuratively."

@@ -1,0 +1,10 @@
+Part,Repair Difficulty,Commonness Score,Damage Score
+Solar panels,1,5,1
+Antennas,1,5,1
+Gyroscopes,3,3,2
+Batteries,2,4,2
+Propulsion systems,5,2,3
+Computer systems,5,1,3
+Cameras,1,4,2
+Thermal control systems,3,3,3
+Power distribution systems,3,3,3

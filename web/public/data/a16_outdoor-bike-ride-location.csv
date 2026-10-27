@@ -1,0 +1,14 @@
+String,Commonness Score
+around the neighborhood,5
+around a <local/picturesque> park,4
+through <a wooded area/the bad part of town>,1
+around a <deserted/seedy> <strip mall/movie theater/parking garage/parking lot/apartment building>,2
+up and down a <dark/seedy/sketchy/questionable> alleyway,1
+along a <busy/quiet/noisy/heavily-trafficked> <highway/boulevard/avenue/city road/street/city park/parkway>,4
+just down the street,3
+around the block,2
+down the block and back again,3
+around the cemetery,1
+around downtown <city>,2
+along the bike path <in a local park/around a golf course>,3
+around <town/the city/the neighborhood>,5

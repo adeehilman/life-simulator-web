@@ -1,0 +1,45 @@
+String,Success Feedback Version,Location,Difficulty Score,Commonness Score
+do donuts until you kick up a grass cloud,did donuts,open field,2,3
+pop a wheelie over some loose grass,popped a wheelie,open field,1,3
+hit top speed and brake just before reaching the fence line,hit top speed and pumped the brakes just before reaching the fence line,open field,3,3
+ride the bowl without touching your brakes,rode the bowl without touching your brakes,sand pit,3,3
+drift sideways through the powder,drifted sideways through the powder,sand pit,4,3
+launch off of a dune without braking,launched off of a dune without braking,sand pit,5,3
+thread the trees without slowing down,threaded the trees without slowing down,forest trail,5,4
+ride one-handed through some tight switchbacks,rode one-handed through some tight switchbacks,forest trail,3,5
+power through the thick mud without getting stuck,powered through the thick mud without getting stuck,mud bog,3,3
+make it through the mud without using low gear,rolled through the mud without using low gear,mud bog,5,3
+drive over a rotting fallen tree,drifted over a rotting fallen tree,forest trail,3,4
+herd a <horse/bull/sheep/cow/goat/chicken> through a gate,herded a <rb> through a gate,open field,4,2
+drive through a brush fire,drove through a brush fire,forest trail,5,5
+roll over one of the dunes,rolled over one of the dunes,sand pit,5,5
+get air time by shooting off a grassy hill,got some air time after shooting off a grassy hill,open field,2,5
+navigate a corn maze without braking,navigated a corn maze without braking,open field,4,3
+corner a tight turn where the trail passes by a giant <oak/maple/chestnut/pine> tree,cornered a tight turn around a giant <rb> tree,forest trail,5,3
+punch a hole through a snowdrift,punched a hole through a snowdrift,forest trail,4,3
+jump a witch's eye hole in the sand,jumped a witch's eye hole in the sand,sand pit,5,2
+"drive straight at a cactus, then stop just shy of hitting it","drove straight at a cactus, then slammed the brakes in front of it",sand pit,3,2
+draw a <flower/figure-8/smiley face> in the mud with your ATV tracks,drew a <rb> in the mud,mud bog,2,3
+create a giant mud splash without getting yourself dirty,splashed through some mud,mud bog,2,3
+drive through a pitch-black tunnel at top speed,drove through a pitch-black tunnel at top speed,,5,3
+use a <stump/small boulder/large boulder/massive dirt mound> as a ramp to achieve <sick/crazy/unbelievable/mad> air,used a <rb> as a ramp to achieve <rb2> air,,4,5
+bunny-hop over a <ditch/hollow/culvert>,bunny-hopped over a <rb>,,3,5
+drift across a sheet of ice,drifted across a sheet of ice,open field,4,4
+try to keep up with a tumbleweed racing across the sand,kept up with a tumbleweed racing across the sand,sand pit,3,2
+drive backwards through a mud puddle,drove backwards through a mud puddle,mud bog,1,5
+drive your vehicle using your <feet/elbows>,drove with your <rb>,,5,2
+ride an off-camber section of the trail <uphill/downhill>,rode an off-camber section of the trail <rb>,forest trail,3,4
+shoot across some rock <scree/debris> without changing gears,shot across some rock <rb> without changing gears,,3,3
+tip a cow with your tires,tipped a cow,open field,4,1
+climb a gentle hill,climbed a gentle hill,,1,4
+climb a nearly vertical hill,climbed a near-vertical hill,,5,2
+do a single bunny hop,did a single bunny hop,,1,5
+pop a wheelie for <num2-10> seconds,popped a wheelie for <num2-10> seconds,,2,5
+pop a wheelie for a solid minute,popped a wheelie for a solid minute,,4,4
+do donuts around a downed power line,did donuts around a downed power line,,5,1
+grapevine around some grapevines,grapevined around some grapevines,open field,3,1
+jump a tall fence,jumped a tall fence,,4,4
+ride headfirst into a sandstorm,rode headfirst into a sandstorm,sand pit,5,2
+do a stoppie with the front tire only,did a stopple,,2,5
+do a no-hander,did a no-hander,,3,5
+do a nac-nac,did a nac-nac,,4,2

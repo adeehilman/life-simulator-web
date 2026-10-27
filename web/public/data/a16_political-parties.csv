@@ -1,0 +1,8 @@
+Name,US Name,UK Name,AU Name,Appeal Score,Commonness Score,National,Regional,City,Local
+liberal,democrat,labour,,5,5,x,x,x,
+conservative,republican,,national,5,5,x,x,x,
+green,,,,3,3,x,x,x,
+libertarian,,,,2,2,x,x,,
+nationalist,,,,2,2,x,,,
+socialist,,,,3,3,x,x,x,
+fascist,,,,1,1,x,,,

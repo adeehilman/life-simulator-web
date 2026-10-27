@@ -1,0 +1,16 @@
+Diet,Use Definite Article,Monthly Cost,Health Impact,Happiness Impact,Appearance Impact,Associated Disease
+vegan,,300,1,-1,3,malnutrition
+keto,,200,0,-1,2,heart disease
+Atkins,x,350,-1,-1,2,heart disease
+Whole30,x,250,1,-2,1,depression
+paleo,,250,1,-2,2,depression
+South Beach,x,350,1,0,2,
+Mediterranean,x,200,3,2,2,
+Weight Watchers,x,500,2,2,3,
+vegetarian,,250,2,0,2,malnutrition
+Jenny Craig,x,400,2,1,2,
+Nutrisystem,x,500,1,0,2,
+high calorie,,300,-3,3,-3,diabetes
+Hot Cheetos,,200,-5,5,-5,malnutrition
+tapeworm,,200,-5,-5,-5,diarrhea
+liquid,,300,-2,-2,2,malnutrition

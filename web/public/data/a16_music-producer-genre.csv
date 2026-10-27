@@ -1,0 +1,14 @@
+Genre,Compatible Genre 1,Compatible Genre 2,Compatible Genre 3,Predominant Country,Popularity Score
+pop,rhythm and blues,K-pop,EDM,,5
+rhythm and blues,rap,hip-hop,worship,us,4
+rap,hip-hop,rhythm and blues,pop,us,5
+heavy metal,rock,alternative,K-pop,,5
+K-pop,EDM,hip-hop,rap,kr,5
+rock,heavy metal,alternative,pop,,5
+country,pop,rhythm and blues,worship,us,4
+alternative,rock,pop,country,,3
+folk,country,alternative,pop,,2
+reggae,hip-hop,rap,worship,jm,2
+worship,rhythm and blues,hip-hop,pop,,1
+EDM,pop,K-pop,alternative,,3
+hip-hop,rap,rhythm and blues,pop,,5

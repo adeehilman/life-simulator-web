@@ -1,0 +1,23 @@
+Animal,Method,Feedback Snippet,Cost,Difficulty Score,Appeal Score,Commonness Score
+,Bath,gave <animal-zoo> a bath,500,4,5,3
+,Flea Treatment,applied flea-repellent ointment on <animal-zoo>,100,2,3,5
+,Hose-down,hosed <animal-zoo> down,50,1,1,5
+,Massage,gave <animal-zoo> a relaxing massage,100,4,5,2
+"Bat, Bird, Big Cat, Camel, Deer, Fox, Giraffe, Kangaroo, Koala, Meerkat, Otter, Pegasus, Platypus, Primate, Red Panda, Rodent, Sloth, Unicorn, Wolf, Zebra",Brush,pulled a brush through <animal-zoo-possessive> fur,100,2,3,5
+"Bird, Pegasus",Preen Session,helped <animal-zoo> preen <his/her> feathers,100,3,4,5
+"Pangolin, Reptile, Snake, Turtle",Scale Oil,rubbed hydrating oil on <animal-zoo-possessive> scales,500,2,3,3
+"Elephant, Hippo, Pinniped, Rhino",Skin Oil,rubbed nourishing oil on <animal-zoo-possessive> skin,500,2,3,3
+"Bat, Bear, Big Cat, Bird, Fox, Kangaroo, Koala, Meerkat, Otter, Pangolin, Red Panda, Reptile, Rodent, Wolf",Claw Trim,trimmed <animal-zoo-possessive> claws,250,5,3,4
+"Reptile, Snake",Skin Shed,helped <animal-zoo> shed <his/her> dead skin,400,4,4,3
+"Pangolin, Turtle",Scale Shed,helped <animal-zoo> shed <his/her> dead scales,400,4,4,3
+"Deer, Elephant, Hippo, Pig, Rhino",Mud Bath,gave <animal-zoo> a nourishing mud bath,500,2,5,3
+"Big Cat, Wolf, Kangaroo, Meerkat, Sloth, Red Panda, Primate, Bear, Fox, Otter, Meerkat",Mani-Pawdi,gave <animal-zoo> a mani-pawdi,100,4,4,4
+"Zebra, Unicorn, Deer, Pegasus",Shoe Shine,polished <animal-zoo-possessive> hooves,250,3,3,5
+"Big Cat, Camel, Deer, Fox, Giraffe, Kangaroo, Koala, Meerkat, Otter, Primate, Red Panda, Unicorn, Wolf, Zebra, Pegasus",Clean Teeth,brushed <animal-zoo-possessive> teeth,50,5,4,2
+"Big Cat, Camel, Deer, Fox, Giraffe, Kangaroo, Koala, Meerkat, Otter, Primate, Red Panda, Unicorn, Wolf, Zebra, Pegasus",Blow Dry,gave <animal-zoo> a blow-dry,125,3,3,3
+Bird,Beak Wax,waxed <animal-zoo-possessive> beak with beeswax,75,1,2,4
+Platypus,Bill Wax,waxed <animal-zoo-possessive> bill with beeswax,75,1,2,4
+"Bat, Bird, Big Cat, Camel, Deer, Fox, Giraffe, Kangaroo, Koala, Meerkat, Otter, Pegasus, Platypus, Primate, Red Panda, Rodent, Sloth, Unicorn, Wolf, Zebra, Reptile",Foot Bath,soaked <animal-zoo-possessive> feet in <epsom salt/apple cider vinegar/oatmeal/lavender>-infused water,250,4,3,5
+Rodent,Sand Bath,cleaned <animal-zoo-possessive> fur using sand as a natural exfoliant,50,1,2,4
+Bird,Sand Bath,cleaned <animal-zoo-possessive> feathers using sand as a natural exfoliant,50,1,2,4
+"Otter, Platypus",Waterproofing Wax,rubbed waterproofing wax into <animal-zoo-possessive> coat,400,3,4,4

@@ -1,0 +1,10 @@
+Game,Installation Cost,Unit String,Base Unit Capacity,Cost Per Unit,Default House Win Rate,Default Bet,Min Bet,Max Bet
+Blackjack,5000,table,10,500,65,10,10,100
+Texas Hold'em,10000,table,5,1000,55,25,10,200
+Craps,15000,table,5,1200,85,15,10,150
+Sports Betting,20000,screen,5,3000,,20,50,500
+Slots,25000,machine,20,500,55,10,10,500
+Three-Card Shuffle,5000,table,5,500,65,25,10,200
+High-Low,7000,table,5,1000,65,10,10,350
+Keno,4000,screen,3,1000,55,10,10,500
+Roulette,9000,table,5,2500,60,10,10,350

@@ -1,0 +1,66 @@
+Scenario,Log Version,Balance,Endurance,Flexibility,Strength,Fitness Impact,Injury Score
+You did <num40-120> minutes of training on <a treadmill/a stationary bike/an eliptical machine/a rowing machine> at the team training center.,I did <num40-120> minutes of training on <rb>.,,x,,,3,1
+You cleared your head by participating in <a hatha/a vinyasa/a restorative/a Bikram/a hot/an aerial/a goat> yoga class.,I took <rb> yoga class.,x,,x,,2,0
+You spent <num20-90> minutes free running through downtown <city>.,I spent <num20-90> minutes free running through downtown <city>.,,x,,,2,4
+"You spent an afternoon <herding cats/running with dogs/jogging/volunteering for a childcare program, and playing tag with underprivileged kids> at a local park.",I spent an afternoon <rb> at a local park.,,x,,,3,1
+You spent an afternoon <flipping massive tires/lifting a sandbag/lifting steel beams> in an abandoned warehouse.,I spent an afternoon <rb> in an abandoned warehouse.,,x,,x,3,3
+You spent a morning swimming in a nearby lake.,I spent a morning swimming.,,x,,x,1,1
+You spent an evening doing <laps/lane sprints> in your private pool.,I spent an evening doing <rb> in my private pool.,,x,,x,3,1
+You took an aerial aerobics class at a local gym.,I took an aerial aerobics class at a local gym.,x,x,,,3,2
+You took <pole dancing/belly dancing/striptease/ballet> lessons at a local dance studio.,I took <rb> lessons at a local dance studio.,x,,x,,2,1
+You did <num10-15> sets of <15/20/25/30> bench presses at the team training center.,I did <num10-15> sets of <rb> bench presses.,,,,x,2,1
+You did <three/four/five/six/seven/eight> one-minute planking exercises at the team training center.,I did <rb> one-minute planking exercises.,,,,x,2,1
+You spent an hour <boxing/punching> animal carcasses in a meat <locker/freezer>.,I spent an hour <rb1> in a meat <rb2>.,,,,x,2,4
+You spent an hour shadowboxing in a <greenhouse/sauna/back alley/fast food restaurant/sandbox/local gym>.,I spent an hour shadowboxing in a <rb>.,,x,,,2,1
+You did <two/three/four/five> sets of <ten/12/15> <deadlifts/dumbbell curls/barbell rows> at the team training center.,I did <rb1> sets of <rb2> <rb3>.,,,,x,3,2
+You spent a day running a 5k marathon for charity.,I spent a day running a 5k marathon.,,x,,,1,1
+You went ice skating with <coach> and <teammate> for a few hours.,I spent the evening going ice skating with my coach and a teammate.,x,x,,,2,2
+You spent an afternoon in a synchronized swimming class with <teammate>.,I spent an afternoon in a synchronized swimming class with a teammate.,x,x,,,2,1
+You did <num50-150> <crunches/push-ups/jumping jacks/lunges> at the team training center.,I did <num50-150> <rb>.,,,,x,2,1
+You and a teammate went cow-tipping at midnight and were chased around an open field.,"I went cow-tipping with a teammate, and we ran for our lives when things went horribly wrong.",,x,,,2,4
+You spent <num30-90> minutes running <sprints/laps around the track/up and down a basketball court> at your local gym.,I spent <num30-90> minutes running <rb>.,,x,,,2,1
+You did <num45-100> minutes of calisthenics at a park in your neighborhood.,I did <num45-100> minutes of calisthenics.,,x,x,x,3,1
+You went out with your teammates and rode a mechanical bull for <num2-4> hours.,I rode a mechanical bull for <num2-4> hours.,x,,,,3,3
+You completed <num15-45> minutes of high-intensity interval training in your team training center.,I completed <num15-45> minutes of high-intensity interval training.,,x,,,3,2
+You took two hours of <Tae Bo/jazzercise/capoiera> classes at your local gym.,I took two hours of <rb> classes.,,x,,,1,1
+You jumped rope for <num45-90> minutes at a local park.,I jumped rope for <num45-90> minutes.,,x,,,1,1
+"You completed a plyometric workout regimen consisting of <three/six/nine> sets of plyo pushups, <10/15/20> box jumps, and <two/three> minutes of depth jumps.","I completed <rb1> sets of plyo pushups, <rb2> box jumps, and <rb3> minutes of depth jumps.",,x,,x,2,1
+You completed a plyometric workout routine consisting of <two/three/four> sets of double-leg bounds and <four/six/eight> sets of single-leg bounds.,I completed <rb1> sets of double-leg bounds and <rb2> sets of single-leg bounds.,,x,,x,2,1
+"At your team's training center, you completed an antagonistic superset consisting of three sets of 20 hanging leg raises, three sets of 30 ab wheel crunches, and butt-ups for 120 seconds.","I completed three sets of 20 hanging leg raises, three sets of 30 ab wheel crunches, and butt-ups for 120 seconds.",,,,x,2,2
+"At your team's training center, you completed an antagonistic superset consisting of four sets of ten lying dumbbell presses and four sets of ten T-Bar rows.",I completed four sets of ten lying dumbbell presses and four sets of ten T-Bar rows.,,,,x,3,2
+You ran for <three/four/five> miles around the track at your local park.,I ran for <rb> miles around the track at my local park.,,x,,,1,1
+"At your team's training center, you completed five sets of 15 barbell step-ups and five sets of 15 hack squats.",I completed five sets of 15 barbell step-ups and five sets of 15 hack squats.,,,,x,2,1
+You completed an antagonistic superset consisting of four sets of 15 cable curls and four sets of 15 cable push-downs at your team's training center.,I completed four sets of 15 cable curls and four sets of 15 cable push-downs.,,,,x,2,1
+You spent <15/25/30> minutes boxing a <speed bag/punching bag/reflex bag> at your home gym.,I spent <rb1> minutes boxing a <rb2>.,,x,,x,2,1
+You spent an afternoon inside a <trampoline park/simulation military training obstacle course/commercial obstacle course> to increase your flexibility and endurance.,I spent an afternoon inside a <rb>.,,x,x,,1,1
+"At your team's training center, you completed an antagonistic superset consisting of five sets of nine dumbbell flyes, and five sets of nine one-arm dumbbell rows.","I completed five sets of nine dumbbell flyes, and five sets of nine one-arm dumbbell rows.",,,,x,2,1
+You traveled to a beach and spent the afternoon <running up and down sand dunes/swimming against the tide/playing beach volleyball/running along the coastline>.,I traveled to a beach and spent the afternoon <rb>.,,x,,x,1,1
+You spent the afternoon doing <medicine ball slams/wall balls/dead balls> at your team's training center.,I spent the afternoon doing <rb>.,,,,x,2,1
+You climbed the tallest mountain in <country>.,I climbed the tallest mountain in <country>.,,x,,x,5,5
+You spent <num30-60> minutes on the battle ropes at your team's training center.,I spent <num30-60> minutes doing a battle rope workout.,,x,,x,2,1
+You spent an afternoon doing kettlebell <squats/deadlifts/swings/suitcase lunges/Figure-8s/hand-to-hand swings> at your local gym.,I spent an afternoon doing kettlebell <rb>.,,,,x,2,1
+You did a <num30-90>-minute total body workout using <a tractor tire/a cement block/a tree trunk/an untapped beer keg>.,I did a <num30-90>-minute total body workout using a <rb>.,,,,x,2,2
+You practiced balancing on each leg for <num11-25> minutes straight.,I practiced balancing on each leg for <num11-25> minutes straight.,x,,,,3,0
+You went to a skyscraper in downtown <city> and ran up and down <num30-55> flights of stairs <four/five/six/seven/eight/nine> times.,I went to a skyscraper in downtown <city> and ran up and down <num30-55> flights of stairs <rb> times.,,x,,x,3,1
+You spent <two/three/four> hours at a parkour gym practicing <flip pres/flips/vaults/B-twists/corkscrews/flyaway regrabs>.,I spent <rb1> hours at a parkour gym practicing <rb2>.,x,,,x,2,3
+You spent <two/three/four> days with a yogini learning how to balance on your head without using your hands.,I spent <rb> days with a yogini learning how to balance on my head.,x,,,,3,2
+You rode a <tricycle/unicycle/pogo stick/skateboard/scooter> uphill for <num30-90> minutes.,I rode a <rb> uphill for <num30-90> minutes.,,x,,,2,1
+You learned a Wing Chun dummy form and practiced it for <three/four/five/six> hours.,I learned a Wing Chun dummy form and practiced it for <rb> hours.,x,,,x,2,1
+You spent <two/three> hours alone in your bedroom doing one-arm push-ups.,You spent <rb> hours alone in your bedroom doing one-arm push-ups.,,,,x,2,1
+You spent <two/three/four> hours helping your neighbor load bricks into a truck.,I spent <rb> hours helping my neighbor load bricks into a truck.,,,,x,2,1
+You spent <two/three/four> hours practicing on a slackline.,I spent <rb> hours practicing on a slackline.,x,,,,2,1
+You mastered the clean and jerk with a huge load for <two/three/four> hours.,I mastered the clean and jerk with a huge load for <rb> hours.,,,,x,3,2
+You rappelled off a cliff and then climbed back up <four/five/six> times.,I rappelled off a cliff and then climbed back up <rb> times.,,,,x,2,2
+You endured a retro workout session using '<Paula Abdul's Get Up and Dance/Mark Wahlberg's Form...Focus...Fitness/Alyssa Milano's Teen Steam/Kris and Bruce Jenner's Power Walk Plus/Jane Fonda's Lean Routine/Richard Simmons' Sweatin' to the Oldies>' exercise video.,I endured a retro workout session using '<rb>' exercise video.,x,x,x,,2,1
+You did a <50/70/80/90> minute workout focusing on your <legs/back/arms/core/chest/shoulders>.,I did a <50/70/80/90> minute workout focusing on my <rb>.,,,,x,3,1
+You focused on doing various sets of <decline/incline/close-grip/wide-grip/reverse-grip/resistance> bench presses on chest day.,I did various sets of <rb> bench presses on chest day.,,,,x,3,1
+You did <50/70/80/90> minutes of <flys/bench presses/pushups/cable flys/chest dips> to strengthen your chest muscles.,I strengthened my chest muscles by doing <rb>.,,,,x,3,1
+You focused on doing various sets of <jump/sumo/dumbbell/goblet/kettlebell/barbell/resistance band> squats on leg day.,I did various sets of <rb> squats on leg day.,,,,x,3,1
+You did <50/70/80/90> minutes of <squats/leg presses/calf raises/leg extension/leg curls/lunges/deadlifts/dumbbell stepups> to strengthen your leg muscles.,I strengthened my leg muscles by doing <rb>.,,,,x,3,2
+You focused on doing various sets of <bent-over barbell/inverted/single-arm/upright/barbell/dumbbell/reverse grip/T-bar/seated cable> rows on back day.,I did various sets of <rb> rows on back day.,,,,x,3,2
+You did <50/70/80/90> minutes of <rows/pull-ups/back extensions/kettlebell swings/barbell deadlifts/dumbbell deadlifts/lat pull-downs> to strengthen your back muscles.,I strengthened my back muscles by doing <rb2>.,,,,x,3,2
+You focused on doing various sets of <dumbbell/barbell/incline bench/concentration/preacher/hammer/spider/band/cable/plate> curls on arm day.,I did various sets of <rb> curls on arm day.,,,,x,3,1
+You did <50/70/80/90> minutes of <curls/skull crushers/triceps extensions/triceps pushdown/chinups/pushups/overhead presses> to strengthen your arm muscles.,I strengthened my arm muscles by doing <rb2>.,,,,x,3,1
+You did <50/70/80/90> minutes of <sit-ups/planks/side bends/crunches/cable crunches/barbell rollouts/leg raises/cable woodchops> to strengthen your core muscles.,I strengthened my core muscles by doing <rb2>.,,,,x,3,1
+You did <yoga/athletic/isometric/ballistic/dynamic/passive/static/sports> stretches to <become more limber/become more flexible/prevent injuries/increase flexibility>.,I did <rb1> stretches to <rb2>.,,,x,,3,1
+You spent <10/15/20/25/30> minutes doing <standing quad stretches/standing side stretches/seated hamstring stretches/standing calf stretches/the Forward Hang/back stretches> to limber up your muscles <before practice/before a game/before a workout>.,I did <rb2> for <rb1> minutes to limber up my muscles <rb3>.,,,x,,2,1

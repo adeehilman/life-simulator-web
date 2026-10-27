@@ -1,0 +1,26 @@
+"a16_financial-stock-tip-scenarios.csv
+DataFinancialStockTipScenario",,
+,,Rank from 1-5 where 1 is the least professional sounding and 5 is the most
+Scenario,Log Version,Professional Score
+<person> is encouraging you to invest in a company called <company>.,<person> encouraged me to invest in <company>.,3
+"<circumstance-public>, <person> tells you to be smart with your money and invest in <company>.",<person> told me to invest in <company>.,3
+Your friend just texted you <a 'Financial Times'/an 'Investors Daily'/a 'Dirty Tricks for Hot Investors'> op-ed suggesting investing in <company> is totally risk-free.,I read an article that suggested investing in <company> is risk-free.,1
+"While at lunch with <friend>, one of <his/her> friends approaches and tells you both to invest in a company called <company>.",A friend of a friend told me to invest in <company>.,2
+<person> just told you to invest in a company called <company> because <he/she> thinks its stock values are about to rise.,<person> told me to invest in <company> because <he/she> thought its stock value was going to rise.,4
+<person> won't stop texting you to invest in a company called <company> before it's too late.,<person> told me to invest in <company>.,3
+<person> is telling you that you're losing money by not investing in a company called <company>.,<person> told me I'm losing money by not investing in <company>.,3
+<person> is suggesting that you <diversify/solidify> your investment portfolio by investing in a company called <company>.,<person> told me to <rb> my portfolio by investing in <company>.,4
+<person> tells you it's a Goldilocks economy and you should invest in a company called <company> ASAP.,<person> told me to invest in <company>.,5
+"<person> suggests you sink your entire paycheck into a company called <company>, as its stock is about to skyrocket.",<person> told me to dump my paycheck into <company>.,3
+"<circumstance-public>, <person> tells you <his/her> portfolio yielded the highest it ever has, thanks to <his/her> investment in a company called <company>.",<person> told me investing in <company> was the best thing <he/she> has ever done for <his/her> portfolio.,5
+<person> tells you to let your money make money by investing it in a company called <company>.,<person> told me to let my money make money by investing in <company>.,2
+<person> tells you to dump your savings into a company called <company> and hope for the best.,<person> told me to dump my savings into <company>.,3
+<person> tells you to invest your money in a company called <company> because it is going to dominate the market.,"<person> encouraged me to invest in <company>, which <he/she> thought would dominate the market.",5
+<person> tells you to invest your money in a company called <company> because its ticker symbol makes <him/her> giggle.,<person> told me to invest in <company> because the ticker symbol made <him/her> giggle.,1
+<person> is hoping you'll invest in a company called <company> because <his/her> friend's cousin's <sister/brother> is the CEO.,<person> told me to invest in <his/her> friend's cousin's <rb>'s company.,1
+<person> is telling you to invest in a company called <company> because <Bill Gates/Warren Buffett/Bill Ackman/Benjamin Graham/Cathie Wood/Peter Lynch/Carl Ichan/Steve Jobs> came to <him/her> in a dream and told <him/her> to get you to do it.,<person> told me <rb> came to <him/her> in a dream and told us to invest in <company>.,1
+<person> is telling you to invest in a company called <company> because his psychic just read <his/her> <palm/tea leaves> and foresaw a massive fortune in both your futures if you invested now.,<person> told me to invest in <company> because <his/her> psychic said it would be lucrative.,1
+<person> is telling you to invest in <company> because its products are the hottest on the market right now.,<person> told me to invest in <company> on account of its popularity.,3
+"<person> is texting you that <his/her> friend, <an accounting/a business management/an economics> professor at a local community college, says now is the time to invest in <company>.",<person> told me to invest in <company> because one of <his/her> financially-literate friends said it would be lucrative.,3
+<person> just called to tell you <he/she> feels it's time to invest in <company>.,<person> told me to invest in <company> because <he/she> had a good feeling about it.,2
+<person> is telling you to invest in a company called <company> <just for fun/and see what happens/for kicks and giggles>.,<person> told me to invest in <company> on a whim.,1

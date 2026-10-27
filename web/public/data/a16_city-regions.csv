@@ -1,0 +1,247 @@
+Country Code,City,Region
+ad,Andorra la Vella,Andorra la Vella
+ad,Encamp,Encamp
+ad,La Massana,La Massana
+ao,Luanda,Luanda
+ao,Benguela,Benguela
+ao,Lubango,Huila
+ar,Buenos Aires,Buenos Aires
+ar,C\363rdoba,C\363rdoba
+ar,Rosario,Santa Fe
+au,Sydney,New South Wales
+au,Melbourne,Victoria
+au,Brisbane,Queensland
+au,Perth,Western Australia
+au,Gold Coast,Queensland
+au,Canberra,New South Wales
+au,Adelaide,South Australia
+au,Newcastle,New South Wales
+au,Wollongong,New South Wales
+au,Hobart,Tasmania
+au,Townsville,Queensland
+aw,Oranjestad,Oranjestad
+br,S\343o Paulo,S\343o Paulo
+br,Rio de Janeiro,Rio de Janeiro
+br,Bras\355lia,Distrito Federal
+br,Fortaleza,Cear\341
+br,Belo Horizonte,Minas Gerais
+br,Manaus,Amazonas
+br,Curitiba,Paran\341
+br,Goi\342nia,Goi\341s
+br,Salvador,Bahia
+br,Porto Alegre,Rio Grande do Sul
+br,Santos,S\343o Paulo
+br,Recife,Pernambuco
+bz,Belize City,Belize
+bz,Belmopan,Cayo
+ca,Vancouver,British Columbia
+ca,Montreal,Quebec
+ca,Toronto,Ontario
+ca,Calgary,Alberta
+ca,Edmonton,Alberta
+ca,Winnipeg,Manitoba
+ca,Ottawa,Ontario
+ca,Quebec City,Quebec
+ca,Halifax,Nova Scotia
+ca,Saskatoon,Saskatchewan
+ch,Z\374rich,Z\374rich
+ch,Geneva,Geneva
+ch,Basel,Basel-Stadt
+ch,Lucerne,Luzern
+ch,Lausanne,Vaud
+ch,Bern,Bern
+ch,Lugano,Ticino
+de,Berlin,Berlin
+de,Munich,Bavaria
+de,Cologne,North Rhine-Westphalia
+de,Hamburg,Hamburg
+de,Frankfurt,Hesse
+de,Stuttgart,Baden-W\374rttemberg
+de,Dusseldorf,North Rhine-Westphalia
+de,Dortmund,North Rhine-Westphalia
+de,Leipzig,Saxony
+de,Hanover,Lower Saxony
+de,Dresden,Saxony
+de,Bremen,Bremen
+es,Madrid,Madrid
+es,Barcelona,Barcelona
+es,Valencia,Valencia
+es,Seville,Seville
+es,Zaragoza,Zaragoza
+es,M\341laga,M\341laga
+es,Rota,C\341diz
+es,Pamplona,Navarre
+es,Bilbao,Biscay
+es,Pontevedra,Galicia
+es,A Coru\361a,Galicia
+es,Granada,Granada
+es,Palma,Balearic Islands
+es,San Sebastian,Gipuzkoa
+es,Valladolid,Valladolid
+fr,Paris,\316le-de-France
+fr,Marseille,Provence
+fr,Bordeaux,Nouvelle-Aquitaine
+fr,Lyon,Rh\364ne-Alpes
+fr,Nice,Provence
+fr,Toulouse,Occitanie
+fr,Nantes,Pays de la Loire
+fr,Nancy,Grand Est
+fr,Perpignan,Occitanie
+gb,Manchester,Lancashire
+gb,Norwich,Norfolk
+gb,London,London
+gb,Glasgow,Glasgow City
+gb,Liverpool,Merseyside
+gb,Cambridge,Cambridgeshire
+gb,Aberdeen,Aberdeen
+gb,Blackpool,Lancashire
+gb,Leeds,West Yorkshire
+gb,Swansea,Swansea
+gb,Wolverhampton,Staffordshire
+gb,Milton Keynes,Buckinghamshire
+gb,Oxford,Oxfordshire
+gb,Cardiff,Cardiff
+gb,Bristol,Bristol
+gb,Birmingham,West Midlands
+gb,Edinburgh,Edinburgh
+gb,Leicester,Leicestershire
+gb,Sunderland,Tyne and Wear
+gb,Newcastle,Tyne and Wear
+gb,Sheffield,South Yorkshire
+gb,Belfast,County Antrim
+gb,Nottingham,Nottinghamshire
+gb,Brighton,Sussex
+gb,Staines,Surrey
+gb,Ipswich,Suffolk
+gb,Southampton,Hampshire
+gb,Hull,East Yorkshire
+gt,Guatemala City,Guatemala
+gt,Villa Nueva,Guatemala
+gt,Mixco,Guatemala
+gy,Georgetown,Demerara-Mahaica
+ht,Port-au-Prince,Ouest
+ht,Carrefour,Ouest
+ht,Delmas,Ouest
+ie,Dublin,Leinster
+ie,Cork,Munster
+ie,Shannon,Munster
+in,Mumbai,Maharashtra
+in,Delhi,Delhi
+in,Chennai,Tamil Nadu
+in,Bangalore,Karnataka
+in,Hyderabad,Telangana
+in,Kolkata,West Bengal
+in,Srinagar,Jammu and Kashmir
+in,Jaipur,Rajasthan
+it,Milan,Lombardy
+it,Florence,Tuscany
+it,Genoa,Liguria
+it,Rome,Lazio
+it,Pisa,Tuscany
+it,Naples,Campania
+it,Venice,Veneto
+it,Turin,Piedmont
+it,Catania,Sicily
+it,Bologna,Emilia-Romagna
+it,Cagliari,Sardinia
+it,Palermo,Sicily
+it,Verona,Veneto
+jp,Tokyo,Kanto
+jp,Osaka,Osaka
+jp,Kyoto,Kyoto
+jp,Hiroshima,Hiroshima
+jp,Yokohama,Kanagawa
+jp,Nagoya,Aichi
+jp,Kobe,Hy\u014dgo
+jp,Fukuoka,Fukuoka
+mx,Canc\372n,Quintana Roo
+mx,Mexico City,Mexico City
+mx,Guadalajara,Jalisco
+mx,Ju\341rez,Chihuahua
+mx,Tijuana,Baja California
+mx,Monterrey,Nuevo Le\363n
+mx,Cabo San Lucas,Baja CaliforniaSur
+mx,Puerto Vallarta,Jalisco
+mx,Mazatl\341n,Sinaloa
+mx,Nogales,Sonora
+ni,Managua,Managua
+ni,Leon,Leon
+ni,Masaya,Masaya
+pg,Wewak,East Sepik
+pg,Lae,Morobe
+py,Asuncion,Distrito Capital
+py,Ciudad del Este,Alto Parana
+py,San Ignacio,Misiones
+py,San Pedro,San Pedro
+se,Stockholm,Stockholm
+se,Gothenburg,V\344stra G\366taland
+se,Malm\366,Sk\345ne
+se,Halmstad,Halland
+sv,San Salvador,San Salvador
+sv,Santa Ana,Santa Ana
+sv,Soyapango,San Salvador
+sv,San Miguel,San Miguel
+tn,Tunis,Tunis
+tn,Sfax,Sfax
+tn,Sousse,Sousse
+ug,Kampala,Kampala
+ug,Gulu,Gulu
+ug,Lira,Lira
+us,Chicago,Illinois
+us,New York,New York
+us,Los Angeles,California
+us,San Francisco,California
+us,Houston,Texas
+us,Dallas,Texas
+us,Seattle,Washington
+us,Miami,Florida
+us,Phoenix,Arizona
+us,Boston,Massachusetts
+us,Philadelphia,Pennsylvania
+us,Denver,Colorado
+us,Minneapolis,Minnesota
+us,Detroit,Michigan
+us,San Diego,California
+us,Tampa,Florida
+us,Atlanta,Georgia
+us,Tucson,Arizona
+us,Fargo,North Dakota
+us,Baltimore,Maryland
+us,Orlando,Florida
+us,Portland,Oregon
+us,Little Rock,Arkansas
+us,San Antonio,Texas
+us,Wichita,Kansas
+us,Las Vegas,Nevada
+us,Milwaukee,Wisconsin
+us,Pittsburgh,Pennsylvania
+us,Columbus,Ohio
+us,Charlotte,North Carolina
+us,Jacksonville,Florida
+us,Charleston,South Carolina
+us,San Jose,California
+us,Nashville,Tennessee
+us,Austin,Texas
+us,Scranton,Pennsylvania
+us,Chattanooga,Tennessee
+us,Anchorage,Alaska
+us,Honolulu,Hawaii
+us,New Orleans,Louisiana
+us,Salt Lake City,Utah
+us,Kansas City,Missouri
+us,Oklahoma City,Oklahoma
+us,Memphis,Tennessee
+us,Buffalo,New York
+us,Compton,California
+us,Brooklyn,New York
+us,Oakland,California
+us,Cleveland,Ohio
+us,Cincinnati,Ohio
+us,Indianapolis,Indiana
+us,Sacramento,California
+us,Hartford,Connecticut
+us,St. Louis,Missouri
+us,Raleigh,North Carolina
+us,Newark,New Jersey
+us,Biloxi,Mississippi
+ws,Apia,Tuamasaga

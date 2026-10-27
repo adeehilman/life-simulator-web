@@ -1,0 +1,26 @@
+ID,Hero Min Age,Hero Max Age,Hero Gender,Npc,Npc Gender,Commonness Score,Feedback,Scenario,Log String,MinMaxValues,Filter,Score,Impacts,Match
+10001,,,,,,3,,the greatest star,the greatest star,,,,,
+10002,,,,,,3,,an A-list topper,an A-list topper,,,,,
+10003,,,,,,5,,box office <pick:dynamite|gold|big bucks>,box office <special:here:rp1>,,,,,
+10004,,,,,,2,,the biggest screen star since <pick:Meryl Streep|Nicole Kidman|Katharine Hepburn|Audrey Hepburn|Anya Taylor-Joy|Lupita Nyong'o|Viola Davis|Zoe Saldana|Zendaya>,the biggest screen star since <special:here:rp1>,,,,,female
+10005,,,,,,2,,the biggest screen star since <pick:Daniel Day-Lewis|Leonardo DiCaprio|George Clooney|Morgan Freeman|Denzel Washington|Chadwick Boseman|Dev Patel|Benicio del Toro|Ben Kingsley>,the biggest screen star since <special:here:rp1>,,,,,male
+10006,,,,,,4,,awards show catnip,awards show catnip,,,,,
+10007,,,,,,3,,the <pick:king|god|master|maestro|darling> of the dailies,the <special:here:rp1> of the dailies,,,,,male
+10008,,,,,,3,,the <pick:diva|queen|goddess|queen bee|darling> of the dailies,the <special:here:rp1> of the dailies,,,,,female
+10009,,,,,,5,,a screen <pick:natural|prodigy|genius|hotshot>,a screen <special:here:rp1>,,,,,
+10010,,,,,,1,,the <pick:natural looksmaxxing|mogging> icon of the film world,the <special:here:rp1> icon of the film world,,,,,
+10011,,,,,,5,,a shoo-in for top roles,a shoo-in for top roles,,,,,
+10012,,,,,,3,,a born <pick:Oscars|Palme d'Or|Sundance|Cannes|Venice Film Festival> award winner,a born <special:here:rp1> award winner,,,,,
+10013,,,,,,5,,masterful at <pick:micro-expressions|bringing a character to life|vocal control|showing a character's vulnerability>,masterful at <special:here:rp1>,,,,,
+10014,,,,,,5,,<pick:a delight|a welcome sight|a godsend|a miracle|an instant mood booster> on set,<special:here:rp1> on set,,,,,
+10015,,,,,,4,,the <pick:heart|soul|brains> of every production <focus_data.he|she>'s in,the <special:here:rp1> of every production <focus_data.he|she>'s in,,,,,
+10016,,,,,,5,,an inspiration to <pick:other talent|theater kids everywhere|casting directors>,an inspiration to <special:here:rp1>,,,,,
+10017,,,,,,3,,booked and blessed,booked and blessed,,,,,
+10018,,,,,,4,,destined for <pick:a long career|a successful career|an inspiring career|a genre-smashing career>,destined for <special:here:rp1>,,,,,
+10019,,,,,,4,,a real trouper who is always <pick:polite|respectful|energetic|friendly|prepared> on set,a real trouper who is always <special:here:rp1> on set,,,,,
+10020,,,,,,5,,an ensemble player who is impressively dedicated to <pick:rehearsing|running lines|making bold choices in front of the camera>,an ensemble player who is impressively dedicated to <special:here:rp1>,,,,,
+10021,,,,,,3,,a true thespian with the best <pick:auditions|script analysis|line reads|self-tapes|camera gaze> this side of the <pick:Atlantic|Pacific|equator|prime meridian>,a true thespian with the best <special:here:rp1> this side of the <special:here:rp2>,,,,,
+10022,,,,,,3,,a cinematic <pick:muse|inspiration|soulmate>,a cinematic <special:here:rp1>,,,,,
+10023,,,,,,2,,the <pick:Robert De Niro to your Martin Scorsese|Emma Stone to your Yorgos Lanthimos|Samuel L. Jackson to your Quentin Tarantino|Cillian Murphy to your Christopher Nolan|Jason Schwartzman to your Wes Anderson|Grace Kelly to your Alfred Hitchcock|Laura Dern to your David Lynch|Helena Bonham Carter to your Tim Burton>,the <special:here:rp1>,,,,,
+10024,,,,,,2,,a <pick:witch|sorceress|siren> who <pick:spellbinds|enchants> the <pick:audience|camera>,a <special:here:rp1> who <special:here:rp2> the <special:here:rp3>,,,,,female
+10025,,,,,,2,,a <pick:wizard|sorcerer> who <pick:spellbinds|enchants> the <pick:audience|camera>,a <special:here:rp1> who <special:here:rp2> the <special:here:rp3>,,,,,male

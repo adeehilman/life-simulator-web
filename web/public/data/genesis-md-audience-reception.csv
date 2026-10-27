@@ -1,0 +1,228 @@
+ID,Hero Min Age,Hero Max Age,Hero Gender,Npc,Npc Gender,Commonness Score,Feedback,Scenario,Log String,MinMaxValues,Filter,Score,Impacts,Match
+10001,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,action
+10002,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,comedy
+10003,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,drama
+10004,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,fantasy
+10005,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,historical
+10006,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,horror
+10007,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,musical
+10008,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,romance
+10009,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,sci-fi
+10010,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,thriller
+10011,,,,,,5,,"""absolutely worth the hype""""","""absolutely worth the hype""""",,[film.audience_reception_score>=65],,,western
+10012,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,action
+10013,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,comedy
+10014,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,drama
+10015,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,fantasy
+10016,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,historical
+10017,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,horror
+10018,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,musical
+10019,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,romance
+10020,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,sci-fi
+10021,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,thriller
+10022,,,,,,5,,"""actually pretty good""""","""actually pretty good""""",,[film.audience_reception_score>=50],,,western
+10023,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,action
+10024,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,comedy
+10025,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,drama
+10026,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,fantasy
+10027,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,historical
+10028,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,horror
+10029,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,musical
+10030,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,romance
+10031,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,sci-fi
+10032,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,thriller
+10033,,,,,,5,,"""a total waste of <pick:gas money|a day off|a fake sick day>""""","""a total waste of <pick:gas money|a day off|a fake sick day>""""",,[film.audience_reception_score<=39],,,western
+10034,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,action
+10035,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,comedy
+10036,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,drama
+10037,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,fantasy
+10038,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,historical
+10039,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,horror
+10040,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,musical
+10041,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,romance
+10042,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,sci-fi
+10043,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,thriller
+10044,,,,,,5,,"""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""","""an insult to <pick:eyeballs and ears|critical thinking|the craft of cinema>""""",,[film.audience_reception_score<=29],,,western
+10045,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,action
+10046,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,comedy
+10047,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,drama
+10048,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,fantasy
+10049,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,historical
+10050,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,horror
+10051,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,musical
+10052,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,romance
+10053,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,sci-fi
+10054,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,thriller
+10055,,,,,,5,,"""pretty okay""""","""pretty okay""""",,[film.audience_reception_score>=50/film.audience_reception_score<=80],,,western
+10056,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,action
+10057,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,comedy
+10058,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,drama
+10059,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,fantasy
+10060,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,historical
+10061,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,horror
+10062,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,musical
+10063,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,romance
+10064,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,sci-fi
+10065,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,thriller
+10066,,,,,,5,,"""something an eight-year-old could've made""""","""something an eight-year-old could've made""""",,[film.audience_reception_score<=29],,,western
+10067,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,action
+10068,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,comedy
+10069,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,drama
+10070,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,fantasy
+10071,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,historical
+10072,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,horror
+10073,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,musical
+10074,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,romance
+10075,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,sci-fi
+10076,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,thriller
+10077,,,,,,5,,"""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""","""about as deep as <pick:a gravel driveway|a kiddie pool|an AI therapy session>""""",,[film.audience_reception_score<=39],,,western
+10078,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=49],,,action
+10079,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=49],,,comedy
+10080,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=49],,,drama
+10081,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=45],,,fantasy
+10082,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=45],,,historical
+10083,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=45],,,horror
+10084,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=49],,,musical
+10085,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=45],,,romance
+10086,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=49],,,sci-fi
+10087,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=49],,,thriller
+10088,,,,,,5,,truly mid,truly mid,,[film.audience_reception_score>=15/film.audience_reception_score<=49],,,western
+10089,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,action
+10090,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,comedy
+10091,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,drama
+10092,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,fantasy
+10093,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,historical
+10094,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,horror
+10095,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,musical
+10096,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,romance
+10097,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,sci-fi
+10098,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,thriller
+10099,,,,,,5,,"""a movie you'll be pestering your friends to watch""""","""a movie you'll be pestering your friends to watch""""",,[film.audience_reception_score>=70],,,western
+10100,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,action
+10101,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,comedy
+10102,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,drama
+10103,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,fantasy
+10104,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,historical
+10105,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,horror
+10106,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,musical
+10107,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,romance
+10108,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,sci-fi
+10109,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,thriller
+10110,,,,,,5,,"""less fun than <pick:going to work|picking your nose|morning traffic>""""","""less fun than <pick:going to work|picking your nose|morning traffic>""""",,[film.audience_reception_score<=39],,,western
+10111,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,action
+10112,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,comedy
+10113,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,drama
+10114,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,fantasy
+10115,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,historical
+10116,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,horror
+10117,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,musical
+10118,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,romance
+10119,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,sci-fi
+10120,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,thriller
+10121,,,,,,5,,"""a movie that makes people excited to watch movies again""""","""a movie that makes people excited to watch movies again""""",,[film.audience_reception_score>=80],,,western
+10122,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,action
+10123,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,comedy
+10124,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,drama
+10125,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,fantasy
+10126,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,historical
+10127,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,horror
+10128,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,musical
+10129,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,romance
+10130,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,sci-fi
+10131,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,thriller
+10132,,,,,,5,,everyone's new favorite thing to hate,everyone's new favorite thing to hate,,[film.audience_reception_score<=29],,,western
+10133,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,action
+10134,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,comedy
+10135,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,drama
+10136,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,fantasy
+10137,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,historical
+10138,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,horror
+10139,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,musical
+10140,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,romance
+10141,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,sci-fi
+10142,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,thriller
+10143,,,,,,5,,pure slop,pure slop,,[film.audience_reception_score<=25],,,western
+10144,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,action
+10145,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,comedy
+10146,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,drama
+10147,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,fantasy
+10148,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,historical
+10149,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,horror
+10150,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,musical
+10151,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,romance
+10152,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,sci-fi
+10153,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,thriller
+10154,,,,,,5,,a meme factory,a meme factory,,[film.audience_reception_score>=50],,,western
+10155,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,action
+10156,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,comedy
+10157,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,drama
+10158,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,fantasy
+10159,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,historical
+10160,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,horror
+10161,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,musical
+10162,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,romance
+10163,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,sci-fi
+10164,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,thriller
+10165,,,,,,5,,"""a one-star Letterbox review""""","""a one-star Letterbox review""""",,[film.audience_reception_score<=29],,,western
+10166,,,,,,5,,"""a total crash-out""""","""a total crash-out""""",,[film.audience_reception_score<=29],,,action
+10167,,,,,,5,,"""a total crash-out""""","""a total crash-out""""",,[film.audience_reception_score<=29],,,thriller
+10168,,,,,,5,,"""enough adrenaline to keep you awake in morning meetings""""","""enough adrenaline to keep you awake in morning meetings""""",,[film.audience_reception_score>=70],,,action
+10169,,,,,,5,,"""enough adrenaline to keep you awake in morning meetings""""","""enough adrenaline to keep you awake in morning meetings""""",,[film.audience_reception_score>=70],,,thriller
+10170,,,,,,5,,"""one helluva punch!""""","""one helluva punch!""""",,[film.audience_reception_score>=75],,,action
+10171,,,,,,5,,"""one helluva punch!""""","""one helluva punch!""""",,[film.audience_reception_score>=75],,,thriller
+10172,,,,,,5,,"""a cheap thrill""""","""a cheap thrill""""",,[film.audience_reception_score>=50/film.audience_reception_score<=85],,,action
+10173,,,,,,5,,"""a cheap thrill""""","""a cheap thrill""""",,[film.audience_reception_score>=50/film.audience_reception_score<=85],,,thriller
+10174,,,,,,5,,"""probably greenlit by accident""""","""probably greenlit by accident""""",,[film.audience_reception_score<=39],,,action
+10175,,,,,,5,,"""probably greenlit by accident""""","""probably greenlit by accident""""",,[film.audience_reception_score<=39],,,thriller
+10176,,,,,,5,,too hot to handle,too hot to handle,,[film.audience_reception_score>=75],,,romance
+10177,,,,,,5,,flaccid,flaccid,,[film.audience_reception_score<=39],,,romance
+10178,,,,,,5,,"""as phony as the lead actor's lip filler""""","""as phony as the lead actor's lip filler""""",,[film.audience_reception_score<=39],,,romance
+10179,,,,,,5,,sparkless,sparkless,,[film.audience_reception_score<=49],,,romance
+10180,,,,,,5,,a stockpile of fantasies,a stockpile of fantasies,,[film.audience_reception_score>=80],,,romance
+10181,,,,,,5,,"""a movie that made space feel boring""""","""a movie that made space feel boring""""",,[film.audience_reception_score<=39],,,sci-fi
+10182,,,,,,5,,escapism at its finest,escapism at its finest,,[film.audience_reception_score>=70],,,sci-fi
+10183,,,,,,5,,escapism at its finest,escapism at its finest,,[film.audience_reception_score>=70],,,fantasy
+10184,,,,,,5,,"""the best in pew pew pew""""","""the best in pew pew pew""""",,[film.audience_reception_score>=80],,,sci-fi
+10185,,,,,,5,,"""unearthly in the best way""""","""unearthly in the best way""""",,[film.audience_reception_score>=70],,,sci-fi
+10186,,,,,,5,,"""unearthly in the best way""""","""unearthly in the best way""""",,[film.audience_reception_score>=70],,,fantasy
+10187,,,,,,5,,"""on par with <pick:C-movie slop|'Mega Shark vs. Giant Octopus'|'Lawnmower Man 2'|'Battlefield Earth'>""""","""on par with <pick:C-movie slop|'Mega Shark vs. Giant Octopus'|'Lawnmower Man 2'|'Battlefield Earth'>""""",,[film.audience_reception_score<=29],,,sci-fi
+10188,,,,,,5,,even better than the book,even better than the book,,[film.audience_reception_score>=80],,,fantasy
+10189,,,,,,5,,"""a magic spell that puts you to sleep""""","""a magic spell that puts you to sleep""""",,[film.audience_reception_score<=45],,,fantasy
+10190,,,,,,5,,"""definitely not the chosen one""""","""definitely not the chosen one""""",,[film.audience_reception_score<=49],,,fantasy
+10191,,,,,,5,,the opposite of bewitching,the opposite of bewitching,,[film.audience_reception_score<=49],,,fantasy
+10192,,,,,,5,,"""giving real <pick:mired-in-despair|Swamp of Sadness|Dead Marshes|Pits of Hathsin|walking into Mordor> vibes""""","""giving real <pick:mired-in-despair|Swamp of Sadness|Dead Marshes|Pits of Hathsin|walking into Mordor> vibes""""",,[film.audience_reception_score<=39],,,fantasy
+10193,,,,,,5,,a movie doomed to midnight singalongs,a movie doomed to midnight singalongs,,[film.audience_reception_score<=29],,,musical
+10194,,,,,,5,,"""yikes!""""","""yikes!""""",,[film.audience_reception_score<=29],,,musical
+10195,,,,,,5,,"""yikes!""""","""yikes!""""",,[film.audience_reception_score<=29],,,comedy
+10196,,,,,,5,,"""yikes!""""","""yikes!""""",,[film.audience_reception_score<=29],,,romance
+10197,,,,,,5,,full of earworms that just won't quit,full of earworms that just won't quit,,[film.audience_reception_score>=60],,,musical
+10198,,,,,,5,,"""a musical that makes musicals cool""""","""a musical that makes musicals cool""""",,[film.audience_reception_score>=75],,,musical
+10199,,,,,,5,,"""an affront to the eardrums""""","""an affront to the eardrums""""",,[film.audience_reception_score<=29],,,musical
+10200,,,,,,5,,"""a tumbleweed of boredom""""","""a tumbleweed of boredom""""",,[film.audience_reception_score<=25],,,western
+10201,,,,,,5,,"""a tumbleweed of boredom""""","""a tumbleweed of boredom""""",,[film.audience_reception_score<=25],,,musical
+10202,,,,,,5,,"""a slow ride to nowhere""""","""a slow ride to nowhere""""",,[film.audience_reception_score<=29],,,western
+10203,,,,,,5,,"""a slow ride to nowhere""""","""a slow ride to nowhere""""",,[film.audience_reception_score<=29],,,thriller
+10204,,,,,,5,,"""a slow ride to nowhere""""","""a slow ride to nowhere""""",,[film.audience_reception_score<=29],,,action
+10205,,,,,,5,,"""inspiration to play <pick:cowboy video games|'Red Dead 2'|'Weird West'|'Cowboy Simulator'> again""""","""inspiration to play <pick:cowboy video games|'Red Dead 2'|'Weird West'|'Cowboy Simulator'> again""""",,[film.audience_reception_score>=70],,,western
+10206,,,,,,5,,"""piss-ant prairie punk""""","""piss-ant prairie punk""""",,[film.audience_reception_score<=35],,,western
+10207,,,,,,5,,"""sharpshooting and high-tooting""""","""sharpshooting and high-tooting""""",,[film.audience_reception_score>=80],,,western
+10208,,,,,,5,,"""mostly just <pick:pretty costumes|historic needle drops|fluff, but with horses and stuff>""""","""mostly just <pick:pretty costumes|historic needle drops|fluff, but with horses and stuff>""""",,[film.audience_reception_score<=39],,,historical
+10209,,,,,,5,,"""so elegant, so scandalous, so delicious""""","""so elegant, so scandalous, so delicious""""",,[film.audience_reception_score>=80],,,historical
+10210,,,,,,5,,"""so elegant, so scandalous, so delicious""""","""so elegant, so scandalous, so delicious""""",,[film.audience_reception_score>=80],,,romance
+10211,,,,,,5,,in desperate need of a history lesson,in desperate need of a history lesson,,[film.audience_reception_score<=49],,,historical
+10212,,,,,,5,,"""too many petticoats, not enough plot""""","""too many petticoats, not enough plot""""",,[film.audience_reception_score<=49],,,historical
+10213,,,,,,5,,unfunny as hell,unfunny as hell,,[film.audience_reception_score<=19],,,comedy
+10214,,,,,,5,,"""more eyerolls than punchlines""""","""more eyerolls than punchlines""""",,[film.audience_reception_score<=29],,,comedy
+10215,,,,,,5,,"""so funny, your face will hurt for days""""","""so funny, your face will hurt for days""""",,[film.audience_reception_score>=75],,,comedy
+10216,,,,,,5,,"""a bellylaugh factory""""","""a bellylaugh factory""""",,[film.audience_reception_score>=80],,,comedy
+10217,,,,,,5,,"""a drama destined for award season""""","""a drama destined for award season""""",,[film.audience_reception_score>=85],,,drama
+10218,,,,,,5,,"""in dire need of a <pick:plot|hook|reason to care>""""","""in dire need of a <pick:plot|hook|reason to care>""""",,[film.audience_reception_score<=39],,,drama
+10219,,,,,,5,,"""in dire need of a <pick:plot|hook|reason to care>""""","""in dire need of a <pick:plot|hook|reason to care>""""",,[film.audience_reception_score<=39],,,historical
+10220,,,,,,5,,"""in dire need of a <pick:plot|hook|reason to care>""""","""in dire need of a <pick:plot|hook|reason to care>""""",,[film.audience_reception_score<=39],,,western
+10221,,,,,,5,,proof that more emotional actors doesn't mean a better movie,proof that more emotional actors doesn't mean a better movie,,[film.audience_reception_score<=39],,,drama
+10222,,,,,,5,,"""a director's career-ender""""","""a director's career-ender""""",,[film.audience_reception_score<=19],,,drama
+10223,,,,,,5,,"""just bloody stupid""""","""just bloody stupid""""",,[film.audience_reception_score<=49],,,horror
+10224,,,,,,5,,"""so terrifying you'll be afraid of the dark again!""""","""so terrifying you'll be afraid of the dark again!""""",,[film.audience_reception_score>=80],,,horror
+10225,,,,,,5,,the next <pick:'VVitch'|'Backrooms'|'Midsommar'|'Get Out'>,the next <pick:'VVitch'|'Backrooms'|'Midsommar'|'Get Out'>,,[film.audience_reception_score>=80],,,horror
+10226,,,,,,5,,"""only scary because it got greenlit""""","""only scary because it got greenlit""""",,[film.audience_reception_score<=39],,,horror
+10227,,,,,,5,,"""scarier than <pick:calculus|a low-carb diet|decaf coffee|a mandatory office party>""""","""scarier than <pick:calculus|a low-carb diet|decaf coffee|a mandatory office party>""""",,[film.audience_reception_score>=70],,,horror

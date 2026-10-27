@@ -1,0 +1,53 @@
+String,Only Squatters,Single Squatter,Singular Tenant,Min Satisfaction,Max Satisfaction,Min Property Condition,Max Property Condition
+Your tenants are generally pleased with their living conditions.,,,,50,,50,
+Your tenants are starting to look for other living arrangements.,,,,,50,,50
+Your tenants are happy with their living arrangements.,,,,50,,50,
+Your tenants show no signs of unrest.,,,,90,,,
+Your tenants are starting to grumble about their living conditions.,,,,,50,,50
+Your properties are starting to show some wear and tear.,,,,,,50,
+Your properties could use a face lift.,,,,,,50,
+Your tenants are getting restless.,,,,,50,,
+Some of your tenants are hinting that they might move out soon.,,,,,50,,
+Your tenants have voiced concerns about their living conditions.,,,,,50,,
+There have been a number of complaints from tenants about their living experience.,,,,,50,,
+Your tenants have expressed frustration about their living conditions.,,,,,50,,
+Most tenants are happy with their living experience.,,,,60,,60,
+"Your tenants say they are ""<lucky/ecstatic/#blessed>"" to have you as their landlord.",,,,70,,,
+"<tenant> said if you ever get more rental properties, <he/she> <is sure you'll have no problem renting them out/will help you fill them/will tell everyone to rent from you>.",,,x,80,,50,
+<tenant> said you should consider getting out of the <landlord/rental property> business.,,,x,,30,,40
+<tenant> said it was <his/her> best year ever living in your property at <address>.,,,x,85,,75,
+<tenant> said you need to do some fixing up real soon.,,,x,,50,,40
+<tenant> voiced concerns over your ability to effectively maintain a rental property.,,,x,,50,,40
+<tenant> said it's been the worst rental experience of <his/her> life.,,,x,,25,,25
+"Overall, your tenants like you as a landlord but say your properties need serious attention.",,,,70,,,50
+"Overall, your tenants like your properties, but they are not fond of you as a landlord.",,,,,35,60,
+Your attention to property maintenance has contributed to your success in tenant satisfaction.,,,,75,,85,
+"Despite the abysmal condition of your properties, your tenants report a high level of satisfaction.",,,,70,,,40
+The numbers indicate an investment in property maintenance and upgrades will increase tenant satisfaction. ,,,,,50,,50
+The numbers indicate your level of property maintenance has positively influenced tenant satisfaction.,,,,75,,80,
+The numbers indicate your level of property maintenance has negatively influenced tenant satisfaction.,,,,,35,,50
+<tenant> is satisfied with <his/her> living conditions.,,,x,50,,50,
+<tenant> is showing signs of someone eager to move.,,,x,,50,,
+<tenant> seems satisfied with your arrangement.,,,x,50,,,
+You might want to drop in on your tenants.,,,,,,,
+Your tenants are expressing concern over your ability to manage your properties.,,,,,50,,
+You should consider sprucing up your properties.,,,,,,,60
+You should consider spending time with your tenants.,,,,,50,,
+<tenant> isn't happy with <his/her> living conditions but believes you're doing your best.,,,x,,,,50
+Your tenants can't stop raving about <how happy they are/their comfort levels/how eager you are to service them>.,,,,70,,,
+"<tenant> can't stop raving about how <happy/luxurious/comfortable/fancy/""at-home""> <he/she> feels in your <house-type>.",,,x,70,,50,
+<tenant> won't stop complaining about how <run-down/low-budget/crude/homely/dumpy/frumpy> your <house-type> is.,,,x,,50,,50
+You might want to drop in on <tenant>.,,,x,,,,
+<squatter> is satisfied with <his/her> living conditions.,,x,,,,,
+<squatter> seems satisfied with your arrangement.,,x,,,,,
+<squatter> isn't happy with <his/her> living conditions but believes you're doing your best.,,x,,,,,
+"<squatter> can't stop raving about how <happy/luxurious/comfortable/fancy/""at-home""> <he/she> feels in your <house-type>.",,x,,,,,
+<squatter> won't stop complaining about how <run-down/low-budget/crude/homely/dumpy/frumpy> your <house-type> is.,,x,,,,,
+"<squatter> has nailed wooden boards across the doors and windows of your property, showing no signs of leaving on <his/her> own any time soon.",,x,,,,,
+"<squatter> posted selfies of <him/her>self in front of your <house-type> with the hashtag ""<#minenow/#welcomehome/#homesforfree/#squatlife/#rentfree/#immamakethismine/#homesweethome>"".",,x,,,,,
+<squatter> won't stop texting you about how much <he/she> loves what you've done with the place.,,x,,,,,
+<squatter> is comfortable in your <house-type> and isn't making plans to move out any time soon.,,x,,,,,
+Your squatters are content with where they're living.,x,,,,,,
+Your squatters are eager to take possession of your properties.,x,,,,,,
+Your squatters won't stop raving about <how happy they are/their comfort levels/how eager you seem to be to service them/how delightful it is not to pay rent/how happy they are to be living rent-free/how much they appreciate living in your properties>.,x,,,,,,
+Your squatters are reporting they have never been more comfortable.,x,,,,,,

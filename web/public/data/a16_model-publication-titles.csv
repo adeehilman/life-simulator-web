@@ -1,0 +1,104 @@
+Name,Gender,Type,Local Publication,Industry,Min Profile,Max Profile,Commonness Score
+<Ada/Adam/Madam/Madame> & <Eve/Steve/Reeve> Quarterly,,catalog,,adult toys,,50,3
+Ladies' Night,female,magazine,,adult toys,,50,3
+Playful <Prospects/Pursuits>,,magazine,,adult toys,,50,3
+The Toy Box,,catalog,,adult toys,,50,3
+Pleasure <Palace/Seekers Monthly/Pioneers/Trove>,,catalog,,adult toys,60,,3
+Maxum,,magazine,,"adult toys, fashion",,50,3
+Wine & Food,,magazine,,"alcohol, food service",50,,3
+Motormouth Monthly,,magazine,,automobile,,30,3
+Drama <Mama/Queen>,,magazine,,"beauty supply, fashion, jewelry",20,50,4
+Teen <Dream/Spirit/Moment/Beat/Drama/Scene>,,magazine,,"beauty supply, food service, fashion, jewelry",20,60,4
+Game Inquirer,,magazine,,entertainment,,40,1
+Game Day,,magazine,,entertainment,,50,1
+Bookworms Monthly,,magazine,,entertainment,30,70,1
+Entertainment <Quarterly/Monthly>,,magazine,,entertainment,50,,3
+Peeple,,magazine,,,60,,4
+Starr,,magazine,,,40,70,4
+Tres Chic,,magazine,,"fashion, beauty supply, jewelry, pharmaceutical, entertainment",50,,5
+City & Wilderness,female,magazine,,"fashion, beauty supply, jewelry, pharmaceutical, entertainment",,50,5
+Spotlight,,magazine,,"fashion, beauty supply, jewelry, pharmaceutical, entertainment",,50,5
+Scene <Beat/Queen/Stealer>,female,magazine,,"fashion, beauty supply, jewelry, pharmaceutical, entertainment",,50,5
+PYLON,,magazine,,"fashion, beauty supply, jewelry, pharmaceutical, entertainment",30,70,5
+Rogue,,magazine,,fashion,70,,5
+Old Beauty,,magazine,,fashion,30,55,3
+<Harper's/Harbors/Sharper's> Bizarre,,magazine,,fashion,60,90,3
+Power Pose,,magazine,,fashion,30,80,3
+Retro Life Yearly,,catalog,,fashion,,50,3
+Urban Jungle,,catalog,,fashion,,50,3
+N'Style,,magazine,,fashion,,50,3
+<Sixteen/Eighteen/Fifteen/Fourteen/Thirteen/Teen>,female,magazine,,"fashion, beauty supply",30,70,4
+QG,male,magazine,,"fashion, beauty supply",70,,4
+Metro-Girl,female,magazine,,"fashion, beauty supply",70,,4
+Vintage Threads,,magazine,,"fashion, beauty supply",,50,4
+Couture Culture,,magazine,,"fashion, beauty supply",50,,4
+Runway Ready,,magazine,,"fashion, beauty supply",50,,4
+Belle,,catalog,,"fashion, beauty supply, adult toys",70,,4
+Chic Fantastique,,magazine,,"fashion, beauty supply, jewelry",80,,4
+Sports Highlighted,,catalog,,fitness,40,70,4
+The Dish,,magazine,,food service,,,3
+You've Been Served,,magazine,,food service,,,3
+Eat Out Magazine,,magazine,,food service,,,3
+Sweet <Treats/Eats/Meats>,,magazine,,food service,,,3
+Bistro Buzz,,magazine,,food service,,,3
+Chomp,,magazine,,food service,,,3
+Gastronomy Today,,magazine,,"food service, alcohol",,,3
+<Sexual Disease/Dysentery/Disease/Your Health/Scaly Bumps/Oily Skin/Dry Skin> & You,,brochure,,pharmaceutical,,,4
+Pill Pushers Weekly,,brochure,,pharmaceutical,,50,3
+Rx,,brochure,,pharmaceutical,,50,3
+Healthy Habits,,magazine,,pharmaceutical,,50,3
+The Daily Dose,,brochure,,pharmaceutical,,50,3
+Healthy Living <Today/Yesterday/for Tomorrow>,,magazine,,pharmaceutical,,50,3
+Addiction & <You/Me>,,brochure,,pharmaceutical,,50,3
+<city> <Today/Digest/Culture>,,magazine,x,,,,5
+<city> <Sun/Times/Daily Digest/News/Today/Chronicles>,,newspaper,x,,,,5
+Best Housekeeping,,magazine,,,,,3
+<Eastern/Western/Southwestern/Northeastern/Northwestern/Northern> Comfort,,magazine,,,,,4
+<Global/World> Star Today,,newspaper,,,,,3
+<International/Global/National> Inquiry,,newspaper,,,,20,2
+Metropolitan,,magazine,,,,,3
+Ladies' Day,female,magazine,,,,,1
+<Twerking/Lurking/Working/Smirking> Girl,,magazine,,,,80,4
+Men's Upkeep,male,catalog,,,,,3
+Healthy Lifetimes,,magazine,,,,,3
+ManZone,male,magazine,,,,,3
+Sheeple,,magazine,,,,40,5
+The <city> <Star/Mouth/Voice>,,newspaper,x,,,,4
+CoinStarz,,catalog,,,,20,2
+<Shopper's Delight/Fabulous Finds/Money Maker/Buyer's Market/Product Pushers> <Monthly/Magazine/Quarterly>,,catalog,,,20,70,4
+<city> Today,,magazine,x,,,60,5
+<country> Today,,magazine,x,,30,60,5
+JDM <Classics/Legends/Scene>,,magazine,,automobile,50,90,5
+American Muscle,,magazine,,automobile,20,70,4
+British Imports,,magazine,,automobile,,65,2
+Monster Truck Monthly,,magazine,,automobile,,65,3
+Horsepower Mag,,magazine,,automobile,25,75,3
+Vintage Mint Autos,,magazine,,automobile,25,75,2
+Suds Monthly,,magazine,,alcohol,20,65,4
+On Tap,,magazine,,alcohol,40,90,4
+Mixology Monthly,,magazine,,alcohol,40,90,3
+<Vintage/Classy/Tasty> Cocktail,,magazine,,alcohol,50,,3
+Cocktail Spectator,,magazine,,alcohol,40,90,4
+<New/Old> World Wine,,magazine,,alcohol,40,90,2
+Downward Dog,,magazine,,fitness,50,,2
+Get <Ripped/Swole>!,,magazine,,fitness,50,,3
+Gym Rat ,,magazine,,fitness,35,85,4
+The Octagon,,magazine,,fitness,50,,3
+Gloves Off,,magazine,,fitness,30,75,2
+"Game, Set, Match",,magazine,,fitness,30,70,1
+Bling,,magazine,,jewelry,50,,4
+Ring Finger,,magazine,,jewelry,30,80,2
+<city> Motors,,brochure,x,automobile,,50,3
+O'Neil Auto Parts,,brochure,,automobile,65,,4
+Barrels and Bungholes,,brochure,,alcohol,20,70,2
+<Good/Great/More> Head Brewing Supply,,brochure,,alcohol,25,75,4
+<Nightlife/Holiday Events> in <city>,,brochure,x,entertainment,40,90,3
+Destination <city>!,,brochure,x,entertainment,15,65,2
+<Poppy's/Elite/Commercial/Discount/Quality> Restaurant Supply,,brochure,,food service,,45,3
+<city> Catering,,brochure,x,food service,15,55,3
+Dumbbells Direct,,brochure,,fitness,,50,3
+<Precious/Pricey> Yoga Pants,female,catalog,,fitness,45,90,4
+<random-surname> Family Jewels,,brochure,,jewelry,,65,3
+NQA Discount Diamonds,,catalog,,jewelry,,50,2
+<North/South/East/West>word,,newspaper,,,,40,1
+Breaking,,newspaper,,,,35,1

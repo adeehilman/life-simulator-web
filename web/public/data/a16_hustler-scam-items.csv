@@ -1,0 +1,49 @@
+Item Singular,Item Plural,Hero Gender,Victim Gender,Can Be Broken,Can Be Stolen,Is Fake Merch,Min Value,Max Value
+gold watch,gold watches,,,x,x,,50,500
+Apple watch,Apple watches,,,x,x,,25,200
+cell phone,cell phones,,,x,x,,10,250
+iPhone,iPhones,,,x,x,,100,400
+diamond ring,diamond rings,,,,x,,500,1200
+pearl necklace,pearl necklace,,female,,x,,50,100
+brass knuckles,brass knuckles,,male,,x,,8,25
+silk scarf,silk scarves,,female,,x,,50,250
+gold bracelet,gold bracelets,,female,x,x,,100,500
+tennis bracelet,tennis bracelets,,female,x,x,,300,1500
+charm bracelet,charm bracelets,,female,x,x,,65,150
+sunglasses,sunglasses,,,x,x,,65,300
+AirPods,AirPods,,,x,x,,50,150
+Swiss Army knife,Swiss Army knives,,,,x,,25,100
+iPad,iPads,,,x,x,,75,150
+pack of cigarettes,packs of cigarettes,,,,x,,8,12
+condom,condoms,male,male,,x,,1,3
+tampon,tampons,female,female,,x,,1,3
+breath mint,breath mints,,,,x,,1,3
+stick of gum,sticks of gum,,,,x,,1,3
+hairbrush,hairbrushes,,female,,x,,5,15
+tube of lipstick,tubes of lipstick,,female,,x,,5,25
+tube of chapstick,tubes of chapstick,,,,x,,2,8
+Cohiba cigar,Cohiba cigars,,,,x,,25,100
+lint roller,lint rollers,,,,x,,2,15
+moustache comb,moustache combs,male,male,,x,,5,25
+ceramic statuette,ceramic statuette,,,x,,,100,300
+fake Rolex watch,fake Rolex watches,,,x,,x,500,1000
+fake Gucci sunglasses,fake Gucci sunglasses,,,x,,x,35,130
+fake Louis Vuitton handbag,fake Louis Vuitton handbags,,,,,x,60,120
+fake Air Jordans,fake Air Jordans,,,,,x,50,130
+fake iPhone,fake iPhones,,,x,,x,100,160
+fake Tiffany lamp,fake Tiffany lamps,,,x,,x,80,200
+fake Baccarat crystal vase,fake Baccarat crystal vases,,,x,,x,100,350
+fake Ming vase,fake Ming vases,,,x,,x,80,250
+fake diamond ring,fake diamond rings,,,,,x,50,150
+fake ruby ring,fake ruby rings,,,,,x,25,100
+fake leather Gucci wallet,fake leather Gucci wallets,,,,,x,50,75
+fake bottle of Chanel No. 5 perfume,fake bottles of Chanel No. 5 perfume,,,x,,x,25,90
+fake Yeezys,fake Yeezys,,,,,x,100,300
+fake gold chain,fake gold chains,,,x,,x,30,65
+fake Nike tennis shoes,fake Nike tennis shoes,,,,,x,25,45
+fake Chanel slip-ons,fake Chanel slip-ons,female,female,,,x,65,85
+fake Chanel sunglasses,fake Chanel sunglasses,,,x,,x,25,55
+fake Gucci bag,fake Gucci bags,female,,,,x,100,175
+counterfeit Qing dynasty bowl,counterfeit Qing dynasty bowls,,,x,,x,200,500
+passport,passports,,,,x,,200,500
+fake passport,fake passports,,,,,x,200,500

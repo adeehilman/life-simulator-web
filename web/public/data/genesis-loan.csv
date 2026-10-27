@@ -1,0 +1,154 @@
+ID,Hero Min Age,Hero Max Age,Hero Gender,Npc,Npc Gender,Commonness Score,Activity,Feedback String,Log String,MinMaxValues,Filter,Score,Relationship Impact,Match
+10001,,,,,,5,,Makes Cents Trust,,,,,,noshark
+10002,,,,,,5,,<Trust Us/Trustees/Century/Loam's> Bank Partners,,,,,,noshark
+10003,,,,,,5,,Piggy Bank,,,,,,noshark
+10004,,,,,,3,,Good Faith <Financial/Trust/Bank>,,,,,,noshark
+10005,,,,,,3,,The <Golden/Bronze/Valuable/Money> Vault,,,,,,noshark
+10006,,,,,,3,,<BD/GD/TD>Bank,,,,,,noshark
+10007,,,,,,5,,<As-Promised/Trusted> Financial,,,,,,noshark
+10008,,,,,,4,,<Wayne/Queens/McDuck/Smaug/Stark/Luthor> and Co Financial,,,,,,noshark
+10009,,,,,,3,,<Watson and Holmes/Wallace and Gromit/Do and Don't/Tom and Jerry/Bob and Patrick/Rick and Morty/Baggins and Gamgee/Calvin and Hobbes> Holdings,,,,,,noshark
+10010,,,,,,5,,<Penny/State/Quarter/Doubloon/Credit>wise Bancorp,,,,,,noshark
+10011,,,,,,4,,<Remote/Secure/Contained> Savings,,,,,,noshark
+10012,,,,,,2,,<Karpett/Money/Bill/Cash/Candy> Munch and Co.,,,,,,noshark
+10013,,,,,,4,,<Placeholder/Financial/Trust> Reserves,,,,,,noshark
+10014,,,,,,3,,<Davy Jones'/Morgan's/JP's/Bitizen's> Lockhouse,,,,,,noshark
+10015,,,,,,2,,<Pincher/Zacharia/City> Capital,,,,,,noshark
+10016,,,,,,2,,<Nester/Erica/Neo/Sen>'s Bank,,,,,,noshark
+10017,,,,,,3,,Dime-A-Dozen Holdings,,,,,,noshark
+10018,,,,,,2,,<Future Worth/Lifetime/Generational> Savings,,,,,,noshark
+10019,,,,,,3,,Bank of <Orion/Braavos/the Commonwealth/Commerce/the Common Man>,,,,,,noshark
+10020,,,,,,3,,<Gringotts/The Colonel's> Countinghouse,,,,,,noshark
+10021,,,,,,2,,FLEECA,,,,,,noshark
+10022,,,,,,2,,<Our/National/Capital/The People's> Credit Union,,,,,,noshark
+10023,,,,,,2,,House <Kundarak/Korunda/Morrikan> Bank,,,,,,noshark
+10024,,,,,,3,,<Everywhere/West End/Cardinal/Down South> Bank,,,,,,noshark
+10025,,,,,,4,,Vault of <Wayne/Golden Gate/Esmeralda/Coinage/Funds>,,,,,,noshark
+10026,,,,,,3,,Capital<Wan/Two/Deuce>,,,,,,noshark
+10027,,,,,,3,,World's <Best/First/Biggest> Bank,,,,,,noshark
+10028,,,,,,3,,<Prominence/Lording's/Rosewater/Bellhop/Phoenix/Unburdened/Catalyst> Financial Group,,,,,,noshark
+10029,,,,,,3,,Banco de <Armas/Amor/Flores/Flor/Tesoro/Cielo Azul/Mi Vida>,,,,,,noshark
+10030,,,,,,3,,The Bankers <Collective/Consortium>,,,,,,noshark
+10031,,,,,,3,,The <Money/Savings> House,,,,,,noshark
+10032,,,,,,3,,Treasury of <Zeon/Trinkets/Delphi/Gongaga/Niflheim/Zephyr>,,,,,,noshark
+10033,,,,,,3,,<Baggy/Heavy/Credit/Americo's/Deep> Coffers,,,,,,noshark
+10034,,,,,,3,,Revenue <River/Bank/Lenders>,,,,,,noshark
+10035,,,,,,4,,<Dragon's/People's/Prominence/Watcher's> Hoard and Co,,,,,,noshark
+10036,,,,,,2,,<John's/Hugh Morris'/Ruffian's/Robin's/PeeWee's/TV> Fundhouse,,,,,,noshark
+10037,,,,,,3,,<Zeni/Credits/Caps> Exchange,,,,,,noshark
+10038,,,,,,3,,Cash N Pocket Credit Union,,,,,,noshark
+10039,,,,,,2,,<Ferry's/Freddy's/First/Frat Bros> Federal Exchange,,,,,,noshark
+10040,,,,,,1,,<Fortune/Destiny/Happy> Holdings,,,,,,noshark
+10041,,,,,,1,,<Richter/Richmond/Richman>'s Reserves,,,,,,noshark
+10042,,,,,,4,,<King's/Queen's/Dreamer/Urchin's> Bank and Trust,,,,,,noshark
+10043,,,,,,3,,The <Hidden/Golden Guild> Bankhouse,,,,,,noshark
+10044,,,,,,2,,<Business/Big> Banker <Union/Capital>,,,,,,noshark
+10045,,,,,,2,,The <Gold Vein/Greedless/Eager/Freckled> Financiers,,,,,,noshark
+10046,,,,,,3,,<Eden's/Enrico's> <Banco/Credit Union/Bank/Trust>,,,,,,noshark
+10047,,,,,,3,,<Safe and Secure/Concrete Block/Around the Block> Bank,,,,,,noshark
+10048,,,,,,3,,<Arasaka/Night City/Asukaga and Finch> Finance,,,,,,noshark
+10049,,,,,,4,,<random-surname> & <random-surname> Capital ,,,,,,noshark
+10050,,,,,,3,,<Orson Wells/Sacred Wells/Endless Wells> Fargo ,,,,,,noshark
+10051,,,,,,3,,<Universal/National/Global/Worldwide/International> Credit Union,,,,,,noshark
+10052,,,,,,3,,<Caesar/Napoleon/Washington/Churchill/Newton/Einstein/Darwin/DaVinci/Picasso/Curie/Edison/Turing> Capital ,,,,,,noshark
+10053,,,,,,2,,<Digital/Electronic/Online/Millennium> Capital Alliance,,,,,,noshark
+10054,,,,,,4,,Banco <Salamanca/Santiago/Salamandra/Sanativo/Sanchez/San Jose/San Luis> ,,,,,,noshark
+10055,,,,,,3,,<The Krusty Bank/The Coin Bucket/The Financial Krab/The Crypto Bucket> ,,,,,,noshark
+10056,,,,,,3,,<University/Collegiate/Academic> Financial ,,,,,,noshark
+10057,,,,,,3,,<Deb\355 Tirar mas Dinero/BANCO INoLVIDABLE/EL BaNCO/Un Banco Sin Ti> ,,,,,,noshark
+10058,,,,,,2,,The Bank of <Tatum/Walker/Miller/Iger/Eisner/Chapek/D'Amaro/Mickey> ,,,,,,noshark
+10059,,,,,,4,,<Angkor/Opera House/Eiffel/Taj Mahal/Great Wall/Saint-Michel/Acropolis/Golden Gate/Buckingham/Sagrada Familia/Colosseum/Grand Palace> Financial,,,,,,noshark
+10060,,,,,,3,,The Bank of <Tleilax/Geidi Prime/Caladan/Corrin/Salusa Secundus/Kaitain/Chapterhouse/Arrakis> ,,,,,,noshark
+10061,,,,,,3,,<Alderaan/Coruscant/Naboo/Hoth/Endor/Scarif/Kashyyyk/Yavin 4> Credit Union,,,,,,noshark
+10062,,,,,,2,,<FIFA/UEFA/CONMEBOL/CONCACAF/CAF> Financial ,,,,,,noshark
+10063,,,,,,4,,<Mother's/Father's> Credit Union ,,,,,,noshark
+10064,,,,,,4,,Weyland-Yutani Credit Union ,,,,,,noshark
+10065,,,,,,3,,The NFC-Crypto Bankers Alliance ,,,,,,noshark
+10066,,,,,,3,,Monopoly Monetary Fund ,,,,,,noshark
+10067,,,,,,3,,The <Robber/Oil> Baron's Fund ,,,,,,noshark
+10068,,,,,,3,,King Midas' <Touch of Gold/Goldfinger/Golden Banking/Banker's Touch> Fund ,,,,,,noshark
+10069,,,,,,3,,First Bank of the '<20s/30s/40s/50s/60s/70s/80s/90s>,,,,,,noshark
+10070,,,,,,2,,The New <Club Penguin/Toontown/Poptropica/Neopets> Crypto Bank,,,,,,noshark
+10071,,,,,,3,,Bank of <Metropolis/Gotham/Central City/Star City/Coast City/Wakanda/Smallville/Latveria/Duckburg/Riverdale/Madripoor> ,,,,,,noshark
+10072,,,,,,4,,The BTLF <Group/Monetary Fund/Financial Group/Credit Union/Founders Fund> ,,,,,,noshark
+10073,,,,,,4,,The <Jay Gatsby/Daniel Plainview/Walter White/Montgomery Burns/Tony Montana/Tony Soprano/Terry Benedict/Ozymandias/Norman Osborn/Kingpin> Fund ,,,,,,noshark
+10074,,,,,,3,,The Rizzler and Co Financial Board ,,,,,,noshark
+10075,,,,,,3,,Five Big Booms Financing ,,,,,,noshark
+10076,,,,,,3,,<Managed Risk/Secured/Trustees> Bancorp,,,,,,noshark
+10077,,,,,,3,,<Simone/Homestead/Fort> Providence,,,,,,noshark
+10078,,,,,,3,,<You/Money/Best>First Credit Union,,,,,,noshark
+10079,,,,,,3,,<Bright/Hathaway/Noa/Amuro/Deikun/Andrews/Hank's> Holding Co,,,,,,noshark
+10080,,,,,,3,,<Country/Universal/Side-7/Terra> Interstate Bank,,,,,,noshark
+10081,,,,,,3,,First National Bank of <Terra Firma/Anaheim/Capricorn/Hervic/BOWA/Yashima>,,,,,,noshark
+10082,,,,,,3,,<Mizuho/Sumitomo/Resoma/Sony/Yucho/Shinsei/Sensei/Senpai> Bancshares,,,,,,noshark
+10083,,,,,,3,,<First/Fourth/Journal/Booking/Busy/Big/Boreing> Bankers Inc,,,,,,noshark
+10084,,,,,,3,,<Liam/Noah/Oliver/William/James/Henry/Benjamin/Lucas> Trust and Banking,,,,,,noshark
+10085,,,,,,3,,<Marisha/Mercer/O'Brien/Bailey/Riegel/Willingham/Ashley/Taliesin> International Bank,,,,,,noshark
+10086,,,,,,3,,<Omega/Alpha/Delta/Diptych> Banco,,,,,,noshark
+10087,,,,,,3,,<Sammie's/Shavers/Sid's/Sad Panda> Savings and Loan,,,,,,noshark
+10088,,,,,,4,,Loans R Us,,,,,,noshark
+10089,,,,,,3,,<Big Booty/Backdoor> Bank,,,,,,noshark
+10090,,,,,,3,,<The Collective/The People's/Community FK/Hands Together/Workmans> Credit Union ,,,,,,noshark
+10091,,,,,,3,,<Nag and Beg/On Your Knees/Cry Away/Run and Pray> Partners,,,,,,shark
+10092,,,,,,3,,<Deep n' Debbie's/MT Pocket/B.A.N. Krupt's> Credit Union,,,,,,shark
+10093,,,,,,3,,<Micah/Dutch/Holden/Kefka/RobCo>'s Totally Beloved Usury,,,,,,shark
+10094,,,,,,3,,<Under the Table/Off the Books/Sign-Here/Cooked Books/Discreet Deposit> Trust,,,,,,shark
+10095,,,,,,3,,<Honest Abel's/Legitimate/Trust-Me-Bro/No-Lies/Dependable Duh/Arm's Length/Totes Legit> Financial,,,,,,shark
+10096,,,,,,3,,<Ally's Way/D'Arc Streat/Shea Dee/Loak Sharm/Shylock/Rabid Arlong's> Dealings Co.,,,,,,shark
+10097,,,,,,2,,<Daddy/Mommy/Sissy/Bro>'s <Debt/In-arreas/Overdrawn/Corruptos> Banco Group,,,,,,shark
+10098,,,,,,3,,<Triangle Strategy/Three-Sided Plan/Pyramid Plan> Bank Trust,,,,,,shark
+10099,,,,,,3,,<Watergate/Rool Bender/Dated Finality> Holdings,,,,,,shark
+10100,,,,,,3,,Fye Nance's <Laundering/Lost Credit/Bankerz/Cash Drayne> Union,,,,,,shark
+10101,,,,,,3,,Bank of <Ravenkind/I-O-U/Snakes/Perps/Bad Eggs/Crooked Crooks/Felon's Flames/the Baddy/the Sinner>,,,,,,shark
+10102,,,,,,3,,<Vecna/Kas/Erandis/Soth/Acererak/Zariel/Zarovich/Panoptes/Fikrul/Ghaul/Eramis/Calus/Uldren/Riven/Savathun>\u2019s Cryptid Bank,,,,,,shark
+10103,,,,,,3,,<Contract and Binding/Devil's Due/E-Val Corp/Munnie Owors> Bancorp,,,,,,shark
+10104,,,,,,2,,<Bank of Primerica/Bell's Embargo/PP Bank/Goldman Hungers Bank/Totes-Friendly Bank and Trustees>,,,,,,shark
+10105,,,,,,2,,<Last Resort Capital/Compound Interest Collective/Collateral First Bank/Past Due Credit Union>,,,,,,shark
+10106,,,,,,1,,<Immediate Maturity Trust/Solid Terms Bank/Dockside Finality Bancorp/Swift Settlement Loans/Priority Collections>,,,,,,shark
+10107,,,,,,2,,<Deep Deposits/Raw and Dogginit's Bank/Rapid Growth Financial/Thrust and Trust LLC/Hot Liquidity Partners/Capital Insertion Holdings/Early Withdrawal Bank/Crown Jewel Lendings/Full Spread Financial/High Volume Depository/Mount and Compound Capital>,,,,,,shark
+10108,,,,,,2,,The Bank at <Mercy's/One's/Hope's/Desperado's> End,,,,,,shark
+10109,,,,,,2,,Silver <Bullet/Ankle-Brace/Cufflink/Binding/Tooth> Holdings,,,,,,shark
+10110,,,,,,1,,Life's Last Gamble <Solutions/Investments/Fund/LLC>,,,,,,shark
+10111,,,,,,2,,<Very Legal/Back-Alley/Shady/Shadow Hidden/Dappled in Darkness/Between You and Me/Dead Book> Dealings,,,,,,shark
+10112,,,,,,1,,Deeveel's <Omen/Bloody Fated/Cursed/Muddy/Crusty> Holdings,,,,,,shark
+10113,,,,,,3,,Last Light <Dependables/Kinda Eh Solutions/Loansters/Exchange>,,,,,,shark
+10114,,,,,,1,,Just a Couple'a Guys <LLC/Fundtrust/Trustworths/Funders/Coffers>,,,,,,shark
+10115,,,,,,2,,<Silent Hill/Hill House/The Overlook/Grimsgrave/Castle Rock/Centralia>'s Accursed Bankhouse,,,,,,shark
+10116,,,,,,3,,Penny-Obsessed <Money Grabbers/Moneymunchers/Moneylubbers/Moneyscrewers/Munnie Gobblers>,,,,,,shark
+10117,,,,,,2,,<Break the Bank/It's-A-Steal/Monopoly's Gain/Hooker's/Pimp's> Bancorp,,,,,,shark
+10118,,,,,,3,,Sly Cooper's <Stolen/Thieved/Trashed/Demanded> Collections,,,,,,shark
+10119,,,,,,3,,<Senator/President/Resident> Armstrong's <Bitcoin/Embezzled/Nanobot> Stash,,,,,,shark
+10120,,,,,,2,,Money Printer <Cashfund/Credit Union/Shark Tank/Capital/Financial>,,,,,,shark
+10121,,,,,,1,,Katy's <Left/Baby> Shark <Financial/Trustees/GrubFund>,,,,,,shark
+10122,,,,,,3,,Greedy <Joe/Schmoe/Joel/Jane/Jonathan/Ol' Man LeChuck/Jester/Paul/Logan>'s Coinfund,,,,,,shark
+10123,,,,,,3,,<Smelly/Dreary/Selfish/Dirty/Nasty/Crazy> <Harry/Derry/Jerry/Weenie/Jake/Drake>'s Loanery,,,,,,shark
+10124,,,,,,2,,Dough <Forgers/Granters/Loaners/Grifters/Loans>,,,,,,shark
+10125,,,,,,3,,<Godfather's/Don's/Kingpin's/El Patron's/The Boss's> Financial Solutions ,,,,,,shark
+10126,,,,,,2,,<Concrete Toe/Deep End/Stone Sole/Harbor Depth/Bottom Line> Solutions ,,,,,,shark
+10127,,,,,,2,,<Final Notice/Gentle Persuasion/Strong Arm/Short-Term/Courtesy Visit/No Hard Feelings/Tidy Up> Investment Group,,,,,,shark
+10128,,,,,,3,,<Capone/Gotti/Escobar/Luciano/Lansky/Rasputin/Costello/Gambino/Blanco> Family Financial,,,,,,shark
+10129,,,,,,2,,<Data Broker's/Pump and Dump/Bankman and Fried/Madoff/Belfort/Info Currency> Crypto Group,,,,,,shark
+10130,,,,,,3,,<TokenTrust/ChainBridge/RugPull/PhantomFund/AnchorChain> Digital Lending ,,,,,,shark
+10131,,,,,,3,,<Goodfellas'/Tough Guys'/Wise Guys'/DisHonest Joe's/Gentleman's Agreement/Blood Bonds Ledger> Short-Term Financing ,,,,,,shark
+10132,,,,,,3,,The <Corleone/Soprano/Tattaglia/Barzini/Maranzano/Ochoa/Falcone/Maroni/Fisk/Viti> Family Trust,,,,,,shark
+10133,,,,,,3,,<Fast N' Foul/Some Strings Attached/Don't Worry About It/Reap and Repo/Don't Think Ahead> Loans ,,,,,,shark
+10134,,,,,,2,,<Sleazy/Greasy/Cheezy/Squeezy/Breezy> E.Z. Loans ,,,,,,shark
+10135,,,,,,3,,<Collector's/Lender's/Banker's/Broker's/Shark's/Gangster's> Paradise Financial Group ,,,,,,shark
+10136,,,,,,2,,The <No Other Choice/Hail Mary/Bottom of the Barrel/Last Straw/End of the Line> Fund,,,,,,shark
+10137,,,,,,3,,The Desperate <Debtor's/Beggar's/Borrower's/Gambler's> Credit Union ,,,,,,shark
+10138,,,,,,3,,The <RBBR/BNDT/CRK/MBSTR/SHRK/KLLR> Group ,,,,,,shark
+10139,,,,,,2,,The <Eventual Consequences/Future Repossession/Smile and Sign/Possible Foreclosure/Collateral Collection> Financial Board,,,,,,shark
+10140,,,,,,2,,"Cash 4 <Assets/Souls/Dignity/Debt/Freedom/Liberty>, LLC",,,,,,shark
+10141,,,,,,3,,The <First Accrual/Compound and Interest/Continuous Yield/Perpetual Interest/Premium Rate> Fund ,,,,,,shark
+10142,,,,,,2,,The Commission for <Profitable/Self-Enriching/Savvy/Shady/Greedy> Lenders,,,,,,shark
+10143,,,,,,3,,The Unauthorized <Government/Agency/Family/Partners/Treasury/City/State> Fund ,,,,,,shark
+10144,,,,,,3,,<FastFund/SureCash/QuickLine/SpeedyPay/FlashFund> Capital ,,,,,,shark
+10145,,,,,,3,,<DueDate and Sons/Default Dominion/Last Payment/Penalty Rate/Vig and Interest> Credit Union ,,,,,,shark
+10146,,,,,,3,,<Monkey's Paw/Repo Man/Bloody Nose/Broken Foot/Blood Money/Hand 2 Mouth> Loans ,,,,,,shark
+10147,,,,,,3,,<NoLife/UpCharge/LoanMafia/LendingChains/BadEgg/DownGrade> Credit ,,,,,,shark
+10148,,,,,,3,,<No Questions Asked/Bad Credit/Personal Mistake/Strapped 4 Cash/Hard Money Now> Loans ,,,,,,shark
+10149,,,,,,3,,<FinFrenzy/Blood in the Water/Bucket O' Chum/RazorTooth/Megalodon/Jaws> Loan Group ,,,,,,shark
+10150,,,,,,3,,"Cash Now, <Regret/Consequences/Debt/Foreclosure/Repossession> Later, LLC",,,,,,shark
+10151,,,,,,3,,The <Ball and Chain/Golden Handcuff/Gilded Cage/Velvet Shackles/Silver Leash> Lending Guild ,,,,,,shark
+10152,,,,,,4,,Happy Ending Holdings,,,,,,shark
+10153,,,,,,3,,Dirty Money Dealings,,,,,,shark

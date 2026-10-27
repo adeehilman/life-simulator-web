@@ -1,0 +1,49 @@
+Item Name,Fake Name,Short Name,Possessive Name,Uses Indefinite Article,Uses Definite Article,Plural,Can Be Refurbished,Min Value,Max Value,Unique,Can Be Fake,Appreciates,Appeal Score,Commonness Score,Storage Unit Only,Black Market Only,ID
+Roman aureus,replica Roman aureus,gold coin,,x,,,,1000,10000,,x,x,4,2,x,,200
+Egyptian ankh,replica Egyptian ankh,ankh,,x,,,x,6500,9000,,x,x,3,3,,,201
+Triceratops horn,replica Triceratops horn,,,x,,,,3000000,9000000,,x,x,5,2,,,202
+T-Rex skull,replica T-Rex skull,T-Rex skull,,x,,,,6000000,20000000,,x,x,5,1,,,203
+Egyptian obelisk,replica Egyptian obelisk,obelisk,,x,,,x,2200000000,4200000000,,x,x,5,1,,x,204
+Anubis statue,plastic Anubis statue,Anubis statue,,x,,,x,20000000,420000000,,x,x,2,4,,x,205
+mummified cat,fake mummified cat,,,x,,,,90000,130000,,x,x,2,3,,,206
+mummified dog,fake mummified dog,,,x,,,,80000,120000,,x,x,2,3,,,207
+golden railroad spike,iron railroad spike,golden spike,,,x,,x,2000000,3600000,x,x,x,3,2,,,208
+Mayan funerary urn,replica Mayan funerary urn,Mayan urn,,x,,,x,18000,30000,,x,x,3,3,,,209
+Mayan ceremonial goblet,replica Mayan goblet,Mayan goblet,,x,,,x,21000,38000,,x,x,3,3,,,210
+Navajo clay pot,replica Navajo clay pot,Navajo pot,,x,,,x,42000,136000,,x,x,4,3,,,211
+Incan incense burner,replica Incan incense burner,incense burner,,x,,,x,6500,9000,,x,x,2,3,x,,212
+Egyptian ibis effigy,replica Egyptian ibis effigy,effigy,,x,,,x,26000,72000,,x,,3,4,x,,213
+samurai helmet,replica samurai helmet ,,,x,,,x,30000,65000,,x,x,3,4,,,214
+samurai armor,replica samurai armor,,,x,,,x,90000,180000,,x,x,5,2,,,215
+Velociraptor claw fossil,replica Velociraptor claw,claw fossil,,x,,,,120000,190000,,x,x,4,2,,,216
+Stegosaurus spike fossil,replica Stegosaurus spike fossil,spike fossil,,x,,,,220000,400000,,x,x,3,3,,,217
+coprolite,fake coprolite,,,x,,,,3500,6700,,x,,1,5,x,,218
+fossilized dinosaur skin,fake fossilized dinosaur skin,dinosaur skin,,x,,,,12000,17000,,x,x,2,2,,,219
+ammonite fossil,fake ammonite fossil,,,x,,,,1200,1500,,x,x,3,4,,,220
+suit of Medieval knight's armor,fake suit of Medieval knight's armor,armor,,x,,,x,65000,90000,,x,x,3,5,,,221
+Celtic torc necklace,fake Celtic torc necklace,torc,,x,,,x,60000,160000,,x,x,4,3,,,222
+Michelangelo's sculpting tools,sculpting tools,sculpting tools,sculpting tools Michelangelo once used,,,x,,2700000,4200000,,x,x,5,1,,,223
+King Tut's death mask,replica of King Tut's death mask,death mask,death mask that once belonged to King Tut,,,,x,65000000,90000000,,x,x,5,1,,x,224
+Blackbeard's booty,replica of Blackbeard's booty,booty,booty once belonging to Blackbeard,,,,,40000000,60000000,,x,x,5,1,,,225
+Queen Victoria's bloomers,bloomers,bloomers,underwear once belonging to Queen Victoria,,,x,x,275000,5500000,,x,x,1,4,,x,226
+Tycho Brahe's brass nose,replica of Tycho Brahe's brass nose,brass nose,nose that once belonged to Tycho Brahe,,,,x,75000,95000,,x,x,1,1,,,227
+Napoleon's toothbrush,replica of Napoleon's toothbrush,toothbrush,toothbrush that Napoleon once owned,,,,x,6000,9000,,x,x,1,1,,,228
+Jane Austen's writing desk,replica of Jane Austen's writing desk,writing desk,writing desk that Jane Austen once used,,,,x,300000,400000,,x,x,1,2,,,229
+Julius Caesar's golden laurel crown,replica of Caesar's laurel crown,laurel crown,laurel crown Julius Caesar once wore,,,,x,1000000000,2000000000,,x,x,5,1,,,230
+Alexander the Great's breastplate,replica of Alexander's breastplate,,breastplate that Alexander the Great wore,,,,x,900000000,1200000000,,x,x,4,1,,,231
+terracotta soldier,fake terracotta soldier,,,x,,,x,220000000,420000000,,x,x,4,2,,x,232
+Crown of Saint Stephen,replica of the Crown of Saint Stephen,crown,,,x,,x,500000000,700000000,,x,x,5,1,,x,233
+Aztec Sun Stone,replica of the Aztec Sun Stone,Sun Stone,,,x,,x,150000000,220000000,,x,x,5,2,,x,234
+Hope Diamond,replica of the Hope Diamond,blue diamond,,,x,,x,200000000,350000000,,x,x,5,1,,x,235
+Magellan's map,replica of Magellan's map,map,map that used to belong to Magellan,,,,,1200000,1700000,,x,x,2,3,,,236
+dinosaur egg,fake dinosaur egg,,,x,,,,650000,800000,,x,x,3,3,,,237
+Beethoven's ear trumpet,replica of Beethoven's ear trumpet,ear trumpet,ear trumpet that once belonged to Beethoven,,,,x,500000,2000000,,x,x,1,4,,,238
+Mozart's fortepiano,replica of Mozart's fortepiano,fortepiano,fortepiano that Mozart once owned,,,,x,10000000,30000000,x,x,x,2,3,,,239
+Inca ceremonial knife,replica Inca ceremonial knife,ceremonial knife,,x,,,x,55000,75000,,x,x,2,3,,,240
+Nebra Sky Disk,replica of the Nebra Sky Disk,,,,x,,x,11000000,22000000,,x,x,2,1,,x,241
+Battersea Shield,replica Battersea Shield,shield,,x,,,x,950000,1400000,,x,x,3,1,,x,242
+Ishtar Gate,regular Ishtar Gate,,,,x,,x,500000000,1000000000,,x,x,5,1,,x,243
+prehistoric stone hand axe,regular stone axe,stone axe,,x,,,x,280000,450000,,x,x,1,5,,,244
+Lycurgus Cup,replica Lycurgus Cup,goblet,,,x,,x,250000,500000,,x,x,3,2,,x,245
+Scythian golden comb,replica Scythian golden comb,gold comb,,x,,,x,170000,240000,,x,x,4,3,,,246
+set of Roman bone dice,replica Roman bone dice,dice,,x,,,,45000,65000,,x,x,1,4,,,247

@@ -1,0 +1,110 @@
+Condition,Scenario,Gender,Clean
+Addiction,They tell you that you need to get help with your <addiction> addiction.,both,x
+Addiction,They tell you that your <addiction> addiction is preventing you from fulfilling your duties.,both,x
+Addiction,They tell you that you need help with your <addiction> addiction.,both,x
+Addiction,They say that your <addiction> addiction is preventing you from reaching your full potential.,both,x
+Disease,They tell you that you need more time to focus on your <disease>.,both,x
+Disease,They say that your <disease> is preventing you from being able to fulfill all of your duties.,both,x
+Overwork,They tell you that it's because you're having a hard time staying awake at work.,both,x
+Overwork,They tell you it's because you are always sleeping on the job.,both,x
+Overwork,They tell you it is because you yawn too much while working.,both,x
+Overwork,They tell you that the job just seems like too much for you right now.,both,x
+Overwork,They say that it seems like you are taking on too much.,both,x
+Age,They explain it's because they found someone younger to do your job.,both,x
+Age,They inform you that you are too old to continue this line of work.,both,x
+,No explanation was given as to why you have been let go.,both,x
+,You are told it's because your performance just isn't up to the organization's standards.,both,x
+,Your are told that it's because your attitude is too <negative/pessimistic/gloomy>.,both,x
+,You are told it's because you are too <confrontational/untactful/grouchy/moody/unprofessional/combative/argumentative/defiant/contentious>.,both,x
+,They tell you it's because you are always late.,both,x
+,You are told it's because you don't work well with others.,both,x
+,You are told it's because they saw pics of you at <a concert/a sporting event/a festival/a party/the beach/the pool> on social media after you called out sick.,both,x
+,They tell you that it's because you waste too much time messing around on <your phone/the internet/social media>.,both,x
+,You are told that it's because you spend too much time in the bathroom.,both,x
+,They say it's because they are tired of seeing you complain about <the job/your coworkers/management/your work/the organization> on social media.,both,x
+,You are told it's because your language is often <inappropriate/not PC/offensive/distasteful>.,both,x
+,You are told it's because you've been looking at porn while working.,both,x
+,They tell you it's because you are not following protocol.,both,x
+,You are told it's because you've been spreading false rumors.,both,x
+,You are told it's because your erections are distracting your coworkers.,male,x
+,They tell you it's because you are always flirting with coworkers.,both,x
+,They tell you that you gossip too much about <coworkers/office politics/office relationships/unfashionable coworkers/sexually promiscuous coworkers/management>.,both,x
+,They tell you it's because your often hard nipples are too distracting for your coworkers.,female,x
+,They tell you it's because they suspect you have been lying.,both,x
+,They tell you it's because they believe you have been stealing office supplies.,both,x
+,You are told that you call out sick too often.,both,x
+,They say it's because you have been bringing your personal <problems/drama/issues> into the office.,both,x
+,You are told it is because you cry at work too much.,both,x
+,You are told it's because you have been accused of bullying coworkers.,both,x
+,You suspect it's because you destroyed the copy machine.,both,x
+,You are told that they want to go in a different direction.,both,x
+,They say it's because they believe you have been falsifying records.,both,x
+,They tell you it's because <you show too much cleavage/your skirts are too short/your dresses are too short/your underwear often shows> while you are working.,female,x
+,You are told it is because you often break the dress code.,both,x
+,They tell you they suspect you are drinking on the job.,both,x
+,They tell you that they believe you have addiction issues.,both,x
+,They tell you that it's because you called a coworker <insult>.,both,x
+,They accuse you of having sex on the copy machine.,both,
+,You are told that it is because you have left work early too many times.,both,x
+,You are told it is because you have been accused of masturbating at work.,both,
+,They tell you it's because you lack the <leadership skills/confidence/drive/adaptability/integrity/loyalty/communication skills/resourcefulness/vitality/independence/vision/attention to detail> necessary to have success at your position.,both,x
+,"They tell you it's because you're too apathetic, but you don't really care.",both,x
+,They say it is because you are not reliable.,both,x
+,"You are told that you are not receptive enough to constructive criticism, but you think they're wrong.",both,x
+,You are told that it's because you have been acting like the cock of the walk.,male,x
+,They say it's because you told everyone your Valentine's Day plans were to go home and make love to yourself.,both,x
+,They say they have received too many complaints about your bad hygiene.,both,x
+,They say you told one too many dad jokes.,male,x
+,They tell you it's because they suspect you have been stealing other people's food from the fridge.,both,x
+,They tell you they've received too many complaints about your flatulence.,both,x
+,"They tell you that you ask too many questions, to which you reply, ""How many questions are too many?"".",both,x
+,You are told it is because you cut too many corners.,both,x
+,"They say something about you not being a good listener, but you weren't really paying attention.",both,x
+,They say that there are rumors that you spiked the punch bowl at the holiday party.,both,x
+,They tell you it's because you danced too promiscuously at the holiday party.,both,x
+,You suspect it's because you have been working on your resume at work.,both,x
+,You suspect it's because you have been browsing jobs online while at work.,both,x
+,You suspect it's because of your political beliefs.,both,x
+,"You suspect it's because you sometimes address a woman you work with as <""doll""/""honey""/""cutie""/""hottie""/""dollface""/""sweetie""/""sweetie pie""/""babygirl""/""sweetheart""/""love""/""hun""/""muffin""/""hot stuff""/""mama""/""sweet cheeks""/""darling""/""pussycat""/""kitten""/""foxy""/""sugar""/""sweet thang""/""hot cakes""/""peach""/""peaches""/""bubbles""/""cutie patootie""/""butter cup""/""cookie""/""missy""/""love bug""/""cupcake""/""shorty""/""sweet pea""/""gorgeous""/""precious""/""toots""/""squirt""> instead of addressing her by her name.",male,
+,"You suspect it's because you sometimes address a man you work with as <""honey""/""cutie""/""hottie""/""sweetie pie""/""sweetheart""/""love""/""hun""/""hot stuff""/""sweet cheeks""/""darling""/""sugar""/""daddy""/""papi""/""playboy""/""big guy""/""big papi""/""big boy""/""hunk""/""sexy""/""stud""/""stud muffin""/""dreamboat""/""handsome""/""good lookin'""/""tiger""/""foxy""/""stallion""/""big d""/""sweet thang""/""hot hog""/""hot dog""/""bubba""/""love bug""/""gorgeous""> instead of addressing him by his name.",female,
+,You suspect it's because you pee all over the seat instead of lifting it up.,male,x
+,You suspect it's because you keep clogging the only toilet.,both,x
+,They say it's because everyone in the office got food poisoning from the food you brought in for the potluck.,both,x
+,You suspect it's because you took the last cup of coffee and didn't brew a new pot.,both,x
+,They tell you it's because they found <a gun/a dildo/a rubber vagina/a blow up doll/a vibrator/a porn magazine/nipple clamps/drugs/a bottle of alcohol/a nude picture of a coworker's spouse/a dead cat/a dead squirrel/a dead bird/a used condom/a knife/locks of a coworker's hair/a finger in a jar/all the missing staplers> in your desk.,both,x
+,You suspect it's because you caused a plumbing issue with a tampon you flushed down the toilet.,female,x
+,"They say it's because you say <""that's what she said""/""your mama""/""I can't even""/""literally""/""my bad""/""just sayin'""/""awesomesauce""/""epic""/""bye Felisha""/""sorry not sorry""/""subscribe to PewDiePie""/""YOLO""/""whatever""/""break the internet""/""humble brag""> too much.",both,x
+,They tell you it's because the office was robbed after you failed to lock the door when you left.,both,x
+,"They tell you it's not you, it's them.",both,x
+Addiction,They tell you that your <addiction> addiction is causing you to act like <insult> at work.,both,x
+Addiction,They recommend a rehab clinic for you to address your <addiction> addiction.,both,x
+Addiction,Your coworkers staged an intervention to encourage you to get help with your <addiction> addiction.,both,x
+Disease,They say that it's a liability to allow you to continue working due to your <disease>.,both,x
+Disease,They tell you that they fear you will be absent too often because of your <disease>.,both,x
+Disease,You are told that your <disease> is preventing you from being dependable.,both,x
+Age,You are told that you just don't have it anymore.,both,x
+Age,They say that you've lost your mojo.,both,x
+Age,They tell you that your age has finally caught up to you.,both,x
+Age,They say you don't have the same pep in your step as you used to.,both,x
+Age,You are told that you just don't perform as well as you used to.,both,x
+Age,They tell you that you just can't relate to the younger generation anymore.,both,x
+Age,They say that it might just be time for you to retire from this line of work.,both,x
+Age,They remind you that you're no spring chicken.,both,x
+Age,They say it's just too hard to teach an old dog new tricks.,both,x
+Age,"They tell you that you are young at heart, but old at work.",both,x
+Age,"They say you are past your prime, and that you should consider ""hanging 'em up"".",both,x
+Age,They remind you of all the advantages of retirement.,both,x
+Age,You are told that you just have too many senior moments.,both,x
+Age,You are told that your age is really starting to show.,both,x
+Age,They say it's because you keep leaving your <dentures/hearing aid/hard candy/shoehorn/magnifying glass/cane/black licorice/bifocals/coupons> around the office.,both,x
+Age,They tell you it is because you misplace things too often.,both,x
+Age,"You are told it's because you say ""back in my day"" too often.",both,x
+Age,They say they have received too many complaints about you calling people whippersnappers.,both,x
+Age,They tell you it's because you are just not tech savvy enough.,both,x
+Age,You are told they are tired of you criticizing <millennials/young people/kids/teens>.,both,x
+Age,You suspect it's because you've become too wise.,both,x
+Age,You suspect it's because you've been stealing your coworkers' <prune juice/bread pudding/cream of wheat/canned fruit cocktail/prunes/green bean casserole/meatloaf/Jell-O/raisin bran> from the break room.,both,x
+Age,They say it's because you miss too much time attending funerals.,both,x
+Age,"They tell you why they fired you, but you can't hear what they say.",both,x
+Age,They say it's because you keep pinching the bottoms of the young female employees.,male,x
+Age,"They say it is because you keep calling the young men in the office ""go-hards"" and winking at them suggestively when you say it.",female,x

@@ -1,0 +1,21 @@
+String,Reason Type,Commonness Score
+<his/her> agent said the offer made <him/her> laugh.,Low Offer,3
+<he/she> said performing at your casino wasn't worth <his/her> <time/energy/effort>.,Casino Popularity,3
+<he/she> sent a reply saying that <he/she> stopped performing at <D/C>-list venues a long time ago.,Casino Popularity,3
+<he/she> said that your offer wouldn't cover a single <month/week/day> of <his/her> expenses.,Low Offer,4
+<his/her> people told you that <he/she> got <a movie/an album/a modeling/a book/a podcasting> deal that paid <double/triple> your offer.,Low Offer,5
+<his/her> agent told you it would be <embarrassing/a disaster/devastating> for <casino-celebrity> to be <photographed at/associated with/seen at> <hero-casino>.,Casino Popularity,5
+"<he/she> said <he/she> would need more money than that to interrupt <his/her> ""<Survivor/The Golden Bachelorette/The Traitors/Secret Lives of Mormon Wives/Love Is Blind>"" marathon.",Low Offer,3
+<his/her> agent said that <casino-celebrity> has better things to do than waste <his/her> time at your <bargain-bin/stupid/rickety/ratchet/third-rate/has-been/outmoded/rinky-dink> little casino.,Casino Popularity,5
+<he/she> told you that your offer wouldn't cover one weekend of partying <at Casa Cipriani/at Berghain/at the Cavalli Club/in Ibiza/in Miami/in Cancun>.,Low Offer,3
+<he/she> looked <disgusted/appalled/repulsed/nauseated/annoyed/indignant> at the thought of even stepping foot in your casino.,Casino Popularity,4
+"<his/her> agent confided that <casino-celebrity> couldn't make less money than <celebrity>, who made more than what you offered.",Low Offer,3
+"<he/she> declared that if <his/her> fans caught wind of <him/her> performing at <hero-casino>, they'd never buy <tickets/merch> again.",Casino Popularity,3
+<he/she> said <he/she> could make more money <sending racy pics to People Magazine/posting vids on OnlyFans/having 'special' meet-n-greets for superfans>.,Low Offer,1
+<his/her> agent muttered that <casino-celebrity> would rather <make a critically panned album/appear in a direct-to-TV movie/make a poor-quality sex tape/convert to Scientology/appear on Dancing With The Stars and get voted out first> than work at <hero-casino>.,Casino Popularity,1
+<he/she> looked <shocked/astonished/astounded> and said that couldn't possibly cover <his/her> strict <caviar/Wagyu beef/raw oyster/toro tuna/manuka honey/jamon Iberico>-only diet with that money.,Low Offer,2
+"<he/she> said that based on what <he/she> has heard, <hero-casino> probably has <termites/rats/bedbugs/a spider infestation/fleas/cockroaches/a wasp infestation>.",Casino Popularity,2
+<he/she> asked if your opinion of <his/her> <worth/value/quality/star power/talents> was really that low.,Low Offer,4
+<his/her> publicist said that <casino-celebrity> would be <mocked/lampooned/caricatured> on <Graham Norton/Saturday Night Live/The Tonight Show/The Late Show/the Daily Show/late-night TV> if <he/she> took a job at a place as trashy at <hero-casino>.,Casino Popularity,2
+<his/her> agent said it would cost more to ship <casino-celebrity>'s clothes to <hero-casino> than what you are offering as a salary.,Low Offer,2
+<he/she> said that <his/her> career would crater faster than a teen Disney star reaching adulthood if <he/she> took this gig.,Casino Popularity,3

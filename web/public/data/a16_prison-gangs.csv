@@ -1,0 +1,11 @@
+Gang Index,Male Name,Female Name,Type,Description,Short Description,Power,Violence,Required Respect
+1,Bitizen Mafia,Bitizen Mafia,Bitizen,You must be extremely well-respected to join this gang.,An elite gang,100,0,90
+2,Wrinkly Sneaks,Golden Girls,Age,You must be sufficiently old to join this gang.,A senior gang,12,5,0
+3,Killbillies,Switchblade Sisterhood,Violent,You must have a proven track record of violence to join this gang.,A violent gang,90,100,90
+4,Beefcake Bandits,Sexy Syndicate,Looks,You must have very high looks to join this gang.,A good-looking gang,25,7,0
+5,Brain Brothas,Smart Sistas,Smarts,You must have very high smarts to join this gang.,An intelligent gang,30,10,0
+6,Illegal Jailiens,Illegal Jailiens,Foreigner,You must be born in another country to join this gang.,A foreigner gang,35,50,0
+7,Cash Money Wreckers,Cash Money Wreckers,Money,You must have a very high net worth to join this gang.,A wealthy gang,70,40,60
+8,Blue Ball Bulls,Plastics,Normal,You must be well-respected and vicious to join this gang.,A vicious gang,65,70,80
+9,Hecks Angels,Harleys Angels,Normal,You must be well-respected and feared to join this gang.,A feared gang,80,75,85
+10,Tattletale Squad,Pussyfoots,Normal,You don't need much of anything to join this weak gang.,An unfeared gang,10,5,10

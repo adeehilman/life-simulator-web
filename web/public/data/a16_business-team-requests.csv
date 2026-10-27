@@ -1,0 +1,34 @@
+Scenario,Log Version,Total Cost,Cost Per Employee,Industry Whitelist,Industry Blacklist,Agree Attitude Impact,Disagree Attitude Impact,Log Snippet,Commonness Score
+Some of your employees are asking you to buy <a pool table/a billiards table/a shuffleboard table> for the break room.,My employees asked me to buy <rb> for the break room.,5000,,,food truck,2,-1,buy one,5
+Some of your employees are asking you to install security systems to hinder <break-ins/thieves/criminals/streakers>.,My employees asked me to install a security system.,3000,,,,3,-2,install one,4
+Some of your employees are asking you to buy <a margarita machine/a draft beer system/a fully-stocked bar/bottles of tequila> for the break room.,My employees asked me to buy <rb> for the break room.,4000,,,,3,1,buy one,2
+Some of your employees are asking you to buy new <office chairs/desks>.,My employees asked me to buy new <rb>.,8000,,,food truck,2,-1,buy some,5
+Some of your employees are asking you to provide a game room for their <facility>.,My employees asked me to provide them with a game room.,10000,,,,4,-1,provide one,1
+Some of your employees are asking you to purchase a new television for their conference room.,My employees asked me to buy a television for the conference room.,800,,,,2,-1,buy one,2
+Some of your employees are asking you to soundproof their conference room.,My employees asked me to soundproof the conference room.,2000,,,food truck,1,,soundproof it,3
+Some of your employees are asking you to purchase a new refrigerator for the break room.,My employees asked me to buy a refrigerator for the break room.,1200,,,food truck,2,-1,buy one,4
+Some of your employees are asking you to purchase a new <drink/snack> vending machine for the break room.,My employees asked me to buy a <rb> machine for the break room.,7000,,,food truck,3,-2,buy one,5
+Some of your employees are reporting that their <facility> needs a new copy machine.,My employees wanted me to buy a new copy machine for their <facility>.,1500,,,food truck,2,-3,buy one,4
+An employee is asking you to buy <cocaine/heroin> for a holiday party.,My employees asked me to buy <rb> for a holiday party.,500,,,,-3,1,buy some,1
+Some employees are asking you to buy personalized <scarves/plaques/coffee mugs/letter openers/wine glasses> for everyone at their <facility>.,My employees asked me to buy <rb> for everyone at their <facility>.,,20,,,2,-1,buy them,4
+Some employees are requesting you provide them with company cars.,My employees asked me to buy them cars.,,40000,,,4,,buy them,1
+Several of your employees have expressed an interest in company-sponsored <lunches/dinners/happy hours/bar crawls> every week.,My employees asked me for company-sponsored <rb> every week.,,75,,,3,-1,sponsor them,3
+Some employees have requested you buy them <donuts/coffee/snacks> on <Mondays/Fridays>.,My employees asked me to buy <rb>.,,15,,,2,-1,provide them,3
+Some employees have asked you to hire a cleaning crew to clean the <facility> for them.,My employees asked me to hire a cleaning crew for the <facility>.,2000,,,,2,-2,hire one,2
+Some employees are asking you to buy an espresso machine for their <facility>.,My employees asked me to buy an espresso machine for their <product>.,800,,,,1,-1,buy one,3
+<employee> asks you to give <him/her> money for another employee's birthday party.,An employee asked me to fund a birthday celebration.,30,,,,2,-4,pay for it,2
+<employee> asked you to buy the team tacos on Taco Tuesday.,<employee> asked me to buy tacos for the team on Taco Tuesday.,,15,,,2,-1,buy them,5
+Some employees are asking you to buy new uniforms for the team. ,My employees asked me to buy them new uniforms.,,50,,,2,-2,buy them,5
+<employee> has asked you to donate money to a local charity.,<employee> asked me to donate money to a local charity.,5000,,,,3,-1,donate money,2
+Some of your employees are requesting that you purchase <tequila/wine/liquor/whiskey/rum/vodka> for a party.,My employees asked me to buy <rb> for a party.,350,,,,-2,,buy some,1
+Some of your employees are asking you to rent a <stripper/party bus> for happy hour.,My employees asked me to rent <rb> for happy hour.,450,,,,-2,,rent one,1
+"<employee> thinks you should get <a turbocharger/a modified engine/22"" gold-spoke wheels/off-road suspension/nitrous> for the food truck.",<employee> said I should get <rb> for the food truck.,3000,,food truck,,2,-2,pay for it,3
+<employee> is suggesting you get a large awning for the food truck so customers can order in the shade.,<employee> suggested I get an awning for the food truck to provide shade for ordering customers.,1500,,food truck,,3,-2,buy one,3
+<employee> says you should buy a better menu board because the old one is <ugly/illegible/always falling over/inaccurate/hard to see>.,<employee> said I should buy a better menu board because the old one was <rb>.,500,,food truck,,3,-1,buy one,3
+Your employees are requesting two free meals for every shift worked.,My employees requested I give them two free meals for every shift worked.,,30,food truck,,3,-3,do it,3
+Some employees are requesting you keep the a snack bar fully stocked so they can graze during the workday.,My employees asked me to keep a snack bar stocked.,,150,,,3,,provide one,3
+Some employees want you to host a fundraiser.,My employees asked me to host a fundraiser.,10000,,,,2,,host one,1
+Some employees want you to hire <musician> to put on a private concert.,My employees asked me to hire <musician> to perform a private concert for the team.,125000,,,,5,,the request,1
+Some employees want you to hire <Thorgy Thor/Gia Gunn/Lady Bunny/Trixie Mattel/Alexis Mateo/Jujubee/Jinkx Monsoon/BenDeLaCreme/Alaska/Shea Coulee/Katya Zamolodchikova/Bob the Drag Queen/Bianca Del Rio/Laganja Estranja/Alyssa Edwards/Vanessa Vanjie Mateo/Valentina/Courtney Act/Shangela> to put on a private drag show for the team.,My employees asked me to hire <rb> to perform a private drag show for the team.,30000,,,,3,,hire her,1
+Some employees are asking you to repair <the lights in the break room/the copy machine/the printer/a light in the employee bathroom/the sink in the bathroom/one of the toilets/the thermostat/the air conditioner/the heater/the hot water heater/the sink in the break room/the projector in the conference room/the computer in the conference room>.,My employees asked me to repair <rb>.,150,,,,4,,repair it,5
+Some employees are asking you to replace the truck's <filtration system/fuel gage/windshield wiper motor/battery/propane tank/fuel line/generator/brakes/burners/deep-fryer> sooner rather than later.,My employees asked me to <rb>.,1800,,food truck,,2,-2,replace it,3

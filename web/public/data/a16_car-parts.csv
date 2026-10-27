@@ -1,0 +1,43 @@
+Part,Number,Base Cost,Break Commonness Score,Broken Terms,Optional Descriptions
+air conditioning compressor,1,500,2,"broken, cracked ",Your air conditioner broke on a cross country road trip.
+air filter,1,40,5,"clogged, broken ",A dust storm clogged your air filter.
+alternator,1,400,2,broken,
+axle,1,500,1,broken,You ran over a curb and cracked your axle.
+ball joint,2,200,3,"worn, failing",
+battery,1,125,4,"dead, fried",You left your lights on all night and drained your battery.
+bumper,2,1000,2,"dented, broken, cracked","You found a dent in your bumper after coming out of the store., You backed into a pole and broke off your bumper."
+catalytic converter,1,1200,5,"clogged, broken",
+drive shaft,2,300,3,"failing, broken ",
+engine fan,1,500,3,broken,
+fender,1,500,4,dented,"You found a dent in your fender after coming out of a restaurant., Your ex smashed your fender with a golf club., A bird flew into your fender and dented it."
+fuel gauge,1,250,1,broken,
+fuel injector,1,600,5,"clogged, broken",
+fuel pump,1,500,3,"failing, broken, clogged",
+head gasket,1,1000,1,blown,
+headlight,2,50,2,"shattered, broken",
+ignition coil,1,250,5,"failing, broken",
+key,1,25,1,lost,"You lost a key while swimming., You dropped a key in the sand and lost it."
+engine,1,3000,1,"busted, broken","You blew out your engine drag racing., Your ex put bleach in your fuel tank and destroyed your engine., You flooded your engine after driving through water."
+muffler,1,500,1,"failing, cracked, broken",
+oxygen sensor,1,250,5,faulty,
+power steering pump,1,700,3,"failing, broken",
+radiator,1,500,2,"cracked, broken, failing",
+rearview mirrors ,3,200,2,"broken, cracked, chipped, shattered",You hit a construction cone and cracked your rearview mirror.
+rim,4,100,1,"broken, cracked","You hit a curb and cracked a rim., Someone stole your rim while you were parked in a ghetto neighborhood."
+serpentine belt ,1,500,4,"broken, detached",
+shock absorber,4,300,4,"broken, failing",You went off-roading and broke a shock absorber.
+spark plug,4,70,5,"bad, failing",
+speedometer,1,230,1,broken,
+stereo,1,200,2,broken,"You blew out your stereo rocking out to Beyonce., You played a Britney Spears CD and it broke your stereo."
+tail light,2,50,2,"shattered, broken",You backed into a car and shattered your tail light.
+thermostat,1,220,5,broken,
+timing belt,1,500,4,broken,
+tire,4,100,5,flat,"You ran over a nail while driving and need a new tire., Someone slashed your tire."
+transmission,1,2000,2,"blown, broken",A valet ruined your transmission after taking your vehicle for a joyride.
+water pump,1,500,4,"failing, broken",
+window,5,150,2,"shattered, broken, cracked, shattered","You smashed out your window after locking your keys in your vehicle., An ex threw a brick through your window., A foul ball shattered your window while watching a baseball game."
+window lift motor,4,500,2,"broken, failing","A friend broke your window lift motor by continuously rolling the window up and down., Someone broke your window lift motor while trying to break into your vehicle.  "
+windshield,1,100,4,"shattered, broken, cracked","Some debris flew up and cracked your windshield while driving., A small meteor landed on your windshield and shattered it upon impact."
+windshield wiper,2,30,5,"busted, snapped, broken",You used the windshield wipers without any fluid and broke a wiper.
+key fob,1,200,3,"broken, waterlogged",Someone dropped your key fob in a glass of water. 
+fuel filter,1,50,4,"clogged, broken",Some funky gunk got stuck in your fuel filter.

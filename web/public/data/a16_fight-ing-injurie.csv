@@ -1,0 +1,86 @@
+Type,Uses Indefinite Article,Feedback Snippet,Log Snippet,Gender,Strength Decrease,Toughness Decrease,Agility Decrease,Technique Decrease,Seriousness Score,Pain Score,Can Heal Organically,Duration Score,Surgery Required,Commonness Score,Min Cost,Max Cost
+busted scrotum,x,busted your scrotum,busted my scrotum,male,,,15,15,4,5,x,1,,1,100,500
+broken right arm,x,broke your right arm,broke my right arm,,25,15,,10,3,4,,,x,4,1000,5000
+broken fingers,,broke <two/three/four> fingers,broke <rb> fingers,,10,,,10,3,3,,,,3,400,900
+busted lip,x,busted your lip,busted my lip,,,,,,1,1,x,1,,5,100,200
+broken left arm,x,broke your left arm,broke my left arm,,25,15,,10,3,4,,,x,4,1000,5000
+foot blister,x,developed a blister on your foot,developed a blister on my foot,,,,5,,2,2,x,1,,3,,
+hand blister,x,developed a blister on your hand,developed a blister on my hand,,,5,,,2,2,x,1,,3,,
+broken femur,x,broke your femur,broke my femur,,,,30,20,4,4,,3,x,3,1000,5000
+broken nose,x,broke your nose,broke my nose,,,,,20,3,3,x,4,x,3,200,500
+broken ribs,,broke <two/three/four> ribs,broke <rb> ribs,,20,30,10,10,4,3,,3,x,2,1000,5000
+broken spine,x,broke your spine,broke my spine,,30,30,30,30,5,5,,3,x,2,2000,5000
+broken toes,,broke <two/three/four> toes,broke <rb> toes,,10,,20,30,3,3,x,4,x,3,300,500
+mild concussion,x,suffered a mild concussion,suffered a mild concussion,,10,,,20,2,2,x,4,,4,,
+moderate concussion,x,suffered a moderate concussion,suffered a moderate concussion,,20,,,30,4,3,x,4,,3,,
+severe concussion,x,suffered a severe concussion,suffered a severe concussion,,30,,,50,5,4,x,5,,2,,
+cracked pelvis,x,cracked your pelvis,cracked my pelvis,,30,,30,20,4,5,,3,x,2,1000,5000
+cracked vertebrae,x,cracked <num3-17> of your vertebrae,cracked <num3-17> of my vertebrae,,40,,40,40,5,5,,3,x,2,1000,5000
+broken clavicle,x,broke your clavicle,broke my clavicle,,20,,20,10,3,3,,2,x,2,1000,5000
+dislocated clavicle,x,dislocated your collarbone,dislocated my collarbone,,,,,10,2,4,x,4,x,2,200,400
+dislocated jaw,x,dislocated your jaw,dislocated my jaw,,,5,,20,3,5,x,4,x,2,300,500
+dislocated hip,x,dislocated your hip,dislocated my hip,,5,5,30,20,4,4,x,5,x,1,1000,2000
+dislocated finger,x,dislocated your finger,dislocated my finger,,20,10,,,2,4,x,4,x,2,200,400
+dislocated elbow,x,dislocated your elbow,dislocated my elbow,,30,20,,,4,4,x,5,x,1,300,500
+dislocated knee,x,dislocated your knee,dislocated my knee,,30,,30,20,4,4,x,5,x,2,300,500
+dislocated shoulder,x,dislocated your shoulder,dislocated my shoulder,,20,10,,20,3,3,x,4,x,2,300,500
+busted coccyx,x,busted your coccyx,busted my coccyx,,,,20,20,3,3,,3,x,1,200,500
+fractured face,x,fractured your face,fractured my face,,,,,20,3,4,x,4,x,4,300,500
+fractured larynx,x,fractured your larynx,fractured my larynx,,5,5,,20,5,5,x,5,x,1,500,1000
+fractured orbital socket,x,fractured your orbital socket,fractured my orbital socket,,,5,10,50,5,5,x,5,x,1,500,1000
+fractured skull,x,fractured your skull,fractured my skull,,,20,,50,5,5,x,5,x,2,1000,5000
+stable tibia fracture,x,suffered a stable tibia fracture,suffered a stable tibia fracture,,20,,40,,2,3,x,4,x,3,1000,5000
+transverse tibia fracture,x,suffered a transverse tibia fracture,suffered a transverse tibia fracture,,30,,40,,3,3,,3,x,3,1000,5000
+displaced tibia fracture,x,suffered a displaced tibia fracture,suffered a displaced tibia fracture,,40,,40,,5,5,,3,x,2,1000,5000
+oblique tibia fracture,x,suffered an oblique tibia fracture,suffered an oblique tibia fracture,,20,,10,,2,4,,3,x,3,1000,5000
+comminuted tibia fracture,x,suffered a comminuted tibia fracture,suffered a comminuted tibia fracture,,40,5,40,20,5,4,,3,x,2,1000,5000
+spiral tibia fracture,x,suffered a spiral tibia fracture,suffered a spiral tibia fracture,,40,,20,40,4,4,,3,x,2,1000,5000
+strained groin,x,strained your groin,strained my groin,,,,15,20,3,2,x,4,x,4,1000,2000
+lacerated calf muscle,x,lacerated your calf muscle,lacerated my calf muscle,,10,,40,20,5,5,x,5,x,1,1000,5000
+<two/three/four> dislodged molars,,had <rb> molars dislodged,had <rb> molars dislodged,,,,,,3,3,x,5,x,2,200,1100
+scraped <hand/elbow/leg/knee/cheek/butt/chin>,x,scraped your <rb>,scraped my <rb>,,,,,,1,1,x,5,,5,,
+shattered jaw,x,shattered your jaw,shattered my jaw,,,,,20,4,5,,3,x,3,8000,10000
+herniated spinal disk,x,developed a herniated spinal disc,developed a herniated spinal disc,,30,10,20,10,4,4,x,5,x,5,2000,5000
+sprained calf,x,sprained your calf,sprained my calf,,,,15,5,2,3,x,4,,5,,
+sprained hamstring,x,sprained your hamstring,sprained my hamstring,,,,15,,2,3,x,4,,5,,
+sprained hip flexor,x,sprained your hip flexor,sprained my hip flexor,,5,,20,10,2,3,x,4,,3,,
+sprained lower back,x,sprained your lower back,sprained my lower back,,,5,20,5,2,3,x,4,,5,,
+sprained wrist,x,sprained your wrist,sprained my wrist,,20,,,5,2,2,x,4,,3,,
+sprained hand,x,sprained your hand,sprained my hand,,20,,,5,2,2,x,4,,3,,
+sprained MCL,x,sprained your ACL,sprained my ACL,,10,,15,5,2,3,x,4,,4,,
+sprained ACL,x,sprained your MCL,sprained my MCL,,30,,40,20,5,3,x,5,x,4,5000,9000
+sprained UCL,x,sprained your UCL,sprained my UCL,,40,20,,10,5,3,x,5,x,2,5000,9000
+torn ACL,x,tore your ACL,tore my ACL,,40,,50,30,5,1,,3,x,3,7000,9000
+torn MCL,x,tore your MCL,tore my MCL,,20,,30,10,5,1,,3,x,3,7000,9000
+torn UCL,x,tore your UCL,tore my UCL,,40,,50,10,5,4,,3,x,2,7000,9000
+torn rotator cuff,x,tore your rotator cuff,tore my rotator cuff,,30,30,20,10,4,4,,4,x,3,8000,9000
+stubbed toe,x,stubbed your toe,stubbed my toe,,,,5,,1,5,x,1,,5,,
+shin splints,,developed shin splints,developed shin splints,,,5,,5,1,3,x,2,x,5,200,300
+sciatica,,developed sciatica,developed sciatica,,,,,,2,3,x,3,x,5,300,400
+grade 1 turf toe,,developed grade 1 turf toe,developed grade 1 turf toe,,,,10,5,1,2,x,1,,5,,
+grade 2 turf toe,,developed grade 2 turf toe,developed grade 2 turf toe,,,,20,10,2,3,,1,x,4,400,500
+grade 3 turf toe,,developed grade 3 turf toe,developed grade 3 turf toe,,,,30,15,3,4,,2,x,3,500,700
+plantar fasciitis,,developed plantar fasciitis,developed plantar fasciitis,,,,30,10,3,3,x,2,x,3,100,1000
+high ankle sprain,x,suffered a high ankle sprain,suffered a high ankle sprain,,,,20,10,2,3,x,2,x,3,500,1000
+low ankle sprain,x,suffered a low ankle sprain,suffered a low ankle sprain,,5,,20,10,2,3,x,1,x,4,500,1000
+patellofemoral syndrome,,developed patellofemoral syndrome,developed patellofemoral syndrome,,20,,20,,2,2,x,1,x,2,640,1000
+tennis elbow,,developed tennis elbow,developed tennis elbow,,30,,10,10,2,3,,2,x,1,650,2000
+cauliflower ear,,developed cauliflower ear,developed cauliflower ear,,,,,,2,2,,1,x,1,4000,5000
+torn meniscus,x,tore your meniscus,tore my meniscus,,20,10,30,5,3,4,,2,x,4,3000,6000
+back spasms,,experienced back spasms,experienced back spasms,,20,10,20,10,3,4,x,1,x,5,2000,4000
+twisted scrotum,x,twisted your scrotum,twisted my scrotum,male,,,,40,4,5,x,3,x,1,5000,9000
+busted lip,x,busted your lip,busted my lip,,,,,,1,3,x,1,,5,,
+corneal abrasion,x,suffered a corneal abrasion,suffered a corneal abrasion,,,,,20,2,4,x,1,x,1,100,150
+bruised breast,x,bruised your <left/right> breast,bruised my <left/right> breast,female,,,,,1,4,x,1,,1,,
+Achilles tendonitis,,developed Achilles tendonitis,developed Achilles tendonitis,,,,30,5,2,2,x,,x,2,4000,9000
+ruptured Achilles tendon,x,ruptured your Achilles tendon,ruptured my Achilles tendon,,20,,50,10,4,5,,3,x,3,5000,9000
+sore vagina,x,developed a sore vagina,developed a sore vagina,female,5,,,5,1,2,x,1,,1,,
+sore penis,x,developed a sore penis,developed a sore penis,male,5,,,5,1,2,x,2,,1,,
+sore buttocks,x,developed a sore buttocks,developed a sore buttocks,,,,,,1,2,x,1,,1,,
+flexor tendonitis,,developed flexor tendonitis,developed flexor tendonitis,,20,,,10,2,2,x,2,x,3,2000,8000
+ruptured hamstring,x,ruptured your hamstring,ruptured my hamstring,,,,40,,4,4,x,3,x,2,900,9000
+stretched penis,x,stretched your penis,stretched my penis,male,,,,,1,5,x,2,,1,,
+torn vagina,x,tore your vagina,tore my vagina,female,15,10,,,3,5,x,2,x,1,4000,12000
+inflamed clitoris,x,developed an inflamed clitoris,developed an inflamed clitoris,female,5,,,,2,4,x,1,,1,,
+stretched nipple,x,stretched your nipple,stretched my nipple,,,,,,2,4,x,1,,1,,
+penile fracture,x,suffered a penile fracture,suffered a penile fracture,male,20,15,,,4,5,x,2,x,1,5000,10000

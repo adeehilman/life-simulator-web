@@ -1,0 +1,58 @@
+Condition,Scenario,CTA,Yes Choice,No Choice
+Job,"One day after work, your co-workers invite you out for <singular>.",Will you join them?,For sure,"Nah, not with them"
+Job,A co-worker invites you out for <singular>.,Will you join him?,"Sure, sounds fun",Not this time
+Job,Your supervisor asks you to go out and drink <plural> until you get drunk.,What will you do?,Bring 'em on boss!,I need to be up early tomorrow
+Job,Your co-workers invite you to go drink <plural> during lunch.,Will you go?,I can't turn that down,I brought my lunch
+Job,"While at work, a co-worker offers you a swig of <indefinite> from <his/her> flask.",Will you do it?,Gimme that,I'll pass
+Job,"While carpooling to work, another passenger offers you some <indefinite>.",What will you do?,It will make the day more interesting,Maybe after work
+Job,A fellow employee offers you some <indefinite> before going into a meeting.,Will you do it?,You don't have to twist my arm,"No thanks, I'll pass"
+Job,A co-worker tells you he spiked the punch with <indefinite> duing a work party.,Will you drink it?,Where's the ladle?,I'll stick with water
+Job,"At the company holiday party, a co-worker tells you that the eggnog has been spiked with <indefinite>.",Will you drink it?,Where's the ladle?,I'll just have a soft drink
+Job,Your supervisor offers you some <indefinite> in a one-on-one meeting while discussing your performance.,Will you take it?,I'm gonna need it,"No, thank you"
+Job,Your supervisor invites you over to gossip about your co-workers and then offers you <indefinite>.,Will you drink it?,"Yeah, sounds great","No, let's just talk trash"
+Job,"One day, you find a flask of <indefinite> in your desk with a note that says 'Make today great!'",What will you do?,"Make today great, one swig at a time",Throw it in the trash
+Job,"During an office happy hour, a co-worker offers you <singular>.",Will you drink it?,Let's do it,I'll pass
+Job,"While at a baseball game with your co-workers, your supervisor offers you <singular>.",Will you drink it?,It wouldn't be a ball game without,I'll take a soda
+Job,"You meet your quarterly goal, so your supervisor offers you shots of <indefinite>.",Will you take it?,Make it two,Maybe next quarter
+Job ,"While your supervisor is home sick, your co-workers are all drinking <plural> in the office.",Will you have one?,Make it a double,I have to meet a deadline
+Lover,"After a long day, <lover> hands you <singular>.",Will you drink it?,"Yes, I need it!",I'll pass
+Lover,<lover> asks you to go out for <plural> after work.,Will you go?,"Let's go, bae","No way, bae"
+Lover,<lover> tells you <he/she> wants to feed you <plural> and take advantage of you.,Are you up for it?,I'm thirsty,I'm not in the mood
+Lover,<lover> asks you if you want to go to a bar to drink <plural>.,Are you feeling it?,"You set 'em up, I'll knock 'em down",Not tonight
+Lover,"While out on a date, <lover> offers you <singular>.",Will you drink it?,Sounds great,I'd rather stick to water
+Lover,"While out on a date, <lover> asks if you'd like to share <singular>.",Will you join in?,Let's toast on it,"It's all you, wino"
+Lover,"While on a date, <lover> orders you each <singular>.",Will you drink it?,Cheers to us!,"Two for you, beer belly!"
+Lover,"While at <musician-indefinite> concert, <lover> offers you <singular>.",Will you drink it?,"Yes, if it will make the music sound better","No, the music is intoxicating enough"
+Lover,<lover> offers you <singular> that you've never tried.,Will you try it?,Let's do this,Maybe another time
+None,"While at <musician-indefinite> show, your friends are drinking <plural>.",You down?,Hells yeah,"No, I'm cool"
+None,Some of your friends are sipping <plural>.,Will you join them?,Order me one,"No thanks, I'll pass"
+None,Your neighbor has invited you out for <singular>.,What will you do?,"Sure, I'm down",I'll pass
+None,You have been offered <plural>.,What will you do?,Try a sip,That's not for me
+None,"While at <musician-indefinite> concert, your friends are drinking <plural>.",Will you join them?,I'm gonna need to to get through it,"No need, this concert is lit"
+None,"While attending <musician-indefinite> concert with friends, your friend offers you <singular>.",What do you say?,"Yes, I'm going to need it",No I want to remember this one
+Lover,"While at church, <lover> slyly passes you a flask of <indefinite>.",What will you do?,"Forgive me father, for I am a sinner",Thou shall not drink in the holy house
+Lover,<lover> invites you to get tanked on <indefinite> before going to a party.,What do you say?,You don't have to ask me twice,Someone has to be sober
+Lover,"While at a wedding, <lover> asks you if you would like <singular>.",Would you like one?,"Yes, make it a double","No, I'd prefer a coffee"
+Lover,"While on a picnic, <lover> surprises you with a flask of <indefinite>.",Do you want some?,Let's toast to us,Are you an alcoholic?
+None,"<circumstance-public>, a man offers you a sip of <singular> that he is holding in his hands.",Will you drink it?,What's the worst that could happen?,Absolutely not!
+None,"While at a bar, a woman offers you <singular> that she has already ordered.",Will you drink it?,What's the worst that could happen?,Absolutely not!
+None,"<circumstance-public>, a man asks you if you'd like to go have <singular> at the pub.",Will you go?,He seems nice enough,"Sorry, I have somewhere to be"
+None,"<circumstance-public>, a woman asks you if you'd like to go have <singular> at the local bar.",Will you go?,She seems nice enough,"Sorry, I have somewhere to be"
+None,"While at a bar, a stranger asks you if you'd like a sip of his <indefinite>.",Will you do it?,"Sure, let's share a straw",Can't even
+None,Your friends invite you to get drunk on a boat with <plural>.,Will you go?,Meet you at the dock!,I'll pass this time
+None,"While at a pool party, your friends order a round of <indefinite> shots.",Will you take one?,Let's get this party started,"No, I don't do shots"
+None,"While at an airport bar, a good looking bartender offers you <singular>.",Will you take it?,I'll sip on that!,Just a water please
+None,"While at the pub, a shady bartender offers you <singular>.",Will you take it?,A free drink is a free drink,I'd love a soda
+None,"At a rave, a DJ offers you to come back to his place for some <plural>.",Will you go?,"Sure, sounds fun","No, I prefer musicians"
+None,"While at a food festival, a vendor offers you <singular>.",Will you take it?,When in Rome!,Get lost
+Club,Some ballers invite you to drink some <plural> while you are at the club.,Are you feeling it?,Let's ball!,I'm no baller
+Club,You are offered to drink <singular> while watching a rap show at the nightclub.,Will you knock it back?,Gimme that,"Nah, I'm cool"
+Club,"While watching a twerking contest at the club, you are offered <singular>.",Will you drink it?,Hellz yeah!,I prefer watching twerking sober
+Club,A friend challenges you to see who can knock back the most <plural> while at the club.,Up for the challenge?,Let's do this!,I'm not feelin' it
+Club,"While chilling at the club, someone buys a round of <plural> for everyone.",Will you have one?,I don't pass on free drinks,"No, I'm good"
+Club,"While watching a wet T-shirt contest at the nightclub, your friend brings you <singular>.",Will you drink it?,Don't mind if I do,I'm busy
+Club,"While relaxing at a private table in the club, someone randomly orders your group a round of <plural>.",Will you drink it?,Bottoms up!,Seems shady
+Club,"While chilling in the club VIP lounge, a cocktail waitress offers you <singular> on the house.",Will you take it?,You don't have to ask me twice,Maybe later
+Club,"While out on the dance floor of the club, a friend hands you <singular>.",Will you drink it?,Let's dance and drink!,I'm afraid I'll spill it
+Club,"While sitting at the bar of the club, a friend invites you to play a drinking game using <indefinite> shots.",Will you play?,I'm game!,I'm out
+Club,A cocktail waitress at the club is pouring shots of <indefinite> using a funnel.,Will you take a funnel shot?,Pour it down!,That's too crazy for me

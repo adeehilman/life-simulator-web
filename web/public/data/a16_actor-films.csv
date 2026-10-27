@@ -1,0 +1,343 @@
+Title,Genre,Rating,Difficulty Score,Commonness Score,Lead Name,Lead Gender,Lead Min Age,Lead Max Age,Lead Uses Definite Article,Supporting 1 Name,Supporting 1 Gender,Supporting 1 Min Age,Supporting 1 Max Age,Supporting 1 Uses Definite Article,Supporting 2 Name,Supporting 2 Gender,Supporting 2 Min Age,Supporting 2 Max Age,Supporting 2 Uses Definite Article,Supporting 3 Name,Supporting 3 Gender,Supporting 3 Min Age,Supporting 3 Max Age,Supporting 3 Uses Definite Article,Bit Name,Bit Gender,Bit Min Age,Bit Max Age,Bit Uses Definite Article,Bit Uses Indefinite Article
+A Final Engagement,action,R,4,3,,,,,,,,,,,,,,,,,,,,,shadowy figure,,35,55,,x
+Infinity,action,PG-13,2,3,Tom Cruz,,20,50,,Cat Damon,female,20,50,,Jim Johansson,male,50,70,,Kristen Evans,female,20,40,,landscaper,,25,50,,x
+Snitches Get <Pinches/Pinched/Cinched/Clenched/Stitches>,action,PG-13,3,3,,male,30,55,,,male,30,55,,,female,18,22,,,male,25,55,,cop,,25,40,,x
+The Revengers,action,PG,3,4,Lieutenant America,,20,40,,The Incredible Bulk,,30,40,,The Wisp,,18,25,,The Crimson Witch,female,27,40,,pedestrian,,18,50,,x
+Mr. & Mrs. Smythe,action,PG-13,5,3,Brad Smythe,male,30,40,,Angelina Smythe,female,30,40,,Jennifer,female,30,40,,Abraham Danz,male,20,35,,Jennifer's lackey,female,20,25,,
+Bottom Gun,action,R,4,2,"Scott ""Fisher"" Mitchell",male,20,25,,"Randy ""Duck"" Bradshaw",male,20,25,,"Carla ""Carly"" Blackwood",female,20,25,,Tim Kazansky,male,30,35,,hangar janitor,,,,,x
+Arachnid-Man,action,PG-13,5,2,Percy Parker,male,18,25,,Maggie Jayne Watson,female,18,25,,Horton Osborn,male,30,45,,June Parker,female,35,45,,Uncle Fred Parker,male,35,45,,
+The Starvation Games,action,PG-13,3,3,Katniss <Evermean/Neverdeen/Nevermean/Quiverdeen>,female,18,25,,<Beeta/Deeta/Meeta/Leeta> Mellark,male,18,25,,Haymitch Aldeen,male,30,40,,Ellie Trinket,female,30,40,,game operator,male,50,70,,x
+Majority Report,action,R,4,4,Hank Anderton,male,30,40,,Manny Witwer,male,30,45,,Angela Lively,female,18,30,,Geoffrey Burgess,male,40,55,,police officer,,,,,x
+<Babysitters/Protectors/Defenders/Keepers/Champions/Custodians/Wardens/Stewards/Caretakers> of the Galaxy,action,PG,4,2,<Sun/Nova>-Lord,male,25,35,,Damora,female,25,35,,Boot,male,,,,Sprocket,male,,,,Federation soldier,,,,,x
+Crush <Time/Hour>,action,R,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+I Dream of <Bombs/Explosions/Fireworks/Shrapnel/Wartime>,action,R,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+High-Tail it to the <Boat/Motor/Jet/Plane/Helicopter>,action,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Detonator,action,PG-13,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+A Most <Deceptive/Adventurous/Scandalous/Salacious> Game,action,PG-13,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Ready, Set, Boom",action,PG,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+<Ninjas/Samurai/Shoguns> at Sunset,action,G,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+One in the <Holster/Chamber>,action,PG-13,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Issue of the Ex,action,PG-13,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+The <Australian/Russian/Norwegian/Swedish/Finnish/American/Mexican/Bolivian/Brazilian/Tasmanian> Candidate,action,R,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wings at War,action,R,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bamboozled in <Mumbai/Bangalore/Kanpur/Jaipur/Bihar>,Bollywood,PG-13,3,3,Shah Rukh Kumar,male,35,45,,Alia Chopra,female,30,40,,Priyanka Khan,female,15,25,,Nadir Kanna,male,17,30,,dancing extra,,17,27,,x
+Slumdog Billionaire,Bollywood,PG-13,3,4,Naz Kann,male,20,30,,Kumar Kumari,male,20,30,,Diya Devi,female,16,26,,Prisha Ram,female,45,55,,food cart vendor,,18,50,,x
+A Fistful of Rupees,Bollywood,PG-13,,3,Avi Khati,male,35,45,,Lekha Khati,female,30,40,,Bhavin Patel,male,55,70,,Krisha Meghani,female,16,25,,gunrunner,male,25,40,,x
+Typhoon Wedding,Bollywood,PG-13,3,4,Lalit Vaswani,male,50,65,,Pimmi Vaswani,female,50,65,,Ria Vaswani,female,21,27,,Aditi Vaswani,female,16,20,,wedding singer,,30,40,x,
+Article <13/14/16/18>,Bollywood,PG-13,4,5,Ayan Rayasam,male,35,55,,Advika,female,30,40,,Geetika,female,25,35,,Nihal Sahni,male,35,50,,kati roll vendor,,20,60,,x
+The Sky is Purple,Bollywood,PG-13,2,4,Aditi Chaganti,female,25,35,,Niren Chaganti,male,35,45,,Aisha Chaganti,female,18,25,,Ishaan Chaganti,male,20,27,,night nurse,female,25,35,,x
+Madame,Bollywood,R,,3,Advik Sharma,male,,,,Aarush Devi,male,,,,Kashvi Ansari,female,,,,Aarna Barik,female,,,,,,,,,
+Innocent,Bollywood,R,,4,Rudra Ray,male,,,,Pari Ram,female,,,,Ayman Sarkar,male,,,,Dhvanti Devi,female,,,,,,,,,
+Hellbottoms,Bollywood,PG-13,,2,Anvi Khatun,female,,,,Farhan Majhi,male,,,,Riyaan Rani,male,,,,Ira Das,female,,,,,,,,,
+Thirsty,Bollywood,PG,,3,Misha Prasad,female,,,,Ishika Ahamad,female,,,,Tia Chaudhary,female,,,,Riyaan,male,,,,,,,,,
+Bang Bang Shah,Bollywood,R,,5,Ravi Bibi,male,,,,Virat Vasav,male,,,,Mishti Varma,female,,,,Ayat,female,,,,,,,,,
+<Four/Five/Six/Seven> Idiots,Bollywood,PG-13,,4,Kiara Patel,female,,,,Kiaan Kumari,male,,,,Kyra Barik,female,,,,Nadir Kanna,male,,,,,,,,,
+The Matchmaking Medium,Bollywood,G,,3,Aarya Ansari,female,,,,Anand Bibi,male,,,,Zara De,female,,,,Yuvi Mandal,male,,,,,,,,,
+Gangs of the Ganges,Bollywood,R,,3,Ibrahim Ma,male,,,,Fatima Gupta,female,,,,Kavin Boro,male,,,,Amyra Kaur,female,,,,,,,,,
+The <Clean/Filthy/Grimy/Clear/Whole> Picture,Bollywood,R,,4,Viraj Paswan,male,,,,Mahira Nayak,female,,,,Syed Singh,male,,,,Disha Ray,female,,,,,,,,,
+Sanjay,Bollywood,R,,3,Sanjay Patel,male,,,,Pari Patel,female,,,,Ajatasatru Hazan,male,,,,Snigdha Dara,female,,,,,,,,,
+Mumbai Medium,Bollywood,R,,3,Ishika Chaganti,female,,,,Aarush Gupta,male,,,,Riddhi Banerjee,female,,,,Jagadis Modi,male,,,,,,,,,
+The Man Who Feels No <Love/Joy/Touch/Feels>,Bollywood,R,,4,Virat Khan,male,,,,Prisha Meghani,female,,,,Ashtavakra Bhatt,male,,,,Saira Malhotra,female,,,,,,,,,
+Boom Boom!,Bollywood,G,,3,Kumar Khati,male,,,,Priyanka Vaswani,female,,,,Rajiv Jain,male,,,,Meera Ashtikar,female,,,,,,,,,
+As Long As I <Die/Sing/Love/Laugh/Cry>,Bollywood,R,,5,Anvi Bibi,female,,,,Riyaan Sahni,male,,,,Satya Modi,female,,,,Kabir Dalal,male,,,,,,,,,
+Big Hero Flex,childrens,PG,4,3,Hiro Hinata,male,18,21,,Playmax,male,30,50,,Honey Lime,female,21,30,,Gon Gon,female,21,30,,robot soldier,male,18,24,,x
+Space <Dam/Slam/Bam>,childrens,G,3,3,Galaxia Bryant,female,25,40,,Jupiter Jordan,male,25,40,,Pluto LeBron,male,25,40,,Stella Magic,female,25,40,,Supernova's team mascot,,18,60,x,
+<Buster/Spanky/Stinker/Bundy/Buddy/Alfie/Sparky> Comes Home,childrens,G,1,4,,male,18,25,,,female,18,25,,,female,50,80,,,female,30,60,,pet store worker,,18,40,,x
+Peter and Wendy,childrens,G,2,4,Peter Pan,male,18,22,,Captain Hook,male,50,65,,Tinker Bell,female,18,22,,Wendy Darling,female,18,22,,Lost Boy,male,18,22,,x
+Cowl's <Roving/Dancing/Gliding/Sliding/Swaying/Maneuvering> Castle,childrens,G,4,2,Cowl,male,20,28,,Cassandra Hatter,female,18,27,,Valcifer,male,30,40,,Starkl,male,18,22,,<Eggplant/Pumpkin/Squash/Potato> Head,male,,,,
+Ghosted Away,childrens,G,5,2,Shihiro,female,18,20,,Hako,male,18,20,,Zubaba,female,65,90,,Komazi,male,65,90,,<Zero/All>-Face,,,,,
+Weird Wednesday,childrens,G,,2,Janna Coleman,female,18,22,,Melissa Coleman,female,30,40,,,,,,,,,,,,,,,,,
+The Unbelievables,childrens,G,,3,Dustin Unbelievable,male,40,50,,Carla Unbelievable,female,40,50,,Margaret Unbelievable,female,18,20,,Daniel Unbelievable,male,18,20,,police officer,,22,,,x
+The <Smell/Sight> of Cinema,childrens,G,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+The <Buff/Muscular/Borderline/Reversed/Inverted> Merman,childrens,G,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+The <Judo/Capoeira/Kung Fu> Kid,childrens,G,,4,,,18,22,,,,50,80,,,,,,,,,,,,,,,,,
+The Goobers,childrens,G,,5,,,,,,,,,,,,,,,,,,,,,,,,,,
+Overcast with a Chance of Peas,childrens,G,,5,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frosty Pearl and the Six Biddies,childrens,G,,3,Frosty Pearl,female,18,22,,Wicked Queen,female,40,50,,Sassy,female,60,80,,Bossy,female,60,80,,Crassy,female,60,80,,
+<Dispensable/Disregardable/Distinguishable/Disreputable> Me,childrens,G,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Big Boy's Little Adventure,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Angels in the Penalty Box,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Secret <Portal/Garden/Room/Lab> in my Closet,childrens,G,,5,,,,,,,,,,,,,,,,,,,,,,,,,,
+A Day in the Park,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+My Bed is a <Space/Pirate/Cargo> Ship,childrens,G,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+That's My <Moonbeam/Sunbeam/Star>,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+The <Hag/Witch> on My Street,childrens,G,,3,Carolina Morningstar,female,70,80,,,,,,,,,,,,,,,,,,,,,,
+My Father's Wallet,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Safari on the Savanna,childrens,G,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+My Nerdy Life,childrens,G,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stairway to the Stars,childrens,G,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Silly Sorcerer,childrens,G,,5,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bigfoot Goes to Middle School,childrens,G,,2,Bigfoot,male,18,22,,,,,,,,,,,,,,,,,baseball coach,male,24,50,x,
+My Dog's a Scaredy-Cat,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Riding the Lion,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+My Castle,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Braceface,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Magical Umbrella,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Slide into the Future,childrens,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Blah, Blah, Blah!",comedy,PG-13,,3,,,,,,,,,,,,,,,,,,,,,comedy club owner,,60,75,,x
+Eddie Spoonhands,comedy,PG-13,4,3,Eddie Spoonhands,male,20,40,,Cammy Biggs,female,18,25,,Jon O'Malley,male,18,25,,Helga Biggs,female,30,50,,ice cream shop owner,,30,50,,x
+Hazed & Confused,comedy,PG-13,1,3,Jay Blaize,male,18,27,,Mary Juanya,female,18,27,,Brandon Weed,male,18,27,,Jemma Potts,female,18,27,,gym teacher,,35,50,,x
+Homies,comedy,PG-13,1,3,Joey Teno,male,18,25,,Gus Greene,male,18,25,,Ayon Dado,male,18,25,,Sebas Durian,male,18,25,,mall cop,,20,45,,x
+Karens,comedy,PG-13,3,3,Victoria Sawyer,female,18,24,,Karen Duke,female,18,24,,Karen Chandler,female,18,24,,Karen McNamara,female,18,24,,high school teacher,,30,60,,x
+Spookbusters,comedy,G,4,3,Peter Dankman,male,25,40,,Ray Mantz,male,25,40,,Dagon Spangler,male,25,40,,Louis Gully,male,25,40,,subway passenger,,18,70,,x
+Meet the <Maters/Taters/Gators>,comedy,G,1,3,,male,18,22,,,male,45,55,,,female,18,22,,,female,45,55,,farmer,,30,50,,x
+Get Sideways,comedy,R,,3,Miles,male,40,50,,Jack,male,40,50,,Maya,female,35,45,,Stephanie,female,35,45,,wine pourer,,30,50,,x
+The Atoms Family,comedy,G,2,3,<Marticia/Martina/Morticia> Atoms,female,30,40,,Gomez Atoms,male,30,40,,<Tuesday/Thursday/Friday/Wednesday/Saturday/Sunday> Atoms,female,22,25,,<Chubsley/Pugsly/Fugsly/Mugsley> Atoms,male,18,22,,Cousin Why,male,25,,,
+<Phlegm/Creme/Femme/Em/Stem/Clem> & the Holograms,comedy,G,3,3,Derrica Benton,female,25,30,,Amber Benton,female,18,24,,Ava Leith,female,18,25,,Janna Elmsford,female,18,25,,Margarita Alonso,female,18,25,,
+The Loyal Tenenbaums,comedy,R,3,3,Owen Tenenbaum,male,55,70,,Margot Paltrow,female,30,40,,,,,,,,,,,,butler,male,55,65,x,
+Fantastic Zir Fox,comedy,G,2,3,,,,,,,,,,,,,,,,,,,,,farmer,male,45,65,,x
+Ferris Baller's Day Off,comedy,PG-13,3,4,Ferris Baller,male,16,18,,Cameron Cryer,male,16,18,,Sloan Paulson,female,16,18,,Ned Rooney,male,45,55,,goth girl,female,16,18,,x
+Pulp <Science Fiction/Nonfiction/Historical Fiction>,comedy,R,4,3,Tia Wallace,female,30,40,,Vance Vega,male,30,40,,Parcellus Wallace,male,30,40,,Darius Winnifield,male,30,40,,Funny Bunny,female,40,50,,
+School of <Pop/Rap/R&B/Polka/Country/K-Pop/Folk>,comedy,PG-13,2,3,Dewey Ginn,male,30,40,,Principal Duffins,female,40,50,,Ted Schneebly,male,30,40,,Penny Di Marco,female,25,35,,teacher's aide,,,,,x
+The Witches of <Beastwick/Westwick/Northwick/Southwick/Yeastwick/Crestwick>,comedy,R,3,3,Alexandra Bedford,female,35,45,,Jane Spifford,female,35,45,,Sukie Oakley,female,35,45,,Harold Van Horne,male,45,55,,substitute teacher,,,,,x
+American <Fly/Guy/Psi/Cake>,comedy,R,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mother of the Groom,comedy,G,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Blayne's World,comedy,PG,3,5,Blayne,,18,25,,Garf,,18,25,,,,,,,,,,,,guitar store clerk,,25,40,,x
+Nick and Norah's Limited Playlist,comedy,PG-13,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fast Times at Pierpont High,comedy,R,4,4,Brad Harrison,male,18,22,,Stacy Harrison,female,18,22,,Jett Spicoli,male,18,22,,Phoebe,female,18,22,,Mr. <Finger/Foot>,male,45,65,,
+A Bunch of Malarkey,comedy,G,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Happy Ending: Grandpa's Final Wish,comedy,R,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+Peter Poonhound,comedy,R,1,1,Peter Poonhound,male,40,90,,,,,,,,,,,,,,,,,,,,,,
+A Doozy in Djibouti,comedy,PG-13,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cattywampus,comedy,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Devil Wears <Nada/Clothes/Chanel/Levis>,comedy,PG-13,5,3,Sandy Sachs,female,25,30,,Belinda Priestly,female,45,55,,Mildred Charlton,female,25,30,,Kurt,male,25,30,,Oliver,male,45,55,,
+Cleopatra,drama,R,5,3,Cleopatra,female,18,21,,Mark Antony,male,20,35,,Julius Caesar,male,35,50,,Octavian,male,30,45,,High Priestess,female,35,50,x,
+Here with the Wind,drama,G,5,3,Jade O'Hara,female,20,35,,Jett Butler,male,25,35,,Nanny,female,45,65,,Ashley Ilkes,male,25,35,,soldier,,25,50,,x
+Othello,drama,R,3,2,Othello,male,20,40,,Desdemona,female,18,30,,Iago,male,30,45,,Cassio,male,20,35,,Bianca,female,18,22,,
+The Great Gatsby,drama,R,5,2,Jay Gatsby,male,18,30,,Nick Carraway,male,18,30,,Daisy Buchanan,female,18,30,,Tom Buchanan,male,30,45,,bus driver,,30,60,,x
+Blue <Eagle/Vulture/Dove/Pigeon> Down,drama,R,4,3,Jim Evers,male,18,30,,Don McKnight,male,18,30,,William Nelson,male,25,50,,Mark Grimes,male,30,60,,soldier,,18,50,,x
+Call It Fashion,drama,R,3,3,,female,20,40,,,female,20,40,,,male,18,25,,,male,30,50,,fashion model,,18,25,,x
+Girl with a Pearl <Tiara/Necklace>,drama,R,1,1,Gerda,female,18,20,,Luuk Vermeer,male,30,40,,Carolina Vermeer,female,25,35,,Noah van Ruijven,male,40,55,,milkmaid,female,18,25,,x
+The <German/Spanish/British/American/Australian/Mexican/Canadian> Patient,drama,R,3,3,Flip,male,21,34,,Anna,female,20,30,,Lajos de Almasy,male,26,35,,,male,,,,soldier,,,,,x
+<Dead/Living/Deceased> <Writers/Lyricists/Scribblers/Scriveners/Artists/Rhymers/Bards/Balladiers> Society,drama,R,3,3,John Donne,male,40,50,,Neil Berry,male,18,20,,Todd Sanderson,male,18,20,,Thomas Berry,male,40,50,,college student,,18,25,,x
+"<You/Me/They>, Tonya",drama,R,4,2,Tonya <Parting/Sharting/Darting/Easing>,female,25,30,,Carl Gillooly,male,25,30,,Tracy Kerrigan,female,25,30,,Jane Rawlinson,female,40,50,,Veronica Golden,female,40,50,,
+Brokeback <Valley/Prairie/Lagoon/Canyon/Fissure/Bayou>,drama,R,3,2,Kenneth Del Mar,male,30,40,,Aaron Twist,male,25,35,,Thelma Del Mar,female,30,40,,Mary Anne Twist,female,25,35,,Becky Malone,female,25,35,,
+Forrest Chump,drama,PG-13,5,4,Forrest Chump,male,20,30,,<Jamie/Janie/Ginny/Winnie> Curran,female,20,30,,Dubya,male,30,40,,Mrs. Chump,female,40,50,,runner,male,20,30,,x
+Alma and Ruiz,drama,R,3,3,Alma Dickinson,female,30,50,,Louise Ruiz,female,30,50,,Cal Slocumb,male,45,55,,D.J.,male,18,20,,FBI agent,,30,50,,x
+The <Quick/Speedy> & the <Angry/Enraged/Irate/Infuriated>,drama,R,5,4,Brandon O'Conner,male,24,35,,Donny Toretto,male,35,45,,Lena Ortiz,female,35,45,,Leah Toretto,female,24,35,,car mechanic,,,,,x
+RMS Titanic,drama,PG-13,5,3,Zack Dawson,male,18,22,,Iris DeWitt Bukater,female,18,22,,Hal Hockley,male,30,35,,Kathy DeWitt Bukater,female,40,55,,Iris Dawson Calvert,female,80,,,
+The Shawshank Exemption,drama,R,4,2,Preston Dufresne,male,30,35,,"Ellis ""Gray"" Grayson",male,40,45,,Simon Norton,male,40,60,,Charles Hadley,male,30,45,,inmate,male,20,,,x
+The Brotherhood of <Spaghetti/Brothers/the Locker Room/the Dorm/Swiss Cheese/Buddies>,drama,PG-13,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+When <Tears/Raindrops/Leaves/Empires/Traditions/Nations/Colonists/Towels/Curtains> Fall,drama,R,,5,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Midnight Premiere,drama,R,3,3,,female,18,30,,,female,18,30,,,,30,50,,,,30,50,,paparazzo,,40,70,,x
+Trust Me,drama,R,,3,Amanda Shelly,female,18,22,,,,,,,,,,,,,,,,,TV repairman,male,40,55,,x
+Alice in Wonderland,fantasy,G,3,3,Alice,female,18,25,,Queen of Hearts,female,30,45,x,Mad Hatter,male,25,35,x,Caterpillar,male,40,55,x,Card Soldier,,25,30,,x
+Arthur & Lance,fantasy,PG,4,3,Arthur Pendragon,male,20,35,,Gwen Pendragon,female,20,35,,Lance Knight,male,18,22,,Morgana L'Fey,female,35,55,,chambermaid,female,18,30,,x
+Larry Potter & the Gemstone,fantasy,PG,5,3,Larry Potter,male,18,24,,Ron Beasley,male,18,24,,Hermione Stranger,female,18,24,,Siverus Snipe,male,40,55,,Lord Valdemart,male,40,55,,
+Lord of the Strings,fantasy,PG,5,3,Brodo Baggins,male,18,25,,Logolas,male,25,30,,Grandelf the Pink,male,60,80,,Golem,male,40,50,,Lady Gladria,female,30,40,,
+Cinderella,fantasy,G,1,4,Cinderella,female,18,25,,Stepmother,female,50,60,x,Eldest Stepsister,female,25,29,x,Youngest Stepsister,female,18,25,x,Fairy Godmother,female,50,70,x,
+Snow White,fantasy,G,1,4,Snow White,female,18,25,,Queen,female,30,45,x,Huntsman,male,20,35,x,Prince,male,18,25,x,Magic Mirror,male,25,,x,
+Rapunzel,fantasy,G,1,4,Rapunzel,female,18,25,,Sorceress,female,50,80,x,Prince,male,18,25,x,Rapunzel's Father,male,30,40,,,,,,,
+Hansel and Gretel,fantasy,G,1,4,Hansel,male,18,20,,Gretel,female,18,20,,Candy Witch,female,40,70,x,Woodcutter,male,30,40,x,Woodcutter's Wife,female,35,40,x,
+Mitosis Bones,fantasy,G,2,2,Mitosis Bones,male,20,25,,Draxx,male,30,50,,Prox Ide,male,20,25,,Mayor Mucus,male,50,60,,,,,,,
+Dusklight,fantasy,PG,1,4,Bella <Mallard/Duck/Quack/Goose/Honk>,female,18,20,,Edward Sullen,male,18,20,,Jacob Jett,male,18,20,,Veronica Sutherland,female,25,35,,vampire,,,,,x
+Tootie and the Beast,fantasy,G,4,2,Tootie,female,18,25,,Creature,male,20,30,x,Preston,male,25,35,,LeBou,male,20,30,,<Flashlight/Alarm Clock/Electric Kettle/Mug>,,,,x,
+Bedknobs and Boomsticks,fantasy,G,2,3,Evlyntine Price,female,30,40,,Emeritus Browne,male,35,45,,,,,,,,,,,,,,,,,
+Scott Pioneer vs. The Universe,fantasy,PG-13,3,4,Scott Pioneer,male,18,22,,Amanda Flowers,18,22,,,Blades Chau,female,18,22,,Stacey Pioneer,female,18,22,,Wallace,male,18,25,,
+The Infinite Adventure,fantasy,G,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Clairvoyant of Chattanooga,fantasy,G,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mermaid of the Light,fantasy,G,,4,,female,18,26,,,,,,,,,,,,,,,,,,,,,,
+Meet You on the Moon,fantasy,G,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Human of the Immortals,fantasy,G,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+Competition for the Crown,fantasy,G,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Moon Princess,fantasy,G,,3,,female,,25,,,,,,,,,,,,,,,,,,,,,,
+The Jade Rabbit,fantasy,G,,3,,male,,22,,,female,,22,,,,50,,,,,,,,astronaut,,30,,,x
+<country-other> Chainsaw Massacre,horror,R,2,3,,,,,,,,,,,,,,,,,,,,,chainsaw mechanic,male,35,55,,x
+Silence of the Yams,horror,R,4,3,Clarice Sterling,female,20,40,,Mandible Lecter,male,50,70,,Dr. John Crawford,male,20,40,,Bison Bill,male,35,60,,dead farmer,,30,70,,x
+The Lunch Lady,horror,R,2,2,,female,40,80,,,male,18,25,,,female,18,25,,,female,18,25,,teacher,,35,50,,x
+Chompers,horror,PG-13,2,3,Billy Glenn,male,20,35,,Ruby Freeman,female,20,35,,Chompers,,30,60,,Deena Brown,female,30,55,,gas station attendant,,18,50,,x
+Extraterrestrials,horror,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sherry,horror,R,4,3,Sherry White,female,18,25,,Meredith White,female,40,50,,Timothy Ross,male,18,25,,Krista Hargensen,female,18,25,,cheerleader,female,18,24,,x
+"Honey, I Sacrificed the Kids",horror,R,4,1,Dwayne Szalinski,male,30,40,,Dana Szalinski,female,30,40,,Caroline Szalinski,female,18,20,,Jerry Thompson,male,18,20,,"Rusty Thompson, III",male,18,20,,
+The <Pills/Bills/Wills/Thrills> Have Eyes,horror,R,3,4,Curtis Carter,male,40,50,,Donna Carter,female,25,35,,Papa,male,50,60,,Mama,female,55,65,,Diamond,female,20,35,,
+Trauma,horror,R,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Peek-a-Boo!,horror,R,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+All Hallows Eve Kills,horror,R,4,4,Laurie Stride,female,50,65,,Matthew Meyers,male,50,65,,Tinsley Wallace,female,35,45,,Darla Nelson,female,30,45,,Alice Nelson,female,18,24,,
+Orphaned,horror,R,3,3,Daniel Johnston,female,18,20,,Clara Johnston,female,30,40,,Roy Johnston,male,30,40,,Ethel,male,18,20,,Sister Alvis,female,50,70,,
+I Know What You Did Midsommar,horror,R,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+The People Under The <Seats/House/Stars>,horror,R,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chucky The Umpire Slayer,horror,R,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Four Funerals and a Wedding,horror,R,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rachel Getting Buried,horror,R,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grandmother's <Panty Drawer/Basement/Attic/Cellar/Hatch/Clutch/Pantry/Outhouse>,horror,R,,4,,,18,25,,<Nana/MeeMaw/Gram-Gram/Gran/Grandma/Grandmother/Granny>,female,70,,,,,,,,,,,,,hospice nurse,,,,,x
+Waiting for Sunrise,horror,R,,3,,,,,,,,,,,,,,,,,,,,,cabana boy,male,,30,,x
+The Devil's in the <Bed/Room/Details/Cure>,horror,R,,4,,,,,,,,,,,,,,,,,,,,,paralegal,,22,40,,x
+The Depths of Despair,horror,R,,3,,,,,,,,,,,,,,,,,,,,,diver,,20,40,,x
+Man in the Forest,horror,R,,3,,,,,,,,,,,,,,,,,,,,,lumberjack,male,50,60,,x
+Angel Behind You,horror,R,,3,,,,,,,,,,,,,,,,,,,,,fallen angel,,,,,x
+Alejandro's Axe,horror,R,,1,Alejandro de Muerto,male,30,35,,,,,,,,,,,,,,,,,night club owner,female,40,80,,x
+You've Been <Tased/Dazed/Abandoned/Warned>,horror,R,,3,,,,,,,,,,,,,,,,,,,,,park ranger,male,30,40,,x
+Dystopia,horror,PG-13,,2,,,,,,,,,,,,,,,,,,,,,grave digger,male,60,80,,x
+A <Fake/Dull/Rusty/Serrated> Blade,horror,PG-13,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Under the Knife with Dr. Blayde,horror,PG-13,,1,,,,,,Dr. Derek Blayde,male,35,55,,,,,,,,,,,,,,,,,
+Paranormal Smack-tivity,horror,R,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Until We Meet Again,indie,R,2,3,,male,40,65,,,male,40,65,,,,40,65,,,female,40,65,,physical therapist,,20,45,,x
+Are You There?,indie,R,1,3,Tracy Martin,female,18,22,,Steve Ross,male,18,22,,Molly Martin,female,25,35,,Mary Martin,female,50,65,,construction worker,,20,40,,x
+Hot Sauce <Lasagna/Pasta/Soda/Pie>,indie,R,2,4,,female,50,70,,,female,35,50,,,,18,,,,male,25,30,,pizza delivery person,,18,20,,x
+It's Me,indie,R,1,3,Ingrid,female,18,25,,Prairie,female,20,25,,Dax,male,20,30,,Greg,male,18,25,,office assistant,,25,30,,x
+The Diaper,indie,PG-13,2,3,Al Hartley,male,22,30,,Tiffany Hartley,female,22,28,,Al Jr.,male,,,,,,,,,convenience store clerk,female,55,65,,x
+The Open Window,indie,R,1,4,Jessica Dawn,female,35,55,,Yvette Chase,female,35,55,,Maria Thorne,female,35,55,,Meredith Raye,female,18,30,,window cleaner,,30,60,,x
+The Last Days of Frisco,indie,R,3,2,Whit Frisco,male,30,40,,Charlotte Stillman,female,25,35,,,,,,,,,,,,bouncer,male,30,40,,x
+August Cool,indie,R,,2,Jack Paradise,male,30,40,,Nick Cassady,male,30,40,,,,,,,,,,,,dope dealer,male,18,25,,x
+The <Heart/Art/Part/Dart/Time/Spleen/Sword> Thief,indie,R,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Whitewashers,indie,R,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Real Zombies of <NYC/Atlanta>,indie,R,1,1,Elisa Rinna,female,,,,Nina Leakes,female,,,,Dorinda Melody,female,,,,Lisa Vanderbump,female,,,,zombie,female,,,,x
+The <Darkest/Blackest> <Knight/Night/Dawn/Midnight/Twilight/Afternoon>,indie,R,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Were We There?,indie,R,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Here, There, Everywhere",indie,PG-13,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stunning,indie,G,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Time to <Baste/Race/Waste>,indie,PG,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+My Own Private <Borneo/Indigo/Mexico/Tupelo>,indie,R,4,1,Mickey Waters,male,,,,Scott Savor,male,,,,Bob Crow,male,,,,Franz,male,,,,Buzz,male,,,,
+The <Cross-Stitch/Bewitched/Bad Itch> Project,indie,R,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fear of Clothing in Las Vegas,indie,R,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Danny Darko,indie,R,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mulholland Road,indie,R,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Spotless Sunshine On The Eternal Mind,indie,R,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Garden City,indie,R,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Perks of <Being a Sunflower/Being On a Belltower/Having Firepower/Baking With Cornflour/Flexing Horsepower>,indie,PG-13,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+The <Lunch/Dinner/Brunch> Club,indie,PG-13,4,3,Scott Clark,male,18,25,,Blaire Standish,female,18,25,,Maddison Reynolds,female,18,25,,Jake Bender,male,18,25,,Principal,,40,80,x,
+La Di Da,musical,PG-13,4,3,,,,,,,,,,,,,,,,,,,,,jazz club hostess,female,21,30,,x
+Les Venerables,musical,R,3,3,John Valjohn,male,40,55,,Glosette,female,18,25,,Mario Pontmercy,male,18,25,,Pantine,female,20,35,,revolutionist,male,18,50,,x
+<Orlando/Seattle/Miami/Pittsburg/Denver/Tusla>,musical,R,3,4,Foxy Hart,female,30,40,,Selma Kelly,female,30,40,,Eddie Flynn,male,30,50,,"Matron ""Mama"" Horton",female,40,55,,reporter,,30,50,,x
+East Side <Story/Journey/Tale>,musical,PG,3,2,Maritza,female,18,25,,Bruno,male,18,25,,Conchita,female,20,30,,Biff,male,18,25,,gang member,male,18,25,,x
+Mary Boppins,musical,G,5,3,Mary Boppins,female,30,40,,Michael Parks,male,18,25,,Jane Parks,female,18,25,,Bert Cockford,male,30,40,,college professor,,40,70,,x
+My Unfair Lady,musical,G,5,2,Rita Doolittle,female,25,35,,Harry Higgins,male,40,55,,Percival Pickering,male,40,55,,Teddy Hill,male,25,35,,Mama Higgins,female,60,80,,
+The <Taste/Sight/Smell/Touch> of Music,musical,G,5,2,Maria von Tripp,female,20,35,,Captain von Tripp,male,30,45,,Leisl von Tripp,female,18,23,,Mother Prudence,female,40,70,,nun,female,20,70,,x
+The Phantasm of the Opera,musical,PG,4,2,Kathleen Dae,female,18,25,,Phantasm,male,30,45,x,Paulo de Chagny,male,20,35,,Madame Leery,female,40,60,,opera singer,female,18,30,,x
+The <Unremarkable/Laziest/Weirdest/Worst> Showman,musical,G,2,4,P.T. Burnem,male,35,45,,Kevin Carlyle,male,25,30,,Fanny Wheeler,female,25,30,,Chastity Bernum,female,35,45,,Norwegian songstress,female,30,40,,x
+<Lube/Gel/Mousse/Pommade>,musical,PG-13,5,2,Manny Zuko,male,18,25,,Candy Olsson,female,18,25,,Betty Fizzo,female,,,,Ken Nicky,male,,,,Principal McCree,female,,,,
+Stocky Horror Picture Show,musical,R,2,3,Vanessa Weiss,female,18,20,,Brad Minors,male,18,20,,Stocky Horror,male,20,30,,Dr. <I.C. Wiener/Greg Gigglestick>,male,30,40,,Fuchsia,female,30,40,,
+Dogs,musical,G,1,2,Guzabella,female,40,60,,Shallot,male,50,80,,Bustopher Bones,male,20,35,,Mr. Mistoffefleas,male,18,30,,Dellicle dog,,,,,x
+<Laughin'/Hummin'/Jivin'/Dancin'/Prancin'/Vocalizin'> in the Rain,musical,G,3,3,John Lockwood,male,25,35,,Debbie Selden,female,20,30,,Linda Lamont,female,30,35,,Manhattan Brown,male,25,35,,stagehand,,,,,x
+Pappa Mia!,musical,G,4,2,Deborah Sheridan,female,40,50,,Saffron Sheridan,female,18,22,,Iris Mulligan,female,40,50,,Erica Chesham-Leigh,female,40,50,,Tim Carmichael,male,40,50,,
+The Book of Moron,musical,R,3,1,Elda Bryce,male,18,25,,Elda Cuttingham,male,18,25,,Elda McKay,male,18,25,,Elda Blanchard,male,60,80,,villager,male,,,,x
+Funny <Woman/Gal/Chick/Lass>,musical,PG,5,2,Frannie Brice,female,20,25,,Ricky Arnstein,male,25,30,,Lorenzo Ziegfeld,male,50,65,,Petunia Brice,female,40,50,,showgirl,female,,,,
+Violin Rouge!,musical,R,5,3,Christopher,male,18,25,,Velveteen,female,20,30,,Hank Zidler,male,40,50,,Duke of Montmoth,male,50,60,,<Red/Purple/Pink/Orange/Blue/Yellow> Fairy,female,18,25,x,
+A Chorus <Circle/Square/Rectangle/Triangle/Vector/Trapezoid/Rhombus/Parallelogram>,musical,PG,3,2,Mack,male,30,40,,Bessie,female,20,30,,Tiana Morales,female,18,30,,Saul San Marco,male,18,30,,dancer,,18,25,,x
+North Park,musical,R,2,,Terry Cartman,male,18,24,,Carl Broflovsky,male,18,24,,Dan Marsh,male,18,24,,Lenny McCormick,male,18,24,,Kimmy!,female,18,24,,
+Puppets Take Manhattan,musical,G,5,2,Dermott the Frog,male,,,,Miss Hoggy,female,,,,Bozzie Bear,male,,,,Donzo the Great,male,,,,Pooter,male,,,,
+Romeo & Juliet,romance,R,4,2,Romeo Montague,male,18,25,,Juliet Capulet,female,18,25,,Ben Volio,male,20,35,,Paris Prince,male,20,35,,housemaid,female,20,50,,x
+Brunch at Tiffany's,romance,G,5,2,Dolly Golightly,female,20,35,,Saul Varjak,male,20,35,,Brock Golightly,male,30,50,,AJ Berman,male,30,50,,party attendee,,20,50,,x
+Bite Club,romance,PG,2,2,Matthew Durden,male,20,35,,Ted Norton,male,20,35,,Carla Singer,female,20,35,,Devil Face,male,25,40,,fighter,,18,45,,x
+Pride & Prejudice,romance,PG,3,4,Elizabeth Bennett,female,18,20,,Fitzwilliam Darcy,male,25,35,,Mrs. Bennett,female,40,50,,Jane Bennett,female,20,25,,Charles Bingley,male,20,30,,
+Fifty Shades of Rust,romance,R,1,3,Anastasia Irons,female,20,25,,Christian Rust,male,30,35,,Kendra Kavanaugh,female,18,20,,Mark Taylor,male,40,50,,secretary,female,,40,,x
+<Clean/Filthy/Dusty/Grubby/Grimy/Muddy> Dancing,romance,PG-13,4,3,Johnny Palace,male,20,25,,"Dolores ""Sweetie"" Houseman",female,18,24,,Ronnie Gould,male,20,25,,Nicki Johnson,female,20,25,,waiter,male,18,25,,x
+Heart of the Matter,romance,G,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+<Heated/Burning/Yearning/Tangled/Turning/Fading> Hearts,romance,R,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+<Flightless/Unbridled/Sweeping/New/Our/Hungover/Dime-a-Dozen/Everyday> <Love Stories/Hearts/Interests/Nuptuals/Weddings/Passions>,romance,R,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+<His/Her> Name on <His/Her> Lips,romance,PG-13,2,3,,,,,,,,,,,,,,,,,,,,,<frat boy/college nerd/university janitor/receptionist/resident assistant/pedestrian>,male,20,24,,x
+When <Bliss/Beauty/Passion/Time/the World> Fades,romance,PG-13,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hope <Sinks/Flies/Dives/Chokes/Spoke/Gloats>,romance,PG,2,3,Jodie Pruitt,female,30,35,,Gina Calvert,female,60,70,,Darryl Matisse,male,30,35,,Nomi Post,female,40,45,,unemployment office manager,female,30,35,x,
+The Princess <Bridesmaid/Flower Girl/Ring Bearer/Maid of Honor>,romance,G,3,4,Daffodil,female,18,25,,Prestley,male,18,25,,Prince Dumpadick,male,30,40,,<Enfuego/Ignacio> Montoya,male,25,35,,Miracle Maxine,female,50,80,,
+Sleepless in <Nantucket/Miami/Orlando/New York/Buffalo/Kentucky/Portland/Sacramento/San Juan>,romance,PG-13,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+It's a Wonderful <Dog/Cat/Bit>Life,romance,G,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+No More <Ruby Slippers/Glass Slippers/Magic Pumpkins/Wishes/Stars/Happy Endings/Princes/Princesses>,romance,R,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+<15/20/25/30/35/40/45/50/55/56/57/58/59> Seconds to Midnight,romance,G,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+When Our <Dreams/Hearts/Lives/Eyes/Noses/Parts/Cheeks/Hands> Collided,romance,PG-13,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Manatee,romance,G,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+Happy <Trails/Ending/Tails>,romance,G,1,4,,male,20,40,,,male,18,30,,,female,55,70,,,male,20,45,,receptionist,male,20,40,,x
+Illegally Blonde,romantic comedy,PG-13,5,2,Belle Woods,female,18,28,,Claudette Bonafonte,female,30,45,,Lilian Kensington,female,25,35,,Professor Houlihan,male,45,60,,law student,,20,40,,x
+Insanely Rich Asians,romantic comedy,PG-13,4,3,Connie Chu,female,30,40,,Rick Young,male,35,45,,Dassani,female,25,30,,Jin Yang,male,25,35,,noodle chef,,55,75,,x
+You Had Me At Hello,romantic comedy,R,3,3,Terry McGuire,male,35,45,,Dorothy Bard,female,30,40,,Rob Tibwell,male,25,35,,,,,,,rogue football fan,male,25,35,,x
+Zombie Zaddy,romantic comedy,PG-13,1,1,,male,20,25,,,male,20,25,,,male,20,25,,,male,40,55,,zombie sugar baby,,18,25,,x
+<num60-90> First Dates,romantic comedy,PG-13,4,4,Barry Roth,male,25,35,,Carrie Whitmore,female,25,35,,Hal Whitmore,male,30,35,,Carlin Whitmore,male,50,65,,cafe manager,,40,60,x,
+Rude Men,romantic comedy,PG-13,3,3,,male,,,,,male,,,,,male,,,,,male,,,,,male,,,,
+"He Ain't <About/Into> You, Sis",romantic comedy,R,1,1,,female,,,,,male,,,,,male,,,,,female,,,,,female,,,,
+The Wedding Swooner,romantic comedy,PG-13,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+He's All That,romantic comedy,PG-13,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+There's Something About Kari,romantic comedy,R,,4,Kari Jensen,female,25,35,,Ted Strokemann,male,25,35,,Pat Greely,male,25,35,,Woodie,male,25,35,,Kari's Mom,female,45,55,,
+My Large Greek Wedding,romantic comedy,PG-13,4,3,Toula Papadopoulos,female,25,30,,Nigel Miller,male,25,30,,Gus Papadopoulos,male,55,65,,Maria Papadopoulos,female,50,60,,Cousin Rikki,female,25,35,,
+30 Going On 13,romantic comedy,PG,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+<300/400/600/800/900> Days of Summer,romantic comedy,PG-13,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nearly Famous,romantic comedy,R,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Big in Bangkok,romantic comedy,R,,2,,,,,,,,,,,,,,,,,,,,,<massage therapist/waxer/eyebrow plucker/chef/aromatherapist/bubble tea merchant>,,20,70,,x
+Pretty Prostitute,romantic comedy,R,4,2,Sylvia Ward,female,25,30,,Theodore Lewis,male,35,45,,James Code,male,50,70,,Thomas Bernardson,male,40,50,,boutique owner,female,40,70,,x
+My Best Friend's Funeral,romantic comedy,PG-13,4,2,Jewel Potter,female,22,28,,Kyle O'Neal,male,25,28,,Tammy Wallace,female,18,22,,Rowan Downes,male,25,30,,bridesmaid,,,,,x
+Girlfriend of My Imagination,romantic comedy,PG-13,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Forgetting Erica <random-surname>,romantic comedy,PG-13,3,3,Erica,female,,,,,,,,,,,,,,,,,,,,,,,,
+Duke with Funny Socks,romantic comedy,PG-13,,3,Duke Dalton,male,,,,,,,,,,,,,,,,,,,,,,,,
+69 Things I <Tolerate/Love> About You,romantic comedy,PG-13,3,2,Catherine Stratford,female,18,22,,Blanche Stratford,female,18,22,,Mathias Verona,male,18,22,,Kirk James,male,18,22,,English teacher,female,35,50,x,
+Carolyn <random-surname>'s Diary,romantic comedy,PG-13,3,3,Carolyn,female,,,,,,,,,,,,,,,,,,,,,,,,
+Mom Meets My Boyfriends,romantic comedy,PG-13,,3,<Jamie/Rory/Skylar/Sam/Blake/Alex> Jordan,,18,25,,<Mary/Margaret/Emma/Regina/Carla/Darleen/Cheryl/Barbara/Carrie> Jordan,female,50,70,,,male,,,,,male,,,,football coach,male,,,,x
+The Big Shtick,romantic comedy,R,,3,,,,,,,,,,,,,,,,,,,,,slapstick comic,,,,,x
+I Fell for a Mortician,romantic comedy,G,,3,,,,,,,,,,,,,,,,,,,,,funeral home owner,,,,,x
+My Plumber Lays Some Pipe,romantic comedy,R,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+Netflix and Chill,romantic comedy,R,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+<Petty/Pretty> in <Pearl/Peach/Purple/Puce>,romantic comedy,PG-13,3,2,Mandie Walsh,female,18,22,,Quackie Dale,male,18,22,,Blaze McDonough,male,18,22,,Riff McKee,male,18,22,,Leona,female,18,22,,
+Electric Sheep,sci-fi,R,3,3,,,,,,,,,,,,,,,,,,,,,flying car pilot,,45,65,,x
+Interstellar Odyssey,sci-fi,PG,5,2,James Smirk,male,20,25,,Sprock,male,20,25,,Leila Uruha,female,20,25,,Captain Zero,male,30,60,,crew member,,25,50,,x
+Star Skirmishes: A New <Rope/Cope/Dope/Pope>,sci-fi,PG,5,3,Luke Skyrunner,male,18,25,,Leila Organa,female,18,25,,Darth Mater,male,50,70,,Flan Solo,male,25,35,,alien,,18,90,,x
+Intrastellar,sci-fi,PG-13,4,3,Matthew McConnelley,male,35,55,,Joann Hathaway,female,25,40,,Jessica Champlain,female,30,55,,David Cain,male,50,70,,research librarian,female,21,35,,x
+The <Sixth/Seventh/Eighth/Ninth/Tenth/Eleventh> Element,sci-fi,R,3,4,Gordon Dallas,male,30,40,,<Geegoo/Heehoo/Weewoo/Yeeyoo/Deedoo/Beeboo/Meemoo>,female,25,30,,<Emerald/Diamond/Pearl/Onyx> Rhod,male,25,35,,Hamanuel Borg,male,40,60,,flight attendant,,18,30,,x
+<Never/Sommer/Summer/Ever><vale/glade/frost>,sci-fi,PG-13,2,3,,female,,,,,female,,,,,male,,,,,male,,,,,,,,,
+Do You Know the Way?,sci-fi,G,2,4,,male,,,,,female,,,,,female,,,,,female,,,,,male,,,,
+Frankenstein,sci-fi,R,2,4,Victor Frankenstein,male,20,35,,Creature,male,,,x,Captain Robert Watson,male,30,45,,Elizabeth Lavenza,female,20,30,,crew member,,,,,x
+<Edge/Razor/Shank> Runner,sci-fi,R,3,2,Dick Deckard,male,30,45,,Troye Batty,male,30,45,,Rochelle,female,25,35,,Raff,male,20,35,,Duplicant,,,,,x
+Women in Black,sci-fi,PG-13,3,4,,female,,,,,female,,,,,female,,,,,female,,,,alien,,,,,x
+Galactic Issues,sci-fi,G,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Virtual Reality,sci-fi,PG-13,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Resident <Darkness/Wickedness/Immorality/Sin/Corruption>: <Resonance/Resurgence/Badger City>,sci-fi,R,3,3,Chris Bluefield,male,35,40,,Claire Bluefield,female,18,25,,Ada Fong,female,30,35,,Leon Roosevelt,male,30,45,,Patient Zero,,,,,
+I Am <Fable/Myth/Lore>,sci-fi,R,3,3,Roland Neville,male,35,50,,Josefina Montez,female,30,40,,Charlie,male,18,20,,Genesis Creature,male,20,50,x,Genesis' mate,female,20,50,x,
+<Forward/Blast/Backwards/Off> to the Future,sci-fi,G,5,3,Marty McFry,male,18,20,,Dr. Emmett White,male,50,70,,Loretta Baines,female,20,30,,George McFry,male,20,30,,Cliff Tannen,male,20,30,,
+Myths of <Avalon/Babylon/Time/Space>,sci-fi,PG,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gravity Pulls,sci-fi,G,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Weight of <Stars/Comets/Nebulae/Gravity/the Universe>,sci-fi,R,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+<Nebular/Stellar/Galactic> <Horizon/Intersection/Cloud>,sci-fi,PG,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Uranus <Descending/Falling/Propelling/Plummeting/Swirling/Calling/Trembling>,sci-fi,R,4,1,Dr. Oberon Uranus,male,40,55,,Ariel Uranus,female,40,55,,Puck Uranus,male,20,35,,Titania Uranus,female,18,25,,Nancy Neptune,female,,,,
+<Singer/Bringer/Diva> of the <Old/New> <Galaxy/Universe/World>,sci-fi,G,3,3,,female,,,,,,,,,,,,,,,,,,,astronaut,,,,,x
+Robot of Darkness,sci-fi,PG,3,3,,,,,,,,,,,,,,,,,,,,,ship captain,,,,,x
+On the Surface,sci-fi,PG-13,3,3,,,,,,,,,,,,,,,,,,,,,scientist,,,,,x
+Enter into the Dark Net,sci-fi,R,,,,,,,,,,,,,,,,,,,,,,,hacker,,,,,x
+Cryostasis,sci-fi,R,2,2,,,,,,,,,,,,,,,,,,,,,scientist,,,,,x
+Sherlinda's <Smart Phone/Calculator/Camera/Webcam/Computer/Roomba> Takes Over,sci-fi,R,3,4,Sherlinda Graves,female,,,,,,,,,,,,,,,,,,,exotic dancer,,18,70,,x
+Raymond's Last Contact,sci-fi,R,,2,Raymond Ducatt,male,,,,,,,,,,,,,,,,,,,,,,,,
+Never Again,thriller,R,2,2,,,,,,,,,,,,,,,,,,,,,gun runner,,40,55,,x
+One Flew Out of the Dodo's Nest,thriller,R,4,3,Nurse Wretched,female,30,45,,R.P. McAllen,male,30,45,,Manhattan,male,30,45,,Colonel Davidson,male,50,70,,Elvis,male,70,90,,
+<Screech/Squeal/Shriek>,thriller,R,3,3,Cindy Prescott,female,18,25,,Jimmy Loomis,male,18,25,,Misty Weathers,female,20,35,,Casey Decker,female,18,25,,news reporter,,30,50,,x
+<Hot Rods/Wheels>,thriller,R,3,3,,male,30,50,,,male,40,60,,,female,30,50,,,female,18,21,,mechanic,,50,80,,x
+Who Cut My Cheese?,thriller,R,2,3,Alfred Muenster,male,40,60,,Pepper Jack,female,20,35,,Hal Roquefort,male,30,50,,Brie Daniels,female,18,24,,grocery bagger,,18,80,,x
+Who's Calling?,thriller,R,2,3,The Caller,,20,30,,,male,18,25,,,female,18,25,,,,20,35,,cable guy,male,30,40,,x
+The Dying Game,thriller,R,2,3,Frost Whitaker,male,40,55,,,,,,,,,,,,,,,,,undertaker,,,,,x
+<10/11/13/14/15/16/17> Monkeys,thriller,R,3,3,Cole James,male,45,55,,Katheryn O'Reilly,female,45,55,,,,,,,,,,,,microbiologist,,55,70,,x
+Interview with the Werewolf,thriller,R,5,4,Lupine de Lioncourt,male,25,35,,Fenris Dulac,male,25,35,,Flaudia,female,18,23,,Santigo,male,25,35,,pack member,,,,,x
+Nowhere to <Run/Hide/Go>,thriller,R,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sliced,thriller,R,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Draft,thriller,R,3,3,Sarah Daley,female,18,22,,Nancy Crowns,female,18,22,,Betty Harper,female,18,22,,Nellie Zimmerman,female,18,22,,high school football player,,,,,x
+<Hobo/Oboe/Adobo>Cop,thriller,PG-13,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+Point Blank,thriller,R,3,5,Jimmy Utah,male,25,35,,Buddhi,male,25,35,,,,,,,,,,,,,,,,,
+The Man Who Was There,thriller,R,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Broken Glass,thriller,R,1,2,Philip Glass,male,25,35,,,,,,,,,,,,,,,,,FBI agent,,25,55,,x
+What Sits Upon the Top Floor,thriller,R,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+We're <Peeping/Spying on/Watching/With/Behind> You,thriller,R,1,4,Mamma Peeper,female,40,50,,Papa Peeper,male,45,50,,,,,,,,,,,,Uber driver,,,,,x
+The Talented Mr. Cheswick,thriller,PG-13,2,3,Bill Cheswick,male,45,55,,,,,,,,,,,,,,,,,street magician,,,,,x
+No Nation for Young Women,thriller,R,4,3,Sheriff Edina Bell,female,45,55,,Antonia Chigurh,female,45,60,,Coraline Moss,female,45,55,,Cora Moss,female,45,55,,gas station attendant,,18,24,,x
+Hunter of the Nether,thriller,PG-13,2,3,,,,,,,,,,,,,,,,,,,,,<soldier/exotic dancer/cowboy/lawyer/city official/food truck owner>,,30,50,,x
+<Nostrils/Eyes/Ears/Chests> Wide Open,thriller,PG-13,3,4,,,,,,,,,,,,,,,,,,,,,paramedic,,22,40,,x
+Duchess of the Ocean,thriller,R,3,3,,,,,,,,,,,,,,,,,,,,,ship engineer,,30,50,,x
+Slashed,thriller,R,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+The River Styx,thriller,R,2,4,,,,,,,,,,,,,,,,,,,,,<grave robber/janitor/receptionist/apartment complex manager/bartender/barista/landscaper/car detailer/botanist/dog trainer/circus performer/clown/bus driver/taxi driver/biker>,,25,60,,x
+The Campfire,thriller,R,2,3,,,,,,,,,,,,,,,,,,,,,camper,,18,22,,x
+Jennifer <random-surname>'s Stalker,thriller,R,2,4,Jennifer,female,,,,,,,,,,,,,,,,,,,<knife shop owner/grave robber/janitor/receptionist/apartment complex manager/bartender/coffee shop owner/landscaper/car detailer/botanist/dog trainer/circus performer/clown/bus driver/taxi driver/biker/gun store owner>,,40,70,x,
+Mr. Buford Goes Postal,thriller,PG-13,3,3,Haymitch Buford,male,50,70,,,,,,,,,,,,,,,,,,,,,,
+Field of Screams,thriller,R,3,3,Brady Kinsella,male,30,40,,Tyrek Mann,male,45,55,,Janie Kinsella,female,30,40,,Toeless Moe Jackson,male,30,45,,farmer,,35,45,,x
+<White/Blue/Pink/Orange/Red/Gray> Swan,thriller,R,4,3,Naya Sayers,female,18,25,,Iris,female,18,25,,Timothy Leroy,male,30,45,,Emily Sayers,female,40,50,,ballerina,female,18,30,,x
+Bite the Dust,western,R,3,3,Dirk Haynes,male,40,60,,Jayne Hollister,female,25,40,,Jake Baker Jr.,male,18,30,,Seth Riley,male,30,50,,ranch hand,male,18,35,,x
+Buckshot,western,R,2,3,Russell James,male,35,55,,Bartholomew Bucks,male,50,65,,Agnes Gable,female,20,35,,Priscilla Pound,female,50,70,,barmaid,female,20,35,,x
+Derringer,western,PG-13,4,3,Cody Derringer,male,50,60,,Billie Kidd,male,25,35,,Margaret Buford,female,50,60,,Abbie Houston,female,18,25,,feed store clerk,,25,55,,x
+Gold Dust,western,PG-13,2,4,Walker McCoy,male,20,30,,Billy Palmer,male,20,45,,Daphne Duquette,female,18,25,,Hank Creed,male,45,60,,cowboy,male,25,45,,x
+Train to <San Diego/Tulsa/Phoenix/Chattanooga>,western,R,2,3,Hank Holbrook,male,30,50,,Jessica Jasper,female,25,40,,Clay Jessup,male,50,70,,Amos Langdon,male,45,65,,rodeo clown,male,25,50,,x
+Old <Smeller/Crimson/Blue>,western,G,2,2,Jimmy Coates,male,18,20,,Betty Coates,female,30,40,,Don Coates,male,30,40,,Jeffrey Coates,male,18,20,,rancher,male,50,60,,x
+Connie & Clive,western,R,3,3,Connie Parker,female,20,30,,Clive Barrow,male,20,30,,P.W. Ross,male,35,45,,Chuck Barrow,male,31,40,,gang member,male,,,,x
+Untrue Grit,western,R,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Heck or High Water,western,PG,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+The Spiteful Eight,western,PG-13,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+There Will Be Mud,western,R,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+Raising Saddles,western,PG-13,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Guns Hung Low,western,R,,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+Report Your Local Sheriff,western,PG,,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+Silverado Ranch,western,G,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Headstone,western,R,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dances With <Hooves/Coyotes>,western,PG,,5,,,,,,,,,,,,,,,,,,,,,,,,,,
+Legends of the Fallen,western,PG-13,,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+Six Shooter,western,R,,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+<Across/Down/Beyond> the Rio Grande,western,R,,5,,,,,,,,,,,,,,,,,,,,,,,,,,

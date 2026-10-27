@@ -1,0 +1,44 @@
+Instrument,Genre,Project Tones,Commonness Score
+tambourine,"worship, folk, country","discovery, excitement",5
+piano,"pop, rhythm and blues, folk, worship","romantic, sorrow, intimate",5
+acoustic guitar,"country, folk, worship, pop","romantic, wonder,  discovery",5
+steel drums,reggae,"epic, triumphant, excitement",5
+drums,"heavy metal, rock, alternative, reggae","epic, triumphant, excitement",5
+electric guitar,"pop, heavy metal, alternative, rock","triumphant, excitement",5
+bass guitar,"rhythm and blues, heavy metal, rock, alternative","suspense, excitement",5
+synthesizer,"EDM, rap, hip-hop, K-pop","ambience, wonder",5
+theremin,"EDM, rhythm and blues, rock, alternative","suspense, terror",2
+banjo ,"pop, rock, country, folk","discovery, excitement",4
+mandolin,"country, alternative, folk ","romantic, discovery, intimate ",3
+double bass,"pop, rhythm and blues, country, folk","suspense, sorrow",4
+cowbell,"pop, K-pop, rock, alternative","excitement, discovery",3
+trumpet,"rhythm and blues, rock, rhythm and blues, pop","epic, triumphant",5
+flugelhorn,"rhythm and blues, reggae, hip-hop","romantic, intimate",2
+saxophone,"rhythm and blues, rap, rock, hip-hop","ambience, wonder",5
+gong,"heavy metal, K-pop, alternative, EDM","suspense, terror ",2
+flute,"rhythm and blues, rock, worship, folk","wonder, discovery",4
+bongos,"rhythm and blues, folk, reggae, hip-hop ","discovery, excitement",3
+trombone ,"pop, rhythm and blues, rock, alternative","epic, triumphant",4
+clarinet,"pop, rock, alternative, folk","ambience, sorrow",2
+timpani ,"rock, K-pop, alternative, EDM","epic, suspense",3
+xylophone,"K-pop, alternative, worship, hip-hop","suspense, excitement",3
+chimes,"heavy metal, K-pop, alternative, worship","ambience, wonder",3
+handpan,"country, folk, worship","wonder, ambience, terror",2
+marimba,"pop, K-pop, alternative, worship","ambience, wonder",3
+rainstick,"pop, K-pop, alternative, worship ","ambience, discovery",2
+washboard ,"country, alternative, folk, rhythm and blues","discovery, excitement",2
+accordion ,"rock, country, alternative, folk","romantic, sorrow",3
+Aztec death whistle,"rap, heavy metal, alternative, EDM","suspense, terror",2
+bagpipe,"heavy metal, alternative, folk ","epic, triumphant",3
+didgeridoo,"rock, folk, pop","suspense, terror ",2
+french horn ,"pop, folk, worship ","romantic, sorrow",3
+jug,"rock, country, alternative, folk ","discovery, excitement",4
+kazoo,"pop, country, alternative","discovery, excitement",3
+melodica,"pop, alternative, EDM","discovery, ambience, intimate",2
+pipe organ,"heavy metal, rock, alternative,  worship","epic, ambience, triumphant",4
+pan flute ,"country, reggae, folk ","wonder, ambience",2
+cello,"rhythm and blues, alternative, folk, worship","romantic, sorrow, intimate",4
+fiddle,"rock, country, alternative, folk ","romantic, sorrow, discovery",4
+harp,"pop, K-pop, alternative, worship ","romantic, wonder, discovery",3
+turntable,"rap, EDM, hip-hop","excitement, triumphant",5
+keytar,"pop, K-pop, rock, EDM","excitement, triumphant",3

@@ -1,0 +1,31 @@
+ID,Hero Min Age,Hero Max Age,Hero Gender,Npc,Npc Gender,Commonness Score,Title/Activity,Scenario/String,Narrative/Log,MinMaxValues,Filter,Score,Impacts,Match
+10001,,,,,,5,,Critics hailed it as an instant classic.,My latest film was a critical hit.,,,,,hit
+10002,,,,,,5,,Reviewers called it the year's most electrifying release.,Critics loved my latest film.,,,,,hit
+10003,,,,,,5,,The film earned a rare standing ovation from critics.,My film won over the critics.,,,,,hit
+10004,,,,,,5,,Critics praised its bold vision and flawless craft.,The critics praised my directing.,,,,,hit
+10005,,,,,,5,,"One reviewer called it ""a triumph from start to finish.""",My film was a critical triumph.,,,,,hit
+10006,,,,,,5,,The film was celebrated as a career-defining work.,My latest film was a critical hit.,,,,,hit
+10007,,,,,,5,,Critics said it redefined the genre.,Critics said my film redefined the genre.,,,,,hit
+10008,,,,,,5,,Reviewers couldn't stop raving about the performances.,The performances in my film were praised.,,,,,hit
+10009,,,,,,5,,The film drew comparisons to the all-time greats.,Critics compared my film to the greats.,,,,,hit
+10010,,,,,,5,,Critics declared it destined for awards season glory.,My film became an awards contender.,,,,,hit
+10011,,,,,,5,,"Critics were divided, but most found something to admire.",My latest film earned mixed reviews.,,,,,mixed
+10012,,,,,,5,,Reviewers called it flawed yet undeniably ambitious.,Critics called my film ambitious but flawed.,,,,,mixed
+10013,,,,,,5,,"The film earned respectful, if lukewarm, notices.",My film got a lukewarm reception.,,,,,mixed
+10014,,,,,,5,,Critics praised the cast while questioning the script.,Critics liked my cast but not my script.,,,,,mixed
+10015,,,,,,5,,"One reviewer called it ""a noble swing that doesn't quite connect.""",My latest film earned mixed reviews.,,,,,mixed
+10016,,,,,,5,,"The film landed as a solid, unspectacular effort.",My film was called solid but unspectacular.,,,,,mixed
+10017,,,,,,5,,Critics said it showed promise but played it safe.,Critics said my film played it safe.,,,,,mixed
+10018,,,,,,5,,Reviewers admired the visuals but wanted more heart.,Critics admired my visuals but wanted more.,,,,,mixed
+10019,,,,,,5,,The film split critics down the middle.,My latest film divided the critics.,,,,,mixed
+10020,,,,,,5,,Critics called it watchable but forgettable.,My film was called watchable but forgettable.,,,,,mixed
+10021,,,,,,5,,Critics called the film dead on arrival.,My latest film flopped with critics.,,,,,flop
+10022,,,,,,5,,Reviewers savaged it as a misfire from top to bottom.,Critics savaged my latest film.,,,,,flop
+10023,,,,,,5,,The film was branded an unwatchable mess.,My film was panned by critics.,,,,,flop
+10024,,,,,,5,,Critics said it wasted every ounce of its potential.,Critics said my film wasted its potential.,,,,,flop
+10025,,,,,,5,,"One reviewer called it ""a soulless slog.""",My latest film flopped with critics.,,,,,flop
+10026,,,,,,5,,The film was panned as a critical disaster.,My film was a critical disaster.,,,,,flop
+10027,,,,,,5,,Critics couldn't find a single kind word.,The critics had nothing kind to say.,,,,,flop
+10028,,,,,,5,,Reviewers called it the year's biggest disappointment.,My film was the year's big disappointment.,,,,,flop
+10029,,,,,,5,,The film sank without a trace.,My latest film sank without a trace.,,,,,flop
+10030,,,,,,5,,Critics declared it a career low point.,Critics called my film a career low.,,,,,flop

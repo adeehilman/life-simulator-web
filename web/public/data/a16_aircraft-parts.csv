@@ -1,0 +1,32 @@
+Part,Only One Per Aircraft,Part Cost Score,Broken Terms,Helicopter,Jet,Propeller,Glider,Blimp,Balloon,Optional Descriptions
+envelope,x,5,"ripped, torn, damaged",,,,,x,x,The envelope sustained damage when you tried to float under a suspension bridge. 
+gondola,x,2,"broken, busted, cracked",,,,,x,x,"Your gondola cracked on a hard landing., Your gondola cracked when you hit a tree mid-flight."
+rudder,,3,"broken, busted, damaged",,x,x,x,x,,Your rudder snapped off when you came in for a rough landing.
+engine,,5,"busted, broken, damaged",x,x,x,,x,,You blew the engine while attempting to race a fighter jet.
+vertical stabilizer,,2,"broken, damaged, cracked",x,x,x,x,x,,A vertical stabilizer snapped off while you were landing.
+horizontal stabilizer,,2,"broken, damaged, cracked",x,x,x,x,x,,One of your horizontal stabilizers snapped off while you were landing.
+windshield,x,1,"cracked, chipped, broken, damaged",x,x,x,x,x,,"Your windshield cracked when you hit a high-flying goose., Your windshield cracked in a dangerous hail storm., Your windshield cracked in a terrifying tropical storm., You used hot water to melt some ice on your windshield and it cracked."
+radar,x,3,"broken, faulty, damaged",x,x,x,,x,,A solar flare knocked out your radar.
+airspeed indicator,x,2,"damaged, faulty, broken",x,x,x,x,x,,Your airspeed indicator will only indicate zero knots regardless of speed.
+altimeter,x,2,"damaged, faulty, broken",x,x,x,x,x,,Your altimeter spins in circles regardless of altitude.
+throttle control,x,2,"damaged, faulty, broken, cracked",x,,x,,x,,You muscled hard into a sharp turn and snapped the throttle control.
+radio,x,2,"damaged, broken",x,x,x,x,x,,Your radio stopped working mid-flight for no apparent reason.
+burner,x,4,"broken, busted, damaged",,,,,,x,Your burner sputtered and then flamed out.
+suspension cable,,1,"broken, split, corroded",,,,,,x,"A suspension cable snapped while you were floating over a lake., During preflight inspection you noticed your suspension cable had worn dangerously thin."
+aileron,,2,"dented, ripped, damaged",,x,x,x,,,One of your ailerons is out of sync with the other.
+elevator,,3,"broken, jammed, damaged",,x,x,x,,,
+wing,,5,"cracked, damaged",,x,x,x,,,Your wing got damaged when you clipped an airplane hangar while taxiing.
+propeller,,3,"deteriorated, cracked, faulty, broken, damaged, fractured",,,x,,,,You hit a high-flying seagull midair and damaged your propeller.
+fuselage,x,5,"damaged, ruptured, cracked, fractured",x,x,x,x,,,"The base of your fuselage was shredded when you forgot to deploy the landing gear., Your fuselage sustained damage during a dangerous hail storm., Your fuselage sustained damage while navigating a terrifying tropical storm."
+flap,,2,"failed, broken, damaged, faulty",,x,x,,,,You encountered a major drag when your flap flipped up and stuck.
+landing gear,x,4,"failed, broken, damaged, faulty",,x,x,x,,,"You damaged your landing gear on a hard landing., You damaged your landing gear while trying to land on one wheel."
+rotor,,3,"broken, damaged, faulty, failed",x,,,,,,Your rotor is making a loud grinding noise during liftoff.
+attitude indicator,x,1,"damaged, faulty, broken",x,x,x,,,,"Your attitude indicator went haywire amid some sick aerial tricks., Your attitude plummeted when you discovered your attitude indicator was busted."
+turn coordinator,x,1,"damaged, faulty, broken",x,x,x,,,,Your turn coordinator malfunctioned just after performing a very impressive loop de loop.
+direction indicator,x,1,"damaged, faulty, broken",x,x,x,,,,"Your direction indicator got stuck on ""33"" and won't move despite your direction."
+vertical speed indicator,x,1,"damaged, faulty, broken",x,x,x,,,,Your vertical speed indicator malfunctioned while you were flying horizontally.
+oxygen system,x,5,"damaged, faulty, broken",,x,,,,,Your oxygen system has been emitting a foul odor.
+brake system,x,3,"damaged, broken, faulty",,x,x,x,,,You came in too fast while landing and damaged your brake system trying to stop.
+engine fan blade,,2,"deteriorated, cracked, faulty, broken, damaged, fractured",,x,,,,,During a preflight inspection your aviator glasses got sucked into the jet turbine and cracked a blade.
+hydraulic system,x,5,"damaged, broken, faulty",,x,,,,,You broke the hydraulic system after repeatedly hitting switches.
+spinner,,2,"broken, damaged",,,x,,,,Your spinner lost a nut and spun off the plane.

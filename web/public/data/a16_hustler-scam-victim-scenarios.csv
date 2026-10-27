@@ -1,0 +1,85 @@
+Scenario,Log Version,Is Police,Undercover Cop Score,Min Friendliness Score,Max Friendliness Score
+<victim> smiles at you as <he/she> walks past you on <hustle-street>.,<victim> smiled at me on <hustle-street>.,,1,3,
+<victim> locks eyes with you on <hustle-street>.,<victim> locked eyes with me on <hustle-street>.,,1,,4
+You meet <victim-possessive> gaze on <hustle-street>.,<victim> and I looked at each other on <hustle-street>.,,1,,4
+<victim> has been across the street watching you for a while now.,I noticed <victim> was watching me.,,5,,3
+<victim> approaches you and asks what you're doing on <hustle-street>.,<victim> asked me what I was up to on <hustle-street>.,,5,,4
+You notice <victim> is reading a book on a park bench on <hustle-street>.,I saw <victim> reading a book on a park bench.,,1,3,
+You see <victim> tossing bread crumbs to the <ducks/pigeons> in the park.,I saw <victim> tossing bread crumbs to <rb> in the park.,,1,4,
+<victim> looks at you and smiles as <he/she>'s jogging past you on <hustle-street>.,<victim> smiled at me during a jog on <hustle-street>.,,1,3,
+<victim> smiles at you as <he/she>'s locking up <his/her> bicycle outside of a grocery store on <hustle-street>.,<victim> smiled at me while locking up <his/her> bicycle.,,1,3,
+<victim> holding a map is asking you for directions to the <police station/library/nearest nightclub/nearest bar/biker bar/park/BINGO hall/pharmacy/homeless shelter/halfway house/soup kitchen/video game store/card store/anime store/shoe store/bank/jewelry store>.,<victim> asked me for directions.,,2,2,
+<victim> asks you if you've seen any suspicious activity on <hustle-street> lately.,<victim> asked if I've noticed any suspicious activity on <hustle-street>.,,5,2,
+You see <victim> skipping rocks across a pond in the park.,I saw <victim> skipping rocks across a pond.,,1,,
+You see <victim> sitting in an unmarked van in an empty parking lot.,I saw <victim> sitting in an unmarked van in an empty parking lot.,,5,,3
+You see <victim> selling <flowers/carnations/daisies/long-stem red roses/daffodils/hydrangeas/tulips/orchids/bonsai trees> to pedestrians on <hustle-street>.,I saw <victim> selling <rb> on <hustle-street>.,,1,4,
+You see <victim> asking pedestrians for change on <hustle-street>.,I saw <victim> panhandling.,,1,3,
+You overhear <victim> telling another pedestrian <he/she>'s lost because <he/she>'s never been on this side of town before.,I heard <victim> say <he/she> didn't know where <he/she> was.,,2,2,
+<victim> walking down <hustle-street> with <his/her> hands in <his/her> pockets shuffles past you on the sidewalk.,I saw <victim> walking down <hustle-street> with <his/her> hands in <his/her> pockets.,,2,,3
+"<victim> says ""good morning"" to you as <he/she> passes you on <hustle-street> on <his/her> way to work.","<victim> said ""good morning"" to me on <his/her> way to work.",,2,4,
+You see <victim> sitting alone at a bus stop.,I spotted <victim> alone at a bus stop.,,1,,
+You see <victim> playing <cards/dominos/mahjong/bocce ball/cornhole> in the park.,I saw <victim> playing <rb> in the park.,,1,,
+<victim> just walked out of a <convenience store/library/cafe/gym/hot yoga studio/yoga studio/dance studio/night club/strip club> on <hustle-street>.,I noticed <victim> after <he/she> walked out of a <rb> on <hustle-street>.,,1,,
+You see <victim> stumble out of a <night club/strip club/biker bar/seedy bar/pub/sketchy bar/club>.,I watched <victim> stumble out of a <rb>.,,1,,3
+"You see <victim> standing outside of a <night club/strip club/biker bar/seedy bar/pub/sketchy bar/club/country bar/liquor store>, looking at <his/her> phone.",I saw <victim> hanging outside of a <rb>.,,4,,3
+<victim> has been staring at you from <his/her> chair outside of a <restaurant/deli/cafe> on <hustle-street> for <num20-45> minutes.,<victim> wouldn't take <his/her> eyes off of me.,,5,,3
+"<victim> asks if <he/she> can borrow your phone to make a call, because <his/hers> is dead and <he/she> is lost.",<victim> asked to borrow my phone.,,3,3,
+You notice <victim> is tossing a <ball/rubber ball/stick/tennis ball> to <his/her> <German shepherd/pitbull/rottweiler/chihuahua/French bulldog/pug/poodle/dachshund/corgi/Shiba Inu/Siberian husky> as you're walking past a dog park on <hustle-street>.,I saw <victim> at a dog park.,,1,3,
+<victim> bumps into you as you're passing each other on <hustle-street>.,<victim> bumped into me on <hustle-street>.,,1,,3
+<victim> is standing uncomfortably close to you as you wait to cross <hustle-street> at a busy crosswalk.,<victim> got into my personal space at a crosswalk.,,4,,3
+<victim> is walking in front of you wearing noise-canceling headphones.,I noticed <victim> walking in front of me wearing noise-canceling headphones.,,1,,
+<victim> shoves you as <he/she>'s walking past you on <hustle-street>.,<victim> shoved me on <hustle-street>.,,1,,2
+<victim> furrows <his/her> brow and stares at you from across <hustle-street>.,<victim> stared at me from across the street.,,2,,2
+<victim> wearing a fanny pack and holding a map looks like <he/she> doesn't know where to go.,<victim> looked lost on <hustle-street>.,,3,3,
+<victim> approaches you and asks if this is a bad part of town.,<victim> asked me if <hustle-street> is in a bad part of town.,,4,3,
+<victim> is about to walk down <hustle-street> and asks if you'd walk with <him/her> because it looks scary and <he/she> would feel safer with someone.,<victim> asked me to walk down <hustle-street> with <him/her> because <he/she> was scared to go alone.,,3,4,
+"<victim> says ""get out of my way"" while hurrying past you on <hustle-street>.",<victim> rushed past me on <hustle-street>.,,1,,2
+<victim> hurrying to a family cookout in the park just dropped <his/her> meat in front of you.,<victim> dropped <his/her> meat in front of me on <hustle-street>.,,1,,2
+You just witnessed <victim> across the street trip <random-person-indefinite>.,I saw <victim> trip <random-person-indefinite>.,,1,,2
+<victim> pumping gas leans up against <his/her> car and looks over at you.,<victim> looked at me while pumping gas.,,1,,
+"<victim> counts a stack of bills outside a strip club, looks at you, then puts the cash in <his/her> pocket.",I watched <victim> count a stack of bills outside a strip club.,,2,,
+<victim> walks past you reeking of body odor.,<victim> I could smell a mile away walked past me on <hustle-street>.,,1,,3
+"<victim> mistakes you for <his/her> friend and yells ""hi"" from across the street.","<victim> said ""hi"" to me, thinking I was <his/her> friend.",,1,4,
+<victim> hands you a CD and asks you to check out <his/her> new <spoken word/rap/EDM/trap/rock/country> album.,<victim> asked me to listen to <his/her> album.,,1,3,
+<victim> tells you to get out of <his/her> way as <he/she> passes you on the sidewalk.,<victim> told me to get out of <his/her> way.,,1,,2
+<victim> calls you <insult> as <he/she> passes you on the sidewalk.,<victim> called me <insult>.,,1,,2
+"<victim> tells you <he/she> just got off of the <plane/boat/train/bus> and is new to <city>, then asks if you could show <him/her> around.",<victim> asked me to be <his/her> guide to <city>.,,4,2,
+You see <victim> trip over <his/her> own feet as <he/she> stumbles out of a dive bar on <hustle-street>.,I noticed <victim> stumbling around outside a bar on <hustle-street>.,,4,3,
+<victim> asks you for directions to the nearest police station saying <he/she> has some information on scammers in the area that might interest the police.,<victim> asked me for directions to the police station.,,4,3,
+You see <victim> strutting <his/her> stuff down <hustle-street> without a care in the world.,I saw <victim> strut down <hustle-street>.,,1,3,
+You see <victim> kick an old lady's <purse/cane/walker> into the street and laugh.,I watched <victim> kick an old lady's <rb> into the street.,,1,,2
+"<victim> bumps into you and shouts ""excuse you"" as you pass each other on <hustle-street>.","<victim> bumped into me and shouted ""excuse you"" at the top of <his/her> lungs.",,1,,3
+You see <victim> outside the <hustle-street> Country Club giving the valet a claim ticket.,I saw <victim> give a valet a claim ticket at a country club.,,1,,
+You see <victim> reading a <book/magazine/dirty magazine/comic book/graphic novel> in the subway station on <hustle-street>.,I saw <victim> reading a <rb> in the subway station.,,2,,
+You see <victim> selling <lemonade/cookies> at a handmade stand on <hustle-street>.,I saw <victim> selling <rb> at a stand on <hustle-street>.,,1,,
+You see <victim> fishing at a pond just off <hustle-street>.,I saw <victim> fish at a pond just off <hustle-street>.,,1,,
+"While sitting at a bus stop on <hustle-street>, <victim> asks you if you think crime is an issue in <city>. ",<victim> asked me if I think crime is an issue in <city>.,,3,,
+You see <victim> tending a plot in the community garden on <hustle-street>.,I saw <victim> tend a community garden plot on <hustle-street>.,,1,2,
+<victim> asks you to take a photo of <him/her> in front of a <statue/fountain/rose garden/hedge sculpture/light display/painting/mural> on <hustle-street>.,<victim> asked me to take <his/her> picture in front of a <rb>.,,2,2,
+You see <victim> standing in the back of a long line at a food truck.,I saw <victim> standing in the back of a long line at a food truck.,,3,2,
+A police officer gets out of <his/her> car and walks toward you.,A police officer walked toward me.,x,,,
+A police officer walks past you with a German shepherd on a leash.,A police officer with a German shepherd passed by me on <hustle-street>.,x,,,
+A police officer walks out of a <gas station/convenience store/bakery/book store/pet store> with a bag in each hand and walks down the street in your direction.,A police officer walked toward me.,x,,,
+A police officer motions for you to approach <him/her> so <he/she> can <get a good look at you/check you out/ask you a few questions>.,A police officer wanted to talk to me.,x,,,
+A police officer is in the middle of ticketing an illegally-parked vehicle across the street from you.,A police officer issued a ticket to an illegally-parked car across the street from me on <hustle-street>.,x,,,
+A police officer across the street makes eye contact with you and winks.,A police officer winked at me.,x,,,
+A police officer on a horse passes you in the park.,A police officer rode by me on a horse.,x,,,
+You see a police officer eating a <glazed/chocolate-frosted/sour cream/strawberry/jam/jelly/Boston Creme/blueberry/chocolate> donut outside a cafe on <hustle-street>.,I saw a police officer eating a <rb> donut outside a cafe.,x,,,
+You see a police officer sipping a <coffee/cappuccino/latte/tea> outside a cafe on <hustle-street>.,I watched a police officer drink <rb> outside a cafe.,x,,,
+You see a police officer patrolling the perimeter of a convenience store across the street.,I watched a police officer patrol the perimeter of a convenience store.,x,,,
+You see a police officer browsing <Reddit/PornHub/Twitter/YouTube/Netflix> on the laptop in <his/her> car.,I saw a police officer browsing <rb> on the laptop in <his/her> car.,x,,,
+A police officer nods and smiles as <he/she> walks past you on <hustle-street>.,A police officer smiled at me.,x,,,
+A police officer tips <his/her> hat to you as <he/she> walks towards the police station.,A police officer tipped <his/her> hat to me.,x,,,
+A homicide detective approaches you outside of a convenience store and asks if you've seen any shady characters around lately.,A homicide detective asked me about suspicious characters on <hustle-street>.,x,,,
+You see <victim> sitting on <the curb/a bench/a packed suitcase/the sidewalk> on <hustle-street> <sobbing uncontrollably/crying like a baby>.,I saw <victim> sitting on <rb> on <hustle-street> <rb2>.,,1,3,
+You notice <victim> is barefoot and walking aimlessly down <hustle-street> while speaking out loud to <him/her>self.,I saw <victim> walking barefoot down <hustle-street> while speaking out loud to <him/her>self.,,2,,3
+"<victim> is playing a heated game of <Angry Birds/Candy Crush/Fruit Ninja/BitLife/Pokemon Go/Subway Surfers> on <his/her> phone, completely unaware of <his/her> surroundings.","I saw <victim> playing a heated game of <rb> on <his/her> phone, completely unaware of <his/her> surroundings.",,3,,3
+You see <victim> limping down <hustle-street> on crutches with a small bag of groceries in one hand.,I saw <victim> limping down <hustle-street> on crutches with a small bag of groceries in one hand.,,4,3,
+You see <victim> clumsily attempting to ride a <skateboard/scooter/unicycle/hoverboard/RipStik> down <hustle-street>.,I saw <victim> clumsily attempting to ride a <skateboard/scooter/unicycle/hoverboard/RipStik> down <hustle-street>.,,2,2,
+<victim> is taking a nap under a tree in the park just off <hustle-street>.,I saw <victim> taking a nap under a tree in the park just off <hustle-street>.,,3,,3
+You see <victim> angrily stomping down <hustle-street> with a fast-food bag in <his/her> hand while cursing aloud that they forgot <his/her> fries.,I saw <victim> angrily stomping down <hustle-street> with a fast-food bag in <his/her> hand while cursing aloud that they forgot <his/her> fries.,,1,,2
+"You notice, what appears to be, <victim> pleasuring <him/her>self behind some bushes on <hustle-street>.",I'm pretty sure I saw <victim> pleasuring <him/her>self behind some bushes on <hustle-street>.,,1,,2
+You see <victim> making out with <random-person-indefinite> on a <bus stop bench/park bench/discarded sofa in an alley/soggy mattress in an alley/curb>.,I saw <victim> making out with <random-person-indefinite> on a <rb>.,,1,,3
+You see <victim> stalking <a man/a woman/an old man/an old lady> down <hustle-street>.,I saw <victim> stalking <rb> down <hustle-street>.,,3,,4
+You see <victim> sleeping <beneath a tree in the park/next to a dumpster/outside a clothing store/outside a grocery store/on a bench in the park/in a ditch>.,I saw <victim> sleeping <rb>.,,1,,3
+You see a police officer chasing <random-person-indefinite> down <hustle-street>.,I saw a police officer chasing <random-person-indefinite> down <hustle-street>.,x,,,

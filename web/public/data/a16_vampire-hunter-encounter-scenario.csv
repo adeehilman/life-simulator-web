@@ -1,0 +1,54 @@
+Scenario,Min Willpower,Max Willpower,Hero Gender,Repeat Encounter
+<he/she> says you're <insult>.,,,,
+"<he/she> says you've been a menace for far too long, and <he/she>'s going to put a stop to you once and for all.",,,,x
+<he/she>'s telling you to do the right thing and let <him/her> end you.,50,,,
+<he/she> looks about ready to chop your head off with an axe.,80,,,x
+"<he/she> says <he/she> was going to say something witty and brutal as <he/she> vanquished you, but would rather cut to the chase and call you <insult> instead.",75,,,
+<he/she> says <he/she> has a silver bullet with your name on it.,90,,,
+<he/she> thinks you're another vampire who killed <his/her> father.,,15,,
+"<he/she>'s yelling your name at the top of <his/her> lungs, loud enough to activate car alarms in the area.",80,,,x
+"<he/she> warns you that <he/she>'s not afraid of being bitten, considering <he/she> bathes in garlic oil daily.",50,,,
+<he/she> says you're an annoying mosquito that needs to be <squashed/exterminated>.,60,,,
+"<he/she> tells you this is all a trap, and it's futile trying to escape!",50,,,
+<he/she> says <he/she>'s ready to give you a fair fight.,5,15,,
+"While doing an awkward dance, <he/she> swears to banish you off this earthly realm.",10,25,,x
+<he/she>'s threatening you by revealing an arsenal of weapons hiding in <his/her> trench coat.,90,,,
+<he/she> demonstrates <his/her> holy glowing fists and encourages you to give up now before <he/she> drives said fists up where the sun definitely doesn't shine.,80,,,
+<he/she> is aiming <his/her> crossbow at you from a fire escape above.,80,,,
+"<he/she> challenges you to a game of beer pong, right here, right now, saying, ""It definitely isn't laced with holy water"".",,20,,
+"<he/she> just stands there, menacingly.",80,,,
+<he/she> threatens you by holding out the severed head of a fellow vampire!,85,,,x
+<he/she> unsheathes <his/her> unbelievably long katana while praying to <his/her> god for protection.,80,,,
+"You can tell it's <his/her> first time as <his/her> hand, which is holding a pistol, trembles.",,40,,
+"<he/she> thinks you're cute, but says that looks won't protect you from your fate.",15,40,,
+"<he/she> says you should run, as <he/she> holds a live grenade blessed by the Pope!",70,,,
+<he/she> is wearing gaudy clothing and holding a diamond-encrusted dagger.,20,50,,
+<he/she> says you look really sus right now and need to chill out.,30,55,,
+"<he/she> jumped off a high roof, taking little to no damage, and is pointing <his/her> silver sword against your chest.",90,,,
+"<he/she> says all the leather <he/she>'s wearing is made from the skin <he/she>'s <ripped/peeled> off of vampires like you, and thinking you'd make a good pair of boots.",90,,,
+<he/she> says <he/she> caught you trying to ice-skate uphill.,70,,,x
+"<he/she> tells you to check your pockets, as <he/she> left a little gift in there.",60,,,
+"<he/she> tells you to look down, as you've stepped in <his/her> salt circle!",50,,,x
+"<he/she> actually looks pleased to see you again. After all, <he/she> wants to be the one who slays you in the end.",30,50,,x
+<he/she> tries to hide the blush in <his/her> cheeks after looking at you.,10,40,,
+"<he/she> asks you to go easy on <him/her>, as this is <his/her> first time!",5,20,,
+<he/she> says there's still time to surrender!,30,50,,
+<he/she> says <he/she> made custom silver handcuffs just for you.,50,80,,x
+<he/she> says <his/her> sword was given to <him/her> by angels in order to smite you.,85,,,
+<he/she> says <he/she> has an urn for your ashes after <he/she>'s done with you.,60,,,
+"<he/she> pins you against the wall, holding a stake inches from your chest.",80,,,
+"<he/she> says that after <he/she> slays you, <he/she>'ll become President and end vampirism once and for all.",70,,,
+"<he/she> says this'll be easy, giving <him/her> plenty of time for lunch after it's all over.",70,,,
+"<he/she> begs on <his/her> knees for you to stop your bloodlust, and to think of what you could do to help society!",,20,,
+"<he/she> promises to be your personal bloodbag, if you stop what you're doing!",,10,,
+<he/she> has a pack of hungry dogs on <his/her> side!,80,,,
+<he/she> fires a warning shot and says the next one won't miss.,65,,,
+"<he/she>'s shaking a jar of ragu sauce in a threatening manner, oblivious to the fact that it's labeled ""garlic-free"".",5,10,,
+"<he/she> demands to know if you're doing this because of ""society,"" but refuses to elaborate on what that means.",5,20,,
+<he/she>'s on a flaming motorcycle and ready to charge!,80,,,
+<he/she> smirks and says the two of you need to stop meeting like this.,20,80,,x
+<he/she> says <he/she> can't stop <thinking/dreaming/fantasizing> about you.,,20,,x
+"<he/she> <shouts/yells> that last time was a fluke, and this time <he/she> will <destroy you/come out on top/annihilate you/make you beg for the sweet release of death/stomp you to bits/put a stake right through that rotten heart of yours>.",80,,,x
+<he/she> declares that <he/she> will never let you out of <his/her> sight again.,50,,,x
+<he/she> says <he/she>'s the <Batman to your Joker/Optimus Prime to your Megabot/the Holmes to your Moriarty/Superman to your Lex Luthor/the Link to your Ganondorf/the Zelda to your Ganondorf/the Goku to your Vegeta>.,25,,,x
+<he/she> admitted that <he/she> is kind of <down bad for/obsessed with/fixated on/lusting after/mesmerized by> you.,,15,,x

@@ -1,0 +1,139 @@
+Crime,Seriousness Score,Is Violent,Commonness Score
+<drug-illegal> distribution,4,,5
+<drug-illegal> manufacturing,5,,3
+<drug-illegal> trafficking,4,,3
+1st degree murder,5,x,4
+2nd degree murder,5,x,4
+aiding a surrender,4,,1
+aiding and abetting,3,,2
+annoying phone calls,2,,1
+armed robbery,4,x,4
+arson,4,,2
+serial booty grabbing,4,,1
+aggravated assault,3,,4
+assault,2,,5
+attempted murder,5,x,4
+backdoor banditry,5,,1
+battery,4,,4
+bear wrestling,2,,1
+boating under the influence,2,,2
+breaking and entering,3,,4
+bribery,3,,2
+burglary,4,,5
+carjacking,4,,5
+check fraud,4,,3
+child abandonment,4,,2
+bullying and intimidation,2,,1
+cock fighting,2,,2
+conspiracy,3,,1
+counterfeiting credit cards,3,,2
+counterfeiting currency,3,,2
+counterfeiting passports,3,,2
+credit card fraud,3,,3
+criminal contempt of court,3,,2
+criminal mischief,3,,2
+crotch grabbing,2,,2
+cruelty to animals,3,,2
+cyberbullying,2,,1
+cyberstalking,3,,2
+cycling under the influence,2,,1
+disorderly conduct,1,,3
+disturbing the peace,1,,4
+dog fighting,3,,2
+domestic disorder,3,,4
+domestic disturbance,3,,4
+drive-by shooting,5,x,3
+driving on the wrong side of the road,1,,1
+driving under the influence,2,,5
+driving while intoxicated,3,,5
+driving with a suspended license,1,,4
+embezzlement,4,,3
+espionage,5,,1
+excessive car horn honking,1,,1
+excessive tickling,3,,1
+excessive singing in public,1,,1
+extortion,4,,2
+failing to drink milk,1,,1
+public flatulence,1,,1
+fishing without a license,1,,1
+aggravated twerking,2,,1
+forgery,2,,2
+fraud,4,,4
+repeat grammar offenses,1,,1
+grand theft auto,3,,5
+harassment,3,,3
+hate crimes,4,,2
+health code violations,1,,1
+hit and run,3,,3
+hitchhiking,1,,1
+homicide,5,x,4
+human trafficking,5,,2
+identity theft,4,,3
+illegal dumping,2,,1
+illegal gambling,2,,1
+incest,2,,1
+inciting a riot,4,,2
+indecent exposure,3,,2
+insurance fraud,4,,4
+involuntary manslaughter,4,,3
+kidnapping,5,,2
+larceny,3,,2
+leaving the scene of an accident,3,,2
+lewd behavior,3,,2
+littering,1,,1
+loitering,1,,1
+loitering at a school,1,,1
+looting,4,,2
+mail theft,4,,1
+making a false report,2,,1
+mayhem,2,,1
+mislabeling of food,2,,1
+money laundering,4,,3
+moonshining,2,,1
+murder,5,x,4
+Netflix password sharing,1,,2
+obscenities,2,,2
+participating in a duel,3,,1
+penile piracy,5,,1
+perjury,3,,2
+petty theft,2,,2
+pimping,4,,3
+piracy,2,,2
+possessing weapons of mass destruction,5,,1
+possession of <drug-illegal>,3,,5
+possession of nuclear weapons,5,,1
+probation violations,3,,3
+prostitution,3,,3
+public intoxication,1,,2
+public urination,1,,2
+racketeering,4,,1
+reckless driving,4,,3
+reckless endangerment,4,,3
+resisting arrest,3,,3
+riding a camel on a highway,2,,1
+securities fraud,4,,3
+serial jaywalking,1,,1
+sexual harassment,3,,3
+shoplifting,3,,3
+singing off-key,1,,1
+skateboarding in a prohibited area,1,,1
+solicitation,3,,3
+speeding,2,,3
+stalking,3,,3
+tax evasion,4,,3
+tax fraud,4,,3
+telemarketing fraud,4,,3
+theft,3,,4
+transportation of water hyacinths,1,,1
+treason,5,,1
+trespassing,2,,2
+unauthorized entry,5,,3
+unlawful possession of a weapon,3,,4
+vandalism,3,,3
+violating a restraining order,2,,3
+voluntary manslaughter,5,,4
+white collar crimes,3,,3
+wire fraud,4,,3
+wiretapping,4,,1
+running a robocall center,5,,4
+leaking government secrets,5,,1

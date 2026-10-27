@@ -1,0 +1,19 @@
+Gemstone,Min Carats,Max Carats,Super Max Carats,First Carat Price,Min Cost,Max Cost,Commonness Score,Black Market Only,Storage Unit Only,ID
+amethyst,10,20,40,50,40,2500,5,,,700
+aquamarine,10,20,35,200,30,22000,5,,x,701
+diamond,10,20,60,5000,300,71000000,3,x,,702
+emerald,10,20,50,4000,300,5500000,4,,,703
+ruby,10,20,50,2500,300,63000000,3,,,704
+sapphire,10,20,50,2000,300,4000000,3,,,705
+topaz,10,20,30,50,30,1900,5,,,706
+zircon,10,20,25,200,170,2000,5,,,707
+padparadscha,10,20,35,3500,300,4500000,2,x,,708
+jadeite,10,20,40,7000,350,30000000,2,x,,709
+blue diamond,10,20,60,8000,500,80000000,1,,,710
+pink diamond,10,20,60,6500,500,75000000,1,,,711
+yellow diamond,10,20,60,4500,500,35000000,2,,x,712
+bixbite,10,20,25,2000,250,100000,1,,,713
+black pearl,10,20,25,15,90,700,4,,x,714
+pink pearl,10,20,25,10,75,550,3,,,715
+pearl,10,20,25,5,40,415,5,,,716
+black opal,10,20,30,300,30,2000,3,,,717

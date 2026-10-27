@@ -1,0 +1,287 @@
+Animal,Treat,Enjoyment Score
+Bat,a bloodsicle,5
+Bat,a bowl of moths,3
+Bat,an appetizer of horseflies,2
+Bat,a trio of juicy dung beetles,3
+Bat,a jar of flies,2
+Bat,some grubworms,3
+Bat,"a medley of mosquitoes, moths, and beetles",4
+Bat,a bowl of mashed banana with raisins,3
+Bat,a juicy ripe strawberry,4
+Bat,a small plate of papaya,2
+Bear,some honey,3
+Bear,a picnic basket,3
+Bear,a box of Teddy Grahams,4
+Bear,a bowl of granola,3
+Bear,nuts,2
+Bear,a bevy of blueberries,3
+Bear,a sockeye salmon,5
+Bear,a bagel with cream cheese and lox,3
+Bear,some gummy bears,4
+Bear,a bowl of succotash,3
+Big Cat,some chicken nuggets,4
+Big Cat,some chicken wings,3
+Big Cat,a raw t-bone steak,5
+Big Cat,some fish oil,3
+Big Cat,one of Mrs. Lovett's meat pies,1
+Big Cat,a juicy filet mignon,5
+Big Cat,a femur from somewhere,5
+Big Cat,a big old turkey leg,3
+Big Cat,a ham hock,3
+Big Cat,a bloodsicle,1
+Bird,some wild seed,4
+Bird,some chicken nuggets,2
+Bird,a tiny frog,3
+Bird,a <juicy/succulent/slimy> worm,4
+Bird,a handful of moths,3
+Bird,a smattering of beetles,1
+Bird,a bucket of crickets,4
+Bird,some snake jerky,3
+Bird,a cake made of snails,3
+Bird,a bucket of mealworms,4
+Camel,a handful of hay,2
+Camel,some fresh acacia leaves,5
+Camel,an orange Julius,2
+Camel,a cactus,3
+Camel,a bowl of lettuce,4
+Camel,a bale of fresh grasses,3
+Camel,a handful of thorns,2
+Camel,a sugar cube,5
+Camel,a salt lick,3
+Camel,some choice barley,4
+Deer,some moss,2
+Deer,a cup of blackberries,3
+Deer,a handful of acorns,2
+Deer,a peanut butter bar,2
+Deer,a bowl of cherries,4
+Deer,a single four-leaf clover,1
+Deer,some fresh fall leaves,3
+Deer,a wild mushroom salad,5
+Deer,a vine of honeysuckle,5
+Deer,a muffin,3
+Elephant,a single peanut,1
+Elephant,a barrel of tree bark,2
+Elephant,some tender bamboo roots,4
+Elephant,some tasty sugarcane,5
+Elephant,a papaya,3
+Elephant,mashed banana balls,4
+Elephant,a platter of rice husks,1
+Elephant,a basket of sweet potato fries,2
+Elephant,a pound of fruit salad,3
+Fox,a handful of raspberries,3
+Fox,a pigeon pie,4
+Fox,a rabbit on a stick,5
+Fox,"a little salami, as a treat",2
+Fox,a slice of watermelon,2
+Fox,a brisket hot dog,3
+Fox,a raw egg,3
+Fox,a basket of mulberries,2
+Fox,some dried grasshoppers,1
+Fox,a titmouse,4
+Giraffe,an oak leaf salad,4
+Giraffe,a bundle of mimosa twigs,5
+Giraffe,a prickly pear pie,3
+Giraffe,acacia leaf soup,2
+Giraffe,a bundle of acacia sticks,5
+Giraffe,roasted acacia seeds,3
+Giraffe,an acacia biscuit,2
+Giraffe,a peeled banana,3
+Giraffe,some dried apricots,1
+Hippo,a watermelon,5
+Hippo,a pumpkin,5
+Hippo,a bundle of fresh grass,2
+Hippo,a kale salad,2
+Hippo,a bag of carrots,3
+Hippo,a basket of tender shoots,3
+Hippo,a baked potato,1
+Hippo,a pineapple,4
+Hippo,a pickle,2
+Kangaroo,some lemongrass,3
+Kangaroo,a fern,2
+Kangaroo,a bowl of moss,3
+Kangaroo,a pile of mushrooms,1
+Kangaroo,a eucalyptus-flavored popsicle,4
+Kangaroo,a handful of clover,3
+Kangaroo,a succulent strawberry,4
+Kangaroo,a protein bar,3
+Kangaroo,a head of broccoli,5
+Koala,some eucalyptus candy,4
+Koala,a eucalyptus tea,2
+Koala,some eucalyptus nuggets,5
+Koala,eucalyptus ice cream,3
+Koala,eucalyptus lasagna,1
+Koala,eucalyptus crumpets,3
+Meerkat,a juicy grub,4
+Meerkat,a scorpion,1
+Meerkat,a melon slice,5
+Meerkat,a berry tart,3
+Meerkat,a peanut butter biscuit,3
+Meerkat,a locust taco,2
+Meerkat,a tray of mealworms,4
+Meerkat,a soft-boiled egg,3
+Meerkat,some edamame,3
+Otter,an oyster,5
+Otter,a spiny sea urchin,5
+Otter,a crab rangoon,2
+Otter,freshwater fish fillet,3
+Otter,a mussel to bash open on a rock,4
+Otter,an abalone,2
+Otter,a fat toad,2
+Otter,a bucket of barnacles,1
+Otter,a shrimp cocktail,4
+Pangolin,a chocolate-covered cricket,5
+Pangolin,some candied earthworms,3
+Pangolin,a termite mound,5
+Pangolin,a larvae-flavored cake,3
+Pangolin,a basket of dead flies,1
+Pangolin,an ant taco,2
+Pangolin,some roasted fire ants,2
+Pangolin,a mosquito muffin,3
+Pangolin,a termite burger,4
+Pig,a head of lettuce,5
+Pig,a pumpkin,3
+Pig,a dandelion sprout salad,4
+Pig,some unsalted peanuts,3
+Pig,some uncooked spaghetti,2
+Pig,some parsnips,3
+Pig,a handful of spinach,2
+Pig,some sizzly bacon,1
+Pig,a pear,4
+Pinniped,a clambake,3
+Pinniped,oysters on the half shell,4
+Pinniped,a bucket of frozen herring,5
+Pinniped,a squid-flavored popsicle,1
+Pinniped,a bowl of mackerel juice,1
+Pinniped,a tray of smoked salmon,3
+Pinniped,some anchovy pizza,2
+Pinniped,a sardine sandwich,3
+Pinniped,a crab cake,3
+Pinniped,a single fishstick,2
+Platypus,a yabby,5
+Platypus,a succulent shellfish,4
+Platypus,a bucket of beetles,3
+Platypus,some shrimp scampi,3
+Platypus,a single snail,1
+Platypus,a bowl of tadpole stew,2
+Platypus,some water bugs,4
+Platypus,some fried cicadas,3
+Primate,a banana,3
+Primate,some mango fruit leather,2
+Primate,a marigold,1
+Primate,some crunchy tree bark,3
+Primate,a termite-stick popsicle,3
+Primate,a hibiscus flower,2
+Primate,a spoonful of honey,4
+Primate,some raffia leaves,3
+Primate,some dried cranberries,5
+Primate,some acacia gum,3
+Red Panda,a banana,3
+Red Panda,a bamboo stalk smoothie,1
+Red Panda,an acorn-flour cookie,3
+Red Panda,a bird egg omelette,3
+Red Panda,a bouquet of bamboo leaves,4
+Red Panda,some fried ants,4
+Red Panda,bamboo stir-fry,5
+Red Panda,bamboo leaf soup,2
+Reptile,some crickets,3
+Reptile,a jar of jelly,2
+Reptile,a bag of dried roaches,1
+Reptile,a bundle of cilantro,2
+Reptile,a cup of nectar,3
+Reptile,some escargot,4
+Reptile,a nest of eggs,5
+Reptile,some trout slurry,3
+Reptile,a bucket of spiders,3
+Reptile,some mushroom caps,1
+Rhino,a bale of premium hay,2
+Rhino,a succulent,3
+Rhino,a wild fig,2
+Rhino,a handful of dates,3
+Rhino,a berry medley,5
+Rhino,a bundle of branches,1
+Rhino,a shiny apple,3
+Rhino,a gourmet leaf salad,5
+Rhino,some red oat grass,4
+Rhino,a passionfruit,3
+Rodent,a strawberry,4
+Rodent,some Rice Krispies,3
+Rodent,some sunflower seeds,5
+Rodent,some dried edamame,1
+Rodent,some cheerios,4
+Rodent,oat balls,5
+Rodent,an apple stick,3
+Rodent,some cooked rice,3
+Rodent,a bunch of parsley,2
+Rodent,a chocolate-chip cookie,3
+Rodent,a glass of milk,2
+Snake,a mouse,5
+Snake,French-style frog legs,3
+Snake,some quail eggs,1
+Snake,a hamster,5
+Snake,a chick,2
+Snake,some live waxworms,5
+Snake,a frozen rat,3
+Snake,some tender rabbit bits,4
+Snake,a chicken leg,2
+Snake,"a smaller, weaker snake",1
+Turtle,a mint leaf,2
+Turtle,a moth margarita,3
+Turtle,some trout chow,3
+Turtle,a slug salad,5
+Turtle,a meal of mealworms,4
+Turtle,some kale chips,3
+Turtle,a water hyacinth,1
+Turtle,a shredded bell pepper,4
+Turtle,a carrot top,2
+Wolf,a dog treat,3
+Wolf,some pan-seared salmon,3
+Wolf,a chicken breast,4
+Wolf,beef knuckles,3
+Wolf,a deer haunch,5
+Wolf,ground beef tacos,3
+Wolf,some meatloaf,1
+Wolf,a turkey neck,3
+Wolf,a puppuccino,2
+Wolf,a Popeye's chicken sandwich,4
+Zebra,some sugar cubes,5
+Zebra,some savory pellets,2
+Zebra,a salt lick,3
+Zebra,a bundle of alfalfa,3
+Zebra,a sheet of acacia bark,3
+Zebra,a carrot,4
+Zebra,a handful of ginseng,2
+Zebra,some raisins,1
+Zebra,a hay cube,3
+Zebra,some freeze-dried apples,3
+Unicorn,some glitter,1
+Unicorn,some sprinkles,2
+Unicorn,a candy apple,5
+Unicorn,some rock candy,4
+Unicorn,some Pop Rocks,2
+Unicorn,a single blade of lemongrass,1
+Unicorn,a peppermint stick,3
+Unicorn,a morning glory,4
+Unicorn,some honeydew melon,3
+Unicorn,some cotton candy,3
+Unicorn,a cinnamon stick,3
+Unicorn,a single chestnut,1
+Pegasus,some sugar cubes,5
+Pegasus,an apple,5
+Pegasus,a bundle of alfalfa,4
+Pegasus,some fresh wildflowers,3
+Pegasus,a handful of granola,2
+Pegasus,some wild oats,3
+Pegasus,a fistful of hay,2
+Pegasus,a dandelion,1
+Sloth,some arugula,5
+Sloth,a mango peel,4
+Sloth,some banana,4
+Sloth,a handful of eucalyptus leaves,2
+Sloth,a ficus branch,3
+Sloth,some iceberg lettuce,2
+Sloth,a tomato,3
+Sloth,some Red Bull,5
+Sloth,a coffee bean,1
+Sloth,some trail mix,2
+Sloth,some cashews,3
+Sloth,a handful of peanuts,2

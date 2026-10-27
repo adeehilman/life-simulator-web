@@ -1,0 +1,7 @@
+Scenario,Log Version,Commonness Score
+"While in the checkout line at your local supermarket, the manager tells you that you're their 1,000,000th customer! They award you with a brand-new <asset>!","I received a brand-new <asset> for being the 1,000,000th customer at my local supermarket.",1
+"<circumstance-public>, you find an unused lottery ticket that awards its holder a brand-new <asset>!",I received a brand-new <asset> by redeeming a lottery ticket I found.,3
+"<circumstance-public>, a generous stranger wearing a BitLife <hoodie/jacket/sweatshirt/sweater/tank top> approaches and hands you an authentic voucher for a brand-new <asset>!",I received a brand-new <asset> from a generous stranger wearing a BitLife <rb>.,5
+"<circumstance-public>, you receive a call from someone who says that <friend> entered your name in a raffle and you won the grand prize: a brand-new <asset>!",I won a brand-new <asset> from a raffle.,3
+"While unwrapping a <candy bar/chocolate bar/condom>, you discover a golden slip of paper beneath the wrapper that entitles whoever finds it to a brand-new <asset>!",I won a brand-new <asset> from a <rb> lottery.,3
+"<circumstance-public>, a local news team approaches you and informs you that they've randomly selected you to win the grand prize in their annual ""Most Awesome Person in <city>"" contest: a brand-new <asset>!",I randomly won a brand-new <asset> from a contest sponsored by a local news station.,3

@@ -1,0 +1,20 @@
+Method,String,Effectiveness Score,Commonness Score
+Reassurance,You told <casino-gambler> <he/she> would definitely win the next game if <he/she> played <casino-game>.,2,5
+Free Game,You gave <casino-gambler> a few free games of <casino-game> to encourage <him/her> to gamble more.,5,3
+Negging,You told <casino-gambler> that <he/she> probably wasn't <suave/confident/cool/daring/gutsy> enough to play another round of <casino-game>.,1,2
+Flirting,You <batted your eyes/winked/smiled> at <casino-gambler> and said that <he/she> was too <sexy/bodacious/hot/kissable/full of rizz> to lose the next game of <casino-game>.,3,3
+Compliments,"You told <casino-gambler> that <he/she> seemed so <amiable/full of good karma/kindhearted/fierce/lucky/deserving/powerful>, <he/she> was guaranteed to win at <casino-game>.",4,4
+Threats,"You warned <casino-gambler> that if <he/she> didn't play again, <he/she> <wouldn't be welcome in your casino/might have a sudden ""accident""/should tread carefully on your turf/shouldn't walk alone at night/might meet the wrong end of a knife/might be served a knuckle sandwich/might get put on the ""no entry"" list>.",1,2
+Give Lucky Token,You gave <casino-gambler> <a dirty sock/a shiny rock/a votive candle/a piece of sea glass/an avocado pit/a joker card/a ballpoint pen> that you claimed was a good-luck charm.,2,5
+Logic,"You explained to <casino-gambler> that even if <he/she> didn't win the next game of <casino-game>, <he/she> was bound to win at some point.",2,3
+Free Food,You offered <casino-gambler> a plate of <cheesy fries/wings with ranch/fresh buttermilk biscuits/onion rings/popcorn chicken/assorted cheeses/double chocolate brownies/cake pops> so <he/she> wouldn't go hungry while playing <casino-game>.,5,4
+Hypnosis,You inconspicuously hypnotized <casino-gambler> with <a watch/a shiny ring/a pendulum/a clicking pen> and whispered that <he/she> needed to play more <casino-game>.,3,1
+Direct Eye Contact,You looked <casino-gambler> dead in the eyes while suggesting that <he/she> stay for another round of <casino-game>.,2,2
+Promise Excitement,You swore to <casino-gambler> that just one more round of <casino-game> would be <an unbeatable adrenaline rush/a huge thrill/more intoxicating than any drug/more exhilarating than a roller coaster>.,4,5
+Issue a Dare,You <double/triple/quadruple/quintuple> dared <casino-gambler> to play more <casino-game>.,4,3
+Emphasize Payout,"You reminded <casino-gambler> that with <his/her> potential winnings from playing more <casino-game>, <he/she> could <buy a new house/buy a new car/go on a dream vacation/buy a thousand chicken wings/buy a thousand Cokes/buy concert tickets to any show>.",5,4
+Perform a Song,You sang an improvised <opera solo/pop anthem/country ballad/jazz solo/soft folk tune/Swiss yodeling tune> to make <casino-gambler> feel confident.,3,2
+Shoulder Massage,You offered <casino-gambler> a <gentle/vigorous/firm/soothing> shoulder massage to help <him/her> relax before playing <casino-game>.,2,1
+Give Caffeine Pills,You offered <casino-gambler> a fistful of caffeine pills to make <him/her> as alert as possible while playing <casino-game>.,2,1
+Hug,You gave <casino-gambler> <a tender/a forceful/an awkward/a deep> hug to make <him/her> feel safe playing more <casino-game>.,1,2
+Fist Bump,You hyped <casino-gambler> up with a fist bump and said <he/she> would <crush/dominate at> <casino-game>,2,3

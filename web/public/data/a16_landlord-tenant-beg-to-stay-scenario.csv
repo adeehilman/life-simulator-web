@@ -1,0 +1,18 @@
+Scenario,Log Version,Min Craziness,Max Craziness,Commonness Score
+<he/she> <says/swears/promises> <he/she> will be a model tenant from now on.,<tenant> promised to be a better tenant if I didn't evict <him/her>.,50,,5
+<he/she> tells you it's not <right/fair> to kick <him/her> out.,<tenant> argued it wasn't fair for me to kick <him/her> out.,70,,3
+<he/she> is begging you to reconsider.,<tenant> begged me to reconsider evicting <him/her>.,,,5
+<he/she> swears <he/she> won't cause any more trouble.,<tenant> promised not to cause any more trouble if I didn't evict <him/her>.,,,4
+<he/she> swears to be good from now on.,<tenant> promised to be on <his/her> best behavior if I didn't evict <him/her>.,,,3
+<he/she> tells you that you won't hear a peep out of <him/her> ever again.,<tenant> told me <he/she> would be a better tenant if I didn't evict <him/her>.,,50,2
+<he/she> tells you <he/she> can do better if you would just give <him/her> a chance.,<tenant> told me <he/she> would be a better tenant if I didn't evict <him/her>.,50,,3
+<he/she> tells you <he/she> will be your worst nightmare if you try to evict <him/her>.,<tenant> told me <he/she> would be my worst nightmare if I tried to evict <him/her>.,80,,1
+<he/she> tells you <he/she> won't be a problem anymore.,<tenant> told me <he/she> wouldn't be a problem anymore if I didn't evict <him/her>.,50,,3
+<he/she> asks if you're really the type of person to throw someone out on the streets.,<tenant> begged me to reconsider evicting <him/her>.,40,,2
+<he/she> says you're heartless if you're going to put a defenseless person out on the street like this.,<tenant> begged me to reconsider evicting <him/her>.,60,,2
+<he/she> says <he/she> doesn't have any more options and begs for one more chance.,<tenant> begged me to reconsider evicting <him/her>.,,50,3
+<he/she> promises <he/she> will behave from now on.,<tenant> promised to behave if I didn't evict <him/her>.,,,3
+<he/she> tells you there's no need to throw <him/her> out.,<tenant> told me not to evict <him/her>.,,,2
+<he/she> tells you <he/she> just didn't understand the rules.,<tenant> told me <he/she> would be on <his/her> best behavior from now on if I didn't evict <him/her>.,,,4
+<he/she> says you'll be sorry if you evict <him/her>.,<he/she> said I'd be sorry if I evicted <him/her>.,70,,3
+<he/she> says <he/she> doesn't know what <he/she> might do if you evict <him/her>.,<he/she> said <he/she> didn't know what <he/she> might do if I evicted <him/her>.,80,,3

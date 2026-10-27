@@ -1,0 +1,53 @@
+Scenario,Log Version,Cheap Car,Expensive Car,Old Car,Misc Car,Watercraft,Aircraft,Prepurchase Rejection
+<he/she> says it was an irresponsible decision and a waste of money.,<lover> complained that our new <vehicle> was a waste of money.,,x,,x,x,x,
+<he/she> says it's too flashy.,<lover> complained that my new <vehicle> was too flashy.,,x,,x,x,x,x
+<he/she> says the wheels are ugly.,<lover> complained that the wheels on my new <vehicle> were ugly.,x,x,x,x,,,x
+<he/she> says it's unnecessary.,<lover> complained that my new <vehicle> was unnecessary.,,x,,x,x,x,x
+<he/she> says it's got too much horsepower for your driving abilities.,<lover> complained that my new <vehicle> had too much horsepower for my driving abilities.,,x,,x,,,x
+<he/she> says the horsepower to torque ratio is way off.,<lover> complained that the horsepower to torque ratio on my new <vehicle> was way off.,,x,,x,,,x
+<he/she> says the seats are incredibly uncomfortable.,<lover> complained that the seats in my new <vehicle> were incredibly uncomfortable.,,x,x,x,x,x,x
+<he/she> says the interior has an odd odor.,<lover> complained that the interior of my new <vehicle> had an odd odor.,,x,x,x,x,x,x
+<he/she> says the maintenance is not worth the expense.,<lover> complained that the maintenance on my new <vehicle> was not worth the expense.,,x,x,x,x,x,x
+<he/she> says it's an awful color.,<lover> complained that the color of my new <vehicle> was awful.,,x,x,x,x,x,x
+<he/she> says it just looks funny.,<lover> complained that my new <vehicle> looked funny.,,x,x,x,x,x,x
+<he/she> says <he/she> doesn't want to be seen in it.,<lover> said <he/she> doesn't want to be seen in my new <vehicle>.,,x,x,x,x,x,x
+<he/she> says there are better things to spend your money on.,<lover> said there were better things to spend money on than a new <vehicle>.,,x,x,x,x,x,x
+<he/she> says it's just another way to increase your carbon footprint.,<lover> complained that owning my <vehicle> was increasing my carbon footprint.,,x,x,x,x,x,x
+<he/she> says <he/she> doesn't like the sound of the engine.,<lover> complained that <he/she> didn't like the engine sound of my new <vehicle>.,,x,x,x,x,x,x
+<he/she> says the dashboard layout is wonky.,<lover> complained that my new <vehicle> had a wonky dashboard.,,x,x,x,,,x
+<he/she> says there are not enough compartments to store all <his/her> stuff.,<lover> complained that weren't enough compartments in my new <vehicle> to accommodate all <his/her> stuff.,,x,x,x,x,x,x
+<he/she> says <he/she> had a bad experience as a child in a similar vehicle.,<lover> complained that <he/she> had a bad experience as a child in a vehicle similar to my new <vehicle>.,,x,x,x,,,x
+<he/she> says <he/she> fears for your safety on the road in that vehicle.,<lover> said <he/she> feared for my safety driving my new <vehicle>.,,x,,x,,,x
+<he/she> says it will depreciate in value too quickly.,<lover> complained that the value of my new <vehicle> would depreciate too quickly.,,x,,x,x,x,x
+<he/she> says she fears for your safety in the open waters.,<lover> said <he/she> feared for my safety in my new <vehicle>.,,,,,x,,x
+<he/she> is afraid you'll drown in the ocean.,<lover> said <he/she> feared I might drown while out in my new <vehicle>.,,,,,x,,x
+<he/she> says bad things can happen in the open waters.,<lover> said <he/she> feared that bad things would happen while out in my new <vehicle>.,,,,,x,,x
+"<he/she> is afraid you'll sail off to an exotic island, and never come back.",<lover> said <he/she> feared I would sail off to an exotic location in my new <vehicle> and never return.,,,,,x,,x
+<he/she> fears for the safety of others with you flying the open skies.,<lover> said <he/she> feared for the safety of others with me flying my new <vehicle> in open skies.,,,,,,x,x
+<he/she> says bad things can happen in the open skies.,<lover> complained that bad things could happen while flying my <vehicle>.,,,,,,x,x
+<he/she> is afraid you'll die in a mid-air collision.,<lover> was afraid I would die in a mid-air collision flying my new <vehicle>.,,,,,,x,x
+<he/she> says that flying increases your chances of an alien abduction.,<lover> complained that flying in my new <vehicle> would increase the chances of being abducted by aliens.,,,,,,x,x
+<he/she> is afraid you'll fly off to some exotic location and have an affair.,<lover> was afraid I'd fly off in my new <vehicle> to some exotic location and have an illicit affair.,,,,,,x,x
+<he/she> says the only reason you bought it was to impress your friends.,<lover> complained that the only reason I bought my <vehicle> was to impress my friends.,,,,x,x,x,x
+<he/she> says just because you can afford it doesn't mean you should buy it.,<lover> complained that just because I could afford my new <vehicle> didn't mean that I should have bought it.,,,,x,x,x,x
+<he/she> is afraid you are becoming too materialistic.,<lover> said <he/she> feared that I am becoming too materialistic just because I bought a new <vehicle>.,,,,x,x,x,
+<he/she> says it makes you look <insecure/pretentious/pompous/showy/vain>.,<lover> said my new <vehicle> makes me look <rb>.,,x,,,x,x,x
+<he/she> says <he/she> is worried that you'll become <a douchebag/a douche canoe/pretentious/pompous>.,<lover> said that me buying my new <vehicle> has <him/her> worried that I'll become <rb>.,,x,,,x,x,x
+<he/she> says this feels like it's a midlife crisis.,<lover> said me buying my new <vehicle> feels like a midlife crisis.,,x,,,x,x,x
+<he/she> asks you who you are trying to impress.,<lover> asked me who I am trying to impress by buying my new <vehicle>.,,x,,,x,x,x
+<he/she> asks what you are trying to compensate for.,<lover> asked what I'm trying to compensate for by buying my new <vehicle>.,,x,,,x,x,x
+<he/she> says that <he/she> hopes you crash it.,<lover> said <he/she> hopes I crash my new <vehicle>.,x,x,x,x,x,x,
+<he/she> says that <he/she> hopes you drive it off a cliff.,<lover> said <he/she> hopes that I drive my new <vehicle> off of a cliff.,x,x,x,x,,,
+<he/she> says that <he/she> hopes it sinks.,<lover> said <he/she> hopes that my new <vehicle> sinks.,,,,,x,,
+<he/she> says that you're lucky you're not single because you'd never get laid with that thing.,<lover> said that I am lucky I'm not single because I'd never get laid with my new <vehicle>.,x,,x,,,,
+<he/she> says that it's not the one <he/she> wanted you to buy.,<lover> said that my new <vehicle> isn't the one <he/she> wanted me to buy.,x,x,x,x,x,x,
+<he/she> says that it doesn't match your <amazing/sparkling/perfect/incredible/marvelous/shining/brilliant/bright/sensational/big/glorious/glowing/radiant> personality.,<lover> said that my new <vehicle> doesn't match my <rb> personality.,x,,x,,,,x
+<he/she> says that it doesn't match your <crappy/ugly/awful/blah/vanilla/boring/dull/simple/basic/bland/weak/flat/trashy/ghetto/ratchet> personality.,<lover> said that my new <vehicle> doesn't match my <rb> personality.,,x,,,,,x
+<he/she> says that <he/she> would rather have a new <boat/speedboat/yacht/submarine/sailboat/pirate ship/catamaran/helicopter/jet/propeller plane/blimp/hot air balloon/fighter jet/jumbo jet>.,<lover> said that <he/she> would rather have a new <rb> than our new <vehicle>.,x,x,x,x,,,x
+<he/she> says that <he/she> would rather have a new <helicopter/jet/propeller plane/blimp/hot air balloon/fighter jet/jumbo jet/sports car/SUV/minivan/race car/convertible/truck/semi truck/luxury car/van/station wagon/off-road vehicle/electric car/hybrid car/motorcycle/limo/family car>.,<lover> said that <he/she> would rather have a new <rb> than our new <vehicle>.,,,,,x,,x
+<he/she> says that <he/she> would rather have a new <boat/speedboat/yacht/submarine/sailboat/pirate ship/catamaran/sports car/SUV/minivan/race car/convertible/truck/semi truck/luxury car/van/station wagon/off-road vehicle/electric car/hybrid car/motorcycle/limo/family car>.,<lover> said that <he/she> would rather have a new <rb> than our new <vehicle>.,,,,,,x,x
+<he/she> says that you don't have to <compete with the neighbors/keep up with the Joneses/try to impress everyone>.,<lover> suggested that I bought my new <vehicle> to <rb>.,x,x,x,x,x,x,x
+<he/she> says that <he/she> wouldn't <ride/be seen/be caught dead> in that <piece of junk/piece of crap/junker/bucket of bolts/clunker/rattletrap/jalopy/lemon>.,<lover> called my new <vehicle> a <rb> and said <he/she> wouldn't ride in it.,x,,x,,,,x
+<he/she> called you <insult>.,<lover> called me <insult> for buying my new <vehicle>.,x,x,x,x,x,x,x
+<he/she> asks you if you're trying to get <him/her> to leave you.,<lover> asked if I was trying to get <him/her> to leave me by buying my new <vehicle>.,x,x,x,x,x,x,x
+<he/she> says <he/she> hopes it gets <towed/keyed/stolen/jacked>.,<lover> said <he/she> hopes my new <vehicle> gets <rb>.,x,x,x,x,,,

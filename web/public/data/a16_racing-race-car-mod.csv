@@ -1,0 +1,20 @@
+Feature,Plural,Short Name,Descriptive String,Cost,Handling Value Influence,Speed Value Influence,Acceleration Value Influence,Durability Influence,Most Influenced Stat,Commonness Score
+steel plating,x,steel plating,which allows you to take some hits and keep on trucking,42000,-5,-10,-15,20,Durability,3
+studded tires,x,studded tires,allowing you to maintain your grip on the road through turns on ice and snow,4800,10,5,5,,Handling,3
+coilovers,x,coilovers,"and can drop your vehicle to its nuts, if you'd like",16000,12,5,5,,Handling,4
+performance chip,,performance chip,giving you control over how much pep you want in your step,2000,,7,12,,Acceleration,3
+carbon fiber spoiler,,carbon fiber spoiler,keeping your back end tight to the ground,6000,9,5,,,Handling,4
+carbon fiber skirts,x,carbon fiber skirts,"as it reduces aerodynamic drag, keeping your ride tight to the ground",3700,5,9,-1,-5,Speed,3
+performance brake upgrade,x,racing brakes,giving you maximum stopping power without overheating,12000,17,,,,Handling,4
+nitrous oxide system,,nitrous oxide system,allowing you to blast off at the push of a button,6000,,,20,,Acceleration,2
+performance ignition system,,ignition upgrade,getting the most out of the air you suck in,7600,,5,11,,Acceleration,3
+cold air intake,,cold air intake,allowing your engine to freely suck maximum air intake,1200,,10,7,,Speed,2
+hydraulic suspension,,hydraulic suspension,and you'll quickly discover just how low you can go,24000,13,,,-5,Handling,3
+short-throw shifter,,short-throw shifter,allowing you to rip through the gears faster than ever,1100,,,9,,Acceleration,1
+strut tower bar,,strut bar,tightening up your ride with less body flex,900,12,-2,,5,Handling,2
+roll cage,,roll cage,allowing you to take a hit and not get crushed,4900,,-3,-5,15,Durability,4
+three-piece wheels,x,three-piece wheels,giving you the highest level of performance fitment,6500,17,3,,-3,Handling,4
+puncture-proof tires,x,puncture-proof tires,giving you the confidence you'll never go flat,9600,-12,-10,-4,15,Durability,3
+carbon steel bumper,,carbon steel bumper,which means you can <get rear-ended hard/take a hit from behind> without sustaining damage,8800,,-7,-2,14,Durability,1
+supercharger,,supercharger,increasing horsepower by forcing compressed air into all cylinders,10000,-1,10,3,,Speed,3
+custom racing exhaust,,custom racing exhaust,"making your vehicle louder, faster, stronger, better",20000,-1,8,1,,Speed,3

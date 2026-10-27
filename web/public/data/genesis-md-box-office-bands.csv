@@ -1,0 +1,6 @@
+ID,Hero Min Age,Hero Max Age,Hero Gender,Npc,Npc Gender,Commonness Score,Title/Activity,Scenario/String,Narrative/Log,MinMaxValues,Filter,Score,Impacts,Match
+10001,,,,,,1,,,,"[0<{entity.GetString(box_office_score,none)}<24]",,30,,
+10002,,,,,,1,,,,"[25<{entity.GetString(box_office_score,none)}<49]",,55,,
+10003,,,,,,1,,,,"[50<{entity.GetString(box_office_score,none)}<74]",,150,,
+10004,,,,,,1,,,,"[75<{entity.GetString(box_office_score,none)}<89]",,250,,
+10005,,,,,,1,,,,"[90<{entity.GetString(box_office_score,none)}<100]",,1000,,

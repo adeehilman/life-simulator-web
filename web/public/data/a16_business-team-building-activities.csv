@@ -1,0 +1,51 @@
+Index,Activity,Short Version,Cost Per Employee,Commonness Score,Attitude Impact
+1,to a baseball game,baseball game,100,5,2
+2,to a football game,football game,100,5,2
+3,to a soccer game,soccer game,100,5,2
+4,to a basketball game,basketball game,100,5,2
+5,to the beach,beach,20,3,2
+6,to play laser tag,laser tag,25,3,1
+7,to a hot dog eating contest,hot dog eating contest,5,2,-2
+8,kayaking,kayaking,75,3,1
+9,whitewater rafting,whitewater rafting,90,2,2
+10,fishing,fishing,50,2,1
+11,spelunking,spelunking,50,2,2
+12,to a diversity training seminar,diversity training seminar,10,2,
+13,to a cultural sensitivity seminar,cultural sensitivity seminar,10,2,
+14,to play paintball,paintball,80,3,1
+15,to a wine tasting,wine tasting,25,3,2
+16,bungee jumping,bungee jumping,100,1,-1
+17,skydiving,skydiving,500,2,1
+18,paragliding,paragliding,250,1,1
+19,to an indoor trampoline park,trampoline park,45,2,-1
+20,to an adult film festival,adult film festival,60,1,-1
+21,to the movies,movies,20,2,1
+22,to a car show,car show,10,1,1
+23,to a pottery painting studio,pottery painting,25,1,
+24,on a scavenger hunt,scavenger hunt,15,2,-2
+25,to a casino,casino,100,2,1
+26,to a carnival,carnival,25,2,-1
+27,to a leadership seminar,leadership seminar,350,3,
+28,camping,camping,120,1,1
+29,to a formal party,formal party,100,3,2
+30,to the zoo,zoo,30,2,1
+31,to a ropes course,ropes course,45,2,-1
+32,rock climbing,rock climbing,65,2,1
+33,to a drag show,drag show,20,1,
+34,alpine skiing,alpine skiing,225,1,1
+35,snowboarding,snowboarding,225,1,1
+36,to the lake,lake,50,3,2
+37,to a bar,bar,75,3,2
+38,out for coffee,coffee,10,4,1
+39,to a community pool party,pool party,25,1,-1
+40,to see a play,play,65,2,1
+41,to see a musical,musical,65,2,1
+42,to a book fair at a local library,book fair,15,1,-2
+43,to a rave,rave,80,1,1
+44,to run a marathon,marathon,15,2,-1
+45,to a comedy club,comedy club,65,3,2
+46,to a hot yoga studio,hot yoga,40,2,-1
+47,to a burlesque show,burlesque show,50,2,1
+48,to a political rally,political rally,10,1,-3
+49,geocaching,geocaching,15,2,1
+50,to a group sound bath session,sound bath,75,1,2

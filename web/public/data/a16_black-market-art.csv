@@ -1,0 +1,42 @@
+Title,Artist,Genre,Min Value,Max Value,Can Be Fake,Commonness Score,Appeal Score,Storage Unit Only,Black Market Only,ID
+Campbell's Soup Can,Andy Warhol,Pop Art,10000000,30000000,x,3,4,,,400
+The Starry Night,Vincent van Gogh,Post-Impressionism,90000000,150000000,x,2,5,,x,401
+The Persistence of Memory,Salvador Dali,Surrealism,45000000,150000000,x,3,3,,,402
+The Scream,Edvard Munch,Expressionism,100000000,200000000,x,2,5,,,403
+American Gothic,Grant Wood,Regionalism,2500000,10000000,x,3,4,,,404
+The Birth of Venus,Sandro Botticelli,Early Renaissance,150000000,500000000,x,1,5,,,405
+Ram in a Thicket,Unknown,Bronze Sculpture,1500000,12000000,x,2,2,,,406
+Moai Statue,Unknown,Rock Carving,15000000,75000000,x,2,3,,,407
+Statue of David,Michelangelo,Marble Statue,100000000,700000000,x,1,5,,x,408
+Bust of Nefertiti,Unknown,Limestone Bust,190000000,400000000,x,1,5,,x,409
+Girl with a Pearl Earring,Johannes Vermeer,Realism,80000000,200000000,x,1,5,,x,410
+Water Lilies,Claude Monet,Impressionism,35000000,70000000,x,3,4,,,411
+Mona Lisa,Leonardo da Vinci,High Renaissance,500000000,5000000000,x,1,5,,x,412
+Capitoline Wolf,Unknown,Bronze Sculpture,15000000,85000000,x,2,3,,x,413
+Guernica,Pablo Picasso,Cubism,75000000,200000000,x,3,4,,,414
+Drowning Girl,Roy Lichtenstein,Pop Art,15000000,95000000,x,5,3,,,415
+Woman III,Willem de Kooning,Abstract Expressionism,40000000,137500000,x,3,3,,,416
+Convergence,Jackson Pollock,Abstract Expressionism,55000000,300000000,x,3,2,,,417
+The Two Fridas,Frida Kahlo,Surrealism,15000000,35000000,x,3,4,,,418
+Love is in the Bin,Banksy,Street Art,10000000,26000000,x,3,5,x,x,419
+Poker Game,Cassius Marcellus Coolidge,American Kitsch,10000,100000,x,5,2,x,,420
+Sunflowers,Vincent van Gogh,Post-Impressionism,45000000,100000000,x,3,3,x,,421
+Balloon Dog,Jeff Koons,Stainless Steel Sculpture,15000000,60000000,x,1,4,,,422
+Girl with Balloon,Banksy,Street Art,1000000,22000000,x,5,5,,,423
+Four Marilyns,Andy Warhol,Pop Art,1000000,36000000,x,3,5,x,,424
+Hopeless,Roy Lichtenstein,Pop Art,15000000,25000000,x,3,4,,,425
+The Treachery of Images,Rene Magritte,Surrealism,25000000,60000000,x,4,3,x,,426
+Six Persimmons,Muqi Fachang,Ink Handscroll,50000000,100000000,x,3,2,,x,427
+Great Wave off Kanagawa,Katsushika Hokusai,Woodblock Print,80000000,150000000,x,3,5,,,428
+Pine Trees,Hasegawa Tohaku,Ink Print,10000000,35000000,x,3,2,,,429
+Sansui Chokan,Sesshu Toyo,Ink Hanging Scroll,5000000,50000000,x,3,3,,,430
+Red Cliff,Qiu Ying,Ink Handscroll,25000000,140000000,x,2,5,,,431
+The Rongxi Studio,Ni Zan,Ink Handscroll,5000000,25000000,x,3,3,,,432
+The Kiss,Gustav Klimt,Symbolism,80000000,135000000,x,2,5,,,433
+The Dance,Henri Matisse,Fauvism,50000000,200000000,x,3,3,,,434
+Christina's World,Andrew Wyeth,Magical Realism,37000,1500000,x,5,2,,,435
+Jimson Weed,Georgia O'Keeffe,American Modernism,10000000,44000000,x,2,4,,,436
+A.B. Still,Gerhard Richter,Abstract,264000,34000000,x,3,5,x,,437
+Untitled,Jean-Michel Basquiat,Abstract,21000,110000000,x,4,5,x,,438
+Meules,Claude Monet,Impressionism,2500000,110000000,x,3,5,,,439
+Abstraktes Bild,Gerhard Richter,Abstract,600000,47000000,x,4,5,x,,440

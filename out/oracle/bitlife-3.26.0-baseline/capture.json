@@ -1,0 +1,42 @@
+{
+  "targetPackage": "com.candywriter.bitlife",
+  "targetActivity": "com.unity3d.player.UnityPlayerActivity",
+  "requestedTargetVersion": "3.25.3",
+  "capturePurpose": "read-only APK oracle baseline",
+  "adbSerial": "127.0.0.1:58526",
+  "capturedAt": "2026-10-26T18:18:56.246880+00:00",
+  "captures": [
+    {
+      "index": 0,
+      "timestamp": "2026-10-26T18:18:47.588575+00:00",
+      "screen": "out/oracle/bitlife-3.26.0-baseline/000_screen.png",
+      "screenSha256": "604d7e8cb6a8cbc16d15830266e9621a007ebcf29c8d22b05c8f143957f1fb62",
+      "screenBytes": 285084,
+      "ui": "out/oracle/bitlife-3.26.0-baseline/000_ui.xml",
+      "uiBytes": 1483
+    },
+    {
+      "index": 1,
+      "timestamp": "2026-10-26T18:18:50.846139+00:00",
+      "screen": "out/oracle/bitlife-3.26.0-baseline/001_screen.png",
+      "screenSha256": "604d7e8cb6a8cbc16d15830266e9621a007ebcf29c8d22b05c8f143957f1fb62",
+      "screenBytes": 285084,
+      "ui": "out/oracle/bitlife-3.26.0-baseline/001_ui.xml",
+      "uiBytes": 1483
+    },
+    {
+      "index": 2,
+      "timestamp": "2026-10-26T18:18:54.037618+00:00",
+      "screen": "out/oracle/bitlife-3.26.0-baseline/002_screen.png",
+      "screenSha256": "5b868fc947ea2d33d669738b866860fe05ddf06f8bcf6323653387b694977036",
+      "screenBytes": 284728,
+      "ui": "out/oracle/bitlife-3.26.0-baseline/002_ui.xml",
+      "uiBytes": 1483
+    }
+  ],
+  "notes": [
+    "Unity Canvas UI may be absent from uiautomator XML.",
+    "Package version must be checked before using this capture as a target fixture.",
+    "This capture does not include private app data because run-as is unavailable on release APK."
+  ]
+}

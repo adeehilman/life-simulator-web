@@ -1,0 +1,12 @@
+Genre,Singer Title,Famous Title,Solo Roles,Band Roles,Push Stage Name,Band Min Size,Band Max Size,Predominant Country,Predominant Skin Color,Fame Score,Commonness Score,Money Score,Profanity Tolerance Score,Craziness Score
+pop,pop singer,pop star,all,all,,3,7,,,5,5,5,2,3
+rap,rapper,famous rapper,singer,singer,x,3,4,us,5,5,3,4,5,3
+K-pop,K-pop artist,K-pop star,singer,singer,,3,7,kr,,5,2,3,2,3
+rock,singer,rock star,all,all,,3,7,,,5,4,4,2,5
+country,country singer,country star,all,all,,3,7,us,2,5,4,4,1,1
+alternative,singer,rock star,"singer, guitarist",all,,3,7,,,5,3,2,3,4
+folk,folk singer,folk star,all,all,,3,7,,,2,2,1,3,2
+heavy metal,singer,rock star,none,all,,5,7,,2,3,2,1,4,5
+reggae,singer,reggae star,singer,all,,4,7,jm,6,2,2,2,2,2
+worship,singer,famous singer,singer,all,,4,7,,2,1,2,1,1,1
+rhythm and blues,R&B singer,R&B star,all,all,,3,5,us,5,3,2,2,4,2

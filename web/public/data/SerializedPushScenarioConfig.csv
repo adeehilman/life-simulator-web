@@ -1,0 +1,1777 @@
+{
+  "ConfigEntries": [
+    {
+      "scenarioCategory": "iap_promo_guaranteed_a",
+      "priority": 1,
+      "minDraws": 1,
+      "maxDraws": 1,
+      "drawProbability": 1.0,
+      "ageMin": 20,
+      "ageMax": 20
+    },
+    {
+      "scenarioCategory": "iap_promo_guaranteed_b",
+      "priority": 2,
+      "minDraws": 1,
+      "maxDraws": 1,
+      "drawProbability": 1.0,
+      "ageMin": 45,
+      "ageMax": 45
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "priority": 3,
+      "minDraws": 1,
+      "maxDraws": 2,
+      "drawProbability": 0.04,
+      "ageMin": 18,
+      "ageMax": 999
+    }
+  ],
+  "CategoryDrawEntries": [
+    {
+      "scenarioCategory": "iap_promo_guaranteed_a",
+      "scenarioSubCategory": "guaranteed_a",
+      "weight": 1
+    },
+    {
+      "scenarioCategory": "iap_promo_guaranteed_b",
+      "scenarioSubCategory": "guaranteed_b",
+      "weight": 1
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "expansion_blackmarket",
+      "weight": 25
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "expansion_casino",
+      "weight": 25
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "expansion_cult",
+      "weight": 25
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "expansion_investor",
+      "weight": 25
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "expansion_landlord",
+      "weight": 25
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "expansion_racing",
+      "weight": 25
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "expansion_secretagent",
+      "weight": 25
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "expansion_zoo",
+      "weight": 25
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_assassinsblade",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_friendshipbracelet",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_getoutofjailfreecard",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_goldendiploma",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_goldennekostatue",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_goldenpacifier",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_goldenpassport",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_goldenpiggybank",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_goldenresume",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_goldenwrench",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_hollywoodstar",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_promiscuitypotion",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "item_spikedbrassknuckles",
+      "weight": 10
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "job_actor",
+      "weight": 15
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "job_astronaut",
+      "weight": 15
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "job_business",
+      "weight": 15
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "job_dealer",
+      "weight": 15
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "job_mafia",
+      "weight": 15
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "job_model",
+      "weight": 15
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "job_musician",
+      "weight": 15
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "job_politician",
+      "weight": 15
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "job_proathlete",
+      "weight": 15
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "job_streethustler",
+      "weight": 15
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "lifestyle_luxury",
+      "weight": 30
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "lifestyle_outdoors",
+      "weight": 30
+    },
+    {
+      "scenarioCategory": "iap_promo_chance_a",
+      "scenarioSubCategory": "mode_vampire",
+      "weight": 30
+    }
+  ],
+  "SubcategoryDrawEntries": [
+    {
+      "scenarioSubcategory": "guaranteed_a",
+      "scenarioID": "iap_vampire_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "guaranteed_a",
+      "scenarioID": "iap_vampire_002",
+      "weight": 4
+    },
+    {
+      "scenarioSubcategory": "guaranteed_b",
+      "scenarioID": "iap_luxury_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "guaranteed_b",
+      "scenarioID": "iap_luxury_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_blackmarket",
+      "scenarioID": "iap_blackmarket_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_blackmarket",
+      "scenarioID": "iap_blackmarket_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_casino",
+      "scenarioID": "iap_casino_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_casino",
+      "scenarioID": "iap_casino_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_cult",
+      "scenarioID": "iap_cult_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_cult",
+      "scenarioID": "iap_cult_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_cult",
+      "scenarioID": "iap_cult_003",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_investor",
+      "scenarioID": "iap_investor_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_investor",
+      "scenarioID": "iap_investor_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_landlord",
+      "scenarioID": "iap_landlord_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_landlord",
+      "scenarioID": "iap_landlord_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_racing",
+      "scenarioID": "iap_racing_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_racing",
+      "scenarioID": "iap_racing_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_secretagent",
+      "scenarioID": "iap_secretagent_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_secretagent",
+      "scenarioID": "iap_secretagent_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_zoo",
+      "scenarioID": "iap_zoo_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_zoo",
+      "scenarioID": "iap_zoo_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "expansion_zoo",
+      "scenarioID": "iap_zoo_003",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_assassinsblade",
+      "scenarioID": "iap_assassinsblade_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_assassinsblade",
+      "scenarioID": "iap_assassinsblade_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_friendshipbracelet",
+      "scenarioID": "iap_friendshipbracelet_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_friendshipbracelet",
+      "scenarioID": "iap_friendshipbracelet_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_getoutofjailfreecard",
+      "scenarioID": "iap_getoutofjailfreecard_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_getoutofjailfreecard",
+      "scenarioID": "iap_getoutofjailfreecard_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_goldendiploma",
+      "scenarioID": "iap_goldendiploma_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_goldendiploma",
+      "scenarioID": "iap_goldendiploma_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_goldennekostatue",
+      "scenarioID": "iap_goldennekostatue_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_goldennekostatue",
+      "scenarioID": "iap_goldennekostatue_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_goldenpacifier",
+      "scenarioID": "iap_goldenpacifier_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_goldenpacifier",
+      "scenarioID": "iap_goldenpacifier_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_goldenpassport",
+      "scenarioID": "iap_goldenpassport_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_goldenpassport",
+      "scenarioID": "iap_goldenpassport_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_goldenpiggybank",
+      "scenarioID": "iap_goldenpiggybank_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_goldenpiggybank",
+      "scenarioID": "iap_goldenpiggybank_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_goldenresume",
+      "scenarioID": "iap_goldenresume_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_goldenresume",
+      "scenarioID": "iap_goldenresume_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_goldenwrench",
+      "scenarioID": "iap_goldenwrench_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_goldenwrench",
+      "scenarioID": "iap_goldenwrench_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_hollywoodstar",
+      "scenarioID": "iap_hollywoodstar_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_hollywoodstar",
+      "scenarioID": "iap_hollywoodstar_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_promiscuitypotion",
+      "scenarioID": "iap_promiscuitypotion_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_promiscuitypotion",
+      "scenarioID": "iap_promiscuitypotion_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "item_spikedbrassknuckles",
+      "scenarioID": "iap_spikedbrassknuckles_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "item_spikedbrassknuckles",
+      "scenarioID": "iap_spikedbrassknuckles_002",
+      "weight": 0
+    },
+    {
+      "scenarioSubcategory": "job_actor",
+      "scenarioID": "iap_actor_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_actor",
+      "scenarioID": "iap_actor_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_astronaut",
+      "scenarioID": "iap_astronaut_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_astronaut",
+      "scenarioID": "iap_astronaut_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_business",
+      "scenarioID": "iap_business_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_business",
+      "scenarioID": "iap_business_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_dealer",
+      "scenarioID": "iap_dealer_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_dealer",
+      "scenarioID": "iap_dealer_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_mafia",
+      "scenarioID": "iap_mafia_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_mafia",
+      "scenarioID": "iap_mafia_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_model",
+      "scenarioID": "iap_model_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_model",
+      "scenarioID": "iap_model_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_musician",
+      "scenarioID": "iap_musician_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_musician",
+      "scenarioID": "iap_musician_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_politician",
+      "scenarioID": "iap_politician_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_politician",
+      "scenarioID": "iap_politician_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_proathlete",
+      "scenarioID": "iap_proathlete_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_proathlete",
+      "scenarioID": "iap_proathlete_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_streethustler",
+      "scenarioID": "iap_streethustler_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "job_streethustler",
+      "scenarioID": "iap_streethustler_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "lifestyle_luxury",
+      "scenarioID": "iap_luxury_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "lifestyle_luxury",
+      "scenarioID": "iap_luxury_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "lifestyle_outdoors",
+      "scenarioID": "iap_outdoors_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "lifestyle_outdoors",
+      "scenarioID": "iap_outdoors_002",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "mode_vampire",
+      "scenarioID": "iap_vampire_001",
+      "weight": 1
+    },
+    {
+      "scenarioSubcategory": "mode_vampire",
+      "scenarioID": "iap_vampire_002",
+      "weight": 1
+    }
+  ],
+  "ContentEntries": [
+    {
+      "priority": 0,
+      "scenarioId": "iap_blackmarket_001",
+      "iap": "com.candywriter.bitlife.blackmarket",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Black Market",
+      "title": "To Market",
+      "body": "<While riding the bus/While riding the train/While waiting for the bus/While waiting for a train>, you overhear <random-person-indefinite> bragging to <his/her> friend about how <he/she> bought <Kobe Bryant's Lakers jersey/Dwayne Johnson's wrestling briefs/John Cena's WWE armband/a taxidermied pole dancing raccoon/a blue diamond/a yellow diamond/a pink diamond/a genuine Masamune katana> on the Black Market for next to nothing.",
+      "cta": "What will you do?",
+      "choice1": "Ask where to find the market",
+      "narrative1": "<random-person-indefinite> gave me directions to the Black Market.",
+      "choice2": "Mind my own business",
+      "narrative2": "I decided against asking <random-person-indefinite> about the Black Market.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_blackmarket_002",
+      "iap": "com.candywriter.bitlife.blackmarket",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "<random-person-indefinite>",
+      "exteriorTitle": "Black Market",
+      "title": "Off the Books",
+      "body": "<circumstance-public>, <random-person-indefinite> quietly approaches to say you look like someone who can get \\"things\\" for people who want to buy \\"things\\" not sold in a market. <he/she> then whispers, if there's any way you can get your hands on <a Tudor chamber pot/Prince's Cloud guitar/a first-edition copy of 'Sex for Dummies'/a pair of Queen Victoria's bloomers/a T-Rex skull/the golden railroad spike/Blackbeard's booty/Michelangelo's sculpting tools/Taylor Swift's red scarf/Joan of Arc's chainmail tunic/a first-edition BitLife hoodie/Selena's purple jumpsuit/a Warhol Campbell's Soup Can painting/the Bust of Nefertiti/Picasso's \u2018Guernica\u2019/Jeff Koons \u2018Balloon Dog\u2019/Banksy's \u2018Girl with Balloon\u2019/Michael Phelps' bong/Dwayne Johnson's wrestling briefs/Babe Ruth's red socks/Danica Patrick's stick shift/Tom Brady's deflated balls/Baba Booey's opening pitch baseball/Ronaldo's first bronze bust/a 2002 Enzo Ferrari/a Nissan Skyline R34 GT-R/William Wallace's sword/Bruce Lee's nunchucks/Buffy's wooden stake>, you could make a whole lot of money.",
+      "cta": "What will you do?",
+      "choice1": "Consider the offer",
+      "narrative1": "I looked into what it would take to get my hands on <rb> to sell on the black market for a lot of money.",
+      "choice2": "Ignore <him/her>",
+      "narrative2": "I ignored <random-person-indefinite> who wanted me to find <rb> for <him/her>.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_casino_001",
+      "iap": "com.candywriter.bitlife.casino",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Casino",
+      "title": "High Rolling",
+      "body": "While thinking about your visit to the casino, you realize if you owned your own casino, you could install as many games as you want and make a ton of money by tweaking the odds in your favor.",
+      "cta": "What will you do?",
+      "choice1": "Start a casino, of course",
+      "narrative1": "I looked into starting a casino.",
+      "choice2": "Ignore the thought",
+      "narrative2": "I thought about owning a casino, but quickly dismissed it.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_casino_002",
+      "iap": "com.candywriter.bitlife.casino",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "random-person-indefinite",
+      "exteriorTitle": "Casino",
+      "title": "A Sure Bet",
+      "body": "While walking past a local casino, you overhear an investment banker telling <random-person-indefinite> that the easiest way to win money at a casino is to own the casino.",
+      "cta": "What will you do?",
+      "choice1": "Buy a casino",
+      "narrative1": "I looked into buying a casino.",
+      "choice2": "Keep walking",
+      "narrative2": "I ignored a conversation I overheard about the perks of owning a casino.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_cult_001",
+      "iap": "com.candywriter.bitlife.cult",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "random-person-indefinite",
+      "exteriorTitle": "Cult",
+      "title": "Leader in the Making",
+      "body": "<circumstance-public>, <random-person-indefinite> suddenly approaches you from out of nowhere and says you have this air about you that makes <him/her> want to follow you to the ends of the Earth.",
+      "cta": "What will you do?",
+      "choice1": "Start my own commune",
+      "narrative1": "I researched what it would take to start my own commune.",
+      "choice2": "Send <him/her> away",
+      "narrative2": "I ignored someone who suggested I'd be a good commune leader.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_cult_002",
+      "iap": "com.candywriter.bitlife.cult",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Cult",
+      "title": "Natural-Born Leader",
+      "body": "Now that you're famous, you wonder how you can further capitalize on all of your adoring fans. You begin to consider starting a commune just to see how far they'll go for you.",
+      "cta": "What will you do?",
+      "choice1": "Start my own commune",
+      "narrative1": "I looked into starting my own commune.",
+      "choice2": "Nothing",
+      "narrative2": "I ignored the thought of starting a commune to capitalize on my fame.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_cult_003",
+      "iap": "com.candywriter.bitlife.cult",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Cult",
+      "title": "Are You My Leader?",
+      "body": "<circumstance-public>, a woman wearing a <brown/pink/purple/blue/gray/black/red> <robe/tracksuit> approaches you and asks where your commune is, because she feels compelled to follow you.",
+      "cta": "What will you do?",
+      "choice1": "Look into starting a commune",
+      "narrative1": "I looked into starting my own commune.",
+      "choice2": "Send her away",
+      "narrative2": "I ignored someone who suggested I'd be a good commune leader.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_investor_001",
+      "iap": "com.candywriter.bitlife.investor",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "friend",
+      "exteriorTitle": "Investor",
+      "title": "BoingCoin",
+      "body": "<friend> pokes fun at the fact that you haven't invested in the currency of the future, and suggests you do so now before the world goes all Cyberpunky and nothing matters anymore. It's best to invest now more than ever, <he/she> says!",
+      "cta": "What will you do?",
+      "choice1": "Start investing!",
+      "narrative1": "I looked into investing into cryptocurrency and anything else that could help me financially.",
+      "choice2": "Kick <him/her> out",
+      "narrative2": "I kicked my friend out for suggesting that I invest in my future.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 2,
+      "scenarioId": "iap_investor_002",
+      "iap": "com.candywriter.bitlife.investor",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "friend",
+      "exteriorTitle": "Investor",
+      "title": "Wolf of Everything",
+      "body": "After watching The Wolf of Wallstreet several times obsessively, <friend> asks if you'd be interested in learning how to become the next top-dog with <him/her> through the power of the stockmarket.",
+      "cta": "What will say?",
+      "choice1": "Let's break this thing!",
+      "narrative1": "I looked into learning how to invest in the stockmarket.",
+      "choice2": "Nah, I'm out",
+      "narrative2": "I felt I wasn't up for the life of an investor and refused the call.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_landlord_001",
+      "iap": "com.candywriter.bitlife.landlord",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Landlord",
+      "title": "Renter's Paradise",
+      "body": "After purchasing your latest property, you read a story in '<Forbes/Landlords Monthly/GQ/Haute Living/LuxeLife/PayDay/Homeowners Monthly>' magazine about a landlord who is making <currency1000000-10000000> annually. As you finish the article, you wonder if you could do the same.",
+      "cta": "What will you do?",
+      "choice1": "Rent out my property",
+      "narrative1": "I looked into renting out my properties.",
+      "choice2": "Ignore the thought",
+      "narrative2": "I decided to lose out on a gold mine by keeping my extra homes vacant.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_landlord_002",
+      "iap": "com.candywriter.bitlife.landlord",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_racing_001",
+      "iap": "com.candywriter.bitlife.racing",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Racing",
+      "title": "Road Race",
+      "body": "While washing your new <car>, <random-person-indefinite> driving a <Ford Bronco/GMC Hummer/Honda Civic/Mazda Miata/Mini Cooper> pulls up next to you and laughs at your vehicle, saying <he/she> bets <he/she> could beat you in a street race any day of the week.",
+      "cta": "What will you do?",
+      "choice1": "Accept <his/her> challenge",
+      "narrative1": "I considered accepting a challenge to a street race.",
+      "choice2": "Ignore <him/her>",
+      "narrative2": "I ignored someone who challenged me to a street race.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_racing_002",
+      "iap": "com.candywriter.bitlife.racing",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Racing",
+      "title": "Kachow!",
+      "body": "While watching Cars, you start to wonder if your own vehicle has ever had any desire to race against others and prove itself to you. Walking outside and staring at it, you picture yourself at the starting line, lights flashing all around you as you grip the wheel and feel your heart thumping with <anticipation/excitement/the thrill>. Maybe you also want this.",
+      "cta": "What will you do?",
+      "choice1": "Give it a chance",
+      "narrative1": "I considered entering a racing career.",
+      "choice2": "Ignore the feeling",
+      "narrative2": "I ignored the urge to chase after a racing career.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_secretagent_001",
+      "iap": "com.candywriter.bitlife.secretagent",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Secret Agency",
+      "title": "I Spy",
+      "body": "<circumstance-public>, a suspicious-looking <random-person> wearing a suit and dark sunglasses notices you watching <him/her> as <he/she> walks into <an antique bookstore/a nail salon/a pub/a laundromat/a run-down laundromat/an unassuming bookstore/a vacant car dealership/a run-down gym>. <an hour/thirty minutes/half an hour/two hours> later, <he/she> walks over to you and hands you a pamphlet about starting your own spy agency since you're so curious about other people's business.",
+      "cta": "What will you do?",
+      "choice1": "Check it out",
+      "narrative1": "I looked into starting my own spy agency.",
+      "choice2": "Destroy the pamphlet",
+      "narrative2": "I decided against starting my own spy agency.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_secretagent_002",
+      "iap": "com.candywriter.bitlife.secretagent",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Secret Agency",
+      "title": "Mission Briefing",
+      "body": "<circumstance-public>, <random-person-indefinite> hands you an unmarked envelope and briskly walks away. Opening it, you see a note that reads, \\"The world is in peril, Bitizen. Start your own spy agency to bring balance back to the world\\".",
+      "cta": "What will you do?",
+      "choice1": "Look into it",
+      "narrative1": "I looked into starting my own spy agency.",
+      "choice2": "Destroy the envelope",
+      "narrative2": "I decided against starting my own spy agency.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_zoo_001",
+      "iap": "com.candywriter.bitlife.zoo",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Zoo",
+      "title": "It's A Zoo Out There",
+      "body": "While reading your local paper, the <city> <Dispatch/Chronicle/Star/Gazette>, you learn that a zoo in the area is being sold after the former owner <died in a freak blender accident/was convicted of arson/disappeared during a trip to Antarctica/was gored to death on safari/suffocated in a pile of elephant dung>. The city is looking for someone to buy the zoo and care for the animals, and as you refold the paper, you wonder if you could be that person.",
+      "cta": "What will you do?",
+      "choice1": "Make an offer on the zoo",
+      "narrative1": "I looked into buying a zoo.",
+      "choice2": "Recycle the paper",
+      "narrative2": "I realized I wasn't up to the challenge of running a zoo and pitched the paper in the recycling.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_zoo_002",
+      "iap": "com.candywriter.bitlife.zoo",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Zoo",
+      "title": "Zoo Unto Others",
+      "body": "While watching TV, you see a wildlife documentary about <lions/giraffes/zebras/lemurs/kangaroos/pangolins/toucans/polar bears>, and it makes you realize how much you love animals. You begin to wonder if caring for creatures at your own zoo is something you'd be really good at.",
+      "cta": "What will you do?",
+      "choice1": "Research buying a zoo",
+      "narrative1": "I Googled zoos for sale in the <city> area.",
+      "choice2": "Ignore the thought",
+      "narrative2": "I figured I'd leave zookeeping up to the professionals and stick with my own animals.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_zoo_003",
+      "iap": "com.candywriter.bitlife.zoo",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Zoo",
+      "title": "Zoomanity",
+      "body": "As you're watching '<We Bought a Zoo/The Lion King/The Lion King II/Homeward Bound>,' <friend> calls to say there's an abandoned zoo for sale downtown. <he/she>'s worried about the well-being of the animals and wonders who'll take over and care for them.",
+      "cta": "What will you say?",
+      "choice1": "It's gonna be me",
+      "narrative1": "I looked into buying a zoo.",
+      "choice2": "I don't know",
+      "narrative2": "I didn't care about the animals in an abandoned zoo in town.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_assassinsblade_001",
+      "iap": "com.candywriter.bitlife.assassinsblade",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Assassin's Blade",
+      "title": "Cut-Throat Mentality",
+      "body": "Rounding the corner of your neighborhood, you catch a hooded man <stabbing/shanking/slitting the throat of> an innocent bystander. As you try to call the police, your phone somehow runs out of battery, and no one nearby seems to have noticed the incident like you did. Confronting him, he smirks and shows you a fancy looking assassin's blade, and asks if you'd like to cut someone out of your life permenantly, and without consequence.",
+      "cta": "What will you say?",
+      "choice1": "Yeah, I do",
+      "narrative1": "I looked into getting an assasisin's blade.",
+      "choice2": "No!",
+      "narrative2": "I refused to get away with murder using an assassin's blade.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_assassinsblade_002",
+      "iap": "com.candywriter.bitlife.assassinsblade",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_friendshipbracelet_001",
+      "iap": "com.candywriter.bitlife.friendshipbracelet",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "friend",
+      "exteriorTitle": "Friendship Bracelet",
+      "title": "Charming Bracelet ",
+      "body": "A fancy jewelry store is selling a charm bracelet that's catching everyone's eye. <friend> decides to step in and buy one, and when <he/she> comes back, <he/she>'s swarmed by all types of folk asking to be <his/her> friend, even a passing-by celebrity who was in the area!",
+      "cta": "What will you do?",
+      "choice1": "Get one too",
+      "narrative1": "I looked into getting a Friendship Bracelet.",
+      "choice2": "Step away",
+      "narrative2": "I didn't care about the attention <friend> was getting after <he/she> purchased a Friendship Bracelet.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_friendshipbracelet_002",
+      "iap": "com.candywriter.bitlife.friendshipbracelet",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_getoutofjailfreecard_001",
+      "iap": "com.candywriter.bitlife.getoutjailcard",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "random-person-indefinite",
+      "exteriorTitle": "Get Out of Jail Free Card",
+      "title": "Bars for None",
+      "body": "Over the past several days, you've noticed that, on the news, <random-person-indefinite> has committed several crimes, gone to jail, yet been released that very same night. Curious, you track down <his/her> information and knock on <his/her> door, asking for <his/her> secret. Surprisingly enough, <he/she> spills the beans and shows you what <he/she> calls a 'Get Out of Jail Free' card, and is willing to make you one.",
+      "cta": "What do you say?",
+      "choice1": "I'd like one!",
+      "narrative1": "I looked into getting a Get Out of Jail Free Card.",
+      "choice2": "No thanks",
+      "narrative2": "I wasn't interested in being able to commit crimes without the fear of going to jail.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_getoutofjailfreecard_002",
+      "iap": "com.candywriter.bitlife.getoutjailcard",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_goldendiploma_001",
+      "iap": "com.candywriter.bitlife.goldendiploma",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Golden Diploma",
+      "title": "Job Hack",
+      "body": "As you enter the doctor's office and wait for him to attend you, you look at the wall expecting to see several diplomas, but are surprised to see a single golden one instead. When the doctor finally enters, you ask about it and he says it was the only one he's ever needed, and with it, he was able to become a doctor even though he <flunked out of/failed/dropped out of> school.",
+      "cta": "What do you do?",
+      "choice1": "Try and get one",
+      "narrative1": "I looked into getting a Golden Diploma.",
+      "choice2": "Get up and leave",
+      "narrative2": "I left the doctor who told me about the Golden Diploma.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_goldendiploma_002",
+      "iap": "com.candywriter.bitlife.goldendiploma",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_goldennekostatue_001",
+      "iap": "com.candywriter.bitlife.goldennekostatue",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "friend",
+      "exteriorTitle": "Golden Neko Statue",
+      "title": "Turbo Granny",
+      "body": "<friend> says that after watching an anime with a <grumpy/cranky/angry> yet <charming/reliable> talking neko statue, <he/she> just had to get one! Ever since, <he/she>'s had good luck at work, and even got a pay increase! ",
+      "cta": "What do you do?",
+      "choice1": "Gotta represent!",
+      "narrative1": "I looked into getting a Golden Neko Statue.",
+      "choice2": "I don't like Dandadan",
+      "narrative2": "I wasn't interested in owning a neko statue of good fortune.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_goldennekostatue_002",
+      "iap": "com.candywriter.bitlife.goldennekostatue",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_goldenpacifier_001",
+      "iap": "com.candywriter.bitlife.goldenpacifier",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "friend",
+      "exteriorTitle": "Golden Pacifier",
+      "title": "Golden Child",
+      "body": "<friend> told you a cousin of <his/hers> couldn't have children until she made a wish on a star, and a golden pacifier was found underneath her pillow! Ever since, <his/her> cousin has been able to get pregnant easy, and her kids come out looking <adorbs/cute/cuddly wuddly/like little Einsteins>!",
+      "cta": "What do you do?",
+      "choice1": "Try and get one",
+      "narrative1": "I looked into getting a Golden Pacifier.",
+      "choice2": "Ignore the tale",
+      "narrative2": "I wasn't interested in getting the perfect child with a Golden Pacifier.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_goldenpacifier_002",
+      "iap": "com.candywriter.bitlife.goldenpacifier",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_goldenpassport_001",
+      "iap": "com.candywriter.bitlife.goldenpassport",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Golden Passport",
+      "title": "Tripped",
+      "body": "You're about to take a flight to <Britain/Monacco/Mexico> when you're suddenly denied entry. Upset, you sit down with your arms crossed but then notice that there's a gate letting those with a golden passport go where they please.",
+      "cta": "What do you do?",
+      "choice1": "Get one yourself",
+      "narrative1": "I looked into getting a Golden Passport.",
+      "choice2": "Mope",
+      "narrative2": "I moped instead of getting a golden passport that could help me emmigrate wherever I want.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_goldenpassport_002",
+      "iap": "com.candywriter.bitlife.goldenpassport",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_goldenpiggybank_001",
+      "iap": "com.candywriter.bitlife.goldenpiggybank",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "friend",
+      "exteriorTitle": "Golden Piggybank",
+      "title": "Different Type of Bacon",
+      "body": "<friend> tells you about an ancient tale of a golden piggybank said to bestow upon its owner wealth beyond their imagination. Thinking it silly, you brush the tale off and take a walk down the shopping district, when you notice one staring its beedy little eyes at you past the glass of one of the stores.",
+      "cta": "What do you do?",
+      "choice1": "Check it out",
+      "narrative1": "I looked into getting a Golden Piggybank.",
+      "choice2": "Leave it be",
+      "narrative2": "I walked away from the chance of obtaining a golden piggybank.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_goldenpiggybank_002",
+      "iap": "com.candywriter.bitlife.goldenpiggybank",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_goldenresume_001",
+      "iap": "com.candywriter.bitlife.goldenresume",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Golden Resume",
+      "title": "Resume Builder",
+      "body": "After leaving a job fair <without any luck/rather jobless/lacking a job>, a man in a long trench coat comes out from the nearest alleyway and beckons you to get closer. Not being able to deny your curiosity, you follow him as he shows you a piece of paper that gleams under the sun: a resume to beat all resumes! ",
+      "cta": "What do you do?",
+      "choice1": "Take it",
+      "narrative1": "I looked into getting myself a Golden Resume.",
+      "choice2": "Get away",
+      "narrative2": "I ran away from my chance to get a Golden Resume that would help me obtain a dream job.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_goldenresume_002",
+      "iap": "com.candywriter.bitlife.goldenresume",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_goldenwrench_001",
+      "iap": "com.candywriter.bitlife.goldenwrench",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Golden Wrench",
+      "title": "Fix-It Felix",
+      "body": "Walking by a car garage you notice a man simply tap his absolutely <totalled/wrecked/destroyed> vehicle with a golden wrench and fix it in seconds, metal that was once torn apart, fusing together as if nothing had happened.",
+      "cta": "What do you do?",
+      "choice1": "Ask where to get one",
+      "narrative1": "I looked into getting myself a Golden Wrench.",
+      "choice2": "Keep walking",
+      "narrative2": "I walked away from a chance to get a Golden Wrench to fix all my vehicular woes.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_goldenwrench_002",
+      "iap": "com.candywriter.bitlife.goldenwrench",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_hollywoodstar_001",
+      "iap": "com.candywriter.bitlife.hollywoodstar",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "celebrity",
+      "exteriorTitle": "Hollywood Star",
+      "title": "The Star's Secret",
+      "body": "You're at a red carpet event when you see <celebrity> pull a small star from <his/her> pocket and kiss it. Suddenly, you see all the attention from the crowd shifting onto <him/her> rather than anyone else. Curious, you look the item up on <Google/Reddit/4chan> and find it up for sale on <Bitizon/Amazon/Facebook Marketplace>.",
+      "cta": "What do you do?",
+      "choice1": "Get one",
+      "narrative1": "I looked into getting a Hollywood Star.",
+      "choice2": "Close the tab",
+      "narrative2": "I decided against getting a Hollywood Star and closed the tab advertising it.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_hollywoodstar_002",
+      "iap": "com.candywriter.bitlife.hollywoodstar",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_promiscuitypotion_001",
+      "iap": "com.candywriter.bitlife.promiscuitypotion",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "friend",
+      "exteriorTitle": "Promiscuity Potion",
+      "title": "Witch Doc's Finest",
+      "body": "<friend> says <he/she>'s gone on a banging spree with almost everyone in town, and hasn't gotten sick once! <he/she> spills the beans and shows you a <funky/bubbling/fizzy> potion in <his/her> pocket that <he/she> got from a witch doctor that's kept <him/her> safe from all sorts of nasty sexual diseases.",
+      "cta": "What do you do?",
+      "choice1": "Procure some yourself",
+      "narrative1": "I looked into getting a promiscuity potion.",
+      "choice2": "Step away awkwardly",
+      "narrative2": "I decided against getting a promiscuity potion.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_promiscuitypotion_002",
+      "iap": "com.candywriter.bitlife.promiscuitypotion",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_spikedbrassknuckles_001",
+      "iap": "com.candywriter.bitlife.spikedknuckles",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "random-person-indefinite",
+      "exteriorTitle": "Spiked Brass Knuckles",
+      "title": "Lucky Punch",
+      "body": "You find something shiny on the sidewalk and pick up what looks like brass knuckles with spikes on them. Suddenly, <random-person-indefinite> tries to mug you for them, and you land a decent punch on <him/her> that sends <him/her> flying into a nearby garbage can. These things can land a punch!",
+      "cta": "What do you do?",
+      "choice1": "Keep them",
+      "narrative1": "I decided to keep the spiked brass knuckles with me.",
+      "choice2": "Drop them",
+      "narrative2": "I dropped the spiked brass knuckles since I couldn't hold all that power.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 3,
+      "scenarioId": "iap_spikedbrassknuckles_002",
+      "iap": "com.candywriter.bitlife.spikedknuckles",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_actor_001",
+      "iap": "com.candywriter.bitlife.careeractor",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Actor",
+      "title": "In the Limelight",
+      "body": "<circumstance-public>, you see a flyer announcing that a prominent casting agency is currently in town and holding auditions for extras in a <sci-fi TV show/romcom/war drama/soap opera/thriller movie/procedural drama>, which makes you wonder if you could actually be a famous actor. And this could be your breakout role!",
+      "cta": "What will you do?",
+      "choice1": "Go to an audition",
+      "narrative1": "I looked into becoming a famous actor.",
+      "choice2": "Ignore the flyer",
+      "narrative2": "I decided the time wasn't right to become an actor.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 2,
+      "scenarioId": "iap_actor_002",
+      "iap": "com.candywriter.bitlife.careeractor",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Actor",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_astronaut_001",
+      "iap": "com.candywriter.bitlife.careerastronaut",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Astronaut",
+      "title": "Astronaut",
+      "body": "A recruiter from <space-agency> approaches you, congratulates you on receiving your degree, and says you'd be a perfect fit for their team of astronauts. She suggests you look into applying to their training program.",
+      "cta": "What will you do?",
+      "choice1": "Look into the program",
+      "narrative1": "I researched the requirements for applying to the <space-agency>.",
+      "choice2": "Pass on the opportunity",
+      "narrative2": "I turned down an opportunity to become an astronaut.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_astronaut_002",
+      "iap": "com.candywriter.bitlife.careerastronaut",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Astronaut",
+      "title": "To the Moon",
+      "body": "While watching the evening news, you see a segment about how more people with STEM degrees are becoming astronauts and discovering <new moons/lunar artifacts/new planets/new black holes/alien artifacts/signs of alien life on other planets/alien radio frequencies>. It makes you consider what you might encounter if you became an astronaut.",
+      "cta": "What will you do?",
+      "choice1": "Research becoming an astronaut",
+      "narrative1": "I researched becoming an astronaut.",
+      "choice2": "Keep watching the news",
+      "narrative2": "I ignored the feeling that I should look into being an astronaut.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_business_001",
+      "iap": "com.candywriter.bitlife.careerbusiness",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Business",
+      "title": "Helping Hand",
+      "body": "Walking down the neighborhood, you find yourself enjoying the view of all the small businesses and start-ups around that make the environment feel much more lively and engaging. You start to wonder if maybe you should also open something up to further help the community.",
+      "cta": "What will you do?",
+      "choice1": "Learn how to run a business",
+      "narrative1": "I started educating myself on how to run a business.",
+      "choice2": "Keep walking",
+      "narrative2": "I ignored my drive to give back to the community by opening up my own business.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 2,
+      "scenarioId": "iap_business_002",
+      "iap": "com.candywriter.bitlife.careerbusiness",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Business",
+      "title": "CE-NO",
+      "body": "You're starting to get sick at how these big businesses are running their brands through the ground and start to wonder how you'd make things a whole lot better if you were the big-time CEO making the big decisions.",
+      "cta": "What will you do?",
+      "choice1": "Become a CEO",
+      "narrative1": "I started educating myself on how to run a business.",
+      "choice2": "Let brands rot",
+      "narrative2": "I decided against becoming my own boss running my own business.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_dealer_001",
+      "iap": "com.candywriter.bitlife.careerdealer",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "friend",
+      "exteriorTitle": "Dealer",
+      "title": "Fast Cash",
+      "body": "<While getting coffee/While at the zoo/While grabbing a quick lunch/While at the movies/While hanging out/Just after leaving a dispensary> with <friend>, <he/she> pulls out a fat wad of cash, saying <he/she>\u2019s just become a runner for a drug cartel in <city>. <he/she> says <he/she>'ll put in a good word for you with the kingpin if you want to join.",
+      "cta": "What will you say?",
+      "choice1": "Sign me up",
+      "narrative1": "I looked into joining a drug cartel in <city>.",
+      "choice2": "I don't do drugs",
+      "narrative2": "I declined <friend-possessive> offer to join <his/her> drug cartel.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_dealer_002",
+      "iap": "com.candywriter.bitlife.careerdealer",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "random-person-indefinite",
+      "exteriorTitle": "Dealer",
+      "title": "Job Offer",
+      "body": "<random-person-indefinite> approaches you to quietly say that your criminal exploits have impressed <his/her> boss, the kingpin of <city>'s most infamous cartel. <he/she> says there's room for someone like you in the organization and offers you a spot as a dealer.",
+      "cta": "What will you say?",
+      "choice1": "I'm totally in",
+      "narrative1": "I looked into joining a drug cartel in <city>.",
+      "choice2": "Get away from me",
+      "narrative2": "I declined an offer from <random-person-indefinite> to join a drug cartel.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_mafia_001",
+      "iap": "com.candywriter.bitlife.careermafia",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Mafia",
+      "title": "To Mob or Not",
+      "body": "While watching <The Batman/Gotham> you see the type of swagger and control crime boss Carmine Falcone has over the city, and wonder if there's any crime families in town you could help become the best of the best.",
+      "cta": "What will you do?",
+      "choice1": "Join a crime family",
+      "narrative1": "I looked into joining the mafia.",
+      "choice2": "Ignore the urge",
+      "narrative2": "I ignored the urge to cause delicious chaos through underground networking.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 2,
+      "scenarioId": "iap_mafia_002",
+      "iap": "com.candywriter.bitlife.careermafia",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_model_001",
+      "iap": "com.candywriter.bitlife.careermodel",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Model",
+      "title": "In the Mode",
+      "body": "You step outside and watch a woman awkwardly walk around in heels while wearing <Chanel/Gucci/Dior/Hermes/Prada/Louis Vuitton>-branded clothing. You decide to help her by teaching her an easy run-way walk, and are approached by a fancy gentleman, who wonders why you haven't become a model yourself with the knowledge you possess.",
+      "cta": "What will you say?",
+      "choice1": "Who says I can't?",
+      "narrative1": "I looked into becoming a model.",
+      "choice2": "It's not for me.",
+      "narrative2": "I told a fancy gentleman that becoming a model just wasn't in the cards for me.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 2,
+      "scenarioId": "iap_model_002",
+      "iap": "com.candywriter.bitlife.careermodel",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_musician_001",
+      "iap": "com.candywriter.bitlife.careermusician",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Musician",
+      "title": "Facing the Music",
+      "body": "You're practicing your scales at home, with the window open, when <random-person-indefinite> walking by stops to listen. <he/she> quickly proclaims the sound is the <most beautiful/most sublime/banging-est/dankest/most tubular> music <he/she>'s ever heard and asks if you're in a band. Before you can answer, <he/she> says there are plenty of local groups looking for talent as good as yours.",
+      "cta": "What will you do?",
+      "choice1": "Check out the bands",
+      "narrative1": "I looked into becoming a famous musician.",
+      "choice2": "Shut the window",
+      "narrative2": "I ignored <random-person-indefinite> who suggested I join a band.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 2,
+      "scenarioId": "iap_musician_002",
+      "iap": "com.candywriter.bitlife.careermusician",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_politician_001",
+      "iap": "com.candywriter.bitlife.careerpolitician",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Politics",
+      "title": "They're All Crooks",
+      "body": "While watching the <city> evening news, you hear a local politician selfishly promoting <increased spending/increased taxes/restrictive laws/local reforms/layoffs/pension cutbacks> on a massive scale, and it makes you think you could do a much better job running your city than that person.",
+      "cta": "What will you do?",
+      "choice1": "Consider running for office",
+      "narrative1": "I looked into becoming a politician.",
+      "choice2": "Shake my head in disgust",
+      "narrative2": "While watching the <city> evening news, I resigned myself to the fact that all politicians are corrupt, and there's nothing I can do about it.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 2,
+      "scenarioId": "iap_politician_002",
+      "iap": "com.candywriter.bitlife.careerpolitician",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_proathlete_001",
+      "iap": "com.candywriter.bitlife.careerathlete",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Pro Athlete",
+      "title": "Kicking Things Off",
+      "body": "While walking across the street, a soccer ball skids towards you from a nearby soccer game, and you kick it with enough momentum to send it straight into the net. Amazed by your performance, the coach approaches and asks if you've ever had thoughts of going pro.",
+      "cta": "What will you do?",
+      "choice1": "Accept your calling",
+      "narrative1": "I looked into become a pro athlete.",
+      "choice2": "Decline",
+      "narrative2": "I decided that I wasn't ready to become a pro athlete.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 2,
+      "scenarioId": "iap_proathlete_002",
+      "iap": "com.candywriter.bitlife.careerathlete",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 1,
+      "scenarioId": "iap_streethustler_001",
+      "iap": "com.candywriter.bitlife.careerhustler",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Streethustler",
+      "title": "Easy Money",
+      "body": "While coming back home, you witness a magician <pull a rabbit out of his hat/make his hand disappear/float in mid-air> as a crowd starts to form, tossing cash into a box of his. You clearly see how he does his tricks, and smirk at potential of the easy money, thinking of other ways you can swindle others to get what you want.",
+      "cta": "What will you do?",
+      "choice1": "Start street scamming",
+      "narrative1": "I looked into becoming a street hustler.",
+      "choice2": "Walk home",
+      "narrative2": "I decided that becoming a street hustler wasn't the type of life I wanted.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 2,
+      "scenarioId": "iap_streethustler_002",
+      "iap": "com.candywriter.bitlife.careerhustler",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "",
+      "title": "",
+      "body": "",
+      "cta": "",
+      "choice1": "",
+      "narrative1": "",
+      "choice2": "",
+      "narrative2": "",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_luxury_001",
+      "iap": "com.candywriter.bitlife.luxurylifestyle",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Luxury",
+      "title": "LuxeLife",
+      "body": "While sorting the mail, you notice a golden envelope addressed to \\"The <Big Kahuna/Big Cheese/Top Dog/Big Boss>\\" among a stack of letters. Opening it, you discover an invitation to explore the more luxurious side of BitLife that only the cream of the crop can enjoy.",
+      "cta": "What will you do?",
+      "choice1": "Check it out",
+      "narrative1": "I looked into experiencing the finer things in BitLife.",
+      "choice2": "Throw it away",
+      "narrative2": "I decided that experiencing BitLife as <a poor person/a peasant/middle class> is good enough for me.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_luxury_002",
+      "iap": "com.candywriter.bitlife.luxurylifestyle",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Luxury",
+      "title": "Cream of the Crop",
+      "body": "A representative from the BitLife Country Club is offering you an opportunity to enjoy the finer things in BitLife because, as an elite Bitizen, you deserve to experience how the 1% lives.",
+      "cta": "What will you do?",
+      "choice1": "Accept the offer",
+      "narrative1": "I looked into experiencing the finer things in BitLife.",
+      "choice2": "Ignore the offer",
+      "narrative2": "I decided experiencing BitLife as <a poor person/a peasant/middle class> is good enough for me.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_outdoors_001",
+      "iap": "com.candywriter.bitlife.outdoorlifestyle",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Outdoors",
+      "title": "Fishing Trip",
+      "body": "<friend> says it's almost time for <his/her> annual fishing trip and wants to invite you this year, but doesn't know if you're interested in fishing.",
+      "cta": "What will you say?",
+      "choice1": "Sign me up",
+      "narrative1": "I looked into getting equipment for a fishing trip.",
+      "choice2": "I'm not interested",
+      "narrative2": "I told <friend> I wasn't interested in going on a fishing trip.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_outdoors_002",
+      "iap": "com.candywriter.bitlife.outdoorlifestyle",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Outdoors",
+      "title": "Buried Treasure",
+      "body": "While scrolling through <Instagram reels/your TikTok feed>, you see footage of a team of expert spelunkers hauling treasure out of <The Devil's Arse/Waitomo Glowworm Caves/Nutty Putty Cave/Son Doong Cave>. You wonder what you'd find if you went down there yourself.",
+      "cta": "What will you do?",
+      "choice1": "Go spelunking",
+      "narrative1": "I looked into what it would take for me to go spelunking.",
+      "choice2": "Keep scrolling",
+      "narrative2": "I scrolled past a reel of some spelunkers hauling up treasure from a cave.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_vampire_001",
+      "iap": "com.candywriter.bitlife.vampire",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "",
+      "exteriorTitle": "Vampire",
+      "title": "Night Beckons",
+      "body": "<While taking an evening stroll/While taking out the garbage/As you're leaving a movie theater at night/While dancing at a night club/While sipping a Bloody Mary at a nightclub>, a gaunt-looking man with an irresistible charm approaches you. He leans in and whispers, \\"<Ayo lemme get a sip/Come find out what these fangs do/Join my vampire coven/You look tasty>,\\" and beckons you to follow him into the shadows.",
+      "cta": "What will you do?",
+      "choice1": "Go with him",
+      "narrative1": "I followed a vampire who beckoned me to join him in the shadows.",
+      "choice2": "Ignore him",
+      "narrative2": "I ignored a vampire who beckoned me to follow him into the shadows.",
+      "emoji": "",
+      "notes": ""
+    },
+    {
+      "priority": 0,
+      "scenarioId": "iap_vampire_002",
+      "iap": "com.candywriter.bitlife.vampire",
+      "playerFilterCriteriaForScenarioEligibility": "IAP is not owned",
+      "genderBracket": "Both",
+      "exteriorTitle": "Vampire",
+      "title": "Sucky",
+      "body": "<circumstance-public>, you stumble upon a group of pale, beautiful people having coffee. One of them waves you over and says you're \\\\\\"special, for a human,\\\\\\" and offers to turn you into a vampire, just like them",
+      "cta": "What will you do?",
+      "choice1": "Join them",
+      "narrative1": "I accepted an invitation to explore the dark side with some vampires.",
+      "choice2": "Run away",
+      "narrative2": "I ran from a group of vampires I encountered on the street.",
+      "emoji": "",
+      "notes": ""
+    }
+  ]
+}

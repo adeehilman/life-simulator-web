@@ -1,0 +1,26 @@
+Action,Past Verb,Commonness Score,Damage Score
+pinch,pinched,5,2
+slap,slapped,5,3
+bite,bit,5,5
+scratch,scratched,3,2
+elbow,elbowed,2,5
+headbutt,headbutted,3,5
+backhand,backhanded,1,3
+poke,poked,3,2
+punch,punched,5,5
+kick,kicked,5,5
+squeeze,squeezed,2,3
+stamp,stamped,2,5
+grab,grabbed,3,1
+yank,yanked,1,2
+twist,twisted,2,2
+pound,pounded,2,4
+flick,flicked,1,1
+spit,spit at,4,0
+uppercut,delivered an uppercut to,4,5
+right hook,delivered a right hook to,4,5
+roundhouse kick,delivered a roundhouse kick to,2,5
+lick,licked,2,0
+claw,clawed,2,3
+tickle,tickled,2,1
+stretch,stretched,2,3

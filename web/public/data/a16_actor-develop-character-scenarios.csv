@@ -1,0 +1,26 @@
+Scenario,Log Version
+You went out to dinner with friends while in character as <role> from <production>.,I went out to dinner with friends while in character as <role>.
+You attended a <funeral/wake/birthday party/wedding reception/PTA meeting/baseball game/basketball game/rugby game/pool party/kegger/frat party/retirement party> while in character as <role> from <production>.,I attended a <rb> while in character as <role>.
+You went to a <carnival/local fair> and played '<Ring Toss/Coin Toss/Darts/Milk Bottle Knockdown/Bust-a-Balloon/Skee-Ball>' while in character as <role> from <production>.,I went to a <rb> and played '<rb2>' while in character as <role>.
+You went to a <strip club/night club/karaoke bar/bar/saloon/dance club/club> while in character as <role> from <production>.,I went to a <rb> while in character as <role>.
+You went to a movie premiere while in character as <role> from <production>.,I went to a movie premiere while in character as <role>.
+You went to a <baseball/basketball/football/soccer/hockey/volleyball> game and <encouraged/trash-talked> players while in character as <role> from <production>.,I went to a <rb> game and <rb2> players while in character as <role>.
+You went to the library and checked out <three/four/five/six> books while in character as <role> from <production>.,I went to the library and checked out <rb> books while in character as <role>.
+You went to a nearby restaurant and waited tables for a day while in character as <role> from <production>.,I waited tables at a nearby restaurant while in character as <role>.
+You went to the beach with friends and <threw a frisbee/built a sandcastle/played in the ocean/played beach volleyball> while in character as <role> from <production>.,I went to the beach with friends and <rb> while in character as <role>.
+You went to a vineyard and <attended a wine tasting/went on a tour/sampled wine/stomped grapes> while in character as <role> from <production>.,I went to a vineyard and <rb> while in character as <role>.
+You went to an ice cream shop and sampled <num10-20> flavors while in character as <role> from <production>.,I sampled ice cream flavors while in character as <role>.
+You went to a <cafe/coffee shop> and ordered a <latte/mocha/cappuccino/cafe americano/double shot of espresso/frappuccino/smoothie> while in character as <role> from <production>.,I went to a <rb> and ordered a <rb2> while in character as <role>.
+You went <ocean/fly/river> fishing with friends while in character as <role> from <production>.,I went fishing with friends while in character as <role>.
+You explored a haunted house with friends while in character as <role> from <production>.,I explored a haunted house with friends while in character as <role>.
+You spent a day at a nearby park making observations about what you saw while in character as <role> from <production>.,I made observations at a park while in character as <role>.
+You followed a beat cop around for a day while in character as <role> from <production>.,I followed a beat cop around for a day while in character as <role>.
+You visited a <morgue/pet store/cemetary/community pool> while in character as <role> from <production>.,I visited a <rb> while in character as <role>.
+You went to a nearby <musician> concert while in character as <role> from <production>.,I attended a nearby <musician> concert while in character as <role>.
+You played a game of street basketball while in character as <role> from <production>.,I played a game of street basketball while in character as <role>.
+You drove an ice cream truck and handed out frozen treats to kids in your neighborhood while in character as <role> from <production>.,I handed out ice cream to neighborhood kids while in character as <role>.
+You went to a <hoedown/barbecue/neighborhood bonfire/potluck dinner> with friends while in character as <role> from <production>.,I went to a <rb> with friends while in character as <role>.
+You crashed a <wedding/wake> while in character as <role> from <production>.,I crashed a <rb> while in character as <role>.
+You attended a rodeo while in character as <role> from <production>.,I attended a rodeo while in character as <role>.
+You voluntarily spent time in a jail cell while in character as <role> from <production>.,I voluntarily spent time in a jail cell while in character as <role>.
+You spent a day as a gas station attendant while in character as <role> from <production>.,I worked as a gas station attendant while in character as <role> from <production>.

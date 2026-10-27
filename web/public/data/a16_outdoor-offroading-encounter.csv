@@ -1,0 +1,36 @@
+String,Location,Danger Score,Commonness Score
+tied to a <rock/fence post/tree>,forest trail,1,5
+stuck in some quicksand,sand pit,2,5
+being chased by <random-person-indefinite>,forest trail,2,5
+being chased by a <tiny piglet/cow/stallion/ram/goat/rampaging bull>,open field,5,1
+trapped in thick mud,mud bog,4,5
+lying face-down in the dirt,,1,4
+hog-tied to a tree,,1,2
+being held up by some burly men <in drag/who look like mafiosos>,,5,1
+being menaced by <a moose/a bear/a bobcat/a coyote/a wolf/a wolverine/a wild hog>,forest trail,5,2
+caught in <a thicket/the underbrush/the dense underwood>,forest trail,3,4
+stuck in a tree,forest trail,3,3
+who's been caught by a hunter's <pit/trap/snare/net/foothold trap>,forest trail,4,4
+too <grossed/squicked> out by the mud to move,mud bog,1,2
+whose <shoes/boots/sandals/sneakers> got stuck in the mud,mud bog,2,4
+being menaced by <an alligator/a crocodile/a water snake>,mud bog,5,2
+who lost a <ring/necklace/watch/locket/keepsake> in the mud,mud bog,2,5
+who's been trampled by a <cow/horse/bison>,open field,5,2
+who's gotten lost in a <corn/soy/wheat> <field/maze>,open field,1,5
+who is delusional and shouting at a scarecrow,open field,4,1
+who ate too many fermented <pears/apples/plums> from an orchard and now has alcohol poisoning,open field,2,3
+who <is dehydrated/has sunstroke> after too long in the sun,sand pit,2,5
+who fell down a sand dune,sand pit,3,3
+buried up to the neck in sand,sand pit,4,2
+crying after getting sand in places where sand shouldn't go,sand pit,1,1
+out of <his/her> mind on <drug-illegal>,,5,2
+passed out next to some <alcohol> bottles,,2,3
+who calls out that <he/she> hurt <his/her> <body-part>,,1,5
+who crashed <his/her> <X-PRO/Yamaha/Honda/Kawasaki/Trailmaster/Can-Am> ATV,,2,4
+who's been bitten by a <snake/spider>,,4,3
+who's been stung by a <scorpion/bee/wasp>,,4,3
+tied to some train tracks,,5,1
+who's having <an emotional/a psychotic/a manic> breakdown,,3,2
+who's been tarred and feathered,,2,1
+who's had all <his/her> clothes stolen while skinny dipping,,1,3
+suffering from a sudden attack of <diarrhea/gas/gastric distress/the runs/the squirts>,,1,1

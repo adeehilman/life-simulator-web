@@ -1,0 +1,35 @@
+String,Race Type,Race Level,Other Racer Involved,Rival Racer Involved,Min Racer Craziness,Max Racer Craziness,Commonness Score
+<Tens of/Several/A few> people <whistled/clapped/cheered/threw confetti> as you accepted your winnings.,,bronze,,,,,5
+<racer-rival> <flipped you off/blew a raspberry at you/tripped you> as you accepted your winnings.,,,,x,,,3
+"Your competitors <clapped/handed you a bouquet of roses/each whispered ""Great job""> as you accepted your winnings.",,,,,,,3
+"As you accepted your winnings, the announcers commented that <you have an innate talent for racing/you'll be a platinum racer in no time/the future of racing is in your hands/you could be one of the greats someday/the other racers didn't know what hit them>.","circuit, street",bronze,,,,,5
+The more experienced drivers in the race refused to acknowledge your success as you accepted your winnings.,,bronze,,,,,3
+"As you accepted your winnings, a seasoned demolition driver wondered aloud how someone as inexperienced as you could have smashed every other vehicle out of the race.",demolition,bronze,,,,,4
+"As you walked away with your prize money, you had to duck as <racer-rival> hurled a bucket of <lime-green/magenta/purple/red/yellow/poop-brown> paint at you.",,,,x,67,,3
+"As you waved to the crowd, you caught <racer-rival> <mooning you/making jerk-off motions/giving you the middle finger> from the back of the stands.",,,,x,67,,3
+"As you brushed past <racer-rival> in the crowd, <he/she> called you <insult>.",,,,x,34,66,3
+"As you pumped your fists on the winners' podium, you saw <racer-rival> draw a finger across <his/her> throat.",,,,x,34,66,3
+"As you held up your award, you caught <racer-rival> staring at you with <disgust/hatred/fury>.",,,,x,,33,3
+You let out a <triumphant/gleeful/joyful> whoop and saw <racer-rival> rolling <his/her> eyes at you.,,,,x,,33,3
+<racer> shook your hand and said that <he/she> was impressed by <your car's speed/your car's handling/your ability to keep a cool head/the way you took corners/your slipstreaming on the track/your reaction speed>.,"circuit, street",,x,,,,4
+"As you accepted your winnings, <racer> good-naturedly told you that <he/she> <wanted a rematch/would beat you next time/knew you'd win/almost had you at one point>.",,,x,,,,5
+"As the crowd cheered, <racer> complimented you on your <toughness/persistence/car's clever build/dedication to never backing down/top-tier takeouts>.",demolition,,x,,,,3
+"As you took your award, the announcers commented that it's been a pleasure to watch you <climb the racing ranks/keep succeeding/keep at it in the motorsports world>.",,"silver, gold",,,,,3
+"One of the announcers told you that if you kept it up, you would soon be <in the big league/running with the big dogs/driving with the big-time racers>.",,"bronze, silver",,,,,4
+You waved at the crowd as the announcers congratulated you for your many wins.,,"gold, platinum",,,,,4
+A fan pressed an expensive bottle of <alcohol> into your hands as congratulations.,,gold,,,,,3
+The <massive/giant/enthusiastic/dedicated/fanatical> crowd cheered your name as you accepted your prize money.,,platinum,,,,,5
+The mayor of <city> presented you with a key to the city along with your winnings.,"demolition, circuit",platinum,,,,,3
+"<random-person-indefinite> told you that if street racing was wrong, your performance convinced <him/her> that <he/she> didn't want to be right.",street,,,,,,4
+A fan told you that you'd inspired him to push his <car-type> to max speeds on the <highway/parkway/beltway> and pretend he was street racing.,street,,,,,,3
+A well-respected local dealer offered you some free <drug-illegal> to celebrate your win.,street,,,,,,2
+"The speakers started blaring <""Break Stuff"" by Limp Bizkit/""Smash S*** Up"" by the Dropkick Murphys/""Wrecking Ball"" by Miley Cyrus/""Breaking Glass"" by David Bowie/a Rage Against The Machine playlist/""Symphony of Destruction"" by Megadeth/""Sledgehammer"" by Peter Gabriel> in celebration of your win.",demolition,,,,,,4
+"Your fellow <racers/competitors> seemed a little <jealous/sad/bitter/resentful>, but congratulated you anyway.",,,,,,,5
+A starry-eyed fan asked you to autograph his <car-type>.,,platinum,,,,,5
+<celebrity> emceed the awards ceremony and handed you your prize money.,,platinum,,,,,3
+One of the wisest local <gearheads/motorheads> said that you have more street <cred/cachet/standing> than any other racer these days.,street,platinum,,,,,4
+The enormous crowd <moshed/thrashed> to the beat in your honor as you accepted your award.,demolition,platinum,,,,,4
+"As you took your winnings, a fan told you that your performance was more thrilling than watching <Le Mans/the Monaco Grand Prix/the Indy 500/the Daytona 500/the Bathurst 1000/the Dakar Rally>.",circuit,platinum,,,,,4
+The audience gave you <a half-hearted/a lukewarm/an indifferent> cheer in light of the higher-stakes races facing you ahead.,,bronze,,,,,3
+"As you accepted your award, <racer-rival> muttered that you were <crazy/delulu/delusional/cuckoo bananas/batty> if you thought you'd ever amount to anything.",,bronze,,x,,,3
+"As the elite crowd of racing <devotees/fanatics/enthusiasts> clapped, <racer-rival> vowed in front of all of them that <he/she> would defeat you next time.",,platinum,,x,,,3

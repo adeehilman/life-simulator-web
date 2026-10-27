@@ -1,0 +1,225 @@
+Animal,Type,Commonness Score,Other Person Involved,Other Animal Involved,Hero Present at Euthanization,Sentence
+,Natural,5,,,,<he/she> died of natural causes.
+,Disease,5,,,,<he/she> succumbed to <disease>.
+,Euthanized,5,,,,<he/she> was euthanized.
+,Murder,5,,x,,<he/she> died after being attacked by <zoo-animal-other>.
+,Veterinarian Mistake,5,x,,,<he/she> succumbed to injuries <he/she> sustained in <zoo-veterinarian-possessive> care.
+,Euthanized,5,,,x,<he/she> rested <his/her> head on your <shoulder/forehead/lap> as <he/she> breathed <his/her> last breath.
+,Natural,3,,,,<his/her> biological clock stopped ticking.
+,Natural,4,,,,"<he/she> passed away from old age, as <his/her> time had finally come."
+,Natural,2,,,,<he/she> finally succumbed to the ravages of time.
+,Natural,1,,,,<he/she> breathed <his/her> last breath in <his/her> favorite spot in the habitat.
+,Natural,3,,,,<he/she> suddenly died after a heart attack.
+,Natural,5,,,,<he/she> died while sleeping peacefully.
+,Natural,2,,,,<he/she> passed away in the wee hours of the morning while everyone was still sleeping.
+,Natural,1,,,,<he/she> was found dead beside the door to <his/her> enclosure.
+,Natural,2,,,,<he/she> suddenly collapsed while a group of <preschoolers/children/zoo patrons/onlookers/zoo guests/elementary school children> were watching <him/her> <eat/drink some water/play>.
+,Natural,2,,,,<his/her> limp body was found just beside <his/her> <water/food> bowl.
+,Disease,5,,,,<his/her> <disease> became too much for <him/her> to bear.
+,Disease,2,,,,<his/her> battle against <disease> finally ended.
+,Disease,1,,,,<disease> claimed another victim.
+,Disease,5,,,,<he/she> died of complications associated with <disease>.
+,Euthanized,1,,,,"<zoo-veterinarian> said <he/she> put up a fight, but <he/she> is at peace now."
+,Euthanized,4,,,,<zoo-veterinarian> reported <he/she> is finally at peace.
+,Euthanized,3,,,,<he/she> passed away in the back room of your zoo's clinic.
+,Euthanized,1,,,,<zoo-veterinarian> said <he/she> kept looking around for you.
+,Euthanized,1,,,,<he/she> died naked and alone.
+,Euthanized,5,,,x,<he/she> died while looking up at you.
+Bat,Euthanized,3,,,x,"<he/she> caressed your cheek with <his/her> wing, then closed <his/her> eyes for the last time."
+Bat,Euthanized,5,,,x,"<he/she> quietly chittered, then went limp in your <lap/arms>."
+Bear,Euthanized,2,,,x,"<he/she> pressed <his/her> forehead against yours, then let it fall into your lap."
+Bear,Euthanized,2,,,x,"<he/she> <heaved a heavy sigh/groaned/emitted a meager roar>, then collapsed right next to you."
+Bear,Euthanized,3,,,x,<he/she> pawed at the ground before falling unconscious.
+Big Cat,Euthanized,3,,,x,<he/she> pawed at the ground before falling unconscious.
+Big Cat,Euthanized,4,,,x,<he/she> <brushed up against/nuzzled/placed a paw on> your <chest/shoulder/arm/leg> and drifted off to sleep.
+Big Cat,Euthanized,2,,,x,<he/she> gave your <index finger/shoulder/elbow/back/chest/cheek/face> one last <nuzzle/lick>.
+Big Cat,Euthanized,5,,,x,<he/she> passed away next to you.
+Bird,Euthanized,5,,,x,<he/she> tweeted <his/her> last tweet.
+Bird,Euthanized,4,,,x,<he/she> gave you one final peck on the <cheek/arm/shoulder/elbow/chest> before closing <his/her> eyes for the last time.
+Bird,Euthanized,3,,,x,"<he/she> attempted to fly after the shot was administered, but <he/she> fell into your arms before <he/she> could go too high."
+Bird,Euthanized,1,,,x,<he/she> warbled for the last time.
+Bird,Euthanized,4,,,x,<he/she> closed <his/her> eyes and went to sleep for the last time.
+Camel,Euthanized,3,,,x,<he/she> lay on <his/her> side and comfortably fell asleep for the last time.
+Camel,Euthanized,3,,,x,<he/she> gave you a slobbery lick before closing <his/her> eyes.
+Camel,Euthanized,5,,,x,<he/she> passed away while sitting next to you.
+Camel,Euthanized,3,,,x,<he/she> died in your arms.
+Camel,Euthanized,4,,,x,<his/her> body went limp as you <petted/nuzzled/stroked> <his/her> <belly/neck/head/hump>.
+Deer,Euthanized,3,,,x,<he/she> closed <his/her> eyes and went to sleep for the last time.
+Deer,Euthanized,3,,,x,<he/she> lay on <his/her> side and comfortably fell asleep for the last time.
+Deer,Euthanized,3,,,x,<he/she> passed away while lying next to you.
+Deer,Euthanized,4,,,x,<he/she> died with <his/her> head resting against your <shoulder/chest/forehead>.
+Deer,Euthanized,3,,,x,<his/her> body went limp as you <petted/nuzzled/stroked> <his/her> <belly/neck/head>.
+Deer,Euthanized,2,,,x,<he/she> looked up at you and gently closed <his/her> eyes for the last time.
+Deer,Euthanized,1,,,x,<he/she> exhaled <his/her> final breath while looking around for <his/her> favorite salt lick.
+Elephant,Euthanized,4,,,x,<he/she> wrapped <his/her> trunk around your hand and slowly closed <his/her> eyes.
+Elephant,Euthanized,3,,,x,<he/she> brushed <his/her> trunk against your <cheek/arm/back> and closed <his/her> eyes.
+Elephant,Euthanized,5,,,x,<he/she> passed away while lying next to you.
+Elephant,Euthanized,3,,,x,"<he/she> nudged <his/her> head against <your arm/yours>, then quietly went to sleep for the last time."
+Elephant,Euthanized,3,,,x,<he/she> patted your <head/cheek/arm/leg> with <his/her> trunk.
+Fox,Euthanized,5,,,x,<he/she> let out a soft whelp and closed <his/her> eyes for the last time.
+Fox,Euthanized,3,,,x,"<he/she> curled up on your lap, closed <his/her> eyes, and went limp."
+Fox,Euthanized,4,,,x,"<he/she> swished <his/her> tail against your <cheek/arm/ear/chin>, lay down, and went to sleep for the last time."
+Fox,Euthanized,2,,,x,<he/she> died in your arms.
+Fox,Euthanized,1,,,x,<he/she> passed away while sitting next to you.
+Fox,Euthanized,1,,,x,<he/she> died shortly after receiving the injection.
+Fox,Euthanized,1,,,x,"<he/she> shuddered in your arms for a few seconds, then stopped moving altogether."
+Giraffe,Euthanized,4,,,x,"<he/she> stretched <his/her> neck toward you as <he/she> bent down to nuzzle you for the last time, then closed <his/her> eyes."
+Giraffe,Euthanized,2,,,x,<he/she> died while sitting next to you.
+Giraffe,Euthanized,5,,,x,"<he/she> nudged <his/her> head against <your arm/yours>, then quietly went to sleep for the last time."
+Giraffe,Euthanized,3,,,x,"<he/she> looked around the enclosure, then back at you, and slowly closed <his/her> eyes."
+Giraffe,Euthanized,1,,,x,<he/she> died shortly after receiving the injection.
+Giraffe,Euthanized,3,,,x,<he/she> died while lying on the ground next to you.
+Giraffe,Euthanized,4,,,x,<he/she> lay <his/her> head against the ground before closing <his/her> eyes for the last time.
+Hippo,Euthanized,1,,,x,<he/she> died shortly after receiving the injection.
+Hippo,Euthanized,4,,,x,<he/she> passed away while sitting next to you.
+Hippo,Euthanized,1,,,x,"<he/she> waddled around the clinic for a brief moment, then closed <his/her> eyes and tipped over."
+Hippo,Euthanized,1,,,x,"<he/she> maintained eye contact with you while the veterinarian administered the shot, then closed them after the deed was done."
+Hippo,Euthanized,5,,,x,<he/she> flicked <his/her> ears as <he/she> took <his/her> final breaths.
+Hippo,Euthanized,4,,,x,<he/she> lay beside you and slowly drifted off to sleep.
+Kangaroo,Euthanized,2,,,x,<he/she> landed a few meager hops before succumbing to the medication.
+Kangaroo,Euthanized,1,,,x,It took <him/her> exactly <two/three/four/five/six> minutes to succumb to the medication.
+Kangaroo,Euthanized,5,,,x,<he/she> <caressed your cheek/patted the top of your head/grabbed your hand/grabbed your pinky finger/grabbed your index finger/held your hand> with <his/her> paw as <he/she> closed <his/her> eyes.
+Kangaroo,Euthanized,5,,,x,"<he/she> patted your <head/cheek/arm/leg> with <his/her> paw, then closed <his/her> eyes."
+Kangaroo,Euthanized,1,,,x,<he/she> died shortly after receiving the injection.
+Kangaroo,Euthanized,4,,,x,<he/she> died while lying on the ground next to you.
+Kangaroo,Euthanized,3,,,x,<he/she> grew limp as you held <his/her> paw while the veterinarian administered the shot.
+Koala,Euthanized,3,,,x,<he/she> snuggled <his/her> face into your chest and drew <his/her> last breath.
+Koala,Euthanized,5,,,x,You gave <his/her> fluffy ears one last scratch as <he/she> passed away.
+Koala,Euthanized,2,,,x,"<his/her> shiny, black nose grew cold as <his/her> pulse got fainter and fainter."
+Koala,Euthanized,4,,,x,"<he/she> wrapped <his/her> arms around your chest, sighed once, and was gone."
+Koala,Euthanized,3,,,x,You stroked <his/her> gray fur as <he/she> grew still.
+Meerkat,Euthanized,4,,,x,<he/she> died while lying on the ground next to you.
+Meerkat,Euthanized,2,,,x,<he/she> went limp as <he/she> lay in your lap.
+Meerkat,Euthanized,2,,,x,"<he/she> rested <his/her> paw on your cheek, then, as <he/she> passed away, it slowly fell to <his/her> side."
+Meerkat,Euthanized,4,,,x,<he/she> died in your arms.
+Meerkat,Euthanized,4,,,x,<he/she> died on your lap.
+Meerkat,Euthanized,4,,,x,<he/she> died on the ground beside you.
+Meerkat,Euthanized,3,,,x,<he/she> curled up into a ball on your lap and passed away.
+Meerkat,Euthanized,5,,,x,"<he/she> burrowed into your chest, then fell limp into your lap."
+Meerkat,Euthanized,3,,,x,<he/she> quietly fell asleep.
+Otter,Euthanized,2,,,x,<he/she> died while lying on the ground next to you.
+Otter,Euthanized,3,,,x,<he/she> went limp as <he/she> lay in your lap.
+Otter,Euthanized,4,,,x,"<he/she> rested <his/her> paw on your cheek, then, as <he/she> passed away, it slowly fell to <his/her> side."
+Otter,Euthanized,5,,,x,<he/she> died in your arms.
+Otter,Euthanized,4,,,x,<he/she> died on your lap.
+Otter,Euthanized,3,,,x,<he/she> died on the ground beside you.
+Otter,Euthanized,2,,,x,<he/she> curled up into a ball on your lap and passed away.
+Otter,Euthanized,2,,,x,"<he/she> burrowed into your chest, then fell limp onto your lap."
+Otter,Euthanized,5,,,x,<he/she> quietly fell asleep.
+Pangolin,Euthanized,2,,,x,"<he/she> curled up into a ball on your lap, then stopped moving altogether."
+Pangolin,Euthanized,3,,,x,<he/she> went limp as <he/she> lay in your lap.
+Pangolin,Euthanized,4,,,x,<he/she> died in your arms.
+Pangolin,Euthanized,4,,,x,<he/she> died in your lap.
+Pangolin,Euthanized,3,,,x,<he/she> died on the ground beside you.
+Pangolin,Euthanized,5,,,x,"<he/she> wrapped <his/her> tail around your wrist and burrowed into your lap, then went limp."
+Pangolin,Euthanized,4,,,x,"<he/she> clung to your arm as <his/her> breathing grew short, then stopped altogether."
+Pinniped,Euthanized,4,,,x,<he/she> patted your <cheek/forehead/arm/hand> with one of <his/her> flippers and closed <his/her> eyes.
+Pinniped,Euthanized,2,,,x,<he/she> quietly fell asleep.
+Pinniped,Euthanized,3,,,x,<he/she> died holding your hand with <his/her> fin.
+Pinniped,Euthanized,3,,,x,<he/she> died on the ground beside you.
+Pinniped,Euthanized,4,,,x,<he/she> passed away with <his/her> whiskers brushing against your cheek.
+Pinniped,Euthanized,3,,,x,<he/she> passed away while slumped against your shoulder.
+Platypus,Euthanized,5,,,x,"<he/she> pecked your cheek with <his/her> bill, then rested <his/her> head on your lap and passed away."
+Platypus,Euthanized,4,,,x,"<he/she> nudged <his/her> head against <your arm/yours>, then quietly went to sleep for the last time."
+Platypus,Euthanized,3,,,x,"<he/she> curled up into a ball on your lap, then stopped moving altogether."
+Platypus,Euthanized,3,,,x,<he/she> died in your arms.
+Platypus,Euthanized,2,,,x,<he/she> died on your lap.
+Platypus,Euthanized,4,,,x,<he/she> passed away with <his/her> head in your hands.
+Platypus,Euthanized,2,,,x,<he/she> died on the ground beside you.
+Primate,Euthanized,4,,,x,"<he/she> placed <his/her> paw in your hand, then drifted off."
+Primate,Euthanized,4,,,x,"<he/she> <tousled your hair/caressed your cheek/pinched your cheek> with <his/her> paw, then drifted off."
+Primate,Euthanized,1,,,x,"<he/she> stuck <his/her> finger in your <left/right> nostril, then drifted off."
+Primate,Euthanized,1,,,x,"<he/she> licked <his/her> finger, then weakly stuck it in your ear as <he/she> nodded off."
+Primate,Euthanized,4,,,x,<he/she> gave your <arm/hand/waist> a squeeze as <he/she> closed <his/her> eyes one last time.
+Primate,Euthanized,2,,,x,<he/she> died on the ground beside you.
+Primate,Euthanized,4,,,x,<he/she> died while holding your hand.
+Red Panda,Euthanized,2,,,x,<he/she> let out a soft whelp and closed <his/her> eyes for the last time.
+Red Panda,Euthanized,5,,,x,"<he/she> curled up onto your lap, closed <his/her> eyes, and went limp."
+Red Panda,Euthanized,5,,,x,"<he/she> swished <his/her> tail against your <cheek/arm/ear/chin>, lay down, and went to sleep for the last time."
+Red Panda,Euthanized,3,,,x,<he/she> died in your arms.
+Red Panda,Euthanized,4,,,x,<he/she> passed away while sitting <in your lap/next to you>.
+Red Panda,Euthanized,1,,,x,<he/she> died shortly after receiving the injection.
+Red Panda,Euthanized,1,,,x,"<he/she> shuddered in your arms for a few seconds, then stopped moving altogether."
+Red Panda,Euthanized,2,,,x,<he/she> managed to stand up on <his/her> hind legs one last time before the end.
+Red Panda,Euthanized,1,,,x,"<he/she> hugged your <arm/leg/ankle/wrist/neck> until, eventually, <his/her> grip loosened and <he/she> fell limp."
+Reptile,Euthanized,4,,,x,"<his/her> claws gripped your arm, then went slack after a few minutes."
+Reptile,Euthanized,5,,,x,"<he/she> nestled against the crook of your arm, then stopped moving altogether."
+Reptile,Euthanized,3,,,x,"<he/she> rubbed <his/her> head against the ground, then against the back of your hand as <he/she> grew still."
+Reptile,Euthanized,4,,,x,"<he/she> nuzzled your <hand/arm/chest/wrist>, then grew still."
+Reptile,Euthanized,5,,,x,<he/she> died on the ground beside you.
+Reptile,Euthanized,5,,,x,<he/she> died in your arms.
+Reptile,Euthanized,1,,,x,<he/she> went limp as <he/she> lay in your lap.
+Rhino,Euthanized,4,,,x,<he/she> died shortly after receiving the injection.
+Rhino,Euthanized,5,,,x,<he/she> passed away while sitting next to you.
+Rhino,Euthanized,1,,,x,"<he/she> waddled around the clinic for a brief moment, then closed <his/her> eyes and tipped over."
+Rhino,Euthanized,2,,,x,"<he/she> maintained eye contact with you while the veterinarian administered the shot, then closed them after the deed was done."
+Rhino,Euthanized,3,,,x,<he/she> flicked <his/her> ears as <he/she> took <his/her> final breaths.
+Rhino,Euthanized,5,,,x,<he/she> lay beside you and slowly drifted off to sleep.
+Rhino,Euthanized,5,,,x,<he/she> pressed <his/her> horn against your arm and then slumped to the ground.
+Rhino,Euthanized,3,,,x,"<he/she> exhaled a gust of hot air from <his/her> nostrils, then stopped moving."
+Rodent,Euthanized,5,,,x,"<he/she> nudged <his/her> head against <your arm/yours>, then quietly went to sleep for the last time."
+Rodent,Euthanized,4,,,x,"<he/she> curled up into a ball in your <hands/right hand/left hand/lap>, then stopped moving altogether."
+Rodent,Euthanized,3,,,x,<he/she> died in your arms.
+Rodent,Euthanized,3,,,x,<he/she> died on your lap.
+Rodent,Euthanized,1,,,x,<he/she> passed away with <his/her> tail wrapped around your <wrist/pinky finger/thumb>.
+Rodent,Euthanized,1,,,x,<he/she> died cupped in the palm of your hand.
+Rodent,Euthanized,4,,,x,"<he/she> placed <his/her> paw in your hand, then drifted off."
+Rodent,Euthanized,3,,,x,"<he/she> burrowed into the crook of your arm, then grew still."
+Sloth,Euthanized,5,,,x,<he/she> clung to your arm as <he/she> slowly stopped breathing.
+Sloth,Euthanized,3,,,x,<he/she> rested <his/her> head on your shoulder as the light faded from <his/her> eyes.
+Sloth,Euthanized,3,,,x,<he/she> curled up in a little ball on your lap and slowly closed <his/her> eyes.
+Sloth,Euthanized,2,,,x,"<he/she> caressed your cheek with <his/her> claws, then sank into your lap."
+Sloth,Euthanized,4,,,x,"<he/she> blinked at you with <his/her> dopey eyes one last time, then closed them."
+Snake,Euthanized,5,,,x,<he/she> went as limp as a wet noodle in your arms.
+Snake,Euthanized,5,,,x,<he/she> died shortly after receiving the injection.
+Snake,Euthanized,4,,,x,<he/she> passed away while staring at you from inside <his/her> tank.
+Snake,Euthanized,1,,,x,<he/she> hissed <his/her> last hiss.
+Snake,Euthanized,2,,,x,<he/she> went limp at your feet.
+Turtle,Euthanized,5,,,x,<he/she> retreated into <his/her> shell and didn't emerge again.
+Wolf,Euthanized,5,,,x,"<he/she> nuzzled you, let out a soft whine, then closed <his/her> eyes."
+Wolf,Euthanized,5,,,x,<he/she> lay beside you and slowly drifted off to sleep.
+Wolf,Euthanized,3,,,x,<he/she> put <his/her> paw in your hand and closed <his/her> eyes.
+Wolf,Euthanized,3,,,x,<he/she> leaned against you and fell asleep.
+Wolf,Euthanized,4,,,x,<he/she> died on the ground beside you.
+Wolf,Euthanized,2,,,x,<he/she> died in your arms.
+Wolf,Euthanized,3,,,x,<he/she> went limp as <he/she> lay in your lap.
+Wolf,Euthanized,3,,,x,<he/she> died a few minutes after receiving the injection.
+Wolf,Euthanized,2,,,x,"<he/she> nuzzled your <hand/arm/chest/wrist>, then grew still."
+Wolf,Euthanized,2,,,x,"<he/she> feebly licked your <cheek/hand/wrist/arm>, then fell asleep."
+Zebra,Euthanized,5,,,x,<he/she> died on the ground beside you.
+Zebra,Euthanized,4,,,x,<he/she> passed away as you stroked <his/her> <nose/neck/mane/belly/side>.
+Zebra,Euthanized,2,,,x,"<he/she> pressed <his/her> nose against your <neck/cheek/forehead>, then slumped to the ground."
+Zebra,Euthanized,4,,,x,<he/she> lay down next to you and passed away.
+Zebra,Euthanized,5,,,x,<he/she> lay beside you and slowly drifted off to sleep.
+Zebra,Euthanized,3,,,x,"<he/she> maintained eye contact with you while the veterinarian administered the shot, then closed them after the deed was done."
+Zebra,Euthanized,2,,,x,"<he/she> nudged <his/her> head against <your arm/yours>, then quietly went to sleep for the last time."
+Zebra,Euthanized,3,,,x,<he/she> quietly fell asleep.
+Pig,Euthanized,4,,,x,<he/she> oinked <his/her> last oink.
+Pig,Euthanized,2,,,x,<he/she> <cut the cheese/passed gas> just before closing <his/her> eyes for the last time.
+Pig,Euthanized,3,,,x,<he/she> died on the ground beside you.
+Pig,Euthanized,3,,,x,<he/she> lay down next to you and passed away.
+Pig,Euthanized,3,,,x,<he/she> lay beside you and slowly drifted off to sleep.
+Pig,Euthanized,3,,,x,"<he/she> maintained eye contact with you while the veterinarian administered the shot, then closed them after the deed was done."
+Pig,Euthanized,4,,,x,"<he/she> pressed <his/her> snoot against the back of your hand, then closed <his/her> eyes for the last time."
+Unicorn,Euthanized,3,,,x,<he/she> died on the ground beside you.
+Unicorn,Euthanized,3,,,x,<he/she> passed away as you stroked <his/her> <nose/neck/mane/belly/side>.
+Unicorn,Euthanized,3,,,x,"<he/she> pressed <his/her> nose against your <neck/cheek/forehead>, then slumped to the ground."
+Unicorn,Euthanized,3,,,x,<he/she> lay down next to you and passed away.
+Unicorn,Euthanized,3,,,x,<he/she> lay beside you and slowly drifted off to sleep.
+Unicorn,Euthanized,3,,,x,"<he/she> maintained eye contact with you while the veterinarian administered the shot, then closed them after the deed was done."
+Unicorn,Euthanized,3,,,x,"<he/she> nudged <his/her> head against <your arm/yours>, then quietly went to sleep for the last time."
+Unicorn,Euthanized,3,,,x,<he/she> quietly fell asleep.
+Unicorn,Euthanized,5,,,x,<he/she> sparkled with unparalleled radiance as <he/she> drew <his/her> last breath.
+Unicorn,Euthanized,5,,,x,<he/she> shimmered with a blinding white light that disappeared when <his/her> spirit left <his/her> body.
+Unicorn,Euthanized,4,,,x,<he/she> looked up at you as the light left <his/her> eyes.
+Pegasus,Euthanized,2,,,x,<he/she> died on the ground beside you.
+Pegasus,Euthanized,2,,,x,<he/she> passed away as you stroked <his/her> <nose/neck/mane/belly/side>.
+Pegasus,Euthanized,3,,,x,"<he/she> pressed <his/her> nose against your <neck/cheek/forehead>, then slumped to the ground."
+Pegasus,Euthanized,3,,,x,<he/she> lay down next to you and passed away.
+Pegasus,Euthanized,3,,,x,<he/she> lay beside you and slowly drifted off to sleep.
+Pegasus,Euthanized,2,,,x,"<he/she> maintained eye contact with you while the veterinarian administered the shot, then closed them after the deed was done."
+Pegasus,Euthanized,3,,,x,"<he/she> nudged <his/her> head against <your arm/yours>, then quietly went to sleep for the last time."
+Pegasus,Euthanized,4,,,x,<he/she> quietly fell asleep.
+Pegasus,Euthanized,5,,,x,<his/her> wings fell to <his/her> side as <he/she> grew still.
+Pegasus,Euthanized,5,,,x,"<he/she> emitted a soft whinny, nudged your hand with <his/her> nose, and closed <his/her> eyes."
+Pegasus,Euthanized,5,,,x,"<he/she> weakly beat <his/her> wings against the ground, then stopped altogether."

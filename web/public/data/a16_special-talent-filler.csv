@@ -1,0 +1,74 @@
+Special Talent,String,Hero Gender,Hero Min Age,Hero Max Age,Both Parents Alive
+music,I started moving to the beat every time I hear <musician> on the radio.,,1,2,
+music,"I've been banging pots and pans together on the kitchen floor lately, and it's music to my ears.",,1,3,
+music,I've been laughing and clapping my hands together whenever I hear someone singing.,,1,3,
+music,"Lately, I've been wondering what sound my food would make if I squished it.",,1,4,
+music,I have developed an affinity for fingering things as if they were musical instruments.,,1,4,
+music,"Lately, whenever I'm in a tantrum, I've started to calm down if I hear the sound of <music/a violin/a piano/a flute/drums/humming> because there's no sweeter sound in the world.",,1,2,
+music,I've started to realize I can get away with anything if I start singing.,,1,4,
+music,I've started playing with pill bottles lately because I really like the sound they make when I shake them.,,2,4,
+music,"Lately, I've started singing along with songs on the radio, hoping they can hear me.",,2,5,
+music,"Lately, I've started making <choo-choo train/airplane> noises with my mouth <at dinner/at breakfast/whenever I can> because they sound so cool.",,1,2,
+music,"I'm driving people around me crazy because I've started <singing/whistling> the tune to '<Mary Had a Little Lamb/Twinkle, Twinkle Little Star/Ring Around the Rosy/London Bridge is Falling Down/Before He Cheats/9 to 5/Pimp Juice/P.I.M.P./Bodak Yellow/Rude Boy/Miami/I Like It/Shape of You/Side to Side>' whenever I can.",,2,4,
+music,I started playing the air <drums/saxophone/piano/violin/guitar> because it's the cheapest instrument that makes me look cool.,,2,4,
+music,I began using <a hairbrush/an eggplant/a cucumber/a carrot/a curling iron> as a microphone to practice singing.,,2,4,
+music,"After pitching a fit when I was told to stop singing, I became obsessed with getting my way and causing a scene when I didn't get it.",,1,3,
+music,"Lately, my body has begun to move on its own whenever I hear music.",,1,3,
+music,I've been singing in front of a flashlight lately because it makes me feel like I'm singing <on stage/for an audience>.,,1,3,
+music,I put a <ring/fork/spoon/knife/sock/chicken bone/condom/cup of rice/rubber duck> in the garbage disposal because I was curious about what sound it would make.,,3,5,
+music,"Lately, I've been making sweet, sweet music by <flatulating/burping> the melodies to my favorite songs.",,1,3,
+music,I've become obsessed with singing and dancing along with the funny people I see on TV. I know they can hear me because they talk back.,,1,4,
+music,"Lately, I've had dreams where I sing a song that <makes people pee their pants/pays tribute to Thomas the Tank Engine/makes people cry/makes people laugh/makes people happy/makes people poop their pants>.",,1,4,
+music,"Lately, I've started singing whenever anyone looks at me long enough because it makes them smile.",,2,3,
+music,"I have started rewriting the words to '<London Bridge/Mary Had a Little Lamb/Baby Shark/Twinkle, Twinkle Little Star/If You're Happy and You Know It/BINGO/Ten in a Bed/I'm a Little Teapot/Row, Row, Row Your Boat>' to make it a song about <puppies/kittens/cookies/cakes/naptime/cows/chickens/horses/tractors/trucks/clouds/diapers/breast milk/baby food/chicken nuggets/milkshakes/suckers/ice cream/flowers>.",,2,5,
+music,"I'm realizing the more I watch TV, the more I want to be like the singers I see on it.",,3,6,
+sports,"I've had so much energy lately that I've begun to <run/jump/hop/skip> whenever I can, wherever I can.",,1,3,
+sports,"Lately, I've been getting excited whenever I <play with/see/touch/grip> balls because it just feels right.",,2,5,
+sports,I've been playing outside more often lately because it's no fun throwing balls indoors. I just get yelled at.,,2,4,
+sports,I've been noticing that I get a lot of attention whenever I <pick up/throw/kick/catch> any of my balls.,,1,3,
+sports,I've started playing with pill bottles lately because I really like the sound they make when I shake them.,,2,4,
+sports,I began throwing <tomatoes/oranges/apples/kiwis/stress balls/balls/priceless antiques> whenever I can because I want to see how far they will go.,,2,4,
+sports,"Lately, I've been longing for a <dog/cat/brother/sister/mother/father> who would actually play catch with me.",,2,4,
+sports,"I've been feeling invincible recently, so I've started running into <trees/telephone poles/walls/doors> to prove how tough I am.",,1,3,
+sports,I've been kicking any <stuffed animal/rock/tin can/empty bottle> that's crossed my path recently to show it who's boss.,,2,4,
+sports,"Lately, I've found <basketball/rugby/football/soccer/baseball/volleyball/hockey> games to be really exciting whenever I see them on television..",,1,4,
+sports,I've been watching a lot of athletes play sports on TV and wonder what I'd look like in a <baseball/rugby/basketball/football/soccer/hockey/volleyball> uniform.,,2,5,
+sports,I've become obsessed with <Lebron James'/Peyton Manning's> career.,,3,5,
+sports,I began exclusively playing sports video games.,,3,5,
+sports,I've been having dreams where I <am surrounded by hundreds of adoring fans/play football in a stadium as onlookers cheer me on/play basketball on a court as onlookers cheer for me/play hockey in an arena as onlookers cheer for me/play baseball in a stadium as onlookers cheer for me>.,,2,5,
+sports,"Lately, I've been dreaming that I'm surrounded by the biggest balls ever, and it excites me.",,1,3,
+sports,I've come to the conclusion that the sun is a ball and I must <catch/kick/hit> it.,,1,3,
+sports,"Lately, I've gotten a rush out of getting sweaty and running after balls.",,4,7,
+sports,"I've realized I don't know how hockey players stand on their skates, and I'm determined to learn their secrets.",,2,5,
+music,"My mother says whenever I sing '<Mary Had a Little Lamb/Twinkle, Twinkle, Little Star/I'm a Little Teapot/The Muffin Man/Old MacDonald Had a Farm/Itsy Bitsy Spider/London Bridge is Falling Down>' my voice is prettier than <Mariah Carey/Rihanna/Beyonce/Whitney Houston/Celine Dion/Diana Ross/Ariana Grande>.",female,3,7,x
+music,"My father says whenever I sing '<Mary Had a Little Lamb/Twinkle, Twinkle, Little Star/I'm a Little Teapot/The Muffin Man/Old MacDonald Had a Farm/Itsy Bitsy Spider/London Bridge is Falling Down>' my voice sounds better than <Bruno Mars/George Michael/Freddy Mercury/Elton John/Michael Buble/Elvis Presley/Frank Sinatra/Nat King Cole>.",male,3,7,x
+music,A video went viral of me sitting in my car seat playing air-drums in perfect timing with Dave Grohl's drumming on '<In Bloom/Everlong/No One Knows/My Hero/Smells Like Teen Spirit>'.,,2,6,
+music,I found a ukulele under the couch and plucked out the theme song to 'SpongeBob SquarePants' by ear.,,3,7,
+music,"My father burst into my bedroom looking for Post Malone, but it was just me singing 'Circles' into a toy microphone.",male,4,7,x
+music,"My father burst into my bedroom looking for Bruno Mars, but it was just me singing '<Uptown Funk/That's What I Like/Just the Way You Are/Grenade/Locked Out of Heaven>' into a toy microphone.",male,4,7,x
+music,"My father burst into my bedroom looking for Michael Buble, but it was just me singing '<Cry Me a River/Home/To Love Somebody/Feeling Good/It's a Beautiful Day>' into a toy microphone.",male,4,7,x
+music,"My mother burst into my bedroom looking for Rihanna, but it was just me singing '<We Found Love/Love the Way You Lie/Diamonds/Umbrella>' into a toy microphone.",female,4,7,x
+music,"My mother burst into my bedroom looking for Mariah Carey, but it was just me singing '<Hero/Fantasy/All I want for Christmas/Emotions/Always Be My Baby>' into a toy microphone.",female,4,7,x
+music,"My mother burst into my bedroom looking for Ariana Grande, but it was just me singing '<One Last Time/Bang Bang/No Tears Left to Cry/Thank You, Next/Problem/Dangerous Woman>' into a toy microphone.",female,4,7,x
+sports,I was reprimanded for throwing a <golf ball/baseball/billiard ball/lacrosse ball/polo ball> inside the house so hard it went through a wall.,,3,7,
+sports,"Lately, I've been <deadlifting/doing squats with> <the sofa/a potted plant/my bedframe/the microwave/my friend/a mini-fridge> just for fun.",,4,7,
+modeling,"Lately, people all around me have been asking if I've ever <participated in a toddler beauty pageant/appeared on 'Toddlers & Tiaras'>.",female,2,5,
+modeling,I've come to the conclusion that <the world is obsessed with me/I am adorable>.,,1,3,
+modeling,I've come to the conclusion that the whole world needs to know how <cute/adorable/gorgeous/stunning> I really am.,,4,7,
+modeling,"Lately, I've been obsessed with being <the center of attention/in the spotlight/in front of an audience/photographed>.",,2,4,
+modeling,"A picture that my mother took of me <wearing her high heels/striking a pose/posing with my hand on my hip/saying ""cheese""/cheesing for the camera/hamming it up for the camera> went viral on <Twitter/Facebook/Instagram>.",,2,5,x
+modeling,A picture that my father took of me <wearing his tie/wearing his hat/wearing my mother's scarf/wearing my mother's shawl/posing with my hands on my hips/smiling at the camera> went viral on <Twitter/Facebook/Instagram>.,,2,5,x
+modeling,Everyone has been telling my mother that she should enroll me in modeling lessons.,,4,6,x
+modeling,"With the way everyone's been pampering me lately, I've come to the conclusion that looks are, in fact, everything.",,4,7,
+modeling,My mother says I'm going to be more famous than <Naomi Campbell/Bella Hadid/Gigi Hadid/Tyra Banks/Yolanda Hadid/Garcelle Beauvais/Christie Brinkley/Linda Evangelista/Iman/Grace Kelly/Grace Jones> someday.,female,1,3,x
+modeling,My father says I'm going to put male models on the map someday.,male,1,3,x
+modeling,"Lately, I've started acting out when I'm not the center of attention in a room.",,3,7,
+modeling,My mother says her biggest fear is that I'm going to be ugly when I grow up.,,4,6,x
+modeling,My mother says she hopes I can be the model she never got to be because <she had me/she was too ugly/she lost her looks too early>.,,1,7,x
+modeling,My father says he hopes I grow up to be a model so that he can meet my coworkers.,,3,5,x
+modeling,"Lately, anyone who sees pictures of me has said I have a <commanding presence/certain ""je ne sais quois""/unique look/strong presence/commanding gaze/beautiful smile>.",,2,6,
+modeling,I've learned that posing is crucial for having my picture properly taken.,,2,4,
+modeling,I've learned that I can get attention if I just <smile/look cute/act silly>.,,1,3,
+modeling,"Lately, I've become obsessed with watching <footage of New York Fashion Week from the 1970s/old reruns of 'Project Runway'/runway models/fashion models walking the runway> on <TV/YouTube>.",,4,7,
+modeling,"Most of the kids at school like drawing pictures of nature, but not me; I like to draw pictures of people wearing <nice/really cool/fun/colorful> <clothes/outfits>.",,3,7,
+modeling,I've become very particular lately about the clothes my parents want to dress me in; I <question their sense of fashion/think they might both be color-blind>.,,3,7,x

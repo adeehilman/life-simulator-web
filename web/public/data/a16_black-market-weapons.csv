@@ -1,0 +1,43 @@
+Item Name,Fake Name,Short Name,Possessive Name,Uses Indefinite Article,Uses Definite Article,Plural,Can Be Refurbished,Min Value,Max Value,Unique,Can Be Fake,Appreciates,Commonness Score,Appeal Score,Black Market Only,ID,Attack Verbs,Damage Score
+blowgun,,,,x,,,x,300,5000,,,,3,2,x,600,shot,1
+crossbow,,,,x,,,x,250,1500,,,,3,3,x,601,shot,2
+trebuchet,,,,x,,,x,30000,150000,,,x,3,3,x,602,launched a boulder at,4
+slingshot,,,,x,,,,10,55,,,,2,1,x,603,shot,1
+javelin,plastic javelin,,,x,,,x,300,2500,,x,x,4,2,x,604,"pierced, impaled, struck, sliced, lacerated, stabbed",3
+silver mace,steel mace,,,x,,,x,2500,3700,,x,x,3,4,x,605,"bludgeoned, struck, beat, pummeled, bashed",3
+lance,,,,x,,,x,1500,2800,,,,2,3,x,606,"pierced, impaled, struck, sliced, lacerated, stabbed, lanced",3
+scythe,,,,x,,,x,1850,2700,,,,3,4,x,607,"sliced, harvested, lacerated, eviscerated, slashed",4
+guillotine,replica guillotine,,,x,,,x,57000,76000,,x,x,2,4,x,608,sliced,5
+Revolutionary War musket,replica Revolutionary War musket,musket,,x,,,x,34000,72000,,x,x,1,5,x,609,shot,2
+blunderbuss,replica blunderbuss,,,x,,,x,6000,9000,,,x,2,4,x,610,shot,2
+scimitar,replica scimitar,,,x,,,x,399,1100,,,,2,3,x,611,"sliced, lacerated, stabbed, slashed",3
+shuriken,replica shuriken,,,x,,,x,99,199,,,,3,3,x,612,"pierced, stuck",1
+stiletto,replica stiletto,,,x,,,x,120,290,,,,3,2,x,613,"pierced, stabbed, slashed, sliced, impaled",3
+Bruce Lee's nunchuks,nunchuks,nunchuks,nunchuks once used by Bruce Lee,x,,x,x,84000,111000,,x,x,1,5,x,614,"bludgeoned, struck, beat, pummeled, bashed",2
+Masamune katana,replica Masamune katana,,,x,,,x,2500,3700,,x,x,2,3,x,615,"sliced, lacerated, stabbed, slashed",5
+broadsword,replica broadsword,,,x,,,x,1700,2900,,,x,3,2,x,616,"sliced, lacerated, stabbed, slashed",3
+longbow,replica longbow,,,x,,,x,249,799,,,,4,2,x,617,shot,2
+Sword of Goujian,replica Sword of Goujian,,,,x,,x,900000,1200000,,x,x,1,4,x,618,"sliced, lacerated, stabbed, slashed",4
+William Wallace's sword,replica of William Wallace's Sword,Wallace Sword,sword that once belonged to William Wallace,,,,x,1800000,2500000,x,x,x,1,5,x,619,"sliced, lacerated, stabbed, slashed",5
+Mons Meg,replica Mons Meg,,,,x,,x,190000,220000,,x,x,2,4,x,620,shot,5
+Bowie knife,replica Bowie knife,,,x,,,x,75,225,,,,4,1,x,621,"pierced, stabbed, slashed, sliced, impaled",2
+tizona,replica tizona,,,x,,,x,250,600,,x,,2,2,x,622,"sliced, lacerated, stabbed, slashed",3
+Joyeuse,replica Joyeuse,,,,x,,x,900000,1650000,,x,x,1,4,x,623,"sliced, lacerated, stabbed, slashed",4
+Sword of Mercy,replica Sword of Mercy,,,,x,,x,1500000,2500000,,x,x,1,5,x,624,"sliced, lacerated, stabbed, slashed",3
+urumi,replica urumi,,,x,,,x,1800,2700,,x,,3,2,x,625,"lacerated, stabbed, slashed",5
+morning star,replica morning star,,,x,,,x,650,900,,x,,4,1,x,626,"bludgeoned, struck, beat, pummeled, bashed",3
+halberd,replica halberd,,,x,,,x,420,700,,x,,3,2,x,627,"pierced, impaled, struck, sliced, lacerated, stabbed",4
+bayonet,replica bayonet,,,x,,,x,300,650,,x,,2,1,x,628,"shot, pierced, impaled, sliced, lacerated, stabbed",2
+obsidian dagger,replica obsidian dagger,,,x,,,x,120,375,,x,,2,2,x,629,"pierced, impaled, struck, sliced, lacerated, stabbed",3
+gold handaxe,gold-plated handaxe,,,x,,,x,750,1000,,x,,3,1,x,630,"sliced, lacerated, stabbed, slashed, chopped",5
+brass knuckles,,,,x,,x,x,50,150,,,,4,1,x,631,"punched, beat, bashed, pummeled",1
+mahogany club,oak club,,,x,,,,99,269,,x,,3,2,x,632,"bludgeoned, struck, beat, pummeled, bashed",2
+harpoon gun,replica harpoon gun,,,x,,,x,390,700,,x,,3,3,x,633,"shot, harpooned",5
+tomahawk,replica tomahawk,,,x,,,x,220,450,,x,,4,2,x,634,"sliced, lacerated, stabbed, slashed, chopped",2
+meteor hammer,replica meteor hammer,,,x,,,x,200,375,,x,,2,2,x,635,"bludgeoned, struck, beat, pummeled, bashed",4
+boomerang,,,,x,,,x,10,95,,,,5,1,x,636,whacked,1
+Holy Hand Grenade of Antioch,replica Holy Hand Grenade,holy grenade,,,x,,x,1000000,10000000,,x,x,1,5,x,637,blew up,1
+Leatherface's chainsaw,replica of Leatherface's chainsaw,chainsaw,chainsaw that once belonged to Leatherface,,,,x,1500,5000,,x,x,2,4,x,638,"sliced, lacerated, stabbed, slashed, nicked",5
+Buffy's wooden stake,replica of Buffy's wooden stake,wooden stake,wooden stake that once belonged to Buffy Summers,,,,,100,500,,x,x,2,5,x,639,"staked, spiked, impaled, stabbed",1
+pirate ship cannon,replica pirate ship cannon,cannon,,x,,,x,10000,25000,,x,x,3,3,x,640,shot,5
+light saber,replica light saber,light saber,,x,,,x,10000000,50000000,x,x,x,1,5,x,641,"sliced, lacerated, stabbed, slashed",5

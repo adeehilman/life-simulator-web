@@ -1,0 +1,8 @@
+Sport,Gender,Minimum Salary,Maximum Salary,Fame Score,Commonness Score,Retirement Age,Country Whitelist
+football,male,510000,25000000,5,4,40,
+basketball,,893310,22500000,5,5,40,
+baseball,male,563500,22500000,3,4,40,
+hockey,male,650000,8000000,2,1,40,
+soccer,,500000,25000000,5,4,40,
+rugby,male,50000,375000,1,1,40,"au, gb"
+volleyball,female,1000000,25000000,1,2,40,

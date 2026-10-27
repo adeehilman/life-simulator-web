@@ -1,0 +1,21 @@
+String,Best Vehicle Stat,Commonness Score
+Your <car> can turn on a dime.,handling,3
+Your <car> went from 0 to 90 in 3.5 seconds.,acceleration,3
+Your <car> felt like it was going fast enough to break the sound barrier.,speed,3
+Your <car> is a veritable tank.,durability,3
+Your <car> took sharp corners at high speeds without breaking loose.,handling,2
+You pushed your <car> to the limit around a corner it held tight.,handling,4
+"You tried to break loose around corners at high speeds, but your <car> hugged the turns with ease.",handling,5
+"You aggressively zig-zagged your <car> down a straightaway, and it handled like a dream all the way.",handling,3
+"You put the pedal to the metal in your <car>, and the G-force felt like a rocket ship.",acceleration,3
+"You were already going fast in your <car> when you decided to floor it, and it pushed you back in the seat. ",acceleration,2
+Your <car> took off like a supersonic fighter jet as soon as you hit the gas.,acceleration,5
+You barely tapped the accelerator on your <car> and it <took off like a bullet/projected forward at ballistic speeds>.,acceleration,4
+"You wanted to test how fast your <car> could go but had to back off, fearing for your life.",speed,5
+There wasn't enough track to discover how fast your <car> could go.,speed,2
+Your <car> was going so fast down a straightaway that your surroundings became a blur.,speed,4
+"Just as you hit top speed in your <car>, it still wanted to go faster.",speed,3
+You slammed your <car> into a <concrete barrier/steel pole/guardrail> at moderate speed and only sustained minimal damage.,durability,5
+"You repeatedly <rear-ended/sideswiped/crashed into> a practice <Bronco/Ford F-150/military tank>, and it barely did anything to your <car>. ",durability,3
+"You rammed your <car> head-on into a brick wall and drove away, no problem.",durability,2
+You let a demolition <car-type> practice hit you on the track and it sustained much more damage than your <car>.,durability,4

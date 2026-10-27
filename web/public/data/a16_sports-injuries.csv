@@ -1,0 +1,93 @@
+Index,Type,Uses Indefinite Article,Feedback Snippet,Log Version Snippet,Gender,Seriousness Score,Duration Score,Rehab Score,Pain Score,Is Debilitating,Can Heal Organically,Can Have Surgery,Can Be Career Ending,Soccer Commonness Score,Basketball Commonness Score,Football Commonness Score,Baseball Commonness Score,Hockey Commonness Score,Rugby Commonness Score,Volleyball Commonness Score
+1001,pierced testicle,x,pierced your testicle,pierced my testicle,male,3,2,2,5,x,,x,,1,1,1,1,1,1,0
+1002,<sliced/cut/nicked/lacerated> <forearm/shoulder/back/leg/cheek/face/thigh>,x,<rb1> your <rb2>,<rb1> my <rb2>,,2,2,5,3,,x,x,,2,2,2,2,3,3,2
+1003,lacerated <forearm/shoulder/back/leg/cheek/face/thigh>,x,lacerated your <rb>,lacerated my <rb>,,4,3,4,5,x,x,x,,2,2,2,2,3,3,2
+1004,foot blister,x,developed a blister on your foot,developed a blister on my foot,,1,1,5,2,,x,,,2,2,2,1,2,2,3
+1005,hand blister,x,developed a blister on your hand,developed a blister on my hand,,1,1,5,2,x,x,,,2,2,2,4,2,2,2
+1006,broken arm,x,broke your arm,broke my arm,,3,4,4,3,x,,x,,1,1,2,1,2,2,3
+1007,broken femur,x,broke your femur,broke my femur,,4,4,4,3,x,,x,x,2,1,4,1,3,3,1
+1008,broken finger,x,broke a finger,broke a finger,,2,2,5,3,x,x,x,,1,4,4,4,3,4,3
+1009,broken fingers,,broke <two/three/four/five/six/seven/eight/nine> fingers,broke <two/three/four/five/six/seven/eight/nine> fingers,,3,3,5,3,x,x,x,,1,2,2,2,1,2,3
+1010,broken nose,x,broke your nose,broke my nose,,2,2,4,3,,x,x,,2,2,3,2,5,3,2
+1011,broken rib,x,broke a rib,broke a rib,,3,2,5,3,x,x,x,,2,2,5,2,5,5,1
+1012,broken ribs,,broke <two/three/four/five/six/seven/eight/nine> ribs,broke <two/three/four/five/six/seven/eight/nine> ribs,,3,3,5,3,x,x,x,,1,1,4,1,4,4,1
+1013,broken spine,x,broke your spine,broke my spine,,5,5,3,5,x,,x,x,1,1,2,1,1,2,1
+1014,broken toe,x,broke a toe,broke a toe,,1,3,5,3,x,x,x,,3,1,3,1,2,3,2
+1015,broken toes,,broke <two/three/four/five/six/seven/eight/nine> toes,broke <two/three/four/five/six/seven/eight/nine> toes,,3,4,5,3,x,x,x,,2,1,2,1,1,2,2
+1016,bruised <ankle/shin/calf/elbow/arm/shoulder/genitals/kneecap>,x,bruised your <rb>,bruised my <rb>,,1,2,5,1,,x,,,4,4,5,3,5,5,3
+1017,bruised ego,x,bruised your ego,bruised my ego,,1,3,5,1,,x,,,1,1,1,1,1,1,1
+1018,mild concussion,x,suffered a mild concussion,suffered a mild concussion,,2,2,5,2,x,x,,,3,2,5,2,5,5,2
+1019,moderate concussion,x,suffered a moderate concussion,suffered a moderate concussion,,4,3,4,3,x,x,x,,2,1,4,1,4,4,1
+1020,severe concussion,x,suffered a severe concussion,suffered a severe concussion,,5,4,4,4,x,,x,x,1,1,3,1,3,3,1
+1021,cracked pelvis,x,cracked your pelvis,cracked my pelvis,,4,4,3,5,x,x,x,x,1,1,2,1,2,2,1
+1022,cracked vertebrae,x,cracked <num10-33> of your vertebrae,cracked <num10-33> of my vertebrae,,5,5,3,5,x,x,x,x,1,1,3,1,2,2,1
+1023,broken clavicle,x,broke your clavicle,broke my clavicle,,3,3,3,3,x,x,x,,1,1,3,1,3,3,1
+1024,dislocated clavicle,x,dislocated your collarbone,dislocated my collarbone,,2,4,5,4,x,x,x,,2,2,4,2,4,4,2
+1025,dislocated jaw,x,dislocated your jaw,dislocated my jaw,,3,4,5,5,x,x,x,,1,1,3,1,3,3,1
+1026,dislocated hip,x,dislocated your hip,dislocated my hip,,4,4,4,4,x,x,x,,1,1,2,1,2,2,2
+1027,dislocated finger,x,dislocated your finger,dislocated my finger,,2,2,5,4,x,x,x,,2,4,5,3,4,4,4
+1028,dislocated elbow,x,dislocated your elbow,dislocated my elbow,,4,4,5,4,x,x,x,,1,1,2,1,2,2,2
+1029,dislocated knee,x,dislocated your knee,dislocated my knee,,4,4,4,4,x,x,x,,2,1,2,1,2,2,3
+1030,dislocated shoulder,x,dislocated your shoulder,dislocated my shoulder,,3,3,2,3,x,x,x,,2,2,5,2,5,5,3
+1031,busted coccyx,x,busted your coccyx,busted your coccyx,,3,4,2,3,x,,x,,1,1,1,1,1,1,1
+1032,fractured face,x,fractured your face,fractured my face,,3,3,3,4,x,x,x,,1,1,1,2,2,2,2
+1033,fractured larynx,x,fractured your larynx,fractured my larynx,,5,4,4,5,x,x,x,x,1,1,1,1,1,1,1
+1034,fractured orbital socket,x,fractured your orbital socket,fractured my orbital socket,,5,5,5,5,x,x,x,x,1,1,1,2,2,2,1
+1035,fractured skull,x,fractured your skull,fractured my skull,,5,5,3,5,x,x,x,x,1,1,2,2,2,2,1
+1036,stable tibia fracture,x,suffered a stable tibia fracture,suffered a stable tibia fracture,,2,3,4,3,x,,x,x,2,1,3,1,3,3,1
+1037,transverse tibia fracture,x,suffered a transverse tibia fracture,suffered a transverse tibia fracture,,3,3,4,3,x,,x,x,2,1,3,1,3,3,1
+1038,displaced tibia fracture,x,suffered a displaced tibia fracture,suffered a displaced tibia fracture,,5,4,3,5,x,,x,x,1,1,2,1,2,2,1
+1039,oblique tibia fracture,x,suffered an oblique tibia fracture,suffered an oblique tibia fracture,,2,3,4,4,x,,x,x,2,1,3,1,3,3,1
+1040,comminuted tibia fracture,x,suffered a comminuted tibia fracture,suffered a comminuted tibia fracture,,5,4,3,4,x,,x,x,1,1,2,1,2,2,1
+1041,spiral tibia fracture,x,suffered a spiral tibia fracture,suffered a spiral tibia fracture,,4,3,3,4,x,,x,x,1,1,2,1,2,2,1
+1042,friction burn,x,suffered a friction burn,suffered a friction burn,,1,1,5,2,,x,,,2,2,2,2,2,2,4
+1043,strained groin,x,strained your groin,strained my groin,,3,2,5,2,x,x,x,,5,5,5,5,5,5,4
+1044,lacerated calf muscle,x,lacerated your calf muscle,lacerated my calf muscle,,5,4,3,5,x,,x,x,1,1,1,1,2,1,1
+1045,<two/three/four> dislodged molars,,had <rb> molars dislodged,had <rb> molars dislodged,,3,5,5,3,,x,x,,1,1,2,1,4,2,1
+1046,scraped <hand/elbow/leg/knee/cheek/butt/chin>,x,scraped your <rb>,scraped my <rb>,,1,1,5,1,,x,,,3,3,5,2,5,5,4
+1047,shattered jaw,x,shattered your jaw,shattered my jaw,,4,4,3,5,x,,x,,1,1,3,2,3,3,1
+1048,herniated spinal disc,x,developed a herniated spinal disc,developed a herniated spinal disc,,4,4,4,4,x,x,x,x,5,5,5,4,5,5,4
+1049,sprained calf,x,sprained your calf,sprained my calf,,2,2,5,3,x,x,,,5,5,5,5,5,5,4
+1050,sprained hamstring,x,sprained your hamstring,sprained my hamstring,,2,2,5,3,x,x,,,5,5,5,4,5,5,3
+1051,sprained hip flexor,x,sprained your hip flexor,sprained my hip flexor,,2,2,5,3,x,x,,,3,3,3,3,3,3,3
+1052,sprained lower back,x,sprained your lower back,sprained my lower back,,2,2,5,3,x,x,,,5,5,5,5,5,5,4
+1053,sprained wrist,x,sprained your wrist,sprained my wrist,,2,2,5,2,x,x,,,2,2,3,2,3,3,4
+1054,sprained hand,x,sprained your hand,sprained my hand,,2,2,5,2,x,x,,,2,2,3,2,3,3,4
+1055,sprained ACL,x,sprained your ACL,sprained my ACL,,2,2,5,3,x,x,x,,4,3,4,2,4,4,3
+1056,sprained MCL,x,sprained your MCL,sprained my MCL,,2,2,5,3,x,x,x,,4,3,4,2,4,4,3
+1057,sprained UCL,x,sprained your UCL,sprained my UCL,,3,3,5,3,x,x,x,,1,1,2,5,2,2,3
+1058,torn ACL,x,tore your ACL,tore my ACL,,5,5,5,,x,,x,x,3,2,3,1,3,3,3
+1059,torn MCL,x,tore your MCL,tore my MCL,,5,5,5,,x,,x,x,3,2,3,1,3,3,3
+1060,torn UCL,x,tore your UCL,tore my UCL,,5,5,5,4,x,,x,x,1,1,2,4,1,2,3
+1061,torn rotator cuff,x,tore your rotator cuff,tore my rotator cuff,,4,2,5,4,x,,x,x,1,1,3,4,2,3,3
+1062,stubbed toe,x,stubbed your toe,stubbed my toe,,1,1,5,5,,x,,,5,5,5,5,5,5,5
+1063,shin splints,,developed shin splints,developed shin splints,,1,2,5,3,,x,x,,5,5,5,5,5,5,5
+1064,sciatica,,developed sciatica,developed sciatica,,2,1,4,3,x,x,x,,3,3,5,3,4,4,4
+1065,grade 1 turf toe,,developed grade 1 turf toe,developed grade 1 turf toe,,1,2,4,2,x,x,,,4,0,5,3,0,5,0
+1066,grade 2 turf toe,,developed grade 2 turf toe,developed grade 2 turf toe,,2,3,3,3,x,,x,,3,0,4,2,0,4,0
+1067,grade 3 turf toe,,developed grade 3 turf toe,developed grade 3 turf toe,,3,4,3,4,x,,x,,2,0,3,1,0,3,0
+1068,plantar fasciitis,,developed plantar fasciitis,developed plantar fasciitis,,3,4,5,3,x,x,x,,3,3,3,3,3,3,4
+1069,high ankle sprain,x,suffered a high ankle sprain,suffered a high ankle sprain,,2,2,5,3,x,x,x,,3,4,3,1,2,3,4
+1070,low ankle sprain,x,suffered a low ankle sprain,suffered a low ankle sprain,,2,2,5,3,x,x,x,,4,5,4,2,3,4,5
+1071,patellofemoral syndrome,,developed patellofemoral syndrome,developed patellofemoral syndrome,,2,4,4,2,,x,x,,3,3,2,1,2,2,5
+1072,tennis elbow,,developed tennis elbow,developed tennis elbow,,2,4,4,3,,,x,,0,1,1,1,0,1,2
+1073,cauliflower ear,,developed cauliflower ear,developed cauliflower ear,,2,5,3,2,,,x,,0,0,1,0,1,1,1
+1074,torn meniscus,x,tore your meniscus,tore my meniscus,,3,4,3,4,x,,x,x,1,1,4,1,3,4,4
+1075,back spasms,,experienced back spasms,experienced back spasms,,3,4,3,4,x,x,x,,5,5,5,5,5,5,5
+1076,twisted scrotum,x,twisted your scrotum,twisted my scrotum,male,4,2,5,5,,x,x,,1,1,1,1,1,1,0
+1077,busted lip,x,busted your lip,busted my lip,,1,2,5,3,,x,,,3,3,5,1,5,5,4
+1078,frostbite,,developed frostbite,developed frostbite,,4,4,2,5,x,x,x,x,1,0,1,0,2,1,0
+1079,corneal abrasion,x,suffered a corneal abrasion,suffered a corneal abrasion,,2,1,5,4,x,x,x,,1,1,1,1,1,1,2
+1080,bruised boobie,x,bruised your boobie,bruised my boobie,female,1,1,5,4,,x,,,1,1,1,1,1,1,3
+1081,Achilles tendonitis,,developed Achilles tendonitis,developed Achilles tendonitis,,2,2,5,2,x,x,x,,3,3,2,1,2,2,3
+1082,ruptured Achilles tendon,x,ruptured your Achilles tendon,ruptured my Achilles tendon,,4,4,3,5,x,,x,x,2,2,3,1,3,3,3
+1083,sore vagina,x,developed a sore vagina,developed a sore vagina,female,1,1,5,2,,x,,,1,1,1,1,1,1,2
+1084,sore penis,x,developed a sore penis,developed a sore penis,male,1,1,5,2,,x,,,1,1,1,1,1,1,0
+1085,sore buttocks,x,developed a sore buttocks,developed a sore buttocks,,1,1,5,2,,x,,,1,1,1,1,1,1,4
+1086,flexor tendinitis,,developed flexor tendonitis,developed flexor tendonitis,,2,2,3,2,x,x,x,x,3,3,3,3,3,3,3
+1087,ruptured hamstring,x,ruptured your hamstring,ruptured my hamstring,,4,4,3,4,x,x,x,x,1,1,2,2,2,2,2
+1088,stretched penis,x,stretched your penis,stretched my penis,male,1,1,1,5,x,x,,,1,1,1,1,1,1,0
+1089,torn vagina,x,tore your vagina,tore my vagina,female,3,3,1,5,x,x,x,,1,1,1,1,1,1,1
+1090,inflamed clitoris,x,developed an inflamed clitoris,developed an inflamed clitoris,female,2,1,1,4,x,x,,,1,1,1,1,1,1,1
+1091,stretched nipple,x,stretched a nipple,stretched a nipple,,2,2,1,4,x,x,,,1,1,1,1,1,1,1
+1092,penile fracture,x,suffered a penile fracture,suffered a penile fracture,male,4,4,5,5,x,x,x,x,1,1,1,1,1,1,0

@@ -1,0 +1,21 @@
+String,Min Appeal,Max Appeal
+<Patrons/Guests/Visitors> said your museum couldn't be less interesting.,,10
+"<Patrons/Guests/Visitors> reported being unimpressed with your museum because ""nobody asked for this"".",,20
+<Patrons/Guests/Visitors> said their tours around your museum left too much to be desired,,20
+<Patrons/Guests/Visitors> said not even <exhibit> would make them want to come back.,,30
+"<Patrons/Guests/Visitors> wondered who let you have a museum, because you clearly don't know what people want to see.",,30
+<Patrons/Guests/Visitors> were overheard saying your museum affirms the stereotype that museums are <dull/boring/overrated/yawn-inducing/lame>.,,49
+<Patrons/Guests/Visitors> said your museum is more <creepy/dingy/weird/odd/kooky/unsettling> than it is <interesting/thought-provoking/enticing/awe-inspiring/educational/appealing>.,,49
+<Patrons/Guests/Visitors> said they wished you had more exciting artifacts in your museum.,,49
+<Patrons/Guests/Visitors> say they feel they overpaid for what they saw in your museum.,,50
+<Patrons/Guests/Visitors> remarked they were particularly impressed by the way <exhibit> is displayed.,50,70
+<Patrons/Guests/Visitors> said the overall layout of the museum impressed them.,50,75
+<Patrons/Guests/Visitors> said they've never been to a more <interesting/exciting> museum.,80,
+<Patrons/Guests/Visitors> said they'd come back just to <study/examine/analyze/gaze at/see> <exhibit> one more time.,70,
+<Patrons/Guests/Visitors> said <exhibit> really tied the entire museum together.,50,
+<Patrons/Guests/Visitors> said the exhibits in your museum are <stunning/breathtaking/awe-inspiring/exciting/mind-blowing>.,70,
+<Patrons/Guests/Visitors> said your museum provides fascinating insights into <global culture/pop culture/local culture>.,50,
+<Patrons/Guests/Visitors> said your museum <thrilled/educated/enlightened/delighted> them.,60,
+<Patrons/Guests/Visitors> said they learned more about the world by going through your museum than they did in <primary/elementary/high/secondary> school.,50,
+"<Patrons/Guests/Visitors> say your museum is <just okay/not bad/a bit meh/nothing spectacular/better than cleaning toilets, but not much>.",,20
+<Patrons/Guests/Visitors> said your museum is <lit/fire/amazing/off the chain>.,80,

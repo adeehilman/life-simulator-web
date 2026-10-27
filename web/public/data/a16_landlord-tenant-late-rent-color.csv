@@ -1,0 +1,37 @@
+Scenario,Log Version,Commonness Score,Min Craziness,Max Craziness
+<he/she> says it's because <he/she> partied too much.,<tenant> said <he/she> couldn't pay the rent because <he/she> spent <his/her> money on partying.,3,50,
+<he/she> says it's because <Gucci/Prada/Fendi/Macy's> had a huge sale.,<tenant> said <he/she> couldn't pay the rent because <he/she> spent <his/her> money at a <rb> sale.,3,50,
+<he/she> says it's because <he/she> blew it all at the <casino/slot machines>.,<tenant> said <he/she> couldn't pay the rent because <he/she> lost all of <his/her> savings at the <rb>.,3,50,
+<he/she> says it went up <his/her> nose.,<tenant> said <he/she> couldn't pay the rent because <he/she> spent <his/her> money on drugs.,2,80,
+<he/she> says <he/she> doesn't know what happened to it.,<tenant> said <he/she> couldn't pay the rent because the money mysteriously vanished.,1,,
+<he/she> tells you it's been a hard year.,<tenant> said <he/she> couldn't pay the rent because <he/she> had a difficult year.,5,,50
+<he/she> tells you it's because <he/she> has had to send money to sick relatives.,<tenant> said <he/she> couldn't pay the rent because <he/she> had to send money to sick relatives.,3,,30
+<he/she> tells you it's because <he/she> spent it all on <weed/prostitutes/strippers/parties/beer/booze/alcohol/margaritas/mojitos/pills>.,<tenant> said <he/she> couldn't pay the rent because <he/she> spent it all on <rb>.,5,50,
+<he/she> tells you it's because <he/she> made a bad investment and lost it all.,<tenant> said <he/she> couldn't pay the rent because <he/she> lost all of <his/her> money on a bad investment.,5,,50
+<he/she> tells you it's because of inflation.,<tenant> told me <he/she> couldn't pay the rent due to inflation.,3,,20
+<he/she> tells you <he/she> would rather <walk barefoot over Legos/party/eat dirt/crawl through broken glass/walk on hot coals/slurp mucus through a straw/eat grass/eat bland chicken> than pay rent.,<tenant> told me <he/she> preferred not to pay rent.,1,60,
+<he/she> tells you <he/she> spent the money on <shoes/videogames/vacations/a cruise/designer clothes>.,<tenant> said <he/she> couldn't pay the rent because <he/she> spent the money on <rb>.,3,,60
+<he/she> tells you it's due to a budgeting error.,<tenant> said <he/she> didn't pay the rent due to a budgeting error.,3,,50
+<he/she> tells you it's because <he/she> had to have emergency surgery.,<tenant> said <he/she> couldn't pay the rent because <he/she> had to have emergency surgery.,3,,50
+<he/she> tells you <he/she> misplaced the money.,<tenant> told me <he/she> couldn't pay the rent because <he/she> misplaced the money.,2,50,
+<he/she> says <he/she> had to pay off a <credit card bill/debt>.,<tenant> told me <he/she> couldn't pay the rent because <he/she> chose to pay off some credit card debt.,3,,70
+<he/she> says it's because it was stolen.,<tenant> told me <he/she> couldn't pay rent because someone stole it.,2,,60
+<he/she> says it's because <he/she> trusted the wrong person with <his/her> money.,<tenant> told me <he/she> couldn't pay rent because <he/she> trusted someone devious with <his/her> money.,3,40,70
+<he/she> says it's because <he/she> is down on <his/her> luck.,<tenant> told me <he/she> couldn't pay rent because <he/she> is down on <his/her> luck.,4,,60
+<he/she> tells you it's because <he/she> can't bring <him/her>self to pay rent.,<tenant> told me <he/she> couldn't pay rent because <he/she> didn't want to.,3,70,
+<he/she> says it's because <he/she> just couldn't afford it.,<tenant> told me <he/she> couldn't afford the rent.,3,,
+<he/she> tells you it's because <he/she> just forgot.,<tenant> told me <he/she> didn't pay rent because <he/she> forgot about it.,1,20,70
+<he/she> tells you it's because <he/she> lost <his/her> job.,<tenant> told me <he/she> didn't pay rent because <he/she> lost <his/her> job.,1,,50
+<he/she> tells you it's because <he/she> had to pay more in taxes this year.,<tenant> told me <he/she> couldn't pay rent because <he/she> had to pay taxes.,2,,
+<he/she> tells you it's because <he/she> is mourning the death of a relative.,<tenant> told me <he/she> forgot to pay rent because <he/she> was mourning the death of a relative.,2,,
+<he/she> says it's because someone at the bank made a mistake.,<tenant> told me <his/her> rent check didn't deposit due to a clerical error at the bank.,3,,
+<he/she> says it's because <he/she> had to have a <hip replacement/knee replacement/heart transplant/liver transplant/kidney transplant/lung transplant>.,<tenant> told me <he/she> couldn't pay rent because <he/she> was in the hospital.,2,,
+<he/she> says it's because the bank froze <his/her> account after <he/she> wrote too many bad checks.,<tenant> told me <he/she> couldn't pay rent because the bank froze <his/her> account.,3,,
+<he/she> says it's the post office's fault.,<tenant> told me <his/her> rent checks got lost in the mail.,5,50,
+<he/she> says it's because <he/she> had to help a relative pay for unexpected vet bills.,<tenant> told me <he/she> couldn't pay rent because <he/she> had to help a relative pay for unexpected vet bills.,3,,50
+<he/she> says it's because <he/she> had to send the money to <his/her> family.,<tenant> told me <he/she> couldn't pay rent because <he/she> had to send the money to <his/her> family.,3,,
+<he/she> says it's because <he/she> had to pay off a local gangster.,<tenant> told me <he/she> couldn't pay rent because <he/she> had to pay off a local gangster.,1,70,
+<he/she> claims <random-person-indefinite> mugged <him/her> and stole it.,<tenant> told me <he/she> couldn't pay rent because <random-person-indefinite> mugged <him/her> on the way to the bank.,4,,
+<he/she> claims someone hacked into <his/her> bank account and stole all <his/her> money.,<tenant> told me <he/she> couldn't pay rent because someone hacked into <his/her> bank account and stole the money.,2,50,
+<he/she> claims <he/she> spent it on <his/her> latest house party.,<tenant> told me <he/she> couldn't pay rent because <he/she> spent the money on a house party.,1,50,
+<he/she> claims <he/she> donated it to a charity in support of <domestic violence prevention services/domestic violence awareness/homeless people/Renters Against Landlords/the Total Wildlife Assistance Tribunal Society/poor people/orphans/depressed mothers/damsels in distress>.,<tenant> told me <he/she> couldn't pay rent because <he/she> donated the money to charity.,3,50,

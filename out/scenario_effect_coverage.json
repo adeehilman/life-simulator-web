@@ -1,0 +1,911 @@
+{
+  "domains": [
+    {
+      "domain": "happiness",
+      "columns": 62,
+      "files": 26,
+      "sampleFiles": [
+        "a16_actor-dynamic-challenges.csv",
+        "a16_backtoschool-sleepover-invitation-dumb.csv",
+        "a16_black-market-street-chemist-products.csv",
+        "a16_casino-casino-drink.csv",
+        "a16_clubupdateufldumb.csv"
+      ]
+    },
+    {
+      "domain": "relationship",
+      "columns": 52,
+      "files": 22,
+      "sampleFiles": [
+        "a16_anniversary-date.csv",
+        "a16_backtoschool-sleepover-invitation-dumb.csv",
+        "a16_clubupdateufldumb.csv",
+        "a16_dumb-scenarios-dealer.csv",
+        "a16_dumb-scenarios-landlord.csv"
+      ]
+    },
+    {
+      "domain": "karma",
+      "columns": 71,
+      "files": 20,
+      "sampleFiles": [
+        "a16_backtoschool-sleepover-invitation-dumb.csv",
+        "a16_black-market-vendor-dumb-scenarios.csv",
+        "a16_clubupdateufldumb.csv",
+        "a16_dumb-scenarios-calendar.csv",
+        "a16_dumb-scenarios-career.csv"
+      ]
+    },
+    {
+      "domain": "health",
+      "columns": 32,
+      "files": 17,
+      "sampleFiles": [
+        "a16_actor-dynamic-challenges.csv",
+        "a16_black-market-street-chemist-products.csv",
+        "a16_clubupdateufldumb.csv",
+        "a16_dealer-cartel-drug.csv",
+        "a16_diets.csv"
+      ]
+    },
+    {
+      "domain": "discipline",
+      "columns": 45,
+      "files": 12,
+      "sampleFiles": [
+        "a16_dumb-scenarios-calendar.csv",
+        "a16_dumb-scenarios-career.csv",
+        "a16_dumb-scenarios-friend.csv",
+        "a16_dumb-scenarios-holiday.csv",
+        "a16_dumb-scenarios-orphan.csv"
+      ]
+    },
+    {
+      "domain": "respect",
+      "columns": 31,
+      "files": 10,
+      "sampleFiles": [
+        "a16_astronaut-dumb-scenarios.csv",
+        "a16_astronaut-mission-dumb-scenarios.csv",
+        "a16_dumb-scenarios-album.csv",
+        "a16_dumb-scenarios-music.csv",
+        "a16_dumb-scenarios-prison.csv"
+      ]
+    },
+    {
+      "domain": "smarts",
+      "columns": 24,
+      "files": 9,
+      "sampleFiles": [
+        "a16_backtoschool-sleepover-invitation-dumb.csv",
+        "a16_black-market-street-chemist-products.csv",
+        "a16_luxury-secret-societie.csv",
+        "a16_outdoor-bike-ride-dumb.csv",
+        "a16_outdoor-camping-dumb-scenario.csv"
+      ]
+    },
+    {
+      "domain": "appearance",
+      "columns": 29,
+      "files": 8,
+      "sampleFiles": [
+        "a16_diets.csv",
+        "a16_dumb-scenarios-calendar.csv",
+        "a16_dumb-scenarios-career.csv",
+        "a16_dumb-scenarios-friend.csv",
+        "a16_dumb-scenarios-holiday.csv"
+      ]
+    },
+    {
+      "domain": "intelligence",
+      "columns": 28,
+      "files": 7,
+      "sampleFiles": [
+        "a16_dumb-scenarios-calendar.csv",
+        "a16_dumb-scenarios-career.csv",
+        "a16_dumb-scenarios-friend.csv",
+        "a16_dumb-scenarios-holiday.csv",
+        "a16_dumb-scenarios-orphan.csv"
+      ]
+    },
+    {
+      "domain": "looks",
+      "columns": 12,
+      "files": 6,
+      "sampleFiles": [
+        "a16_backtoschool-sleepover-invitation-dumb.csv",
+        "a16_black-market-street-chemist-products.csv",
+        "a16_luxury-secret-societie.csv",
+        "a16_luxury-spa-treatment.csv",
+        "a16_outdoor-cave-discoverie.csv"
+      ]
+    },
+    {
+      "domain": "performance",
+      "columns": 18,
+      "files": 6,
+      "sampleFiles": [
+        "a16_astronaut-experiment-scenarios.csv",
+        "a16_astronaut-flight-scenario.csv",
+        "a16_astronaut-mission-dumb-scenarios.csv",
+        "a16_astronaut-mission-goof-off.csv",
+        "a16_dumb-scenarios-actor.csv"
+      ]
+    },
+    {
+      "domain": "popularity",
+      "columns": 14,
+      "files": 5,
+      "sampleFiles": [
+        "a16_dumb-scenarios-album.csv",
+        "a16_dumb-scenarios-music.csv",
+        "a16_music-club-takeover-string.csv",
+        "a16_music-club-takeover-stunt.csv",
+        "a16_podcast-dumb.csv"
+      ]
+    },
+    {
+      "domain": "enjoyment",
+      "columns": 16,
+      "files": 4,
+      "sampleFiles": [
+        "a16_outdoor-camping-dumb-scenario.csv",
+        "a16_outdoor-cave-discoverie.csv",
+        "a16_outdoor-hiking-dumb-scenario.csv",
+        "a16_racing-drive-dumb-scenario.csv"
+      ]
+    },
+    {
+      "domain": "loyalty",
+      "columns": 7,
+      "files": 4,
+      "sampleFiles": [
+        "a16_cult-communard-educate.csv",
+        "a16_cult-communard-punishment.csv",
+        "a16_cult-communard-rewards.csv",
+        "a16_cult-commune-dumb-scenarios.csv"
+      ]
+    },
+    {
+      "domain": "agree_performance",
+      "columns": 3,
+      "files": 3,
+      "sampleFiles": [
+        "a16_actor-dynamic-challenges.csv",
+        "a16_model-go-see-action-poses.csv",
+        "a16_model-photo-shoot-poses.csv"
+      ]
+    },
+    {
+      "domain": "attitude",
+      "columns": 9,
+      "files": 3,
+      "sampleFiles": [
+        "a16_black-market-vendor-dumb-scenarios.csv",
+        "a16_business-team-building-activities.csv",
+        "a16_dumb-scenarios-business.csv"
+      ]
+    },
+    {
+      "domain": "fitness",
+      "columns": 9,
+      "files": 3,
+      "sampleFiles": [
+        "a16_astronaut-dumb-scenarios.csv",
+        "a16_dumb-scenarios-sports.csv",
+        "a16_sports-training-scenarios.csv"
+      ]
+    },
+    {
+      "domain": "reputation",
+      "columns": 12,
+      "files": 3,
+      "sampleFiles": [
+        "a16_dumb-scenarios-actor.csv",
+        "a16_dumb-scenarios-model.csv",
+        "a16_music-producer-dumb-scenario.csv"
+      ]
+    },
+    {
+      "domain": "standing",
+      "columns": 12,
+      "files": 3,
+      "sampleFiles": [
+        "a16_dealer-drug-run-dumb-scenario.csv",
+        "a16_dumb-scenarios-dealer.csv",
+        "a16_dumb-scenarios-mafia.csv"
+      ]
+    },
+    {
+      "domain": "success",
+      "columns": 12,
+      "files": 3,
+      "sampleFiles": [
+        "a16_dumb-scenarios-actor.csv",
+        "a16_dumb-scenarios-album.csv",
+        "a16_podcast-dumb.csv"
+      ]
+    },
+    {
+      "domain": "willpower",
+      "columns": 3,
+      "files": 3,
+      "sampleFiles": [
+        "a16_luxury-secret-societie.csv",
+        "a16_outdoor-hiking-drink.csv",
+        "a16_vampire-hypnosis-animal-scenario.csv"
+      ]
+    },
+    {
+      "domain": "approval",
+      "columns": 10,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-office.csv",
+        "a16_political-laws.csv"
+      ]
+    },
+    {
+      "domain": "base_popularity",
+      "columns": 2,
+      "files": 2,
+      "sampleFiles": [
+        "a16_casino-casino-amenity.csv",
+        "a16_casino-casino-singer-genre.csv"
+      ]
+    },
+    {
+      "domain": "casino_popularity",
+      "columns": 8,
+      "files": 2,
+      "sampleFiles": [
+        "a16_casino-casino-dumb-scenario.csv",
+        "a16_dumb-scenarios-casino.csv"
+      ]
+    },
+    {
+      "domain": "celebrity_popularity",
+      "columns": 2,
+      "files": 2,
+      "sampleFiles": [
+        "a16_casino-celebrity-demand.csv",
+        "a16_casion-celebrity-demand.csv"
+      ]
+    },
+    {
+      "domain": "crime",
+      "columns": 18,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv",
+        "a16_dumb-scenarios-political-office.csv"
+      ]
+    },
+    {
+      "domain": "disagree_performance",
+      "columns": 2,
+      "files": 2,
+      "sampleFiles": [
+        "a16_actor-dynamic-challenges.csv",
+        "a16_model-photo-shoot-poses.csv"
+      ]
+    },
+    {
+      "domain": "economy",
+      "columns": 18,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv",
+        "a16_dumb-scenarios-political-office.csv"
+      ]
+    },
+    {
+      "domain": "education",
+      "columns": 18,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv",
+        "a16_dumb-scenarios-political-office.csv"
+      ]
+    },
+    {
+      "domain": "environment",
+      "columns": 18,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv",
+        "a16_dumb-scenarios-political-office.csv"
+      ]
+    },
+    {
+      "domain": "essence",
+      "columns": 5,
+      "files": 2,
+      "sampleFiles": [
+        "a16_vampire-dumb-scenario.csv",
+        "a16_vampire-hunt-string.csv"
+      ]
+    },
+    {
+      "domain": "ethics",
+      "columns": 18,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv",
+        "a16_dumb-scenarios-political-office.csv"
+      ]
+    },
+    {
+      "domain": "flight",
+      "columns": 8,
+      "files": 2,
+      "sampleFiles": [
+        "a16_astronaut-dumb-scenarios.csv",
+        "a16_astronaut-flight-scenario.csv"
+      ]
+    },
+    {
+      "domain": "foreign_policy",
+      "columns": 18,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv",
+        "a16_dumb-scenarios-political-office.csv"
+      ]
+    },
+    {
+      "domain": "gambler_relationship",
+      "columns": 8,
+      "files": 2,
+      "sampleFiles": [
+        "a16_casino-casino-dumb-scenario.csv",
+        "a16_dumb-scenarios-casino.csv"
+      ]
+    },
+    {
+      "domain": "healthcare",
+      "columns": 18,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv",
+        "a16_dumb-scenarios-political-office.csv"
+      ]
+    },
+    {
+      "domain": "immigration",
+      "columns": 18,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv",
+        "a16_dumb-scenarios-political-office.csv"
+      ]
+    },
+    {
+      "domain": "infamy",
+      "columns": 8,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dealer-drug-run-dumb-scenario.csv",
+        "a16_dumb-scenarios-dealer.csv"
+      ]
+    },
+    {
+      "domain": "match_popularity",
+      "columns": 2,
+      "files": 2,
+      "sampleFiles": [
+        "a16_casino-casino-amenity.csv",
+        "a16_casino-casino-singer-genre.csv"
+      ]
+    },
+    {
+      "domain": "national_security",
+      "columns": 18,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv",
+        "a16_dumb-scenarios-political-office.csv"
+      ]
+    },
+    {
+      "domain": "notoriety",
+      "columns": 8,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-mafia.csv",
+        "a16_vampire-dumb-scenario.csv"
+      ]
+    },
+    {
+      "domain": "skill",
+      "columns": 5,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-hustler.csv",
+        "a16_sports-practice-scenarios.csv"
+      ]
+    },
+    {
+      "domain": "social",
+      "columns": 18,
+      "files": 2,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv",
+        "a16_dumb-scenarios-political-office.csv"
+      ]
+    },
+    {
+      "domain": "vehicle_condition",
+      "columns": 5,
+      "files": 2,
+      "sampleFiles": [
+        "a16_racing-drive-dumb-scenario.csv",
+        "a16_racing-rival-sabotage-string.csv"
+      ]
+    },
+    {
+      "domain": "agree_attitude",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_business-team-requests.csv"
+      ]
+    },
+    {
+      "domain": "agree_satisfaction",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_landlord-maintenance-request-scenario.csv"
+      ]
+    },
+    {
+      "domain": "animal_charisma",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dumb-scenarios-zoo.csv"
+      ]
+    },
+    {
+      "domain": "appeal",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_cult-commune-structure.csv"
+      ]
+    },
+    {
+      "domain": "behavior",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dumb-scenarios-prison.csv"
+      ]
+    },
+    {
+      "domain": "bike_condition",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_outdoor-bike-ride-dumb.csv"
+      ]
+    },
+    {
+      "domain": "campaign",
+      "columns": 9,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dumb-scenarios-political-campaign.csv"
+      ]
+    },
+    {
+      "domain": "charisma",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_cult-commune-dumb-scenarios.csv"
+      ]
+    },
+    {
+      "domain": "choice_1",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_10",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_11",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_12",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_13",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_14",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_15",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_16",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_17",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_18",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_19",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_2",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_20",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_3",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_4",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_5",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_6",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_7",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_8",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "choice_9",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "condition",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_black-market-exhibit-dumb-scenarios.csv"
+      ]
+    },
+    {
+      "domain": "craziness",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dealer-cartel-drug.csv"
+      ]
+    },
+    {
+      "domain": "default_choice",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-interview-questions.csv"
+      ]
+    },
+    {
+      "domain": "demand",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dealer-cut-drug-substance.csv"
+      ]
+    },
+    {
+      "domain": "disagree_attitude",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_business-team-requests.csv"
+      ]
+    },
+    {
+      "domain": "disagree_satisfaction",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_landlord-maintenance-request-scenario.csv"
+      ]
+    },
+    {
+      "domain": "employee_competence",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dumb-scenarios-zoo.csv"
+      ]
+    },
+    {
+      "domain": "failure_cartel_infamy",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dealer-cartel-takeover-method.csv"
+      ]
+    },
+    {
+      "domain": "failure_performance",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-fashion-show-pivotal-moments.csv"
+      ]
+    },
+    {
+      "domain": "failure_respect",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_sports-pivotal-moment-scenarios.csv"
+      ]
+    },
+    {
+      "domain": "fame",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_crashout-scenario.csv"
+      ]
+    },
+    {
+      "domain": "friend",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dumb-scenarios-friend.csv"
+      ]
+    },
+    {
+      "domain": "gambler_happiness",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_casino-casino-amenity.csv"
+      ]
+    },
+    {
+      "domain": "job",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dumb-scenarios-career.csv"
+      ]
+    },
+    {
+      "domain": "max_essence",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_vampire-blood-bath-scenario.csv"
+      ]
+    },
+    {
+      "domain": "max_happiness",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_vampire-blood-bath-scenario.csv"
+      ]
+    },
+    {
+      "domain": "max_looks",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_vampire-blood-bath-scenario.csv"
+      ]
+    },
+    {
+      "domain": "max_relationship",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_vampire-blood-bath-scenario.csv"
+      ]
+    },
+    {
+      "domain": "miss_cartel_infamy",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dealer-cartel-takeover-method.csv"
+      ]
+    },
+    {
+      "domain": "proficiency",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dumb-scenarios-secret-agent.csv"
+      ]
+    },
+    {
+      "domain": "profile",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dumb-scenarios-model.csv"
+      ]
+    },
+    {
+      "domain": "reception",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_music-soundcloud-dumb-scenario.csv"
+      ]
+    },
+    {
+      "domain": "refuse_performance",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-go-see-action-poses.csv"
+      ]
+    },
+    {
+      "domain": "satisfaction",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dumb-scenarios-landlord.csv"
+      ]
+    },
+    {
+      "domain": "street_smarts",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dumb-scenarios-hustler.csv"
+      ]
+    },
+    {
+      "domain": "success_cartel_infamy",
+      "columns": 1,
+      "files": 1,
+      "sampleFiles": [
+        "a16_dealer-cartel-takeover-method.csv"
+      ]
+    },
+    {
+      "domain": "success_performance",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_model-fashion-show-pivotal-moments.csv"
+      ]
+    },
+    {
+      "domain": "success_respect",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_sports-pivotal-moment-scenarios.csv"
+      ]
+    },
+    {
+      "domain": "technical",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_astronaut-dumb-scenarios.csv"
+      ]
+    },
+    {
+      "domain": "traffic",
+      "columns": 4,
+      "files": 1,
+      "sampleFiles": [
+        "a16_black-market-museum-dumb-scenarios.csv"
+      ]
+    }
+  ]
+}

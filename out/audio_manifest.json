@@ -1,0 +1,4182 @@
+[
+ {
+  "path_id": 194,
+  "name": "a16_SFX_UFM_FightRecap_4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.244,
+  "files": [
+   "a16_SFX_UFM_FightRecap_4.wav"
+  ]
+ },
+ {
+  "path_id": 195,
+  "name": "a16_SFX_UFM_PostKnockoutWallSlide_4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.587,
+  "files": [
+   "a16_SFX_UFM_PostKnockoutWallSlide_4.wav"
+  ]
+ },
+ {
+  "path_id": 196,
+  "name": "a16_sndAchieveKingpinRank",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.182,
+  "files": [
+   "a16_sndAchieveKingpinRank.wav"
+  ]
+ },
+ {
+  "path_id": 197,
+  "name": "SFX_VotingThumbs",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.306,
+  "files": [
+   "SFX_VotingThumbs.wav"
+  ]
+ },
+ {
+  "path_id": 198,
+  "name": "a16_sndPetDog",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.655,
+  "files": [
+   "a16_sndPetDog.wav"
+  ]
+ },
+ {
+  "path_id": 199,
+  "name": "a16_sndPetCat",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.82,
+  "files": [
+   "a16_sndPetCat.wav"
+  ]
+ },
+ {
+  "path_id": 200,
+  "name": "SFX_MusicProducer_NewTrack_Collab",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.986,
+  "files": [
+   "SFX_MusicProducer_NewTrack_Collab.wav"
+  ]
+ },
+ {
+  "path_id": 201,
+  "name": "a16_SFX_UFM_BrawlAccept",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.805,
+  "files": [
+   "a16_SFX_UFM_BrawlAccept.wav"
+  ]
+ },
+ {
+  "path_id": 202,
+  "name": "a16_sndZooKoala.aiff",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.708,
+  "files": [
+   "a16_sndZooKoala.aiff.wav"
+  ]
+ },
+ {
+  "path_id": 203,
+  "name": "a16_sndZooRodentPorcupine",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.987,
+  "files": [
+   "a16_sndZooRodentPorcupine.wav"
+  ]
+ },
+ {
+  "path_id": 204,
+  "name": "a16_sndDismissButton",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.092,
+  "files": [
+   "a16_sndDismissButton.wav"
+  ]
+ },
+ {
+  "path_id": 205,
+  "name": "a16_SFX_UFM_Grand_Champion",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.838,
+  "files": [
+   "a16_SFX_UFM_Grand_Champion.wav"
+  ]
+ },
+ {
+  "path_id": 206,
+  "name": "a16_sndOrgan",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.457,
+  "files": [
+   "a16_sndOrgan.wav"
+  ]
+ },
+ {
+  "path_id": 207,
+  "name": "a16_SFX_UFM_PostKnockoutWallSlide_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.496,
+  "files": [
+   "a16_SFX_UFM_PostKnockoutWallSlide_2.wav"
+  ]
+ },
+ {
+  "path_id": 208,
+  "name": "a16_SFX_UFM_TutorialChallenger",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.073,
+  "files": [
+   "a16_SFX_UFM_TutorialChallenger.wav"
+  ]
+ },
+ {
+  "path_id": 209,
+  "name": "a16_SFX_UFM_PainFemale_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.733,
+  "files": [
+   "a16_SFX_UFM_PainFemale_2.wav"
+  ]
+ },
+ {
+  "path_id": 210,
+  "name": "a16_sndZooBreed",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.681,
+  "files": [
+   "a16_sndZooBreed.wav"
+  ]
+ },
+ {
+  "path_id": 211,
+  "name": "a16_sndLuxurySecretSocietyRankChange",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.179,
+  "files": [
+   "a16_sndLuxurySecretSocietyRankChange.wav"
+  ]
+ },
+ {
+  "path_id": 212,
+  "name": "a16_sndCasinoKenoBall1",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.397,
+  "files": [
+   "a16_sndCasinoKenoBall1.wav"
+  ]
+ },
+ {
+  "path_id": 213,
+  "name": "a16_sndScream",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.35,
+  "files": [
+   "a16_sndScream.wav"
+  ]
+ },
+ {
+  "path_id": 214,
+  "name": "a16_sndCasinoFootball",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.304,
+  "files": [
+   "a16_sndCasinoFootball.wav"
+  ]
+ },
+ {
+  "path_id": 215,
+  "name": "a16_sndSaxophone",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.579,
+  "files": [
+   "a16_sndSaxophone.wav"
+  ]
+ },
+ {
+  "path_id": 216,
+  "name": "a16_sndBugle",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.469,
+  "files": [
+   "a16_sndBugle.wav"
+  ]
+ },
+ {
+  "path_id": 217,
+  "name": "a16_sndLuxuryPurchaseAsset",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.823,
+  "files": [
+   "a16_sndLuxuryPurchaseAsset.wav"
+  ]
+ },
+ {
+  "path_id": 218,
+  "name": "a16_SFX_UFM_LeagueMatchChampionshipWin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 6.31,
+  "files": [
+   "a16_SFX_UFM_LeagueMatchChampionshipWin.wav"
+  ]
+ },
+ {
+  "path_id": 219,
+  "name": "a16_sndZooBigCatLynx",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.005,
+  "files": [
+   "a16_sndZooBigCatLynx.wav"
+  ]
+ },
+ {
+  "path_id": 220,
+  "name": "a16_sndZooPrimateYeti",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.439,
+  "files": [
+   "a16_sndZooPrimateYeti.wav"
+  ]
+ },
+ {
+  "path_id": 221,
+  "name": "a16_SFX_UFM_StreetMatchLoss",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 6.08,
+  "files": [
+   "a16_SFX_UFM_StreetMatchLoss.wav"
+  ]
+ },
+ {
+  "path_id": 222,
+  "name": "a16_sndCurse",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.396,
+  "files": [
+   "a16_sndCurse.wav"
+  ]
+ },
+ {
+  "path_id": 223,
+  "name": "a16_sndAstroFrequencyScan",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.044,
+  "files": [
+   "a16_sndAstroFrequencyScan.wav"
+  ]
+ },
+ {
+  "path_id": 224,
+  "name": "a16_sndSuccessfulMutiny",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.454,
+  "files": [
+   "a16_sndSuccessfulMutiny.wav"
+  ]
+ },
+ {
+  "path_id": 225,
+  "name": "a16_SFX_UFM_HitDouble",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.755,
+  "files": [
+   "a16_SFX_UFM_HitDouble.wav"
+  ]
+ },
+ {
+  "path_id": 226,
+  "name": "a16_SFX_UFM_Damage",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.698,
+  "files": [
+   "a16_SFX_UFM_Damage.wav"
+  ]
+ },
+ {
+  "path_id": 227,
+  "name": "a16_sndZooSnake",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 1.505,
+  "files": [
+   "a16_sndZooSnake.wav"
+  ]
+ },
+ {
+  "path_id": 228,
+  "name": "a16_sndRecorder",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.151,
+  "files": [
+   "a16_sndRecorder.wav"
+  ]
+ },
+ {
+  "path_id": 229,
+  "name": "a16_SFX_UFM_Knockout_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.77,
+  "files": [
+   "a16_SFX_UFM_Knockout_3.wav"
+  ]
+ },
+ {
+  "path_id": 230,
+  "name": "a16_sndRacingCircuitStreetFirst",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.478,
+  "files": [
+   "a16_sndRacingCircuitStreetFirst.wav"
+  ]
+ },
+ {
+  "path_id": 231,
+  "name": "a16_sndHalloweenScavengerItemFound",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.153,
+  "files": [
+   "a16_sndHalloweenScavengerItemFound.wav"
+  ]
+ },
+ {
+  "path_id": 232,
+  "name": "a16_sndRacingCircuitStreetSecond",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.802,
+  "files": [
+   "a16_sndRacingCircuitStreetSecond.wav"
+  ]
+ },
+ {
+  "path_id": 233,
+  "name": "a16_sndThanksgivingItem",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.154,
+  "files": [
+   "a16_sndThanksgivingItem.wav"
+  ]
+ },
+ {
+  "path_id": 234,
+  "name": "a16_sndRacingCircuitStreetIncomplete",
+  "channels": 1,
+  "frequency": 44100,
+  "length_s": 1.985,
+  "files": [
+   "a16_sndRacingCircuitStreetIncomplete.wav"
+  ]
+ },
+ {
+  "path_id": 235,
+  "name": "a16_sndZooBigCatCheetah",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.005,
+  "files": [
+   "a16_sndZooBigCatCheetah.wav"
+  ]
+ },
+ {
+  "path_id": 236,
+  "name": "a16_SFX_UFM_DefendTitle",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.845,
+  "files": [
+   "a16_SFX_UFM_DefendTitle.wav"
+  ]
+ },
+ {
+  "path_id": 237,
+  "name": "a16_sndZooBirdOstritch",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.859,
+  "files": [
+   "a16_sndZooBirdOstritch.wav"
+  ]
+ },
+ {
+  "path_id": 238,
+  "name": "a16_sndCasinoCollision2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.457,
+  "files": [
+   "a16_sndCasinoCollision2.wav"
+  ]
+ },
+ {
+  "path_id": 239,
+  "name": "a16_sndScenarioAppears",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.532,
+  "files": [
+   "a16_sndScenarioAppears.wav"
+  ]
+ },
+ {
+  "path_id": 240,
+  "name": "a16_sndRiot",
+  "channels": 1,
+  "frequency": 44100,
+  "length_s": 2.742,
+  "files": [
+   "a16_sndRiot.wav"
+  ]
+ },
+ {
+  "path_id": 241,
+  "name": "a16_SFX_UFM_LostTitle",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.599,
+  "files": [
+   "a16_SFX_UFM_LostTitle.wav"
+  ]
+ },
+ {
+  "path_id": 242,
+  "name": "a16_SFX_UFM_ChooseFightingStyle",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.031,
+  "files": [
+   "a16_SFX_UFM_ChooseFightingStyle.wav"
+  ]
+ },
+ {
+  "path_id": 243,
+  "name": "a16_SFX_UFM_Hit_4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.471,
+  "files": [
+   "a16_SFX_UFM_Hit_4.wav"
+  ]
+ },
+ {
+  "path_id": 244,
+  "name": "a16_sndStopMan",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.57,
+  "files": [
+   "a16_sndStopMan.wav"
+  ]
+ },
+ {
+  "path_id": 245,
+  "name": "Interact",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.041,
+  "files": [
+   "Interact.wav"
+  ]
+ },
+ {
+  "path_id": 246,
+  "name": "a16_SFX_UFM_Damage_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.617,
+  "files": [
+   "a16_SFX_UFM_Damage_3.wav"
+  ]
+ },
+ {
+  "path_id": 247,
+  "name": "a16_sndPetBigCat",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.634,
+  "files": [
+   "a16_sndPetBigCat.wav"
+  ]
+ },
+ {
+  "path_id": 248,
+  "name": "a16_sndCasinoKenoBall3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.289,
+  "files": [
+   "a16_sndCasinoKenoBall3.wav"
+  ]
+ },
+ {
+  "path_id": 249,
+  "name": "a16_sndZodiac2024",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.874,
+  "files": [
+   "a16_sndZodiac2024.wav"
+  ]
+ },
+ {
+  "path_id": 250,
+  "name": "a16_sndCasinoBasketball",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.127,
+  "files": [
+   "a16_sndCasinoBasketball.wav"
+  ]
+ },
+ {
+  "path_id": 251,
+  "name": "a16_sndRacingBreakdown4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.098,
+  "files": [
+   "a16_sndRacingBreakdown4.wav"
+  ]
+ },
+ {
+  "path_id": 252,
+  "name": "a16_sndNumberlinkGameLineCompleted",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.243,
+  "files": [
+   "a16_sndNumberlinkGameLineCompleted.wav"
+  ]
+ },
+ {
+  "path_id": 253,
+  "name": "SFX_MusicProducer_Club Takeover",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.825,
+  "files": [
+   "SFX_MusicProducer_Club Takeover.wav"
+  ]
+ },
+ {
+  "path_id": 254,
+  "name": "a16_sndTrain",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.981,
+  "files": [
+   "a16_sndTrain.wav"
+  ]
+ },
+ {
+  "path_id": 255,
+  "name": "a16_sndCeremony",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.018,
+  "files": [
+   "a16_sndCeremony.wav"
+  ]
+ },
+ {
+  "path_id": 256,
+  "name": "a16_sndZooReptileAlligator",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.404,
+  "files": [
+   "a16_sndZooReptileAlligator.wav"
+  ]
+ },
+ {
+  "path_id": 257,
+  "name": "a16_sndZooPrimateAye-Aye",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.304,
+  "files": [
+   "a16_sndZooPrimateAye-Aye.wav"
+  ]
+ },
+ {
+  "path_id": 258,
+  "name": "a16_sndZooBirdPeregrineFalcon",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.711,
+  "files": [
+   "a16_sndZooBirdPeregrineFalcon.wav"
+  ]
+ },
+ {
+  "path_id": 259,
+  "name": "a16_sndFirewallBreachFailure",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.726,
+  "files": [
+   "a16_sndFirewallBreachFailure.wav"
+  ]
+ },
+ {
+  "path_id": 260,
+  "name": "a16_sndClosingBell",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.392,
+  "files": [
+   "a16_sndClosingBell.wav"
+  ]
+ },
+ {
+  "path_id": 261,
+  "name": "a16_sndEvictTenant",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.376,
+  "files": [
+   "a16_sndEvictTenant.wav"
+  ]
+ },
+ {
+  "path_id": 262,
+  "name": "a16_sndAlienVoice_6",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.819,
+  "files": [
+   "a16_sndAlienVoice_6.wav"
+  ]
+ },
+ {
+  "path_id": 263,
+  "name": "a16_sndParanormal",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.036,
+  "files": [
+   "a16_sndParanormal.wav"
+  ]
+ },
+ {
+  "path_id": 264,
+  "name": "a16_SFX_UFM_Dodge_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.472,
+  "files": [
+   "a16_SFX_UFM_Dodge_2.wav"
+  ]
+ },
+ {
+  "path_id": 265,
+  "name": "a16_sndCasinoCardSwap",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.181,
+  "files": [
+   "a16_sndCasinoCardSwap.wav"
+  ]
+ },
+ {
+  "path_id": 266,
+  "name": "a16_sndBookPageFlip",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.096,
+  "files": [
+   "a16_sndBookPageFlip.wav"
+  ]
+ },
+ {
+  "path_id": 267,
+  "name": "a16_SFX_SH_Premier League_Item Found",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.388,
+  "files": [
+   "a16_SFX_SH_Premier League_Item Found.wav"
+  ]
+ },
+ {
+  "path_id": 268,
+  "name": "a16_sndCasinoDiceRoll",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.003,
+  "files": [
+   "a16_sndCasinoDiceRoll.wav"
+  ]
+ },
+ {
+  "path_id": 269,
+  "name": "a16_sndZooPurchaseZoo",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.539,
+  "files": [
+   "a16_sndZooPurchaseZoo.wav"
+  ]
+ },
+ {
+  "path_id": 270,
+  "name": "a16_sndNumberlinkGameLineStarted",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.049,
+  "files": [
+   "a16_sndNumberlinkGameLineStarted.wav"
+  ]
+ },
+ {
+  "path_id": 271,
+  "name": "a16_sndBaby",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 2.151,
+  "files": [
+   "a16_sndBaby.wav"
+  ]
+ },
+ {
+  "path_id": 272,
+  "name": "a16_sndGunshot",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.923,
+  "files": [
+   "a16_sndGunshot.wav"
+  ]
+ },
+ {
+  "path_id": 273,
+  "name": "a16_sndZooGiraffe",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.058,
+  "files": [
+   "a16_sndZooGiraffe.wav"
+  ]
+ },
+ {
+  "path_id": 274,
+  "name": "a16_SFX_UFM_Damage_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.523,
+  "files": [
+   "a16_SFX_UFM_Damage_2.wav"
+  ]
+ },
+ {
+  "path_id": 275,
+  "name": "a16_sndSecretAgentHoneypotSuccess",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.906,
+  "files": [
+   "a16_sndSecretAgentHoneypotSuccess.wav"
+  ]
+ },
+ {
+  "path_id": 276,
+  "name": "Popup Close",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.157,
+  "files": [
+   "Popup Close.wav"
+  ]
+ },
+ {
+  "path_id": 277,
+  "name": "a16_sndBark",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.016,
+  "files": [
+   "a16_sndBark.wav"
+  ]
+ },
+ {
+  "path_id": 278,
+  "name": "a16_sndSimonCorrect",
+  "channels": 2,
+  "frequency": 22050,
+  "length_s": 1.148,
+  "files": [
+   "a16_sndSimonCorrect.wav"
+  ]
+ },
+ {
+  "path_id": 279,
+  "name": "a16sfx_Spelunking_Found Treasure",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.143,
+  "files": [
+   "a16sfx_Spelunking_Found Treasure.wav"
+  ]
+ },
+ {
+  "path_id": 280,
+  "name": "a16_sndCasinoTeamPush",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.007,
+  "files": [
+   "a16_sndCasinoTeamPush.wav"
+  ]
+ },
+ {
+  "path_id": 281,
+  "name": "a16_sndChallengeCompleted",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.619,
+  "files": [
+   "a16_sndChallengeCompleted.wav"
+  ]
+ },
+ {
+  "path_id": 282,
+  "name": "a16_sndZooPrimateGorilla",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.478,
+  "files": [
+   "a16_sndZooPrimateGorilla.wav"
+  ]
+ },
+ {
+  "path_id": 283,
+  "name": "a16_sndZooZebra",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.804,
+  "files": [
+   "a16_sndZooZebra.wav"
+  ]
+ },
+ {
+  "path_id": 284,
+  "name": "a16_SFX_UFM_Dodge",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.249,
+  "files": [
+   "a16_SFX_UFM_Dodge.wav"
+  ]
+ },
+ {
+  "path_id": 285,
+  "name": "a16_sndModelAudition",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.106,
+  "files": [
+   "a16_sndModelAudition.wav"
+  ]
+ },
+ {
+  "path_id": 286,
+  "name": "a16_sndShuttleMiniGameUFO",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.658,
+  "files": [
+   "a16_sndShuttleMiniGameUFO.wav"
+  ]
+ },
+ {
+  "path_id": 287,
+  "name": "a16_sndZooPrimateOrangutan",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.242,
+  "files": [
+   "a16_sndZooPrimateOrangutan.wav"
+  ]
+ },
+ {
+  "path_id": 288,
+  "name": "a16_sndRacingBreakdown2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.319,
+  "files": [
+   "a16_sndRacingBreakdown2.wav"
+  ]
+ },
+ {
+  "path_id": 289,
+  "name": "SFX_ValentineSharing_Kiss",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.799,
+  "files": [
+   "SFX_ValentineSharing_Kiss.wav"
+  ]
+ },
+ {
+  "path_id": 290,
+  "name": "a16_sndRacingDemolitionWin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.477,
+  "files": [
+   "a16_sndRacingDemolitionWin.wav"
+  ]
+ },
+ {
+  "path_id": 291,
+  "name": "a16_SFX_UFM_BlockedHit_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.366,
+  "files": [
+   "a16_SFX_UFM_BlockedHit_3.wav"
+  ]
+ },
+ {
+  "path_id": 292,
+  "name": "a16_sndZooBirdCassowary",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.859,
+  "files": [
+   "a16_sndZooBirdCassowary.wav"
+  ]
+ },
+ {
+  "path_id": 293,
+  "name": "a16sfx_Animal Plant Encounter",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.077,
+  "files": [
+   "a16sfx_Animal Plant Encounter.wav"
+  ]
+ },
+ {
+  "path_id": 294,
+  "name": "a16_sndModelHeadshot",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.647,
+  "files": [
+   "a16_sndModelHeadshot.wav"
+  ]
+ },
+ {
+  "path_id": 295,
+  "name": "a16_sndCasinoKenoBall2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.22,
+  "files": [
+   "a16_sndCasinoKenoBall2.wav"
+  ]
+ },
+ {
+  "path_id": 296,
+  "name": "a16_SFX_UFM_PainFemale_4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.447,
+  "files": [
+   "a16_SFX_UFM_PainFemale_4.wav"
+  ]
+ },
+ {
+  "path_id": 297,
+  "name": "a16_sndRoyalTrumpet",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.93,
+  "files": [
+   "a16_sndRoyalTrumpet.wav"
+  ]
+ },
+ {
+  "path_id": 298,
+  "name": "a16_sndNumberlinkGameLineBroken",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.446,
+  "files": [
+   "a16_sndNumberlinkGameLineBroken.wav"
+  ]
+ },
+ {
+  "path_id": 299,
+  "name": "a16sfx_Hiking_Hallucination",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.535,
+  "files": [
+   "a16sfx_Hiking_Hallucination.wav"
+  ]
+ },
+ {
+  "path_id": 300,
+  "name": "a16_sndAddedNewDrug",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.144,
+  "files": [
+   "a16_sndAddedNewDrug.wav"
+  ]
+ },
+ {
+  "path_id": 301,
+  "name": "a16_SFX_UFM_PlaceFightBet",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.605,
+  "files": [
+   "a16_SFX_UFM_PlaceFightBet.wav"
+  ]
+ },
+ {
+  "path_id": 302,
+  "name": "a16_sndZooBirdElfOwl",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.716,
+  "files": [
+   "a16_sndZooBirdElfOwl.wav"
+  ]
+ },
+ {
+  "path_id": 303,
+  "name": "a16_sndComputerAccessSuccess",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.269,
+  "files": [
+   "a16_sndComputerAccessSuccess.wav"
+  ]
+ },
+ {
+  "path_id": 304,
+  "name": "a16_sndSecretAgentAssassinationSuccess",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.777,
+  "files": [
+   "a16_sndSecretAgentAssassinationSuccess.wav"
+  ]
+ },
+ {
+  "path_id": 305,
+  "name": "a16_SFX_UFM_BlockedHit_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.432,
+  "files": [
+   "a16_SFX_UFM_BlockedHit_2.wav"
+  ]
+ },
+ {
+  "path_id": 306,
+  "name": "a16_SFX_UFM_PainFemale_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.82,
+  "files": [
+   "a16_SFX_UFM_PainFemale_3.wav"
+  ]
+ },
+ {
+  "path_id": 307,
+  "name": "a16_sndLuxuryIslandVacation",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.35,
+  "files": [
+   "a16_sndLuxuryIslandVacation.wav"
+  ]
+ },
+ {
+  "path_id": 308,
+  "name": "a16_sndZooPangolin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.558,
+  "files": [
+   "a16_sndZooPangolin.wav"
+  ]
+ },
+ {
+  "path_id": 309,
+  "name": "a16_sndRacingCupBronze",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.456,
+  "files": [
+   "a16_sndRacingCupBronze.wav"
+  ]
+ },
+ {
+  "path_id": 310,
+  "name": "Vampire Hunter_Edited",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.592,
+  "files": [
+   "Vampire Hunter_Edited.wav"
+  ]
+ },
+ {
+  "path_id": 311,
+  "name": "a16_SFX_UFM_BrawlMenu",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.395,
+  "files": [
+   "a16_SFX_UFM_BrawlMenu.wav"
+  ]
+ },
+ {
+  "path_id": 312,
+  "name": "a16_sndCops",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.271,
+  "files": [
+   "a16_sndCops.wav"
+  ]
+ },
+ {
+  "path_id": 313,
+  "name": "a16_sndCasinoBuild",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.726,
+  "files": [
+   "a16_sndCasinoBuild.wav"
+  ]
+ },
+ {
+  "path_id": 314,
+  "name": "Hunt_Edited",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.939,
+  "files": [
+   "Hunt_Edited.wav"
+  ]
+ },
+ {
+  "path_id": 315,
+  "name": "a16_SFX_UFM_League_MiniGame_End",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.245,
+  "files": [
+   "a16_SFX_UFM_League_MiniGame_End.wav"
+  ]
+ },
+ {
+  "path_id": 316,
+  "name": "a16_sndHalloweenScavengerComplete",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.16,
+  "files": [
+   "a16_sndHalloweenScavengerComplete.wav"
+  ]
+ },
+ {
+  "path_id": 317,
+  "name": "a16_sndRacingExpandGarage",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.463,
+  "files": [
+   "a16_sndRacingExpandGarage.wav"
+  ]
+ },
+ {
+  "path_id": 318,
+  "name": "a16_sndAccordion",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.597,
+  "files": [
+   "a16_sndAccordion.wav"
+  ]
+ },
+ {
+  "path_id": 319,
+  "name": "a16_sndBulldoze",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.5,
+  "files": [
+   "a16_sndBulldoze.wav"
+  ]
+ },
+ {
+  "path_id": 320,
+  "name": "a16_sndZooBirdHarpyEagle",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.711,
+  "files": [
+   "a16_sndZooBirdHarpyEagle.wav"
+  ]
+ },
+ {
+  "path_id": 321,
+  "name": "a16_sndZooPlatypus",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.149,
+  "files": [
+   "a16_sndZooPlatypus.wav"
+  ]
+ },
+ {
+  "path_id": 322,
+  "name": "a16_SFX_UFM_Damage_5",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.634,
+  "files": [
+   "a16_SFX_UFM_Damage_5.wav"
+  ]
+ },
+ {
+  "path_id": 323,
+  "name": "SFX_MusicProducer_ScoreProduction",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.294,
+  "files": [
+   "SFX_MusicProducer_ScoreProduction.wav"
+  ]
+ },
+ {
+  "path_id": 324,
+  "name": "a16_sndFlute",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.668,
+  "files": [
+   "a16_sndFlute.wav"
+  ]
+ },
+ {
+  "path_id": 325,
+  "name": "a16_sndZooBirdPhoenix",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.875,
+  "files": [
+   "a16_sndZooBirdPhoenix.wav"
+  ]
+ },
+ {
+  "path_id": 326,
+  "name": "a16_SFX_UFM_Brawl_MiniGame_Loss",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.71,
+  "files": [
+   "a16_SFX_UFM_Brawl_MiniGame_Loss.wav"
+  ]
+ },
+ {
+  "path_id": 327,
+  "name": "a16_sndBugleCharge",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.598,
+  "files": [
+   "a16_sndBugleCharge.wav"
+  ]
+ },
+ {
+  "path_id": 328,
+  "name": "a16sfx_Snorkeling_Start",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.707,
+  "files": [
+   "a16sfx_Snorkeling_Start.wav"
+  ]
+ },
+ {
+  "path_id": 329,
+  "name": "a16_sndKazoo",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.875,
+  "files": [
+   "a16_sndKazoo.wav"
+  ]
+ },
+ {
+  "path_id": 330,
+  "name": "a16_sndCasinoSoccer",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.308,
+  "files": [
+   "a16_sndCasinoSoccer.wav"
+  ]
+ },
+ {
+  "path_id": 331,
+  "name": "a16_sndCasinoCardFlipFast",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.096,
+  "files": [
+   "a16_sndCasinoCardFlipFast.wav"
+  ]
+ },
+ {
+  "path_id": 332,
+  "name": "a16_sndZooElephantAfricanElephant",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.146,
+  "files": [
+   "a16_sndZooElephantAfricanElephant.wav"
+  ]
+ },
+ {
+  "path_id": 333,
+  "name": "a16_sndZooElephantWoollyMammoth",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.409,
+  "files": [
+   "a16_sndZooElephantWoollyMammoth.wav"
+  ]
+ },
+ {
+  "path_id": 334,
+  "name": "a16_sndZooSloth",
+  "channels": 1,
+  "frequency": 44100,
+  "length_s": 1.024,
+  "files": [
+   "a16_sndZooSloth.wav"
+  ]
+ },
+ {
+  "path_id": 335,
+  "name": "a16_sndLuxurySecretSocietyGathering",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.008,
+  "files": [
+   "a16_sndLuxurySecretSocietyGathering.wav"
+  ]
+ },
+ {
+  "path_id": 336,
+  "name": "a16_sndPetSnake",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 1.505,
+  "files": [
+   "a16_sndPetSnake.wav"
+  ]
+ },
+ {
+  "path_id": 337,
+  "name": "a16_sndCasinoBaseball",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.784,
+  "files": [
+   "a16_sndCasinoBaseball.wav"
+  ]
+ },
+ {
+  "path_id": 338,
+  "name": "a16_sndChestOpen",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.536,
+  "files": [
+   "a16_sndChestOpen.wav"
+  ]
+ },
+ {
+  "path_id": 339,
+  "name": "a16_sndShuttleMiniGameThrust",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.468,
+  "files": [
+   "a16_sndShuttleMiniGameThrust.wav"
+  ]
+ },
+ {
+  "path_id": 340,
+  "name": "a16_sndRacingCupGold",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.294,
+  "files": [
+   "a16_sndRacingCupGold.wav"
+  ]
+ },
+ {
+  "path_id": 341,
+  "name": "a16_sndPetHorse",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 1.734,
+  "files": [
+   "a16_sndPetHorse.wav"
+  ]
+ },
+ {
+  "path_id": 342,
+  "name": "a16_sndViolin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.257,
+  "files": [
+   "a16_sndViolin.wav"
+  ]
+ },
+ {
+  "path_id": 343,
+  "name": "a16_sndZooBirdPenguin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.691,
+  "files": [
+   "a16_sndZooBirdPenguin.wav"
+  ]
+ },
+ {
+  "path_id": 344,
+  "name": "a16_sndCultCreation",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.142,
+  "files": [
+   "a16_sndCultCreation.wav"
+  ]
+ },
+ {
+  "path_id": 345,
+  "name": "a16_sndSuccessfulSupplyRun",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.259,
+  "files": [
+   "a16_sndSuccessfulSupplyRun.wav"
+  ]
+ },
+ {
+  "path_id": 346,
+  "name": "a16_SFX_UFM_FightRecap_5",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.685,
+  "files": [
+   "a16_SFX_UFM_FightRecap_5.wav"
+  ]
+ },
+ {
+  "path_id": 347,
+  "name": "a16_sndCasinoCardFlip",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.096,
+  "files": [
+   "a16_sndCasinoCardFlip.wav"
+  ]
+ },
+ {
+  "path_id": 348,
+  "name": "a16_sndZooPrimateLemur",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.304,
+  "files": [
+   "a16_sndZooPrimateLemur.wav"
+  ]
+ },
+ {
+  "path_id": 349,
+  "name": "a16_sndZooReptile",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.558,
+  "files": [
+   "a16_sndZooReptile.wav"
+  ]
+ },
+ {
+  "path_id": 350,
+  "name": "a16_sndShareButton",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.332,
+  "files": [
+   "a16_sndShareButton.wav"
+  ]
+ },
+ {
+  "path_id": 351,
+  "name": "a16_sndLuxuryCharityDonation",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.533,
+  "files": [
+   "a16_sndLuxuryCharityDonation.wav"
+  ]
+ },
+ {
+  "path_id": 352,
+  "name": "a16_sndLuxuryIslandPurchase",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.873,
+  "files": [
+   "a16_sndLuxuryIslandPurchase.wav"
+  ]
+ },
+ {
+  "path_id": 353,
+  "name": "a16_sndRacingCupSilver",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.046,
+  "files": [
+   "a16_sndRacingCupSilver.wav"
+  ]
+ },
+ {
+  "path_id": 354,
+  "name": "a16_sndHookupFemale",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 1.99,
+  "files": [
+   "a16_sndHookupFemale.wav"
+  ]
+ },
+ {
+  "path_id": 355,
+  "name": "a16_sndCasinoTournamentWin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.139,
+  "files": [
+   "a16_sndCasinoTournamentWin.wav"
+  ]
+ },
+ {
+  "path_id": 356,
+  "name": "a16_sndCurateImageTattoo",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.928,
+  "files": [
+   "a16_sndCurateImageTattoo.wav"
+  ]
+ },
+ {
+  "path_id": 357,
+  "name": "a16_SFX_UFM_PostKnockoutWallSlide_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.587,
+  "files": [
+   "a16_SFX_UFM_PostKnockoutWallSlide_3.wav"
+  ]
+ },
+ {
+  "path_id": 358,
+  "name": "a16_sndChoiceButton",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.092,
+  "files": [
+   "a16_sndChoiceButton.wav"
+  ]
+ },
+ {
+  "path_id": 359,
+  "name": "a16_sndAlienVoice_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.507,
+  "files": [
+   "a16_sndAlienVoice_3.wav"
+  ]
+ },
+ {
+  "path_id": 360,
+  "name": "a16_sndSimonButton3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.501,
+  "files": [
+   "a16_sndSimonButton3.wav"
+  ]
+ },
+ {
+  "path_id": 361,
+  "name": "a16_sndDamageMale",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 1.185,
+  "files": [
+   "a16_sndDamageMale.wav"
+  ]
+ },
+ {
+  "path_id": 362,
+  "name": "SFX_MusicProducer_NewArtist",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.506,
+  "files": [
+   "SFX_MusicProducer_NewArtist.wav"
+  ]
+ },
+ {
+  "path_id": 363,
+  "name": "a16_SFX_UFM_PostKnockoutWallImpact_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.372,
+  "files": [
+   "a16_SFX_UFM_PostKnockoutWallImpact_2.wav"
+  ]
+ },
+ {
+  "path_id": 364,
+  "name": "a16_sndDropDownMenu",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.412,
+  "files": [
+   "a16_sndDropDownMenu.wav"
+  ]
+ },
+ {
+  "path_id": 365,
+  "name": "a16_sndRentOut",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.196,
+  "files": [
+   "a16_sndRentOut.wav"
+  ]
+ },
+ {
+  "path_id": 366,
+  "name": "a16_sndHyperlinkButton",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.332,
+  "files": [
+   "a16_sndHyperlinkButton.wav"
+  ]
+ },
+ {
+  "path_id": 367,
+  "name": "a16_sndRacingCountdownGo",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.399,
+  "files": [
+   "a16_sndRacingCountdownGo.wav"
+  ]
+ },
+ {
+  "path_id": 368,
+  "name": "a16_sndDamageFemale",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.865,
+  "files": [
+   "a16_sndDamageFemale.wav"
+  ]
+ },
+ {
+  "path_id": 369,
+  "name": "a16_sndLuxuryIslandConstruction",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.123,
+  "files": [
+   "a16_sndLuxuryIslandConstruction.wav"
+  ]
+ },
+ {
+  "path_id": 370,
+  "name": "a16_sndRacingStoreCar",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.308,
+  "files": [
+   "a16_sndRacingStoreCar.wav"
+  ]
+ },
+ {
+  "path_id": 371,
+  "name": "a16_SFX_UFM_FightRecap_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.916,
+  "files": [
+   "a16_SFX_UFM_FightRecap_3.wav"
+  ]
+ },
+ {
+  "path_id": 372,
+  "name": "a16_sndBoost",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.418,
+  "files": [
+   "a16_sndBoost.wav"
+  ]
+ },
+ {
+  "path_id": 373,
+  "name": "a16_sndFirewallBreachSuccess",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.47,
+  "files": [
+   "a16_sndFirewallBreachSuccess.wav"
+  ]
+ },
+ {
+  "path_id": 374,
+  "name": "a16_sndSimonButton1",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.498,
+  "files": [
+   "a16_sndSimonButton1.wav"
+  ]
+ },
+ {
+  "path_id": 375,
+  "name": "a16_SFX_UFM_BlockedHit_5",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.44,
+  "files": [
+   "a16_SFX_UFM_BlockedHit_5.wav"
+  ]
+ },
+ {
+  "path_id": 376,
+  "name": "a16_SFX_SH_Premier League_Completion",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.507,
+  "files": [
+   "a16_SFX_SH_Premier League_Completion.wav"
+  ]
+ },
+ {
+  "path_id": 377,
+  "name": "a16_sndPortfolio",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.688,
+  "files": [
+   "a16_sndPortfolio.wav"
+  ]
+ },
+ {
+  "path_id": 378,
+  "name": "a16SFX_Vampire Conversion_Death",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 4.779,
+  "files": [
+   "a16SFX_Vampire Conversion_Death.wav"
+  ]
+ },
+ {
+  "path_id": 379,
+  "name": "a16_sndZooBirdSnowyOwl",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.716,
+  "files": [
+   "a16_sndZooBirdSnowyOwl.wav"
+  ]
+ },
+ {
+  "path_id": 380,
+  "name": "a16_sndCasinoCollision3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.515,
+  "files": [
+   "a16_sndCasinoCollision3.wav"
+  ]
+ },
+ {
+  "path_id": 381,
+  "name": "a16_SFX_UFM_StartSpecialLife",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.726,
+  "files": [
+   "a16_SFX_UFM_StartSpecialLife.wav"
+  ]
+ },
+ {
+  "path_id": 382,
+  "name": "a16_sndFootstep2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.26,
+  "files": [
+   "a16_sndFootstep2.wav"
+  ]
+ },
+ {
+  "path_id": 383,
+  "name": "Vampire Property_Edited",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.719,
+  "files": [
+   "Vampire Property_Edited.wav"
+  ]
+ },
+ {
+  "path_id": 384,
+  "name": "a16_sndRacingSpinOut",
+  "channels": 1,
+  "frequency": 48000,
+  "length_s": 2.352,
+  "files": [
+   "a16_sndRacingSpinOut.wav"
+  ]
+ },
+ {
+  "path_id": 385,
+  "name": "a16_sndChaChing",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 4.349,
+  "files": [
+   "a16_sndChaChing.wav"
+  ]
+ },
+ {
+  "path_id": 386,
+  "name": "a16_sndDeath",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 6.569,
+  "files": [
+   "a16_sndDeath.wav"
+  ]
+ },
+ {
+  "path_id": 387,
+  "name": "a16_sndCasinoArtistHire",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.161,
+  "files": [
+   "a16_sndCasinoArtistHire.wav"
+  ]
+ },
+ {
+  "path_id": 388,
+  "name": "a16_sndUnder-agedSuccessfulDeal",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.602,
+  "files": [
+   "a16_sndUnder-agedSuccessfulDeal.wav"
+  ]
+ },
+ {
+  "path_id": 389,
+  "name": "a16_sndZooBear",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.997,
+  "files": [
+   "a16_sndZooBear.wav"
+  ]
+ },
+ {
+  "path_id": 390,
+  "name": "a16_sndSimonIncorrect",
+  "channels": 2,
+  "frequency": 22050,
+  "length_s": 0.3,
+  "files": [
+   "a16_sndSimonIncorrect.wav"
+  ]
+ },
+ {
+  "path_id": 391,
+  "name": "a16_sndAlienVoice_1",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.034,
+  "files": [
+   "a16_sndAlienVoice_1.wav"
+  ]
+ },
+ {
+  "path_id": 392,
+  "name": "a16_SFX_UFM_PainMale_4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.25,
+  "files": [
+   "a16_SFX_UFM_PainMale_4.wav"
+  ]
+ },
+ {
+  "path_id": 393,
+  "name": "a16_sndGuitarElectric",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.173,
+  "files": [
+   "a16_sndGuitarElectric.wav"
+  ]
+ },
+ {
+  "path_id": 394,
+  "name": "SFX_MusicProducer_MIDIInstrument",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.245,
+  "files": [
+   "SFX_MusicProducer_MIDIInstrument.wav"
+  ]
+ },
+ {
+  "path_id": 395,
+  "name": "a16_sndZooBigCatCaracal",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.005,
+  "files": [
+   "a16_sndZooBigCatCaracal.wav"
+  ]
+ },
+ {
+  "path_id": 396,
+  "name": "a16_ValentinesSH_Reward",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.017,
+  "files": [
+   "a16_ValentinesSH_Reward.wav"
+  ]
+ },
+ {
+  "path_id": 397,
+  "name": "a16_sndTotem",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.842,
+  "files": [
+   "a16_sndTotem.wav"
+  ]
+ },
+ {
+  "path_id": 398,
+  "name": "a16_sndCasinoUpgrade",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.72,
+  "files": [
+   "a16_sndCasinoUpgrade.wav"
+  ]
+ },
+ {
+  "path_id": 399,
+  "name": "a16_sndSecretAgentMissionLog",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.942,
+  "files": [
+   "a16_sndSecretAgentMissionLog.wav"
+  ]
+ },
+ {
+  "path_id": 400,
+  "name": "a16_sndCasinoKenoBall6",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.185,
+  "files": [
+   "a16_sndCasinoKenoBall6.wav"
+  ]
+ },
+ {
+  "path_id": 401,
+  "name": "a16_SFX_UFM_PressConference",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.774,
+  "files": [
+   "a16_SFX_UFM_PressConference.wav"
+  ]
+ },
+ {
+  "path_id": 402,
+  "name": "a16_sndCasinoKenoBall4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.262,
+  "files": [
+   "a16_sndCasinoKenoBall4.wav"
+  ]
+ },
+ {
+  "path_id": 403,
+  "name": "a16_sndZooBirdEmu",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.859,
+  "files": [
+   "a16_sndZooBirdEmu.wav"
+  ]
+ },
+ {
+  "path_id": 404,
+  "name": "a16_sndRacingCountdownNumber",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.597,
+  "files": [
+   "a16_sndRacingCountdownNumber.wav"
+  ]
+ },
+ {
+  "path_id": 405,
+  "name": "a16_sndToolbarButton",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.092,
+  "files": [
+   "a16_sndToolbarButton.wav"
+  ]
+ },
+ {
+  "path_id": 406,
+  "name": "a16_sndZooReptileDragon",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.993,
+  "files": [
+   "a16_sndZooReptileDragon.wav"
+  ]
+ },
+ {
+  "path_id": 407,
+  "name": "a16_sndBanjo",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.928,
+  "files": [
+   "a16_sndBanjo.wav"
+  ]
+ },
+ {
+  "path_id": 408,
+  "name": "a16_sndZooReptileCrocodile",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.404,
+  "files": [
+   "a16_sndZooReptileCrocodile.wav"
+  ]
+ },
+ {
+  "path_id": 409,
+  "name": "a16_sndCasinoWin3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.595,
+  "files": [
+   "a16_sndCasinoWin3.wav"
+  ]
+ },
+ {
+  "path_id": 410,
+  "name": "a16_sndZooExpandZoo",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.241,
+  "files": [
+   "a16_sndZooExpandZoo.wav"
+  ]
+ },
+ {
+  "path_id": 411,
+  "name": "a16_SFX_UFM_Dodge_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.27,
+  "files": [
+   "a16_SFX_UFM_Dodge_3.wav"
+  ]
+ },
+ {
+  "path_id": 412,
+  "name": "a16_sndZooMeerkat",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.708,
+  "files": [
+   "a16_sndZooMeerkat.wav"
+  ]
+ },
+ {
+  "path_id": 413,
+  "name": "a16_sndZooBirdCockatrice",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.79,
+  "files": [
+   "a16_sndZooBirdCockatrice.wav"
+  ]
+ },
+ {
+  "path_id": 414,
+  "name": "a16_sndZooExhibitClean",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.456,
+  "files": [
+   "a16_sndZooExhibitClean.wav"
+  ]
+ },
+ {
+  "path_id": 415,
+  "name": "a16_SFX_UFM_LearnedNewMove",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.017,
+  "files": [
+   "a16_SFX_UFM_LearnedNewMove.wav"
+  ]
+ },
+ {
+  "path_id": 416,
+  "name": "a16_SFX_UFM_Brawl_MiniGame_Win",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.332,
+  "files": [
+   "a16_SFX_UFM_Brawl_MiniGame_Win.wav"
+  ]
+ },
+ {
+  "path_id": 417,
+  "name": "a16_sndHarp",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.702,
+  "files": [
+   "a16_sndHarp.wav"
+  ]
+ },
+ {
+  "path_id": 418,
+  "name": "a16_sndSublist",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.732,
+  "files": [
+   "a16_sndSublist.wav"
+  ]
+ },
+ {
+  "path_id": 419,
+  "name": "a16_sndFlashlightOn",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.359,
+  "files": [
+   "a16_sndFlashlightOn.wav"
+  ]
+ },
+ {
+  "path_id": 420,
+  "name": "Hypnotize_Edited",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.129,
+  "files": [
+   "Hypnotize_Edited.wav"
+  ]
+ },
+ {
+  "path_id": 421,
+  "name": "a16_sndPray",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.147,
+  "files": [
+   "a16_sndPray.wav"
+  ]
+ },
+ {
+  "path_id": 422,
+  "name": "a16_sndRacingDemolitionSmashMinor3",
+  "channels": 1,
+  "frequency": 44100,
+  "length_s": 1.226,
+  "files": [
+   "a16_sndRacingDemolitionSmashMinor3.wav"
+  ]
+ },
+ {
+  "path_id": 423,
+  "name": "a16_sndRacingTakeDrive",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.557,
+  "files": [
+   "a16_sndRacingTakeDrive.wav"
+  ]
+ },
+ {
+  "path_id": 424,
+  "name": "a16_sndHighFive",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.261,
+  "files": [
+   "a16_sndHighFive.wav"
+  ]
+ },
+ {
+  "path_id": 425,
+  "name": "KillVampire_Edited",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.476,
+  "files": [
+   "KillVampire_Edited.wav"
+  ]
+ },
+ {
+  "path_id": 426,
+  "name": "a16_sndRacingEngineRev",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.429,
+  "files": [
+   "a16_sndRacingEngineRev.wav"
+  ]
+ },
+ {
+  "path_id": 427,
+  "name": "a16_sndBankruptcy",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.06,
+  "files": [
+   "a16_sndBankruptcy.wav"
+  ]
+ },
+ {
+  "path_id": 428,
+  "name": "SFX_MusicProducer_LabelSign",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.703,
+  "files": [
+   "SFX_MusicProducer_LabelSign.wav"
+  ]
+ },
+ {
+  "path_id": 429,
+  "name": "a16_sndCasinoSlotsLock",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.278,
+  "files": [
+   "a16_sndCasinoSlotsLock.wav"
+  ]
+ },
+ {
+  "path_id": 430,
+  "name": "a16_sndZooBirdBaldEagle",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.711,
+  "files": [
+   "a16_sndZooBirdBaldEagle.wav"
+  ]
+ },
+ {
+  "path_id": 431,
+  "name": "a16_sndCasinoLose3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.714,
+  "files": [
+   "a16_sndCasinoLose3.wav"
+  ]
+ },
+ {
+  "path_id": 432,
+  "name": "a16_sndZooWolf",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.542,
+  "files": [
+   "a16_sndZooWolf.wav"
+  ]
+ },
+ {
+  "path_id": 433,
+  "name": "a16_SFX_UFM_BecomeChampion",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 4.239,
+  "files": [
+   "a16_SFX_UFM_BecomeChampion.wav"
+  ]
+ },
+ {
+  "path_id": 434,
+  "name": "a16_sndEarthDefenseMiniGameWin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.173,
+  "files": [
+   "a16_sndEarthDefenseMiniGameWin.wav"
+  ]
+ },
+ {
+  "path_id": 435,
+  "name": "a16_SFX_UFM_Dodge_4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.306,
+  "files": [
+   "a16_SFX_UFM_Dodge_4.wav"
+  ]
+ },
+ {
+  "path_id": 436,
+  "name": "a16sfx_Hiking_Landmark",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.358,
+  "files": [
+   "a16sfx_Hiking_Landmark.wav"
+  ]
+ },
+ {
+  "path_id": 437,
+  "name": "a16_sndBugleSuccess",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 2.671,
+  "files": [
+   "a16_sndBugleSuccess.wav"
+  ]
+ },
+ {
+  "path_id": 438,
+  "name": "a16_SFX_UFM_HitDouble_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.765,
+  "files": [
+   "a16_SFX_UFM_HitDouble_2.wav"
+  ]
+ },
+ {
+  "path_id": 439,
+  "name": "a16_sndZooKangaroo",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.529,
+  "files": [
+   "a16_sndZooKangaroo.wav"
+  ]
+ },
+ {
+  "path_id": 440,
+  "name": "a16sfx_Hiking",
+  "channels": 1,
+  "frequency": 44100,
+  "length_s": 1.907,
+  "files": [
+   "a16sfx_Hiking.wav"
+  ]
+ },
+ {
+  "path_id": 441,
+  "name": "a16_SFX_UFM_PainMale_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.691,
+  "files": [
+   "a16_SFX_UFM_PainMale_3.wav"
+  ]
+ },
+ {
+  "path_id": 442,
+  "name": "a16_sndSuccessfulDealinCartelFeedback",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.0,
+  "files": [
+   "a16_sndSuccessfulDealinCartelFeedback.wav"
+  ]
+ },
+ {
+  "path_id": 443,
+  "name": "a16_sndSteelDrum",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.767,
+  "files": [
+   "a16_sndSteelDrum.wav"
+  ]
+ },
+ {
+  "path_id": 444,
+  "name": "a16_Spelunking_Rescued",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.045,
+  "files": [
+   "a16_Spelunking_Rescued.wav"
+  ]
+ },
+ {
+  "path_id": 445,
+  "name": "a16_sndRewardReveal",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.999,
+  "files": [
+   "a16_sndRewardReveal.wav"
+  ]
+ },
+ {
+  "path_id": 446,
+  "name": "a16_SFX_UFM_Knockout_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.78,
+  "files": [
+   "a16_SFX_UFM_Knockout_2.wav"
+  ]
+ },
+ {
+  "path_id": 447,
+  "name": "a16_sndZooOtter",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.708,
+  "files": [
+   "a16_sndZooOtter.wav"
+  ]
+ },
+ {
+  "path_id": 448,
+  "name": "a16_SFX_UFM_BettingFightEnds",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.252,
+  "files": [
+   "a16_SFX_UFM_BettingFightEnds.wav"
+  ]
+ },
+ {
+  "path_id": 449,
+  "name": "a16_sndStamp",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.771,
+  "files": [
+   "a16_sndStamp.wav"
+  ]
+ },
+ {
+  "path_id": 450,
+  "name": "a16_sndAlienVoice_4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.379,
+  "files": [
+   "a16_sndAlienVoice_4.wav"
+  ]
+ },
+ {
+  "path_id": 451,
+  "name": "a16_sndChallengeActive",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.967,
+  "files": [
+   "a16_sndChallengeActive.wav"
+  ]
+ },
+ {
+  "path_id": 452,
+  "name": "a16_sndEarthDefenseMiniGameShoot",
+  "channels": 1,
+  "frequency": 24000,
+  "length_s": 0.465,
+  "files": [
+   "a16_sndEarthDefenseMiniGameShoot.wav"
+  ]
+ },
+ {
+  "path_id": 453,
+  "name": "a16_sndCasinoActHire",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.731,
+  "files": [
+   "a16_sndCasinoActHire.wav"
+  ]
+ },
+ {
+  "path_id": 454,
+  "name": "a16_sndTuba",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.012,
+  "files": [
+   "a16_sndTuba.wav"
+  ]
+ },
+ {
+  "path_id": 455,
+  "name": "a16_sndCasinoRugby",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.024,
+  "files": [
+   "a16_sndCasinoRugby.wav"
+  ]
+ },
+ {
+  "path_id": 456,
+  "name": "a16_sndRacingDemolitionSmashMinor1",
+  "channels": 1,
+  "frequency": 44100,
+  "length_s": 1.472,
+  "files": [
+   "a16_sndRacingDemolitionSmashMinor1.wav"
+  ]
+ },
+ {
+  "path_id": 457,
+  "name": "a16_sndGunCock",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.499,
+  "files": [
+   "a16_sndGunCock.wav"
+  ]
+ },
+ {
+  "path_id": 458,
+  "name": "a16_sndFeedbackScenarioAppears",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 1.355,
+  "files": [
+   "a16_sndFeedbackScenarioAppears.wav"
+  ]
+ },
+ {
+  "path_id": 459,
+  "name": "a16_sndZooRodent",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.339,
+  "files": [
+   "a16_sndZooRodent.wav"
+  ]
+ },
+ {
+  "path_id": 460,
+  "name": "a16_sndPetBird",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.906,
+  "files": [
+   "a16_sndPetBird.wav"
+  ]
+ },
+ {
+  "path_id": 461,
+  "name": "a16_sndHookupMale",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 1.551,
+  "files": [
+   "a16_sndHookupMale.wav"
+  ]
+ },
+ {
+  "path_id": 462,
+  "name": "a16_sndAlienVoice_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.312,
+  "files": [
+   "a16_sndAlienVoice_2.wav"
+  ]
+ },
+ {
+  "path_id": 463,
+  "name": "a16_sndDice",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.876,
+  "files": [
+   "a16_sndDice.wav"
+  ]
+ },
+ {
+  "path_id": 464,
+  "name": "a16_sndMenuButton",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.252,
+  "files": [
+   "a16_sndMenuButton.wav"
+  ]
+ },
+ {
+  "path_id": 465,
+  "name": "a16_sndRacingCircuitStreetThird",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.029,
+  "files": [
+   "a16_sndRacingCircuitStreetThird.wav"
+  ]
+ },
+ {
+  "path_id": 466,
+  "name": "a16_sndCello",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.363,
+  "files": [
+   "a16_sndCello.wav"
+  ]
+ },
+ {
+  "path_id": 467,
+  "name": "a16_SFX_UFM_FightMatchFixing",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.725,
+  "files": [
+   "a16_SFX_UFM_FightMatchFixing.wav"
+  ]
+ },
+ {
+  "path_id": 468,
+  "name": "a16_SFX_UFM_PostKnockoutWallImpact",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.278,
+  "files": [
+   "a16_SFX_UFM_PostKnockoutWallImpact.wav"
+  ]
+ },
+ {
+  "path_id": 469,
+  "name": "a16_sndCasinoSelectSpot",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.073,
+  "files": [
+   "a16_sndCasinoSelectSpot.wav"
+  ]
+ },
+ {
+  "path_id": 470,
+  "name": "a16_SFX_UFM_FightRecap_1",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.751,
+  "files": [
+   "a16_SFX_UFM_FightRecap_1.wav"
+  ]
+ },
+ {
+  "path_id": 471,
+  "name": "a16_sndPetPrimate",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.258,
+  "files": [
+   "a16_sndPetPrimate.wav"
+  ]
+ },
+ {
+  "path_id": 472,
+  "name": "a16_SFX_UFM_PostKnockoutWallSlide",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.667,
+  "files": [
+   "a16_SFX_UFM_PostKnockoutWallSlide.wav"
+  ]
+ },
+ {
+  "path_id": 473,
+  "name": "a16_sndCasinoOpen",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.596,
+  "files": [
+   "a16_sndCasinoOpen.wav"
+  ]
+ },
+ {
+  "path_id": 474,
+  "name": "SFX_ClaimToken",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.939,
+  "files": [
+   "SFX_ClaimToken.wav"
+  ]
+ },
+ {
+  "path_id": 475,
+  "name": "a16_sndRacingDemolitionSmashMinor2",
+  "channels": 1,
+  "frequency": 44100,
+  "length_s": 1.254,
+  "files": [
+   "a16_sndRacingDemolitionSmashMinor2.wav"
+  ]
+ },
+ {
+  "path_id": 476,
+  "name": "a16_sndGangWar",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.344,
+  "files": [
+   "a16_sndGangWar.wav"
+  ]
+ },
+ {
+  "path_id": 477,
+  "name": "a16sfx_Fishing_Success",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.843,
+  "files": [
+   "a16sfx_Fishing_Success.wav"
+  ]
+ },
+ {
+  "path_id": 478,
+  "name": "a16_sndZooBat",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.33,
+  "files": [
+   "a16_sndZooBat.wav"
+  ]
+ },
+ {
+  "path_id": 479,
+  "name": "a16_sndGhost",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.552,
+  "files": [
+   "a16_sndGhost.wav"
+  ]
+ },
+ {
+  "path_id": 480,
+  "name": "a16_sndGuitarChorus",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.27,
+  "files": [
+   "a16_sndGuitarChorus.wav"
+  ]
+ },
+ {
+  "path_id": 481,
+  "name": "a16_sndAstroLiftoffScenario",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.22,
+  "files": [
+   "a16_sndAstroLiftoffScenario.wav"
+  ]
+ },
+ {
+  "path_id": 482,
+  "name": "a16_sndMineExplosion",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.927,
+  "files": [
+   "a16_sndMineExplosion.wav"
+  ]
+ },
+ {
+  "path_id": 483,
+  "name": "a16_sndSimonButton2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.5,
+  "files": [
+   "a16_sndSimonButton2.wav"
+  ]
+ },
+ {
+  "path_id": 484,
+  "name": "SFX_SpecialLife_Initiate",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.14,
+  "files": [
+   "SFX_SpecialLife_Initiate.wav"
+  ]
+ },
+ {
+  "path_id": 485,
+  "name": "a16_sndRacingRestoreCondition",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.375,
+  "files": [
+   "a16_sndRacingRestoreCondition.wav"
+  ]
+ },
+ {
+  "path_id": 486,
+  "name": "Focus Enter",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.132,
+  "files": [
+   "Focus Enter.wav"
+  ]
+ },
+ {
+  "path_id": 487,
+  "name": "a16_sndModelFashionSuccess",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.921,
+  "files": [
+   "a16_sndModelFashionSuccess.wav"
+  ]
+ },
+ {
+  "path_id": 488,
+  "name": "a16_ValentinesSH_ItemFound",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.24,
+  "files": [
+   "a16_ValentinesSH_ItemFound.wav"
+  ]
+ },
+ {
+  "path_id": 489,
+  "name": "NewThrall_Edited",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.012,
+  "files": [
+   "NewThrall_Edited.wav"
+  ]
+ },
+ {
+  "path_id": 490,
+  "name": "a16_SFX_UFM_PainMale_5",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.348,
+  "files": [
+   "a16_SFX_UFM_PainMale_5.wav"
+  ]
+ },
+ {
+  "path_id": 491,
+  "name": "a16_sndJoiningCartelFeedback",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.918,
+  "files": [
+   "a16_sndJoiningCartelFeedback.wav"
+  ]
+ },
+ {
+  "path_id": 492,
+  "name": "a16_sndTrumpet",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.5,
+  "files": [
+   "a16_sndTrumpet.wav"
+  ]
+ },
+ {
+  "path_id": 493,
+  "name": "BloodcurseLifted_Edited",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.968,
+  "files": [
+   "BloodcurseLifted_Edited.wav"
+  ]
+ },
+ {
+  "path_id": 494,
+  "name": "Popup Open",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.132,
+  "files": [
+   "Popup Open.wav"
+  ]
+ },
+ {
+  "path_id": 495,
+  "name": "a16_SFX_UFM_StreetMatchWin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 6.08,
+  "files": [
+   "a16_SFX_UFM_StreetMatchWin.wav"
+  ]
+ },
+ {
+  "path_id": 496,
+  "name": "a16_sndSuccessfulShakedown",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.453,
+  "files": [
+   "a16_sndSuccessfulShakedown.wav"
+  ]
+ },
+ {
+  "path_id": 497,
+  "name": "a16_sndModelFashionFail",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.805,
+  "files": [
+   "a16_sndModelFashionFail.wav"
+  ]
+ },
+ {
+  "path_id": 498,
+  "name": "a16sfx_Camping_Start",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.667,
+  "files": [
+   "a16sfx_Camping_Start.wav"
+  ]
+ },
+ {
+  "path_id": 499,
+  "name": "Bounds Reached",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.28,
+  "files": [
+   "Bounds Reached.wav"
+  ]
+ },
+ {
+  "path_id": 500,
+  "name": "a16_sndThanksgivingReward",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.506,
+  "files": [
+   "a16_sndThanksgivingReward.wav"
+  ]
+ },
+ {
+  "path_id": 501,
+  "name": "a16_sndRacingBreakdown1",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.223,
+  "files": [
+   "a16_sndRacingBreakdown1.wav"
+  ]
+ },
+ {
+  "path_id": 502,
+  "name": "a16_sndBugleDeath",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 4.04,
+  "files": [
+   "a16_sndBugleDeath.wav"
+  ]
+ },
+ {
+  "path_id": 503,
+  "name": "a16_sndZooFox",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.274,
+  "files": [
+   "a16_sndZooFox.wav"
+  ]
+ },
+ {
+  "path_id": 504,
+  "name": "a16_sndZooPinniped",
+  "channels": 1,
+  "frequency": 48000,
+  "length_s": 1.861,
+  "files": [
+   "a16_sndZooPinniped.wav"
+  ]
+ },
+ {
+  "path_id": 505,
+  "name": "a16_SFX_UFM_LeagueMatchLoss",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 6.181,
+  "files": [
+   "a16_SFX_UFM_LeagueMatchLoss.wav"
+  ]
+ },
+ {
+  "path_id": 506,
+  "name": "a16_SFX_UFM_LeagueMatchWin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 5.549,
+  "files": [
+   "a16_SFX_UFM_LeagueMatchWin.wav"
+  ]
+ },
+ {
+  "path_id": 507,
+  "name": "a16_sndZooBirdGriffin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.818,
+  "files": [
+   "a16_sndZooBirdGriffin.wav"
+  ]
+ },
+ {
+  "path_id": 508,
+  "name": "a16_SFX_UFM_LearnedWildMove",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.703,
+  "files": [
+   "a16_SFX_UFM_LearnedWildMove.wav"
+  ]
+ },
+ {
+  "path_id": 509,
+  "name": "a16_sndCasinoLose1",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.531,
+  "files": [
+   "a16_sndCasinoLose1.wav"
+  ]
+ },
+ {
+  "path_id": 510,
+  "name": "a16_SFX_UFM_PainMale_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.335,
+  "files": [
+   "a16_SFX_UFM_PainMale_2.wav"
+  ]
+ },
+ {
+  "path_id": 511,
+  "name": "a16_sndCasinoDiceShake",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.745,
+  "files": [
+   "a16_sndCasinoDiceShake.wav"
+  ]
+ },
+ {
+  "path_id": 512,
+  "name": "a16_sndLuxurySecretSocietyJoin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.083,
+  "files": [
+   "a16_sndLuxurySecretSocietyJoin.wav"
+  ]
+ },
+ {
+  "path_id": 513,
+  "name": "a16_SFX_UFM_PainMale",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.589,
+  "files": [
+   "a16_SFX_UFM_PainMale.wav"
+  ]
+ },
+ {
+  "path_id": 514,
+  "name": "a16_sndDrumSet",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.752,
+  "files": [
+   "a16_sndDrumSet.wav"
+  ]
+ },
+ {
+  "path_id": 515,
+  "name": "Click",
+  "channels": 1,
+  "frequency": 44100,
+  "length_s": 0.07,
+  "files": [
+   "Click.wav"
+  ]
+ },
+ {
+  "path_id": 516,
+  "name": "a16_snd7DeadlySins2024",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.722,
+  "files": [
+   "a16_snd7DeadlySins2024.wav"
+  ]
+ },
+ {
+  "path_id": 517,
+  "name": "a16_sndKeyboard",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.407,
+  "files": [
+   "a16_sndKeyboard.wav"
+  ]
+ },
+ {
+  "path_id": 518,
+  "name": "a16_sndFeedbackScenarioDismissed",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.252,
+  "files": [
+   "a16_sndFeedbackScenarioDismissed.wav"
+  ]
+ },
+ {
+  "path_id": 519,
+  "name": "a16_sndRacingPitCrewHire",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.933,
+  "files": [
+   "a16_sndRacingPitCrewHire.wav"
+  ]
+ },
+ {
+  "path_id": 520,
+  "name": "a16_sndShuttleMiniGameLose",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.964,
+  "files": [
+   "a16_sndShuttleMiniGameLose.wav"
+  ]
+ },
+ {
+  "path_id": 521,
+  "name": "a16_sndZooDeer",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.271,
+  "files": [
+   "a16_sndZooDeer.wav"
+  ]
+ },
+ {
+  "path_id": 522,
+  "name": "a16_sndRacingGaragePurchase",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.662,
+  "files": [
+   "a16_sndRacingGaragePurchase.wav"
+  ]
+ },
+ {
+  "path_id": 523,
+  "name": "a16_sndZooPig",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.852,
+  "files": [
+   "a16_sndZooPig.wav"
+  ]
+ },
+ {
+  "path_id": 524,
+  "name": "a16_SFX_UFM_PostKnockoutWallImpact_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.386,
+  "files": [
+   "a16_SFX_UFM_PostKnockoutWallImpact_3.wav"
+  ]
+ },
+ {
+  "path_id": 525,
+  "name": "a16_sndCasinoSlotsLeverPull",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.927,
+  "files": [
+   "a16_sndCasinoSlotsLeverPull.wav"
+  ]
+ },
+ {
+  "path_id": 526,
+  "name": "a16_SFX_UFM_PostKnockoutWallImpact_5",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.52,
+  "files": [
+   "a16_SFX_UFM_PostKnockoutWallImpact_5.wav"
+  ]
+ },
+ {
+  "path_id": 527,
+  "name": "a16_sndCasinoWheelSpin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.999,
+  "files": [
+   "a16_sndCasinoWheelSpin.wav"
+  ]
+ },
+ {
+  "path_id": 528,
+  "name": "a16_SFX_UFM_Hit_3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.432,
+  "files": [
+   "a16_SFX_UFM_Hit_3.wav"
+  ]
+ },
+ {
+  "path_id": 529,
+  "name": "a16_SFX_UFM_BlockedHit",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.478,
+  "files": [
+   "a16_SFX_UFM_BlockedHit.wav"
+  ]
+ },
+ {
+  "path_id": 530,
+  "name": "a16_sndComputerAccessFailure",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.868,
+  "files": [
+   "a16_sndComputerAccessFailure.wav"
+  ]
+ },
+ {
+  "path_id": 531,
+  "name": "a16_sndSecretAgentSecurityFeatureAdded",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.316,
+  "files": [
+   "a16_sndSecretAgentSecurityFeatureAdded.wav"
+  ]
+ },
+ {
+  "path_id": 532,
+  "name": "a16_sndCookingUpABatch",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.696,
+  "files": [
+   "a16_sndCookingUpABatch.wav"
+  ]
+ },
+ {
+  "path_id": 533,
+  "name": "a16_sndTableCellButton",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.092,
+  "files": [
+   "a16_sndTableCellButton.wav"
+  ]
+ },
+ {
+  "path_id": 534,
+  "name": "a16_sndZooBirdDodo",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.026,
+  "files": [
+   "a16_sndZooBirdDodo.wav"
+  ]
+ },
+ {
+  "path_id": 535,
+  "name": "a16_sndCasinoWin2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.12,
+  "files": [
+   "a16_sndCasinoWin2.wav"
+  ]
+ },
+ {
+  "path_id": 536,
+  "name": "a16_sndPiano",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.81,
+  "files": [
+   "a16_sndPiano.wav"
+  ]
+ },
+ {
+  "path_id": 537,
+  "name": "a16_SFX_UFM_FightRecap_6",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.821,
+  "files": [
+   "a16_SFX_UFM_FightRecap_6.wav"
+  ]
+ },
+ {
+  "path_id": 538,
+  "name": "a16_sndRacingCarModded",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.428,
+  "files": [
+   "a16_sndRacingCarModded.wav"
+  ]
+ },
+ {
+  "path_id": 539,
+  "name": "a16_sndStarburst",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.036,
+  "files": [
+   "a16_sndStarburst.wav"
+  ]
+ },
+ {
+  "path_id": 540,
+  "name": "a16_SFX_BdaySH_Completed",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.797,
+  "files": [
+   "a16_SFX_BdaySH_Completed.wav"
+  ]
+ },
+ {
+  "path_id": 541,
+  "name": "a16_SFX_UFM_PainMale_6",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.657,
+  "files": [
+   "a16_SFX_UFM_PainMale_6.wav"
+  ]
+ },
+ {
+  "path_id": 542,
+  "name": "a16sfx_Spelunking_Start",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.21,
+  "files": [
+   "a16sfx_Spelunking_Start.wav"
+  ]
+ },
+ {
+  "path_id": 543,
+  "name": "a16_SFX_UFM_Hit",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.313,
+  "files": [
+   "a16_SFX_UFM_Hit.wav"
+  ]
+ },
+ {
+  "path_id": 544,
+  "name": "a16_sndCasinoCollision1",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.517,
+  "files": [
+   "a16_sndCasinoCollision1.wav"
+  ]
+ },
+ {
+  "path_id": 545,
+  "name": "a16_sndSelectionSheep",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.281,
+  "files": [
+   "a16_sndSelectionSheep.wav"
+  ]
+ },
+ {
+  "path_id": 546,
+  "name": "a16_sndPlane",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.663,
+  "files": [
+   "a16_sndPlane.wav"
+  ]
+ },
+ {
+  "path_id": 547,
+  "name": "a16_sndZooCamel",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.813,
+  "files": [
+   "a16_sndZooCamel.wav"
+  ]
+ },
+ {
+  "path_id": 548,
+  "name": "a16_sndCar",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.542,
+  "files": [
+   "a16_sndCar.wav"
+  ]
+ },
+ {
+  "path_id": 549,
+  "name": "a16_SFX_UFM_IllegalMove",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.043,
+  "files": [
+   "a16_SFX_UFM_IllegalMove.wav"
+  ]
+ },
+ {
+  "path_id": 550,
+  "name": "a16_sndZooRodentBeaver",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.987,
+  "files": [
+   "a16_sndZooRodentBeaver.wav"
+  ]
+ },
+ {
+  "path_id": 551,
+  "name": "a16_SFX_UFM_ReadyToRumble",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.79,
+  "files": [
+   "a16_SFX_UFM_ReadyToRumble.wav"
+  ]
+ },
+ {
+  "path_id": 552,
+  "name": "a16_sndRacingDemolitionSmashMajor",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.387,
+  "files": [
+   "a16_sndRacingDemolitionSmashMajor.wav"
+  ]
+ },
+ {
+  "path_id": 553,
+  "name": "a16_sndMainScreenToList",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.572,
+  "files": [
+   "a16_sndMainScreenToList.wav"
+  ]
+ },
+ {
+  "path_id": 554,
+  "name": "a16sfx_Bird Watching_Found Bird",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.711,
+  "files": [
+   "a16sfx_Bird Watching_Found Bird.wav"
+  ]
+ },
+ {
+  "path_id": 555,
+  "name": "a16_sndAgeButton",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.652,
+  "files": [
+   "a16_sndAgeButton.wav"
+  ]
+ },
+ {
+  "path_id": 556,
+  "name": "a16_sndBoat",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.617,
+  "files": [
+   "a16_sndBoat.wav"
+  ]
+ },
+ {
+  "path_id": 557,
+  "name": "a16_sndPanFlute",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.452,
+  "files": [
+   "a16_sndPanFlute.wav"
+  ]
+ },
+ {
+  "path_id": 558,
+  "name": "a16_sndZooHippo",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.872,
+  "files": [
+   "a16_sndZooHippo.wav"
+  ]
+ },
+ {
+  "path_id": 559,
+  "name": "a16_sndCasinoLose2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.487,
+  "files": [
+   "a16_sndCasinoLose2.wav"
+  ]
+ },
+ {
+  "path_id": 560,
+  "name": "a16_SFX_UFM_Hit_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.356,
+  "files": [
+   "a16_SFX_UFM_Hit_2.wav"
+  ]
+ },
+ {
+  "path_id": 561,
+  "name": "a16_sndZooRhino",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.578,
+  "files": [
+   "a16_sndZooRhino.wav"
+  ]
+ },
+ {
+  "path_id": 562,
+  "name": "a16_sndRacingBreakdown3",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.227,
+  "files": [
+   "a16_sndRacingBreakdown3.wav"
+  ]
+ },
+ {
+  "path_id": 563,
+  "name": "a16_SFX_UFM_PainFemale",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.816,
+  "files": [
+   "a16_SFX_UFM_PainFemale.wav"
+  ]
+ },
+ {
+  "path_id": 564,
+  "name": "a16sfx_Bird Watching_Start",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.088,
+  "files": [
+   "a16sfx_Bird Watching_Start.wav"
+  ]
+ },
+ {
+  "path_id": 565,
+  "name": "a16_SFX_UFM_Knockout",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.797,
+  "files": [
+   "a16_SFX_UFM_Knockout.wav"
+  ]
+ },
+ {
+  "path_id": 566,
+  "name": "a16_sndCasinoKenoBall5",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.161,
+  "files": [
+   "a16_sndCasinoKenoBall5.wav"
+  ]
+ },
+ {
+  "path_id": 567,
+  "name": "a16_sndRacingDemolitionLose",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 3.011,
+  "files": [
+   "a16_sndRacingDemolitionLose.wav"
+  ]
+ },
+ {
+  "path_id": 568,
+  "name": "a16_sndAchievement",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.273,
+  "files": [
+   "a16_sndAchievement.wav"
+  ]
+ },
+ {
+  "path_id": 569,
+  "name": "a16_sndTriangle",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.93,
+  "files": [
+   "a16_sndTriangle.wav"
+  ]
+ },
+ {
+  "path_id": 570,
+  "name": "a16_sndZooUnicornUnicorn",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.815,
+  "files": [
+   "a16_sndZooUnicornUnicorn.wav"
+  ]
+ },
+ {
+  "path_id": 571,
+  "name": "a16_SFX_UFM_PainFemale_6",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.693,
+  "files": [
+   "a16_SFX_UFM_PainFemale_6.wav"
+  ]
+ },
+ {
+  "path_id": 572,
+  "name": "a16_sndAmenityRenovation",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.807,
+  "files": [
+   "a16_sndAmenityRenovation.wav"
+  ]
+ },
+ {
+  "path_id": 573,
+  "name": "a16_sndBribeReleaseJailedCartelMember",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.889,
+  "files": [
+   "a16_sndBribeReleaseJailedCartelMember.wav"
+  ]
+ },
+ {
+  "path_id": 574,
+  "name": "a16_sndCasinoWin1",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.942,
+  "files": [
+   "a16_sndCasinoWin1.wav"
+  ]
+ },
+ {
+  "path_id": 575,
+  "name": "a16_SFX_UFM_FightRecap_2",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.415,
+  "files": [
+   "a16_SFX_UFM_FightRecap_2.wav"
+  ]
+ },
+ {
+  "path_id": 576,
+  "name": "a16_sndPetDogDiscipline",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.239,
+  "files": [
+   "a16_sndPetDogDiscipline.wav"
+  ]
+ },
+ {
+  "path_id": 577,
+  "name": "SFX_MusicProducer_BangerAward",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.657,
+  "files": [
+   "SFX_MusicProducer_BangerAward.wav"
+  ]
+ },
+ {
+  "path_id": 578,
+  "name": "Vampire Encounter_Edited",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.487,
+  "files": [
+   "Vampire Encounter_Edited.wav"
+  ]
+ },
+ {
+  "path_id": 579,
+  "name": "a16_SFX_UFM_Recharge",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.166,
+  "files": [
+   "a16_SFX_UFM_Recharge.wav"
+  ]
+ },
+ {
+  "path_id": 580,
+  "name": "ContributeBloodcurse_Edited",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.48,
+  "files": [
+   "ContributeBloodcurse_Edited.wav"
+  ]
+ },
+ {
+  "path_id": 581,
+  "name": "a16_sndScavengerPride2024",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.637,
+  "files": [
+   "a16_sndScavengerPride2024.wav"
+  ]
+ },
+ {
+  "path_id": 582,
+  "name": "Focus Leave",
+  "channels": 2,
+  "frequency": 44100,
+  "length_s": 0.157,
+  "files": [
+   "Focus Leave.wav"
+  ]
+ },
+ {
+  "path_id": 583,
+  "name": "a16_SFX_UFM_Wild_Challenger_Appears",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.073,
+  "files": [
+   "a16_SFX_UFM_Wild_Challenger_Appears.wav"
+  ]
+ },
+ {
+  "path_id": 584,
+  "name": "a16_sndCasinoDraw",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.733,
+  "files": [
+   "a16_sndCasinoDraw.wav"
+  ]
+ },
+ {
+  "path_id": 585,
+  "name": "a16_SFX_UFM_Damage_4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.899,
+  "files": [
+   "a16_SFX_UFM_Damage_4.wav"
+  ]
+ },
+ {
+  "path_id": 586,
+  "name": "a16_sndZooRodentKangarooRat",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.987,
+  "files": [
+   "a16_sndZooRodentKangarooRat.wav"
+  ]
+ },
+ {
+  "path_id": 587,
+  "name": "a16_SFX_UFM_PainFemale_5",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.51,
+  "files": [
+   "a16_SFX_UFM_PainFemale_5.wav"
+  ]
+ },
+ {
+  "path_id": 588,
+  "name": "a16_sndSimonButton4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.499,
+  "files": [
+   "a16_sndSimonButton4.wav"
+  ]
+ },
+ {
+  "path_id": 589,
+  "name": "a16_SFX_UFM_BlockedHit_4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.419,
+  "files": [
+   "a16_SFX_UFM_BlockedHit_4.wav"
+  ]
+ },
+ {
+  "path_id": 590,
+  "name": "a16_sndTambourine",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.088,
+  "files": [
+   "a16_sndTambourine.wav"
+  ]
+ },
+ {
+  "path_id": 591,
+  "name": "a16sfx_Fishing_Cast Reel",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.987,
+  "files": [
+   "a16sfx_Fishing_Cast Reel.wav"
+  ]
+ },
+ {
+  "path_id": 592,
+  "name": "a16sfx_Fishing_Failure",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.845,
+  "files": [
+   "a16sfx_Fishing_Failure.wav"
+  ]
+ },
+ {
+  "path_id": 593,
+  "name": "Drain Someone_Edited",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.004,
+  "files": [
+   "Drain Someone_Edited.wav"
+  ]
+ },
+ {
+  "path_id": 594,
+  "name": "a16_sndZooTurtle",
+  "channels": 1,
+  "frequency": 44100,
+  "length_s": 0.818,
+  "files": [
+   "a16_sndZooTurtle.wav"
+  ]
+ },
+ {
+  "path_id": 595,
+  "name": "a16_sndFootstep1",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.242,
+  "files": [
+   "a16_sndFootstep1.wav"
+  ]
+ },
+ {
+  "path_id": 596,
+  "name": "a16_sndThunder",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.896,
+  "files": [
+   "a16_sndThunder.wav"
+  ]
+ },
+ {
+  "path_id": 597,
+  "name": "a16_sndStopWoman",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.845,
+  "files": [
+   "a16_sndStopWoman.wav"
+  ]
+ },
+ {
+  "path_id": 598,
+  "name": "a16_sndDidgeridoo",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.472,
+  "files": [
+   "a16_sndDidgeridoo.wav"
+  ]
+ },
+ {
+  "path_id": 599,
+  "name": "a16_sndHarmonica",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.397,
+  "files": [
+   "a16_sndHarmonica.wav"
+  ]
+ },
+ {
+  "path_id": 600,
+  "name": "a16_sndShuttleMiniGameWin",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.624,
+  "files": [
+   "a16_sndShuttleMiniGameWin.wav"
+  ]
+ },
+ {
+  "path_id": 601,
+  "name": "a16_sndZooRedPanda",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.881,
+  "files": [
+   "a16_sndZooRedPanda.wav"
+  ]
+ },
+ {
+  "path_id": 602,
+  "name": "a16_sndSecretAgentMissionFailure",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.07,
+  "files": [
+   "a16_sndSecretAgentMissionFailure.wav"
+  ]
+ },
+ {
+  "path_id": 603,
+  "name": "a16_sndRace",
+  "channels": 1,
+  "frequency": 44100,
+  "length_s": 6.471,
+  "files": [
+   "a16_sndRace.wav"
+  ]
+ },
+ {
+  "path_id": 604,
+  "name": "a16_SFX_UFM_PostKnockoutWallImpact_4",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.379,
+  "files": [
+   "a16_SFX_UFM_PostKnockoutWallImpact_4.wav"
+  ]
+ },
+ {
+  "path_id": 605,
+  "name": "a16_sndTrombone",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.983,
+  "files": [
+   "a16_sndTrombone.wav"
+  ]
+ },
+ {
+  "path_id": 606,
+  "name": "a16_sndZooBigCat",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.386,
+  "files": [
+   "a16_sndZooBigCat.wav"
+  ]
+ },
+ {
+  "path_id": 607,
+  "name": "a16_sndZooSnakeBasilisk",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.6,
+  "files": [
+   "a16_sndZooSnakeBasilisk.wav"
+  ]
+ },
+ {
+  "path_id": 608,
+  "name": "a16_sndIndependenceSH_ItemFound",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.895,
+  "files": [
+   "a16_sndIndependenceSH_ItemFound.wav"
+  ]
+ },
+ {
+  "path_id": 609,
+  "name": "a16_sndAlienVoice_5",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 0.996,
+  "files": [
+   "a16_sndAlienVoice_5.wav"
+  ]
+ },
+ {
+  "path_id": 610,
+  "name": "a16_SFX_UFM_TutorialMiniGame_Win",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 2.338,
+  "files": [
+   "a16_SFX_UFM_TutorialMiniGame_Win.wav"
+  ]
+ },
+ {
+  "path_id": 611,
+  "name": "a16sfx_Snorkeling_Found Fish",
+  "channels": 1,
+  "frequency": 22050,
+  "length_s": 1.369,
+  "files": [
+   "a16sfx_Snorkeling_Found Fish.wav"
+  ]
+ }
+]

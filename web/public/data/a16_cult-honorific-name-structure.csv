@@ -1,0 +1,61 @@
+Honorific,Gender,Commonness Score,Hero Is Leader
+Guru <hero-first-name>,both,5,x
+Guru <hero-last-name>,both,5,x
+Brother <hero-first-name>,male,5,x
+Brother <hero-last-name>,male,5,x
+Father <hero-first-name>,male,5,x
+Father <hero-last-name>,male,5,x
+Big Daddy <hero-first-name>,male,1,x
+Big Daddy <hero-last-name>,male,1,x
+Daddy <hero-first-name>,male,3,x
+Daddy <hero-last-name>,male,3,x
+Papa <hero-first-name>,male,4,x
+Papa <hero-last-name>,male,4,x
+Big Papa <hero-first-name>,male,1,x
+Big Papa <hero-last-name>,male,1,x
+Sister <hero-first-name>,female,5,x
+Sister <hero-last-name>,female,5,x
+Mother <hero-first-name>,female,5,x
+Mother <hero-last-name>,female,5,x
+Big Mommy <hero-first-name>,female,1,x
+Big Mommy <hero-last-name>,female,1,x
+Mama <hero-first-name>,female,3,x
+Mama <hero-last-name>,female,3,x
+Momma <hero-first-name>,female,4,x
+Momma <hero-last-name>,female,4,x
+Big Mama <hero-first-name>,female,1,x
+Big Mama <hero-last-name>,female,1,x
+Papi <hero-first-name>,male,2,x
+Papi <hero-last-name>,male,2,x
+Mami <hero-first-name>,female,2,x
+Mami <hero-last-name>,female,2,x
+Guru <random-first-name>,both,5,
+Guru <random-surname>,both,5,
+Brother <random-first-name>,male,5,
+Brother <random-surname>,male,5,
+Father <random-first-name>,male,5,
+Father <random-surname>,male,5,
+Big Daddy <random-first-name>,male,1,
+Big Daddy <random-surname>,male,1,
+Daddy <random-first-name>,male,3,
+Daddy <random-surname>,male,3,
+Papa <random-first-name>,male,4,
+Papa <random-surname>,male,4,
+Big Papa <random-first-name>,male,1,
+Big Papa <random-surname>,male,1,
+Sister <random-first-name>,female,5,
+Sister <random-surname>,female,5,
+Mother <random-first-name>,female,5,
+Mother <random-surname>,female,5,
+Big Mommy <random-first-name>,female,1,
+Big Mommy <random-surname>,female,1,
+Mama <random-first-name>,female,3,
+Mama <random-surname>,female,3,
+Momma <random-first-name>,female,4,
+Momma <random-surname>,female,4,
+Big Mama <random-first-name>,female,1,
+Big Mama <random-surname>,female,1,
+Papi <random-first-name>,male,2,
+Papi <random-surname>,male,2,
+Mami <random-first-name>,female,2,
+Mami <random-surname>,female,2,

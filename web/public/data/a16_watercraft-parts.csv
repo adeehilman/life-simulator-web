@@ -1,0 +1,61 @@
+Part,Plural Version,Only One Per Watercraft,Part Cost Score,Broken Terms,Rowing,Speedboat,PWC,Motorized Yacht,Sailing Yacht,Sailboat,Jet Boat,Crab Boat,Pontoon,Research Vessel,Airboat,Amphibious,Cruise Ship,Icebreaker,Log Raft,Submarine,Tugboat,Hovercraft,Pirate Ship,Optional Description
+anchor,,x,2,broken,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,"The anchor line snapped, and your anchor is lost on the ocean floor."
+antenna,,x,1,broken,,x,,x,x,x,x,x,,x,,x,x,x,,x,x,x,x,"Your VHF antenna snapped off in a bad storm, making radio communication impossible."
+battery,,x,2,dead,,x,x,x,x,x,x,x,x,x,x,x,x,x,,x,x,x,,"You were blasting music with the engine off, and now the battery is completely dead."
+bilge pump,,x,1,broken,,x,x,x,x,x,x,x,,x,,x,x,x,,x,x,,,Your hull is slowly taking on water due to a faulty bilge pump.
+boom,,x,3,cracked,,,,,x,x,,,,,,,,,,,,,x,Your boom snapped off when your friends were swinging on it like a bunch of little monkeys.
+cable,cables,,1,snapped,,,,x,x,x,,x,,x,,,,x,,,x,,,"The cable was frayed and you did nothing, now it's snapped in two."
+cage grill,,x,3,broken,,,,,,,,,,,x,,,,,,,x,,Your cage grill broke when a bird flew into it at full speed.
+cannon,cannons,,3,broken,,,,,,,,,,,,,,,,,,,x,"You overheated your cannon by firing too many balls in a row, and it broke."
+carburetor,,x,2,broken,,x,x,x,x,,x,x,x,x,x,x,x,,,x,x,x,,"Your carburetor is all gunked up, and causing the engine to misfire."
+cooling system,,x,3,broken,,x,x,x,x,x,x,x,x,x,x,x,x,x,,x,x,x,,The cooling system went out and your engine overheated.
+crab pot,crab pots,,2,broken,,,,,,,,x,,,,,,,,,,,,Your crab pot snagged on some rocks and got shredded before you could pull it out.
+crane,cranes,,3,broken,,,,,,,,,,x,,,,x,,,,,,Your crane snapped in half when you tried to lift a container full of <lead/uranium/tungsten>.
+crow's nest,,x,3,damaged,,,,,,,,x,,x,,,,x,,,x,,x,"Your friends overloaded the crow's nest while taking a selfie, and it cracked under their weight."
+Dolby film projector,,x,2,broken,,,,,,,,,,,,,x,,,,,,,"Just before the Friday night showing of Titanic, your Dolby film projector suddenly stopped working."
+drive shaft,,x,2,broken,,x,,x,x,,,x,x,x,,x,x,x,,x,x,,,Your driveshaft broke off and is dangling in the water.
+elevator,,x,2,broken,,,,,,,,,,,,,x,,,,,,,The elevator stopped on the 13th floor and will no longer move up or down.
+engine,,x,5,failed,,x,x,x,,,x,x,x,x,x,x,x,x,,x,x,x,,You blew out the engine by redlining it in a race with a speed boat.
+fan,,x,3,broken,,,,,,,,,,,x,,,,,,,x,,"You thought it would be fun to spit a wad of bubblegum into the spinning fan blades, and now it's broken."
+fuel pump,,x,2,broken,,x,x,x,x,,x,x,x,x,x,x,x,x,,x,x,x,,"You accidentally poured some beer in the gas tank, and it destroyed the fuel pump."
+fuel tank,,x,3,cracked,,x,x,x,,,x,x,x,x,x,x,x,x,,,x,x,,Your fuel tank cracked for no apparent reason.
+GPS system,,x,2,broken,,x,,x,x,x,x,x,x,x,x,x,x,x,,x,x,x,,"Your GPS stopped working, forcing you to navigate by stars at night."
+hatch,hatches,,1,broken,x,x,x,x,x,x,x,x,x,x,x,x,x,x,,x,x,x,,Your hatch developed a small crack and is leaking water.
+hull,,x,4,cracked,x,x,x,x,x,x,x,x,x,x,x,x,x,x,,x,x,x,x,You cracked your hull on a large rock in shallow waters.
+impeller,,x,3,broken,,,x,,,,x,,,,,,,,,,,,,Excessive sand in shallow waters has destroyed your impeller.
+impeller,,x,2,broken,,,x,,,,x,,,,,,,,,,,,,Your impeller stopped working after getting clogged with <debris/gunk/sand/sediment>.
+jib,,x,3,ripped,,,,,x,x,,,,,,,,,,,,,x,"While you were away, someone literally cut your jib, with a dagger."
+jolly roger,,x,1,ripped,,,,,,,,,,,,,,,,,,,x,"You stepped out for a bottle of dark rum, and when you got back, discovered someone slashed your Jolly Roger."
+life raft,life rafts,,2,damaged,,,,x,x,,,,,x,,,x,x,,,x,,,Your life raft is dead.
+log,logs,,1,cracked,,,,,,,,,,,,,,,x,,,,,"You discovered termites, but it was too late to save the log."
+main mast,,x,5,cracked,,,,,x,x,,,,,,,,,,,,,x,"In an unexplainable instance of mast envy, the mainmast took a devastating blow and cracked."
+marine radar,,x,3,broken,,,,x,x,,,x,,x,,x,x,x,,x,x,,,"You got seasick and vomited on the marine radar, and now it's broken."
+mast,masts,,4,cracked,,,,,x,x,,,,,,,,,,,,,x,You cracked your mast while passing under a bridge without enough clearance.
+missile,missiles,,5,damaged,,,,,,,,,,,,,,,,x,,,,"You left your missile out during a violent storm, and now it's damaged."
+nuclear reactor,,x,5,broken,,,,,,,,,,,,,,,,x,,,,Your nuclear reactor encountered a loss of coolant and is dangerously unstable.
+paddle,paddles,,1,cracked,x,,,,,,,,,,,,,,x,,,,,You cracked your paddle in a paddle battle against another rafter.
+pedal,,x,1,broken,,,,,,,,,,,x,,,,,,,,,You pushed it past the limit and broke your pedal.
+periscope,,x,3,broken,,,,,,,,,,,,,,,,x,,,,Your periscope was shattered by a thrown rock when some nude sunbathers discovered you peeping on them through your periscope.
+plank,,x,1,broken,,,,,,,,,,,,,,,,,,,x,Your plank cracked under the weight of a <chubby/heavyset/beefy/husky> friend performing a <cannonball/jackknife dive/belly flop/back flip> into the water.
+pot puller,,x,3,broken,,,,,,,,x,,,,,,,,,,,,The pot puller got pulled too hard and broke.
+propeller,,x,2,broken,,x,,x,x,,,x,x,x,x,x,x,x,,x,x,x,,Your propeller snapped off when you accidentally hit <a log/a jetty/a dock/another boat/the shore/a reef>.
+rope,ropes,,1,severed,,,,x,x,x,,x,,x,,,,x,x,,x,,x,You accidentally severed your rope while practicing knife-nunchucks.
+rudder,,x,3,broken,,x,,x,x,x,,x,x,x,x,x,x,x,,x,x,x,x,You seized the rudder during a hard port-side turn.
+satellite,,x,3,broken,,,,x,x,,,,,x,,,,x,,x,,,,Your satellite has stopped receiving signals.
+sauna,,x,2,broken,,,,,,,,,,,,,x,,,,,,,"Your sauna went out during the """"Jacuzzi n' Jazz"""" happy hour."
+sidelight,sidelights,,2,broken,,x,x,x,x,x,x,x,x,x,x,x,x,x,,x,x,x,,Your sidelight got smashed in a heated narwhal-tusk fencing match.
+skirt,,x,2,ripped,,,,,,,,,,,,,,,,,,x,,You ripped your skirt while exposing the blower to some friends.
+skydive simulator,,x,5,broken,,,,,,,,,,,,,x,,,,,,,"When the fan suddenly malfunctioned, your skydiving simulator become a free-falling chamber of terror."
+steam room,,x,2,broken,,,,,,,,,,,,,x,,,,,,,"The steam generator blew out during the """"Steamy Seniors"""" steam room happy hour."
+steam turbine,,x,5,broken,,,,,,,,,,x,,,x,x,,x,,,,Your steam turbine failed for no apparent reason.
+steering wheel,,x,2,broken,,x,,x,x,x,x,x,x,x,x,x,x,x,,x,x,x,x,You snapped the steering wheel off while testing how tight a circle you could make in the water.
+swimming pool,swimming pools,,3,damaged,,,,x,,,,,,,,,x,,,,,,,An errant cannonball struck your swimming pool causing severe damage.
+throttle,,x,2,broken,,x,x,x,,,x,x,x,x,,x,x,x,,x,x,x,,Your throttle isn't performing like it used to and is causing some embarrassing dysfunction in the water.
+toilet,,x,2,broken,,,,,,x,x,x,,,,,,,,,,,,You broke the toilet while trying to unclog it using the back end of a triton spear.
+torpedo,torpedos,,5,damaged,,,,,,,,,,,,,,,,x,,,,"You left your torpedo out during a violent storm, and now it's damaged."
+tow line,tow lines,,1,severed,,,,,,,,,,,,,,,,,x,,,"In an attempt to win the ""Masters of Tugboat"" trophy, you pulled too hard and snapped the line."
+trolling motor,,x,2,broken,,,,,,,,,x,,,,,,x,,,,,A hater who hates trolls smashed your trolling motor.
+water pump,,x,2,broken,,x,x,x,x,,x,x,x,x,x,x,x,x,,x,x,x,,"You thought it would be funny if you peed in the water pump, and now it's broken."
+waterslide,,x,3,broken,,,,x,,,,,,,,,x,,,,,,,A drunk guest rode a jet ski down the waterslide and broke it.
+winch,,x,3,broken,,,,,,,,,,x,,,,x,,,x,,,"You attempted to lasso in the ""Yacht o' Hotties,"" but the massive vessel broke your winch."
+windshield,,x,2,cracked,,x,,,,,x,,,,,,,,,,,,,A freak accident involving a <pufferfish/marlin/baby narwhal/sea turtle> cracked your windshield.

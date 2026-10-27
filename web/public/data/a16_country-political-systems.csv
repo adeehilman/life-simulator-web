@@ -1,0 +1,103 @@
+Country,Country Code,National Office Available,Regional Office Available,City Office Available,Local Office Available,Title National,Title National Adjective,National Office Term Limit,National Office Term Years,Title Regional,Title Regional Adjective,Title Regional Specific,Region Jurisdiction,Region Jurisdiction Adjective
+Afghanistan,af,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Algeria,dz,x,x,x,x,prime minister,prime ministerial,0,0,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Andorra,ad,,x,,x,,,,,<jurisdiction adjective> mayor,mayoral,mayor of <region>,parish,parochial
+Angola,ao,x,,x,x,president,presidential,,5,,,,,
+Argentina,ar,x,x,x,x,president,presidential,2,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Aruba,aw,,,,,,,,,,,,,
+Australia,au,x,x,x,x,prime minister,prime ministerial,2,6,<jurisdiction adjective> premier,gubernatorial,premier of <region>,state,state
+Austria,at,x,x,x,x,prime minister,prime ministerial,2,6,<jurisdiction adjective> governor,gubernatorial,governor of <region>,state,state
+Bahamas,bs,x,x,x,x,prime minister,prime ministerial,0,5,<jurisdiction adjective> chief councillor,regional,chief councillor of <region>,district,district
+Bangladesh,bd,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> commissioner,regional,commissioner of <region>,division,divisional
+Belgium,be,x,x,x,x,prime minister,prime ministerial,0,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Belize,bz,,,x,x,,,,,,,,,
+Bolivia,bo,x,,x,x,president,presidential,2,5,,,,,
+Brazil,br,x,x,x,x,president,presidential,2,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,state,state
+Canada,ca,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> premier,gubernatorial,premier of <region>,province,provincial
+Chile,cl,x,x,x,x,president,presidential,1,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+China,cn,,,,,,,,,,,,,
+Colombia,co,x,x,x,x,president,presidential,1,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Costa Rica,cr,x,,x,x,president,presidential,0,4,,,,,
+Croatia,hr,x,,x,x,prime minister,prime ministerial,2,5,,,,,
+Cuba,cu,,,x,x,,,,,,,,,
+Czech Republic,cz,x,x,x,x,prime minister,prime ministerial,2,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,district,district
+Denmark,dk,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> regional chairman,regional,regional chairman of <region>,region,regional
+Djibouti,dj,x,,x,x,president,presidential,0,5,,,,,
+Dominican Republic,do,x,x,x,x,president,presidential,2,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+DR Congo,cd,x,x,x,x,president,presidential,1,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Ecuador,ec,x,x,x,x,president,presidential,2,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Egypt,eg,x,x,x,x,president,presidential,2,6,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+El Salvador,sv,x,,x,,president,presidential,1,5,,,,,
+Estonia,ee,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,county,county
+Ethiopia,et,x,,x,x,prime minister,prime ministerial,0,0,,,,,
+Finland,fi,x,,x,x,prime minister,prime ministerial,0,4,,,,,
+France,fr,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,region,regional
+Georgia,ge,x,x,x,x,prime minister,prime ministerial,0,0,<jurisdiction adjective> governor,gubernatorial,governor of <region>,region,regional
+Germany,de,x,x,x,x,federal chancellor,presidential,0,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,state,state
+Greece,gr,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,region,regional
+Guatemala,gt,x,,x,x,president,presidential,1,4,,,,,
+Guyana,gy,,,x,,,,,,,,,,
+Haiti,ht,x,,x,,president,presidential,1,5,,,,,
+Hong Kong,hk,,x,x,x,,,,,<jurisdiction adjective> chief executive,regional,chief executive of <region>,region,regional
+Hungary,hu,x,,x,x,prime minister,prime ministerial,0,4,,,,,
+India,in,x,x,x,x,prime minister,prime ministerial,0,5,<jurisdiction adjective> chief minister,regional,chief minister of <region>,state,state
+Indonesia,id,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,state,state
+Iran,ir,,,,,,,,,,,,,
+Iraq,iq,x,x,x,x,prime minister,prime ministerial,2,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,region,regional
+Ireland,ie,x,x,x,x,prime minister,prime ministerial,0,5,<jurisdiction adjective> chief executive,regional,chief executive of <region>,county,county
+Israel,il,x,,x,x,prime minister,prime ministerial,0,4,,,,,
+Italy,it,x,x,x,x,prime minister,prime ministerial,0,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,region,regional
+Jamaica,jm,x,,x,x,prime minister,prime ministerial,0,5,,,,,
+Japan,jp,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,prefecture,prefectural
+Jordan,jo,x,x,x,x,prime minister,prime ministerial,0,0,<jurisdiction adjective> governor,gubernatorial,governor of <region>,region,regional
+Kazakhstan,kz,x,,x,x,president,presidential,2,5,,,,,
+Kenya,ke,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,county,county
+Kuwait,kw,,,x,x,,,,,,,,,
+Lebanon,lb,x,x,x,x,prime minister,prime ministerial,0,6,<jurisdiction adjective> governor,gubernatorial,governor of <region>,region,regional
+Malaysia,my,x,x,x,x,prime minister,prime ministerial,0,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,state,state
+Mexico,mx,x,x,x,x,president,presidential,1,6,<jurisdiction adjective> governor,gubernatorial,governor of <region>,state,state
+Monaco,mc,,,x,x,,,,,,,,,
+Mongolia,mn,x,x,x,x,president,presidential,2,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Morocco,ma,,,x,x,,,,,,,,,
+Nepal,np,x,x,x,x,prime minister,prime ministerial,0,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Netherlands,nl,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+New Zealand,nz,x,,x,x,prime minister,prime ministerial,0,0,,,,,
+Nicaragua,ni,x,,x,,president,presidential,,5,,,,,
+Nigeria,ng,x,x,x,x,president,presidential,2,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,state,state
+Norway,no,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> chairman,regional,chairman of <region>,county,county
+Pakistan,pk,x,x,x,x,prime minister,prime ministerial,0,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Panama,pa,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Papua New Guinea,pg,,x,,,,,,,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Paraguay,py,x,x,x,x,president,presidential,1,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,department,departmental
+Peru,pe,x,x,x,x,president,presidential,0,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Philippines,ph,x,x,x,x,president,presidential,1,6,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Poland,pl,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Portugal,pt,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,district,district
+Puerto Rico,pr,,x,x,x,,,,,<jurisdiction adjective> governor,gubernatorial,governor of <region>,territory,territorial
+Qatar,qa,,,x,x,,,,,,,,,
+Romania,ro,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,county,county
+Russia,ru,x,x,x,x,president,presidential,2,6,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Samoa,ws,,,,,,,,,,,,,
+Saudi Arabia,sa,,,x,x,,,,,,,,,
+Serbia,rs,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Singapore,sg,x,,x,x,prime minister,prime ministerial,0,5,,,,,
+Slovakia,sk,x,x,x,x,prime minister,prime ministerial,2,5,<jurisdiction adjective> chairman,regional,chairman of <region>,region,regional
+South Africa,za,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> premier,regional,premier of <region>,province,provincial
+South Korea,kr,x,x,x,x,president,presidential,1,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Spain,es,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Sweden,se,x,x,x,x,prime minister,prime ministerial,0,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,county,county
+Switzerland,ch,x,,x,x,president,presidential,1,4,,,,,
+Syria,sy,,,x,x,,,,,,,,,
+Taiwan,tw,x,x,x,x,president,presidential,2,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,county,county
+Thailand,th,x,x,x,x,prime minister,prime ministerial,2,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Tunisia,tn,x,,x,x,president,presidential,2,5,,,,,
+Turkey,tr,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+Uganda,ug,x,,x,,president,presidential,,5,,,,,
+Ukraine,ua,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial
+United Arab Emirates,ae,,,x,x,,,,,,,,,
+United Kingdom,gb,x,x,x,x,prime minister,prime ministerial,0,5,<jurisdiction adjective> council chair,regional,<region> council chair,county,county
+United States,us,x,x,x,x,president,presidential,2,4,<jurisdiction adjective> governor,gubernatorial,governor of <region>,state,state
+Uruguay,uy,x,x,x,x,president,presidential,0,5,<jurisdiction adjective> chief executive,regional,chief executive of <region>,department,department
+Venezuela,ve,x,x,x,x,president,presidential,0,6,<jurisdiction adjective> governor,gubernatorial,governor of <region>,state,state
+Vietnam,vn,,,x,x,,,,,,,,,
+Zimbabwe,zw,x,x,x,x,president,presidential,2,5,<jurisdiction adjective> governor,gubernatorial,governor of <region>,province,provincial

@@ -1,0 +1,65 @@
+Feedback Color,Requires Real Actor,Hero Inactive,Hero Emigrated,Commonness Score,Agent Min Reputation,Agent Max Reputation,Hero Min Reputation,Hero Max Reputation
+<he/she> says <he/she> wants to focus <his/her> efforts on people more famous than you.,,,,5,60,,,60
+<he/she> says it's because no one <likes/wants to work with/can tolerate working with/can stand/enjoys> you.,,,,4,,,,40
+<he/she> says <he/she> has been in the industry long enough to identify a sinking ship when <he/she> sees one.,,,,3,60,,,30
+<he/she> says it's because it's evident you've peaked.,,,,3,40,,,50
+<he/she> says your career's gotten too big for <him/her> to handle.,,,,1,,50,70,
+<he/she> says it's because working with you is a pain in the <neck/ass>.,,,,2,,,,30
+<he/she> says it's because you're <basic/full of yourself/too big for your britches/not worth the time/not worth the effort>.,,,,3,,,,30
+<he/she> says it's because you don't pay <him/her> enough to put up with you.,,,,3,,,,30
+<he/she> says it's because <he/she> is tired of trying to maintain your public image.,,,,4,,,,30
+<he/she> says it's because you can't act your way out of a paper bag.,,,,3,,,,30
+<he/she> says it's because you keep making <bad/all the wrong/the worst/terrible/disgraceful/career-ending/poor/unintelligent> choices.,,,,4,,,,30
+<he/she> says it's because <he/she> isn't equipped to handle your drama off-screen.,,,,3,,50,,40
+"<he/she> said <he/she> wants to hitch <his/her> wagon to a rising star, not a supernova.",,,,2,40,,,30
+<he/she> said it's because you're odd.,,,,4,,,,
+<he/she> said it's because <he/she> wasn't cut out to represent you.,,,,3,,50,60,
+<he/she> said <he/she> is tired of cleaning up your messes.,,,,3,,,,40
+<he/she> said <he/she> can't waste any more time on your career.,,,,3,40,,,50
+"<he/she> said <he/she> wishes circumstances were different, but they're not.",,,,3,,,,
+<he/she> said <he/she> hopes you keep in touch.,,,,3,,,,
+<he/she> said <he/she> has plans for <his/her> life that don't include you.,,,,3,,50,,
+<he/she> said <his/her> life coach said it would be healthy to drop you as a client.,,,,3,,50,,
+<he/she> said <his/her> astrologist told <him/her> that working with you just isn't written in the stars.,,,,3,,50,,
+<he/she> said <his/her> tarot reader told <him/her> that working with you just isn't in the cards.,,,,3,,50,,
+<he/she> said working with you is too challenging.,,,,2,50,,,40
+<he/she> said it's because you keep embarrassing <him/her>.,,,,3,,,,40
+"<he/she> said it's because a celebrity's career is supposed to be an embarrassment of riches, not a flat-out embarrassment.",,,,1,,,,30
+<he/she> gave no explanation why.,,,,5,,,,
+<his/her> courier delivered a handwritten note saying '<I'm done with you/our relationship is terminated/you've been dumped!/don't ever call me again>'.,,,,2,50,,,40
+<he/she> said <he/she>'s going into partial retirement and eliminating half <his/her> clients. ,,,,2,50,,,50
+<he/she> said <he/she>'s going into partial retirement and eliminating <his/her> least-profitable clients. ,,,,2,50,,,50
+<he/she> said it's because you're too successful and <he/she> can't keep up.,,,,3,,60,60,
+<he/she> said you're successful enough to manage your own career.,,,,1,,,80,
+<he/she> said it's because <he/she> wants to <take an extended vacation/travel around the world>.,,,,2,,,,
+<he/she> said managing you is a full-time job and <he/she> was just looking for a part-time gig.,,,,2,,50,,
+<he/she> said <he/she> just hired <his/her> own agent because <he/she> wants to try <his/her> hand at acting.,,,,2,,,,
+<he/she> said it's because <real-actor> had some not-so-nice things to say about you.,x,,,3,65,,,65
+<he/she> says <he/she> simply doesn't have the time to represent you anymore.,,,,5,40,,,20
+<he/she> says <he/she> wants to focus on representing <real-actor>.,x,,,4,50,,,70
+<he/she> says <real-actor> offered to pay <him/her> a higher commission.,x,,,5,70,,,
+<he/she> says <real-actor> is looking for a new agent and <he/she> wants to apply for the job.,x,,,5,,,,
+"<he/she> says <he/she> would rather work for someone with real talent, like <real-actor>.",x,,,4,40,,,20
+"<he/she> says <real-actor> has been hounding <him/her> for <days/weeks/months>, so <he/she> might as well represent a real star.",x,,,4,50,,,50
+<he/she> said <real-actor> made <him/her> an offer <he/she> couldn't refuse.,x,,,3,80,,,70
+<he/she> said <real-actor> finally noticed <him/her> and is giving <him/her> a shot at representing greatness.,x,,,3,,60,,
+<he/she> said <his/her> time is better spent on representing <real-actor>.,x,,,3,60,,,
+<he/she> says it's because you're <lazy/unorganized/not worth the effort/too disinterested in your career/beyond help/not worth helping because you don't help yourself>.,,x,,4,,,,50
+<he/she> says <he/she>'s not interested in putting in the work if you're not willing to do the same.,,x,,3,,,,50
+<he/she> says it's apparent you really don't care about your career.,,x,,3,,,,
+<he/she> says it's because you're wasting your potential.,,x,,3,,,,
+<he/she> says it's because you're going nowhere fast.,,x,,3,,,,
+<he/she> asked how you can expect <him/her> to be motivated when it's clear that you aren't.,,x,,3,,,,
+<he/she> said it's because <he/she> is tired of being asked if you're still alive.,,x,,3,,,,
+"<he/she> said it's not because of something you did wrong, it's because you don't do anything at all.",,x,,2,,,,25
+<he/she> said you're not <relevant/fresh/intriguing/interesting> any more.,,x,,5,,,,20
+"<he/she> said no one knows who you are, so you're not worth representing.",,x,,5,,,,20
+<he/she> said <he/she>'s tired of you going absolutely nowhere.,,x,,4,,,,50
+"<he/she> says <he/she>'s only interested in representing local talent, not talent abroad.",,,x,3,,,,
+<he/she> says <he/she> doesn't know how to market you in <country>.,,,x,3,,50,,
+<he/she> says it's because <he/she> doesn't know how the industry works in <country>.,,,x,3,,,,
+<he/she> said that trying to manage your career in a foreign country would take too much of <his/her> time.,,,x,5,,,,
+"<he/she> says you're not invested in your career, or being in the country, so <he/she> is going to represent <real-actor> instead.",x,x,x,5,,,,
+"<he/she> says it's because <he/she> wants to represent <real-actor>, who has the <ambition/gumption/can-do attitude/drive/passion> you seem to lack.",x,x,,5,,,,
+<he/she> says <real-actor> is easier to represent since <he/she> is in the country and you're not.,x,,x,5,,,,
+"<he/she> says <he/she> can't find work for someone who doesn't want to work, especially if they're living abroad.",,x,x,5,,,,

@@ -1,0 +1,35 @@
+Scenario,Log Version,Ask To Leave,Person Gender,Anger Score,Is Universal
+A cop just asked you to kindly leave <hustle-street>.,A cop asked me to leave <hustle-street>.,x,,1,x
+A cop just said he doesn't believe you're as poor as you're pretending to be.,A cop accused me of pretending to be poor.,,male,1,
+A cop just asked you to leave <hustle-street> forever.,A cop asked me to leave <hustle-street>.,x,female,1,x
+"A cop just approached you and said he's not looking for trouble, but needs you to move off of <hustle-street>.",A cop asked me to leave <hustle-street>.,x,male,1,x
+A cop just called you <insult> and ordered you to leave <hustle-street>.,A cop called me <insult> and said I should leave <hustle-street>.,x,,2,x
+A cop just told you to hit the road or he'll hit you.,A cop told me to leave <hustle-street>.,x,male,2,x
+A cop across the street just shook his fist at you.,A cop shook his fist at me.,,male,2,x
+"A cop just said if you wont leave <hustle-street> willingly, she'll make you leave.",A cop warned me to leave <hustle-street>.,x,female,2,x
+A cop just shouted at you for pestering pedestrians for cash.,A cop shouted at me for panhandling.,,,2,
+A cop is staring at you from across the street while twirling her handcuffs around her finger.,A cop threatened to arrest me.,,female,2,x
+A cop just told you to leave <hustle-street> and never come back.,A cop told me to leave <hustle-street>.,x,female,2,x
+A cop just stood next to you and informed you that his specialty is ridding the world of riffraff.,A cop told me to not cause problems.,,male,2,x
+A cop just asked you to move along.,A cop asked me to move to a new spot.,,,3,x
+A cop just threatened to mace you for being a resident menace on <hustle-street>.,A cop threatened me with mace.,,,3,x
+A cop is threatening to lock you up if you don't leave <hustle-street> ASAP. ,A cop threatened to lock me up if I didn't leave <hustle-street>.,x,,3,x
+"A cop just made eye contact with you while snapping a twig in half, then said you're next if you don't leave <hustle-street>.",A cop threatened to snap me like a twig if I didn't leave <hustle-street>.,,,3,x
+"A cop across the street just locked eyes with you and is mouthing the words ""<Leave now/Get out of here/Scram, trash/You're garbage/Move along now/Get off of my street>"".",A cop tried to threaten me into moving off of <hustle-street>.,x,,3,
+A cop just pulled up and sounded his siren as you approached <random-person-indefinite>.,A cop sounded his siren at me.,,male,3,
+A cop just approached you saying she's had enough of your shenanigans and wants you to leave <hustle-street>.,A cop asked me to leave <hustle-street>.,x,female,3,x
+A cop just aimed a taser at you while warning you to leave <hustle-street> for good.,A cop pointed a taser at me and warned me to leave <hustle-street>.,x,,4,x
+A cop is threatening to lock you in her car and make you listen to <Rick Astley/Nickelback/Vanilla Ice/Steven Seagal/Joe Pesci/Lindsay Lohan/Paris Hilton>'s entire discography if you don't leave <hustle-street> immediately.,A cop threatened me with cruel and unusual punishment if I didn't leave <hustle-street>.,x,female,4,x
+A cop just shoved you against a brick wall and said he'd better never see your face around <hustle-street> again.,A cop shoved me against a brick wall and told me to leave <hustle-street>.,x,male,5,x
+A cop just poked his finger into your chest and said he doesn't like having scum like you on his street.,A cop poked me in the chest with his finger.,,male,3,
+A cop is threatening to kick you off the street if you don't pack your crap and leave <hustle-street>.,A cop threatened to kick me off the street if I didn't leave <hustle-street>.,x,,5,x
+A cop just stuck his baton in your face and said either hit the road or get hit by this.,A cop stuck his baton in my face and threatened to hit me with it.,,male,4,x
+"A cop just pointed his taser at you and said ""pew pew"".",A cop mimicked shooting me with his taser.,,male,3,x
+"A cop just pulled out her mace and said it's a perfume called ""Eau de <hero-last-name>"". She said you'll be wearing it all day if you cause any trouble.",A cop threatened to mace me.,,female,4,x
+A cop twirling <his/her> baton just walked by and glared at you.,A cop glared at me while twirling <his/her> baton.,,,1,x
+A cop just spat at your feet as <he/she> walked by.,A cop spat at my feet.,,,3,x
+A cop just threw her <empty coffee cup/used tampon> at you.,A cop threw her <rb> at me.,,female,3,x
+A cop just pulled out a pair of handcuffs and said <he/she> would love to see you in them.,A cop threatened to arrest me.,,,4,x
+A cop just opened the back door of <his/her> car and said you'll be going for a ride with <him/her> if you cause any trouble.,A cop threatened to arrest me if I caused trouble.,,,4,x
+A cop just threatened to lock you up if <he/she> sees you harassing people for change.,A cop threatened to lock me up.,,,2,
+"A cop just told you that you put the ""ass"" in ""harass"".",A cop called me an ass.,,,1,
