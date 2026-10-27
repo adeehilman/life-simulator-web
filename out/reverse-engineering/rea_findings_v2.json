@@ -1,0 +1,131 @@
+{
+  "source": "REA inspect_il2cpp_metadata + inspect_analysis_view + dump.cs cross-verification",
+  "audit_date": "2026-10-27",
+  "note": "This file supersedes rea_metadata_findings.json with critical RVA corrections and multi-RNG model findings.",
+  "metadata": {
+    "path": "work/apk/assets/bin/Data/Managed/Metadata/global-metadata.dat",
+    "sha256": "11f00a16e1d352c14ba9c7f1501f823f199fbe0987f738416f1c7ae445222930",
+    "bytes": 19174212,
+    "metadata_version": 39,
+    "counts": { "types": 22321, "methods": 152433, "fields": 116148, "string_literals": 72143 }
+  },
+  "critical_rva_corrections": {
+    "note": "The Ghidra 20-method batch (out/REPORT_MECHANICS_20METHODS.md) used WRONG addresses for two RNG entry points. dump.cs confirms the correct RVAs below. The batch's 'DataHub_GetRandomNumber @ 0x15c11e4' is actually DataHub.GetSafeInt, and 'GameReference_GetRandomNumber @ 0x1f6e4b0' is NOT the GetRandomNumber method.",
+    "corrections": [
+      {
+        "method": "DataHub.GetRandomNumber(int min, int max)",
+        "correct_rva": "0x15C4E50",
+        "wrong_rva_used_in_batch": "0x15C11E4",
+        "what_wrong_rva_actually_is": "DataHub.GetSafeInt(string value, bool defaultToOne)",
+        "evidence": ["dump.cs L64961 RVA 0x15C4E50", "dump.cs L64964 RVA 0x15C11E4", "method_by_address.json 0x015c4e50", "REA metadata method index 10661"]
+      },
+      {
+        "method": "GameReference.GetRandomNumber(int min, int max)",
+        "correct_rva": "0x1F6E348",
+        "wrong_rva_used_in_batch": "0x1F6E4B0",
+        "evidence": ["dump.cs L81030 RVA 0x1F6E348", "method_by_address.json 0x01f6e348"]
+      }
+    ],
+    "impact": "The correct DataHub.GetRandomNumber at 0x15C4E50 has NOT been decompiled by Ghidra yet. The 20-method batch conclusions about RNG wrapper behavior are invalid because they analyzed the wrong functions."
+  },
+  "rng_model": {
+    "note": "The earlier assumption of 'one static System.Random for the whole process' is INCORRECT. There are multiple game-level RNG instances.",
+    "instances": [
+      {
+        "class": "DataHub",
+        "field": "getrandom",
+        "declaration": "private static readonly Random getrandom; // 0xA74",
+        "offset": "0xA74",
+        "role": "Main game RNG. DataHub.GetRandomNumber(int,int) at 0x15C4E50 routes through this.",
+        "evidence": "dump.cs L64284; REPORT_MECHANICS.md confirms DataHub+0xA74"
+      },
+      {
+        "class": "GameReference",
+        "field": "getrandom",
+        "declaration": "private static readonly Random getrandom; // 0xC",
+        "offset": "0xC",
+        "role": "Second independent game RNG. GameReference.GetRandomNumber(int,int) at 0x1F6E348.",
+        "evidence": "dump.cs L80988"
+      },
+      {
+        "class": "RouletteBetItem",
+        "field": null,
+        "method": "GetRandomNumber()",
+        "rva": "0x1FBCDB8",
+        "role": "Third RNG entry point for casino/roulette. No-arg overload.",
+        "evidence": "dump.cs L252172; method_by_address.json 0x01fbcdb8"
+      },
+      {
+        "class": "GenesisFeatureContainerListDataSourceProvider",
+        "field": "_rng",
+        "declaration": "private static readonly Random _rng; // 0x4",
+        "offset": "0x4",
+        "role": "Genesis-specific RNG instance.",
+        "evidence": "dump.cs L288705"
+      },
+      {
+        "class": "System.Random",
+        "field": "s_globalRandom / t_threadRandom",
+        "role": ".NET framework-level static instances. Not game-specific.",
+        "evidence": "dump.cs L417617-417618"
+      }
+    ],
+    "content_selection_methods": {
+      "note": "DataHub contains hundreds of GetRandom* content-selection methods. These likely all route through DataHub.getrandom but each consumes RNG draws differently. Full list in out/il2cpp/method_by_address.json.",
+      "count_estimate": "300+",
+      "examples": ["GetRandomCountry 0x01761eb0", "GetRandomFood 0x017f1420", "GetRandomPastime 0x017fc700", "GetGenesisScenarioRandom 0x01838ba4"]
+    }
+  },
+  "type_indices": {
+    "DataHub": { "index": 1022, "method_start": 10527, "method_count": 2366, "field_count": 940 },
+    "GameReference": { "index": 1418, "method_start": 14360, "method_count": 121 },
+    "Life": { "index": 1534, "method_start": 15949, "method_count": 755, "field_count": 318 },
+    "SimPerson": { "index": 5343, "method_start": 40597, "method_count": 325 },
+    "System.Random": { "index": 9144, "method_start": 69236, "method_count": 12 },
+    "UnityEngine.Random": { "index": 14760, "method_start": 111592, "method_count": 4 }
+  },
+  "verified_rva_map": {
+    "note": "Cross-verified between REA metadata indices, dump.cs RVA comments, and method_by_address.json.",
+    "DataHub.GetRandomNumber": "0x15C4E50",
+    "DataHub.GetSafeInt": "0x15C11E4",
+    "GameReference.GetRandomNumber": "0x1F6E348",
+    "GameReference.AttributeAdjustmentPointsForImpactScore": "0x1F760A0",
+    "RouletteBetItem.GetRandomNumber": "0x1FBCDB8",
+    "Life.ValidateAndSetScenario": "0x02575954",
+    "Life.IncrementAge": "0x02575DF4",
+    "Life.IncrementAgeSimulation": "0x02575E18",
+    "Life.IncrementAgeUI": "0x0257B1AC",
+    "SimPerson.ImpactHappiness": "0x1D10A3C",
+    "System.Random.Sample": "0x047E1060",
+    "System.Random.InternalSample": "0x047E1088",
+    "System.Random.Next": "0x047E1178",
+    "System.Random.NextDouble": "0x047E1428",
+    "UnityEngine.Random.Range": "0x05047DB8"
+  },
+  "life_field_inventory": {
+    "total": 318,
+    "note": "Complete 318-field inventory from REA. Key state groups: Hero/World/Past/Death, Father/Mother/Lover/_ChildArray, Finances/_Portfolio, Occupation/DiseaseArray/AddictionArray, _HouseArray/_CarArray/_PetArray, GenesisData/_genesisEntities/_featureContainerKeys/_featureContainerValues, Casino/Zoo/Racing/Outdoor/SeniorCenter/SpyAgency/PodCast/_fightClub/_MusicProfession."
+  },
+  "what_rea_solved": [
+    "Independently validated metadata v39 decode (22,321 types, 152,433 methods, 116,148 fields).",
+    "Provided type indices and method_start positions for all key classes.",
+    "Provided complete 318-field Life state inventory.",
+    "Provided System.Random 12-method inventory with metadata indices.",
+    "Enabled cross-verification that exposed the RVA errors in the Ghidra 20-method batch.",
+    "Confirmed multiple independent RNG instances rather than one global RNG."
+  ],
+  "what_rea_could_not_solve": [
+    "No deep native provider (Ghidra/IDA/Hopper) available on this Windows host for ARM ELF.",
+    "libil2cpp.so is 32-bit ARM; REA binary_path linking requires 64-bit, so native method addresses were not linked through REA.",
+    "Function boundaries, prototypes, and FUN_*/DAT_* resolution still require a native disassembler.",
+    "The correct DataHub.GetRandomNumber at 0x15C4E50 has not been decompiled yet.",
+    "Seed source, call order, and per-annual draw counts remain unverified.",
+    "Runtime capture remains blocked by WSA ARM64-on-x86_64 Houdini translation."
+  ],
+  "next_steps": [
+    "Decompile the CORRECT DataHub.GetRandomNumber at 0x15C4E50 to confirm it routes through DataHub.getrandom (offset 0xA74).",
+    "Decompile GameReference.GetRandomNumber at 0x1F6E348 to determine if it uses GameReference.getrandom (offset 0xC) or UnityEngine.Random.",
+    "Map which of the 300+ DataHub.GetRandom* content methods are called during Life.IncrementAgeSimulation to build the annual RNG consumption model.",
+    "Use the 318 Life field inventory to drive typed domain reducer implementation in the web port."
+  ]
+}

@@ -10,17 +10,57 @@ faithful rebuild the way stat math and RNG do.
 
 ---
 
-## 1. RNG — `DataHub.GetRandomNumber(int min, int max)` @ `0x15C4E50`
+## 1. RNG — recovered (byte-level, see `out/REPORT_RNG_3253.md`)
+
+The matching 3.25.3 dump declares two independent static `System.Random` fields:
 
 ```
-DataHub.getrandom  (static readonly System.Random, DataHub+0xA74)
-  -> vtable[0xF0]  ==  System.Random.Next(int, int)
-  -> return
+DataHub.getrandom       (static readonly System.Random, DataHub+0xA74)
+GameReference.getrandom (static readonly System.Random, GameReference+0xC)
 ```
 
-It is **`System.Random`**, not `UnityEngine.Random`. One static instance for the whole
-process, created in `DataHub..cctor` (`0x18B0B30`) with no explicit seed, so the seed
-is `Environment.TickCount` and every fresh launch differs.
+Both are created in their class's static constructor with the **parameterless**
+`new Random()`:
+
+- `DataHub..cctor` @ `0x18B0B30`: `il2cpp_object_new(System.Random)` at `0x18B0CC4`,
+  ctor via veneer `0x20B89A4` → `System.Random..ctor()` @ `0x047E0BA4`, stored at
+  `DataHub+0xA74`.
+- `GameReference..cctor` @ `0x1F7F5D8`: same veneer/ctor at `0x1F7F7A8`/`0x1F7F7B4`,
+  stored at `GameReference+0xC`.
+
+`System.Random..ctor()` @ `0x047E0BA4` calls `GenerateSeed()` @ `0x047E0C10` then
+tail-calls `Random(int seed)` @ `0x047E0DFC` (which allocates the 56-byte `int[14]`
+seed array at `this+0x10`). `GenerateSeed` is thread-safe (`Monitor.Enter`/`Exit`) and
+draws its value from a virtual call at `vtable+0xE8` — a time-based source, not a fixed
+constant. The exact runtime seed value is not recoverable statically.
+
+Both wrappers call the same virtual method at `vtable+0xF0` with `(this, min, max)`:
+
+- `DataHub.GetRandomNumber(int,int)` @ `0x15C4E50` → `Random.Next(min, max)` on
+  `DataHub.getrandom`, wrapped in `Monitor.Enter`/`Monitor.Exit`.
+- `GameReference.GetRandomNumber(int,int)` @ `0x1F6E348` → `Random.Next(min, max)` on
+  `GameReference.getrandom`, also under `Monitor`, with a pre-clamp
+  `if (max <= 1) max = 1`.
+
+`Next(min, max)` is .NET semantics: `(int)(Sample() * (max - min)) + min`, so the
+result is in `[min, max)` — **max is exclusive** — and each call consumes one
+`InternalSample()` draw.
+
+**Annual routing (proven negative for UnityEngine.Random):**
+`tools/callgraph.py` over `Life.IncrementAgeSimulation` (`0x02575E18`..`0x0257B1AC`,
+1592 direct calls) finds exactly one RNG call-site —
+`0x0257AB20 BL GameReference$$GetRandomNumber` — and no `UnityEngine.Random` call at
+all (the only UnityEngine call is `UnityEvent<int>.Invoke`, an event dispatch).
+`Life.IncrementAge` @ `0x02575DF4` is a three-call wrapper:
+`IncrementAgeSimulation` → `IncrementAgeUI` → `GenesisMemory.IncrementAge`.
+
+`UnityEngine.Random.Range` exists as a separate API (`0x05047DB8`, `0x05047E0C`) but is
+NOT used on the annual path. `DataHub.GetRandomNumber` is not called directly from the
+annual entry points; it is reached from deeper scenario/content helpers.
+
+Evidence: `out/REPORT_RNG_3253.md`, `out/reverse-engineering/callgraph_*.txt`,
+`tools/callgraph.py`, `tools/disasm2.py`. The Ghidra pseudo-C in
+`out/ghidra/rng_3253.c` is NOT used as proof (unresolved `FUN_*`/`DAT_*`, stub `.cctor`).
 
 Consequence for the port: `Math.random()` is *not* a substitute — `System.Random`'s
 consumption pattern differs and any seeded reproducibility work (daily challenges,

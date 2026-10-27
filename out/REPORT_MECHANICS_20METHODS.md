@@ -13,8 +13,13 @@ Source: `out/ghidra/decompiled_20methods.c`, `out/il2cpp/dump.cs`, and `out/il2c
   - `0x1F760A0` — `GameReference.AttributeAdjustmentPointsForImpactScore` in `dump.cs`.
   - `0x1D10B48` — `SimPerson.ImpactHappiness` in `dump.cs`.
   - `0x1D10C44` — `SimPerson.ImpactHealth` in `dump.cs`.
-  - `0x15C11E4` — `DataHub.GetRandomNumber` in `dump.cs`.
-  - `0x1F6E4B0` — `GameReference.GetRandomNumber` in `dump.cs`.
+  - `0x15C11E4` — WRONG target for `DataHub.GetRandomNumber`; `dump.cs` identifies it as `DataHub.GetSafeInt`.
+  - `0x1F6E4B0` — WRONG target for `GameReference.GetRandomNumber`; `dump.cs` identifies it as `GameReference.GetRandomDouble`.
+
+The native input and metadata are a consistent BitLife 3.25.3 pair. The two RNG
+entries are target-address errors only, not binary/provenance errors. Correct targets
+are `DataHub.GetRandomNumber` @ `0x15C4E50` and `GameReference.GetRandomNumber`
+@ `0x1F6E348`.
 
 ## What is safe to use
 

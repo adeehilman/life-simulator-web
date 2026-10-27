@@ -74,11 +74,27 @@ export class MonoRandom {
     return ret;
   }
 
-  /** Random.Next(min, max) — inclusive lower bound, exclusive upper. */
+  /**
+   * Random.Next(min, max) — inclusive lower bound, exclusive upper.
+   *
+   * Expression taken verbatim from the BitLife 3.25.3 native binary,
+   * `System.Random$$Next(int,int)` @ 0x047E11D0 (out/REPORT_RNG_3253.md §6b):
+   *   blx r2                  ; Sample() -> double
+   *   bl  0x3088d20           ; (long)diff -> double
+   *   vmul.f64 d16, d17, d16  ; Sample() * (double)diff
+   *   vcvt.s32.f64 s0, d16    ; (int)
+   *   add r0, r0, r4          ; += minValue
+   * i.e. (int)(Sample() * (double)diff) + min, with Sample() = sample * (1/MBIG).
+   *
+   * The earlier pre-dividing form `Math.floor(sample * (range / MBIG))` is
+   * empirically interchangeable (500k triples, zero divergence — see
+   * docs/RNG_DIVERGENCE.md), but this matches what the game executes.
+   */
   next(min = 0, max = MBIG): number {
     if (min > max) [min, max] = [max, min];
     const range = max - min;
-    return range <= MBIG ? min + Math.floor(this.sample() * (range / MBIG)) : min;
+    if (range > MBIG) throw new Error('Random.Next(min,max) with range > Int32.MaxValue is unsupported');
+    return min + Math.trunc(this.sample() * (1 / MBIG) * range);
   }
 
   /** Random.Next() — 0 .. MBIG-1. */

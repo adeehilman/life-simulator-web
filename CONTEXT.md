@@ -80,8 +80,28 @@ Goal: port BitLife 3.25.3 (com.candywriter.bitlife) to web/PWA, rebuild as close
      Sim.UpdateStatesForAge.
      out/ghidra/decompiled_6methods.c — + UnityEngine.Random.Range(float/int):
        RangeFloat = thin vtable delegate; RangeInt calls native FUN_050473f8 +
-       telemetry. RNG itself is Unity builtin (not custom) → web port can use
-       any seeded PRNG; exact sequence not needed for identical-feel rebuild.
+       telemetry. This proves UnityEngine.Random exists as a separate API, but does
+       not prove it is the annual RNG. The matching 3.25.3 dump also declares
+       static System.Random fields DataHub.getrandom (+0xA74) and
+       GameReference.getrandom (+0xC).
+     out/ghidra/rng_3253.c — Ghidra output for the corrected-address targets.
+       GetRandomNumber bodies have real boundaries but unresolved FUN_*/DAT_*;
+       both .cctor were single-point stubs in the existing project, so their
+       pseudo-C is meaningless. Do NOT use this file as semantic proof.
+     out/REPORT_RNG_3253.md — AUTHORITATIVE byte-level RNG evidence (disasm2.py):
+       - DataHub..cctor @ 0x18B0B30 creates new Random() (parameterless, veneer
+         0x20B89A4 -> System.Random..ctor @ 0x047E0BA4) and stores at +0xA74.
+       - GameReference..cctor @ 0x1F7F5D8 creates new Random() (same veneer) and
+         stores at +0xC.
+       - Random..ctor() calls GenerateSeed() @ 0x047E0C10 then Random(int) @
+         0x047E0DFC; no fixed explicit seed.
+       - DataHub.GetRandomNumber @ 0x15C4E50 and GameReference.GetRandomNumber @
+         0x1F6E348 both call the virtual method at vtable+0xF0 with (this,min,max)
+         = Random.Next(min,max), max EXCLUSIVE, under Monitor.Enter/Exit.
+       - GameReference.GetRandomNumber clamps max to 1 when max <= 1.
+       - tools/callgraph.py: Life.IncrementAgeSimulation @ 0x02575E18..0x0257B1AC
+         calls GameReference.GetRandomNumber at 0x0257AB20 and contains NO
+         UnityEngine.Random call. Annual RNG = System.Random.
      out/ghidra/decompiled_8methods.c — + ZooAnimal.GetHappiness(zoo) 0x1BDB3CC,
        SimPerson.GetSmarts 0x1BDB8E8: stat getters read from LOOKUP TABLES
        (DAT_... + index*4, branch on *(r5+0x1c) = gender), not arithmetic.

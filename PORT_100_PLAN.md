@@ -6,6 +6,10 @@ Tanggal dibuat: 2026-10-27
 Status dokumen: aktif
 Sumber kebenaran progress: file ini + `PORT_MASTER_TODO.md` + `out/EVIDENCE_LEDGER.json`.
 
+Kebijakan versi aktif (dikoreksi 2026-10-27): target semantic adalah BitLife 3.25.3/versionCode 1066. `input/3.26.0/`, `out/3.26.0/`, dan seluruh oracle/runtime `out/oracle/*3.26.0*` adalah referensi delta saja; jangan dipakai sebagai sumber kebenaran target.
+
+Native target 3.25.3 tervalidasi sebagai pasangan `work/native/libil2cpp.so` + `work/apk/assets/bin/Data/Managed/Metadata/global-metadata.dat`; binary ELF32 ARM adalah benar karena berasal dari split `armeabi-v7a`.
+
 ## Definisi 100%
 
 Port hanya boleh dinyatakan 100% jika semua gate berikut memiliki bukti:
@@ -194,9 +198,15 @@ Gate: final report contains zero unexplained parity gaps.
 - 20 Ghidra target addresses exported; 145 of 147 FUN references unresolved in the current 14-method resolution set.
 - Full Genesis interpreter, typed domain reducers, exact APK deck semantics, UI parity, full audio mapping, and APK regression fixtures are not complete.
 
-## Progress log
+### 2026-10-27 (RNG recovery batch)
 
-### 2026-10-27
+- ✅ [Ledger] — status native 3.25.3 dipulihkan dari INVALID; entri koreksi hash + klasifikasi "target address salah" untuk 0x15C11E4/0x1F6E4B0 ditambahkan di `out/EVIDENCE_LEDGER.json` (versionCorrection + gateEvidence.legacy_native_findings).
+- ✅ [Plan/Report] — `PORT_100_PLAN.md` dan `STATUS_REPORT.md` ditetapkan ke target 3.25.3; 3.26.0 = referensi delta saja.
+- ✅ [Decompile GetRandomNumber] — `out/ghidra/rng_3253.c` (Ghidra, boundary nyata) + byte-level `tools/disasm2.py`: `DataHub.GetRandomNumber` @ 0x15C4E50 dan `GameReference.GetRandomNumber` @ 0x1F6E348 keduanya memanggil virtual method di `vtable+0xF0` dengan `(this,min,max)` = `Random.Next(min,max)`, max EKSKLUSIF, di bawah `Monitor.Enter/Exit`.
+- ✅ [Decompile .cctor] — byte-level `out/REPORT_RNG_3253.md`: `DataHub..cctor` @ 0x18B0B30 dan `GameReference..cctor` @ 0x1F7F5D8 membuat `new Random()` parameterless (veneer `0x20B89A4` → `System.Random..ctor` `0x047E0BA4` → `GenerateSeed` `0x047E0C10` → `Random(int)` `0x047E0DFC`); tidak ada seed eksplisit. Ghidra `.cctor` gagal (stub satu-titah sejak auto-analysis awal) — dilaporkan apa adanya, tidak dikarang.
+- ✅ [Annual routing] — `tools/callgraph.py` + `out/reverse-engineering/callgraph_*.txt`: `Life.IncrementAgeSimulation` (`0x02575E18`..`0x0257B1AC`) memanggil `GameReference.GetRandomNumber` di `0x0257AB20`; TIDAK ada `UnityEngine.Random` di jalur annual (satu-satunya UnityEngine call = `UnityEvent<int>.Invoke`).
+- ✅ [Revisi kesimpulan] — `CONTEXT.md` dan `out/REPORT_MECHANICS.md` section 1 direvisi: RNG = `System.Random` (bukan Unity builtin); routing, seeding, dan batas `Next(min,max)` didokumentasikan dengan bukti alamat.
+- Catatan: seed runtime aktual dan urutan draw per tahun TETAP belum terverifikasi (butuh fixture ARM64/runtime); static Tier-2 saja.
 
 - Created this phased 100% plan.
 - Existing verified baseline copied from `PORT_MASTER_TODO.md` and `out/EVIDENCE_LEDGER.json`.
